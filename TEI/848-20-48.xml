@@ -82,6 +82,7 @@
    </teiHeader>
    <text type="Telegramm">
       <body>
+         <pb n="1"/>
          <opener><lb/>Da cifra <placeName>Vienna</placeName>
             <date when="1923-03-28">28-3-23</date>
             <lb/><persName>Cardinale Gasparri</persName><lb/><placeName>Roma</placeName></opener>
@@ -94,7 +95,8 @@
             di <subst>
                <del rend="strikethrough">legittimare</del>
                <add place="above">alta importanza</add>
-            </subst> <sic>ecomica</sic> austriaca: Altrimenti si avrebbe dannosa conseguenza. In tal caso
+            </subst>
+            <sic>ecomica</sic> austriaca: Altrimenti si avrebbe dannosa conseguenza. In tal caso
             Cancelliere <del rend="strikethrough">dovendo</del> dovrebbe dare <del
                rend="strikethrough"><gap reason="strikethrough" unit="char" quantity="3"/></del>
             dimissioni tornato appena <del rend="strikethrough"><gap reason="strikethrough"
