@@ -82,6 +82,7 @@
    </teiHeader>
    <text type="Telegramm">
       <body>
+         <pb n="1"/>
          <head><lb/>Cifra Spedito il <date when="1923-03-31">31-3-23</date>
             <lb/><persName>Mons. Sibilia</persName>
             <lb/>Nunzio Apostolico <lb/><placeName>Vienna</placeName></head>
