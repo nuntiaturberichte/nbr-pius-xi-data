@@ -69,6 +69,7 @@
    </teiHeader>
    <text type="Brief">
       <body>
+         <pb n="1"/>
          <opener>
             <seg type="subjectLine">Oggetto: Riscontro al cifrato N. 28.</seg>
             <salute>Eminenza Reverendissima,</salute>
@@ -80,8 +81,9 @@
          <p>L’unico mezzo perché egli accetti l’altissima dignità offertagli, se al Santo Padre così
             piacesse, sarebbe di obbligarlo ad accettare in virtù di santa obbedienza.</p>
          <closer><lb/>Inchinato al bacio della Sacra Porpora, col più profondo ossequio ho
-            <lb/>l’onore di riaffermarmi <lb/>della Eminenza Vostra Reverendissima
-               <signed rend="handwritten"><lb/>Umilissimo, devmo, obbmo Servo <lb/>+Enrico, Arciv. di Side <lb/>Nunzio
+            <lb/>l’onore di riaffermarmi <lb/>della Eminenza Vostra Reverendissima <note
+               type="foliation" rend="typewritten">11</note><signed rend="handwritten"
+               ><lb/>Umilissimo, devmo, obbmo Servo <lb/>+Enrico, Arciv. di Side <lb/>Nunzio
                Aplico</signed>
          </closer>
       </body>
