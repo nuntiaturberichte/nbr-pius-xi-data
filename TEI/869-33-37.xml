@@ -70,6 +70,7 @@
    </teiHeader>
    <text type="Brief">
       <body>
+         <pb n="1"/>
          <head><hi rend="underline">Sub secreto S. Offici</hi></head>
          <p>Tra i candidati sui quali il Santo Padre ha fermata la sua augusta attenzione per la
             sede arcivescovile di Vienna, oltre l’Ill.mo e Rev.mo Mons. Venceslao Grosam, del quale
@@ -77,7 +78,9 @@
             che oppone serie ragioni alla sua accettazione, vi è l’Ill.mo e Rev.mo mons. Teodoro
             Innitzer, Professore di S. Scrittura nella Università di Vienna.</p>
          <p>Prima, però, di procedere oltre, Sua Santità desidera avere da V. E. sul candidato in
-            parola, le più ampie informazioni, accompagnate dal suo apprezzato parere.</p>
+            parola, le più ampie informazioni, accompagnate <note type="foliation"
+               rend="typewritten">37</note>
+            <pb n="2"/>dal suo apprezzato parere.</p>
          <closer>
             <salute>Nel pregarla di ciò, mi è caro approfittare dell’occasione per -</salute>
          </closer>
