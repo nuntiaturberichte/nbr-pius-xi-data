@@ -71,13 +71,18 @@
    </teiHeader>
    <text type="Telegramm">
       <body>
-         <p>Ricevuto Rapporto N. 13986. <subst><del rend="strikethrough">Prego</del><add place="above"><del
-                  rend="strikethrough"><gap reason="strikethrough" unit="words" quantity="2"/></del>Padre incarica</add></subst> V.
-            E. R. significare con ogni delicatezza a Mons. Grosam che si tratta non di accettare, ma
-            di ubbidire e che se ha difficoltà positive e concrete, può esporle a Sua Santità.</p>
+         <pb n="1"/>
+         <p>Ricevuto Rapporto N. 13986. <subst>
+               <del rend="strikethrough">Prego</del>
+               <add place="above"><del rend="strikethrough"><gap reason="strikethrough" unit="words"
+                        quantity="2"/></del>Padre incarica</add>
+            </subst> V. E. R. significare con ogni delicatezza a Mons. Grosam che si tratta non di
+            accettare, ma di ubbidire e che se ha difficoltà positive e concrete, può esporle a Sua
+            Santità.</p>
          <closer>
             <signed>Card. Pacelli</signed>
          </closer>
+         <note type="foliation" rend="typewritten">14</note>
       </body>
    </text>
 </TEI>
