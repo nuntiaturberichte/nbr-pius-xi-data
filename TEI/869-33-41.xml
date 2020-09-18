@@ -70,7 +70,7 @@
    </teiHeader>
    <text type="Brief">
       <body>
-         <head><hi rend="underline">Sub Secret S. Officii</hi></head>
+         <pb n="1"></pb><head><hi rend="underline">Sub Secret S. Officii</hi></head>
          <p>Il Santo Padre Si propone di elevare alla Sede arcivescovile di Vienna l’Illmo e Revmo
             Mons. Teodoro Innitzer, Professore di S. Scrittura nella Università di Vienna.</p>
          <p>Prima, però, di procedere alla nomina definitiva, Sua Santità desidera <del
@@ -78,6 +78,7 @@
             candidato e conoscere il suo apprezzato parere.</p>
          <closer><salute>Nel pregarla di ciò, profitto volentieri dell’incontro
             per</salute></closer>
+         <note type="foliation" rend="typewritten">41</note>
       </body>
    </text>
 </TEI>
