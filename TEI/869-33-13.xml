@@ -70,9 +70,11 @@
    </teiHeader>
    <text type="Telegramm">
       <body>
+         <pb n="1"/>
          <p>Ricevuto Cifrato No. 28. Mons. Venceslao Grosam non intende affatto accettare. Segue
             rapporto spedito per espresso.</p>
          <closer><signed>Nunzio.</signed></closer>
+         <note type="foliation" rend="typewritten">13</note>
       </body>
    </text>
 </TEI>
