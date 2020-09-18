@@ -76,6 +76,7 @@
    </teiHeader>
    <text type="Brief">
       <body>
+         <pb n="1"/>
          <p>E’ stato riferito alla Santa Sede da fonte autorevole, non austriaca, che il Clero
             dell’Austria, invece di appoggiare <add place="above" rend="handwritten"
                >apertamente</add> l’attuale Governo <del rend="overwritten">xxxxx</del> presieduto
@@ -105,8 +106,10 @@
                <del rend="overwritten">mostrato</del>
                <add place="above" rend="typewritten">mosso</add>
             </subst> alcun<del rend="overwritten">a</del> lamento circa l’attitudine del Clero,
-            tuttavia per venerato incarico del Santo Padre, prego Vostra Eccellenza Rev.ma<subst><del rend="strikethrough">a darmi</del><add place="above" rend="handwritten">di
-            procurarsi e di inviare</add></subst> opportune informazioni al riguardo.</p>
+            tuttavia per venerato incarico del Santo Padre, prego Vostra Eccellenza Rev.ma<subst>
+               <del rend="strikethrough">a darmi</del>
+               <add place="above" rend="handwritten">di procurarsi e di inviare</add>
+            </subst> opportune informazioni al riguardo.</p>
          <closer>
             <lb/><add rend="handwritten">Profitto...</add>
          </closer>
