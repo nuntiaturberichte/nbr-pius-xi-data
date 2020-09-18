@@ -75,6 +75,7 @@
    </teiHeader>
    <text type="Brief">
       <body>
+         <pb n="1"/>
          <opener>
             <salute>Excellentia Reverendissima!</salute>
          </opener>
@@ -86,12 +87,13 @@
             Etenim dictamine conscientiae meae - deus scit - praesumptionis sacrilegae reus
             evaderem, si altissimam dignitatem mihi oblatam acceptarem; in dedecus et damnum
             Ecclesiae et ruinam animae meae.</p>
-         <p>Parcat Beatissimus Pater, Sanctissimus Dominus Noster; ignoscat Excellentia Vestra Illma</p>
+         <p>Parcat Beatissimus Pater, Sanctissimus Dominus Noster; ignoscat Excellentia Vestra
+            Illma</p>
          <closer><salute><lb/>servo humillimo</salute>
-            <signed><lb/>Vencesl. Grosam
-            <lb/>sacerdoti Linciensi</signed>
+            <signed><lb/>Vencesl. Grosam <lb/>sacerdoti Linciensi</signed>
             <placeName>Lincii</placeName><date>d. 11. Julii 1932</date>
          </closer>
+         <note type="foliation" rend="typewritten">12</note>
       </body>
    </text>
 </TEI>
