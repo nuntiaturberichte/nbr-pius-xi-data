@@ -72,6 +72,7 @@
    </teiHeader>
    <text type="Provvista">
       <body>
+         <pb n="1"/>
          <head>Provvista di Vienna <add place="above"><date when="1932-08-21">21.VIII.32</date> Il
                vescovo di Linz pressi egli stesso persuadere Mgr Grosam di accettare</add></head>
          <p>Il primo candidato, scelto dal S. Padre, fu mons. <hi rend="underline">Grosam</hi>.</p>
@@ -85,6 +86,7 @@
             timore.</p>
          <p>Sua Eminenza il Card. Marchetti, invece, lo riafferma, suggerendo, per maggior
             sicurezza, di domandare informazioni al Vescovo di Linz. E al P. Bea S.J. (N. 5).</p>
+         <note type="foliation" rend="typewritten">50</note>
          <p>Si hanno ora le informazioni richieste:</p>
          <p>Quelle del P. Bea sono, in complesso, favorevoli benché dichiari di non essere
             largamente informato in proposito (N. 6).</p>
