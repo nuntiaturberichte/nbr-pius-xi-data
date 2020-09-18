@@ -94,6 +94,7 @@
    </teiHeader>
    <text type="Brief">
       <body>
+         <pb n="1"/>
          <opener>
             <seg type="subjectLine">Oggetto: Ministero Schober e notizie politiche</seg>
             <salute>Eminenza Reverendissima</salute>
@@ -111,6 +112,8 @@
          <p>L’attuale Cancelliere Giovanni Schober, lo fu anche nel 1921. Presentemente era
             Presidente della Sicurezza Pubblica. E’ uomo energico, favorevole alla Chiesa, molto
             amico del Cardinale Piffl ed anche del Nunzio.</p>
+         <note type="foliation" rend="typewritten">73</note>
+         <pb n="2"/>
          <p>Ieri, nella prima udienza, mi disse di metterlo ai Piedi di Sua Sanità e di trasmettere
             i suoi profondi omaggi, e sensi di ossequio e di venerazione all’Eminenza Vostra
             Reverendissima: mi disse inoltre che egli procederà con molta calma verso i socialisti,
@@ -133,6 +136,7 @@
          <p>In qualunque eventualità il Governo d’Austria sta in buone mani: e si può esser sicuri
             che non avverranno gravi disordini e che molto meno correnti di sinistra abbiano il
             sopravvento.</p>
+         <pb n="3"/>
          <p>Ciò che dà pena ai buoni è lo stato di saluto dell’ottimo Mgr. Seipel, che in questi
             ultimi giorni ha peggiorato assai. Lo specialista Dr. Singer, suo medico curante, gli ha
             prescritto assoluto riposo, e lo ha obbligato ad entrare in un Clinica per seguire
@@ -154,14 +158,17 @@
             mentre io penso, nel caso e coll’augurio che la sua salute migliori, che l’opera di lui,
             dopo quella che verrà svolta dallo Schober, potrà essere necessaria ed assai importante
             per gli interessi religiosi di questa nazione.</p>
+         <note type="foliation" rend="typewritten">74</note>
+         <pb n="4"/>
          <p>Il cardinale Piffl, mi è stato riferito, pensa di scrivergli, appena migliori, una bella
             lettera; e credo sommessamente che una parola di conforto, di augurio e di benedizione,
                recat<add rend="overwritten">a</add>gli dal Nunzio a nome del Santo Padre, che il
             Seipel ama svisceratamente, giungerebbe all’illustre infermo sommamente gradita.</p>
          <closer>
-            <salute><lb/>Inchinato al bacio della Sacra Porpora, ho l’onore di raffer<lb/>marmi col più
-               profondo ossequio <lb/>Dell’Eminenza Vostra Reverendissima</salute>
-            <signed rend="handwritten"><lb/>Umilissimo, devmo, obbmo Servo <lb/>+Enrico, Arcv. di Side <lb/>Nunzio Aplico</signed>
+            <salute><lb/>Inchinato al bacio della Sacra Porpora, ho l’onore di raffer<lb/>marmi col
+               più profondo ossequio <lb/>Dell’Eminenza Vostra Reverendissima</salute>
+            <signed rend="handwritten"><lb/>Umilissimo, devmo, obbmo Servo <lb/>+Enrico, Arcv. di
+               Side <lb/>Nunzio Aplico</signed>
          </closer>
       </body>
    </text>
