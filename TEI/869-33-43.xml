@@ -89,6 +89,7 @@
    </teiHeader>
    <text type="Brief">
       <body>
+         <pb n="1"/>
          <opener><salute>Beatissimo Padre,</salute></opener>
          <p>Accingendomi a soddisfare al venerato incarico della Santità Vostra di dare il mio
             parere sull’Ill.mo e Rev.mo Monsignor Innitzer, Professore di Sacra Scrittura nella
@@ -99,22 +100,24 @@
          <p>Nelle pubblicazioni esegetiche (una monografia su S. Giovanni Battista, nuove edizioni
             dei commentari pubblicati dal suo predecessore il Prof. Pölzl) il Prof. Innitzer si
             attiene fedelmente alla tradizione cattolica e ai decreti della Pont. Commissione
-            Biblica, e può essere considerato come fedele rappresentante della tendenza
-            conservatrice dell’esegesi cattolica. Scientificamente considerati, i suoi lavori non
-            mostrano un gran valore originale, né danno l’idea di un indagatore profondo e
-            personale, ma sono apprezzati come fatti con <sic>molto</sic> cura e diligenza, e si
-            distinguono per una indole ponderata e di sobrio giudizio. Così dagli scritti risulta un
-            carattere fedele alla S. Chiesa, diligente e studioso, ponderato e prudente, ma non
-            tanto originale e personale.</p>
+            Biblica, e può essere considerato come fedele rappresentante <note type="foliation"
+               rend="typewritten">43</note>
+            <pb n="2"/>della tendenza conservatrice dell’esegesi cattolica. Scientificamente
+            considerati, i suoi lavori non mostrano un gran valore originale, né danno l’idea di un
+            indagatore profondo e personale, ma sono apprezzati come fatti con <sic>molto</sic> cura
+            e diligenza, e si distinguono per una indole ponderata e di sobrio giudizio. Così dagli
+            scritti risulta un carattere fedele alla S. Chiesa, diligente e studioso, ponderato e
+            prudente, ma non tanto originale e personale.</p>
          <p>Dai suoi scolari il Professore Innitzer sembra essere stimato. Avevano negli ultimi due
             anni un suo scolare nel nostro Istituto il quale dava l’impressione di una formazione
             soda e di spirito ecclesiastico avuta dal suo Professore sul quale parlava con stima
             scientifica e venerazione personale.</p>
          <p>Sulla condotta privata del Rev.mo Prelato non avrei notizie particolari. L’ho visto una
             sola volta quando questo anno venne a Roma in occasione delle trattative sulla Cost.
-            Apost. “Deus scientiarum Dominus” ed ho avuto con lui un lungo colloquio che mi ha dato
-            una ottima impressione tanto del suo spirito ecclesiastico ed attaccato alla Santa Sede
-            che del suo giudizio pratico e misurato.</p>
+            Apost. “Deus scientiarum <note type="foliation" rend=" typewritten">44</note><pb n="3"
+            />Dominus” ed ho avuto con lui un lungo colloquio che mi ha dato una ottima impressione
+            tanto del suo spirito ecclesiastico ed attaccato alla Santa Sede che del suo giudizio
+            pratico e misurato.</p>
          <p>Riassumendo tutte le notizie avute sulla dottrina e sulla persona del Rev.mo Mons.
             Innitzer, non mi risulta nulla che sarebbe contrario alla sua elevazione, e mi sembra
             che vi siano buone qualità positive che garantiscano un felice successo nel governo
@@ -126,6 +129,7 @@
                Devotissimo </salute>
             <signed>Agostino Bea</signed>
          </closer>
+         <note type="foliation" rend="typewritten">45</note>
       </body>
    </text>
 </TEI>
