@@ -76,6 +76,7 @@
    </teiHeader>
    <text type="Brief">
       <body>
+         <pb n="1"/>
          <opener>
             <seg type="subjectLine">Oggetto: Congresso dei Cristiano-Sociali in Salisburgo</seg>
             <salute>Eminenza Reverendissima,</salute>
@@ -92,17 +93,19 @@
             necessarie modificazioni.</p>
          <p>Tra i molti discorsi ivi pronunciati, mi sembra che abbiano qualche importanza, per i
             sentimenti di profondo attaccamento alla Chiesa Cattolica, quelli delle LL. EE. il
-            Cancelliere Federale Dr. Dollfuss, del Ministro della Milizia Sig. Carlo Vaugoin, Capo
-            del Partito Cristiano-sociale, e del Ministro di Giustizia Dr. Schuschnigg, che a titolo
-            di sola informazione mi permetto qui acchiudere.</p>
+            Cancelliere Federale Dr. Dollfuss, del Ministro <note type="foliation"
+               rend="typewritten">78</note>
+            <pb n="2"/>della Milizia Sig. Carlo Vaugoin, Capo del Partito Cristiano-sociale, e del
+            Ministro di Giustizia Dr. Schuschnigg, che a titolo di sola informazione mi permetto qui
+            acchiudere.</p>
          <p>Anche S.E. Mgr. <hi rend="underline" hand="#UR">Filzer</hi>, Vescovo Ausiliare di
             Salisburgo, ha creduto intervenirvi, e secondo me avrebbe fatto meglio astenersene,
             anche perché il suo dire non è stato troppo felice.</p>
          <closer>
             <salute><lb/>Inchinato al bacio della Sacra Porpora, col più profondo ossequio ho
                <lb/>l’onore di raffermarmi <lb/>della Eminenza Vostra Reverendissima </salute>
-            <signed rend="handwritten"><lb/>Umilissimo, devmo, obbmo Servo <lb/>+Enrico, Arciv. di Side <lb/>Nunzio
-               Aplico </signed>
+            <signed rend="handwritten"><lb/>Umilissimo, devmo, obbmo Servo <lb/>+Enrico, Arciv. di
+               Side <lb/>Nunzio Aplico </signed>
          </closer>
       </body>
    </text>
