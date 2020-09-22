@@ -75,6 +75,7 @@
    </teiHeader>
    <text type="Brief">
       <body>
+         <pb n="1"/>
          <p>Col documento annesso mi è regolarmente pervenuto il Rapporto N. 14092/635 relativo a
             Mons. Grosam. Sua Santità non crede che sia più il caso di fare nuove insistenze.</p>
          <p><subst>
@@ -91,11 +92,12 @@
                <del rend="strikethrough">da un parere piùtosto favorevole<add place="above">presenta
                      come</add></del>
                <add place="above">lo dice ottimo ecclesiastico</add>
-            </subst>; ma poiché esprime, benché in forma dubitativa, il timore “ne sit nimis debilis
-            in urgendis iis, quae necessaria sunt”, il Santo Padre, prima di prendere una decisione,
-            interessa E.V. a volere assumere sul suddetto candidato – sub secreto S. Officii – nuove
-            e più precise informazioni. <add place="margin">Inoltrando anche dove egli abbia
-               compiuto i suoi studi.</add></p>
+            </subst>; ma poiché esprime <note type="foliation" rend="typewritten">35</note> benché
+            in forma dubitativa, il <pb n="2"/>timore “ne sit nimis debilis in urgendis iis, quae
+            necessaria sunt”, il Santo Padre, prima di prendere una decisione, interessa E.V. a
+            volere assumere sul suddetto candidato – sub secreto S. Officii – nuove e più precise
+            informazioni. <add place="margin">Inoltrando anche dove egli abbia compiuto i suoi
+               studi.</add></p>
          <closer><salute>Profitto volentieri dell’incontro per -</salute></closer>
       </body>
    </text>

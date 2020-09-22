@@ -96,6 +96,7 @@
    </teiHeader>
    <text type="Brief">
       <body>
+         <pb n="1"/>
          <opener>
             <seg type="subjectLine">Oggetto: Riscontro al Cifrato N.1613/33.</seg>
             <!-- Verlinkung auf Dokument einfügen -->
@@ -113,13 +114,14 @@
             giustamente lamento alcuno.</p>
          <p>Ciò non ostante vi è stata qualche rara eccezione: a mò d’esempio non ha molto un 05166
             13760 61032 41348 91560<add place="above" rend="typewritten">Padre Gesuita</add> in una
-            pubblica predica fece allusioni assai imprudenti contro il Governo; ma per mezzo del
-            proprio Superiore fu tosto richiamato all’ordine: inoltre in uno dei crocchi che si
-            tengono quasi periodicamente dai Regolari, vi fu 61379 96656 18520 31299<add
-               place="above" rend="typewritten">un padre Salvatorian</add>o che si espresse in
-            termini molto forti contro il partito cristiano sociale: in fine un giovane sacerdote di
-            Graz, <hi rend="underline">Dr. Pirchegger</hi>, uomo eccentrico, con un suo opuscolo
-            pretese contradire gli atti dell’Episcopato germanico e del Vescovo di Linz sul
+            pubblica predica fece allusioni assai imprudenti contro il Governo; ma per mezzo <note
+               type="foliation" rend="typewritten">41</note>
+            <pb n="2"/>del proprio Superiore fu tosto richiamato all’ordine: inoltre in uno dei
+            crocchi che si tengono quasi periodicamente dai Regolari, vi fu 61379 96656 18520
+               31299<add place="above" rend="typewritten">un padre Salvatorian</add>o che si
+            espresse in termini molto forti contro il partito cristiano sociale: in fine un giovane
+            sacerdote di Graz, <hi rend="underline">Dr. Pirchegger</hi>, uomo eccentrico, con un suo
+            opuscolo pretese contradire gli atti dell’Episcopato germanico e del Vescovo di Linz sul
             nazionale-socialismo; ma ammonito paternamente dal proprio Vescovo e mostratosi
             contumace fu ultimamente sospeso <hi rend="underline">a divinis</hi>.</p>
          <p>A queste rare eccezioni potrei aggiungere alcuni pochi giovani Sacerdoti di Vienna,
@@ -138,21 +140,21 @@
             anzi 95805 62366 58823 27926 86641 29181 40664 04746 10191 03763 06582 26548<supplied
                reason="deciphering">è pienamente convinto che anche ammettendo per dannata
                ipotesi</supplied> la vittoria del partito nazionale socialista in Austria, 08426
-            34265 88025 57152 66415 84304 21240 69075 39741 47310<supplied reason="deciphering">non
-               ne conseguirebbe mai la unione di questa alla Germania.</supplied> Questo me lo ha
-            affermato con enfasi, come notizia 02500 64818 74990 66471 51103 71521 74740 50622 42187
-            49910 67585 17086 97124<supplied reason="deciphering">riservatissima, e solamente per
-               uso della Nunziatura, il Signor Cancelliere stesso:</supplied>: aggiungendo aver egli
-            piena fiducia 70421 11210 35747 40305 90506 01101 87405 06001 00664 64120 50672 10921
-            74675 50753 73216 58862 53025 02274 91874 08422 20158 43917 86058 00374 140435 82761
-            74588 05874 91874 58740 56205 06066 60004 05066 11018 74917 88580 62225 15800 85324
-            06900 86134 86743 90066<supplied reason="deciphering">nell’appoggio efficace
-               dell’Italia, della Inghilterra e anche della Francia (sebbene questa ultima con
-               qualche riserva), non esclusa la Cecoslovacchia, a favore della indipendenza
-               dell’Austria, considerata da tutti come questione di capitale
-            importanza.</supplied>]Di quella piena fiducia ne danno pubblica prova le misure
-            energiche prese e che continua prendendo questo Governo a riguardo dei nazionali
-            socialisti di Austria.</p>
+            34265 88025 57152 66415 84304 21240 69075 39741 47310.<supplied reason="deciphering">non
+               ne conseguirebbe mai la unione di questa alla Germania.</supplied>
+            <pb n="3"/>Questo me lo ha affermato con enfasi, come notizia 02500 64818 74990 66471
+            51103 71521 74740 50622 42187 49910 67585 17086 97124<supplied reason="deciphering"
+               >riservatissima, e solamente per uso della Nunziatura, il Signor Cancelliere
+               stesso:</supplied>: aggiungendo aver egli piena fiducia 70421 11210 35747 40305 90506
+            01101 87405 06001 00664 64120 50672 10921 74675 50753 73216 58862 53025 02274 91874
+            08422 20158 43917 86058 00374 140435 82761 74588 05874 91874 58740 56205 06066 60004
+            05066 11018 74917 88580 62225 15800 85324 06900 86134 86743 90066<supplied
+               reason="deciphering">nell’appoggio efficace dell’Italia, della Inghilterra e anche
+               della Francia (sebbene questa ultima con qualche riserva), non esclusa la
+               Cecoslovacchia, a favore della indipendenza dell’Austria, considerata da tutti come
+               questione di capitale importanza.</supplied>]Di quella piena fiducia ne danno
+            pubblica prova le misure energiche prese e che continua prendendo questo Governo a
+            riguardo dei nazionali socialisti di Austria.</p>
          <p>Dalle indagini fatte ho potuto piuttosto constatare l’urgente necessità e il vivo
             desiderio sia nel Clero, sia nei fedeli, sia nelle alte sfere politiche di udire cioè la
             parola dei Vescovi onde essere diretti e illuminati sulla situazione attuale: e sapendo
@@ -166,6 +168,7 @@
             <signed rend="handwritten"><lb/>Umilissimo, devmo, obbmo Servo <lb/>+Enrico, Arciv. di
                Side <lb/>Nunzio Aplico </signed>
          </closer>
+         <note type="foliation" rend="typewritten">42</note>
       </body>
    </text>
 </TEI>

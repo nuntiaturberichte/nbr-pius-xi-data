@@ -38,7 +38,8 @@
                <msContents>
                   <msItem>
                      <note type="keyword" resp="#bernhard.kronegger">Innenpolitik</note>
-                     <note type="keyword" resp="#bernhard.kronegger">"Selbstausschaltung" des Parlaments</note>
+                     <note type="keyword" resp="#bernhard.kronegger">"Selbstausschaltung" des
+                        Parlaments</note>
                      <note type="keyword" resp="#bernhard.kronegger">Konkordat</note>
                   </msItem>
                </msContents>
@@ -100,6 +101,7 @@
    </teiHeader>
    <text type="Brief">
       <body>
+         <pb n="1"/>
          <opener>
             <seg type="subjectLine">Oggetto: Notizie politiche.</seg>
             <salute>Eminenza Reverendissima,</salute>
@@ -117,9 +119,10 @@
             economica; in realtà come saggio rivoluzionario.</p>
          <p>Il 4 marzo i deputati socialisti e pangermanisti proposero ai voti della Camera una
             mozione con cui si invitava il Governo a mitigare il rigore dimostrato verso quei
-            ferrovieri socialisti; e tale mozione ottenne 81 voti favorevoli e 80 contrarii: ma
-            eseguito il controllo dei voti risultò chiaramente che un deputato socialista aveva
-            votato due volte.</p>
+            ferrovieri socialisti; e tale mozione ottenne <note type="foliation" rend="typewritten"
+               >75</note>
+            <pb n="2"/>81 voti favorevoli e 80 contrarii: ma eseguito il controllo dei voti risultò
+            chiaramente che un deputato socialista aveva votato due volte.</p>
          <p>Ne nacque un tumulto indescrivibile e sì violento che il Presidente della Camera Dr.
             Renner (socialista rosso), in seguito il primo vicepresidente Dr. Ramek
             (cristiano-sociale) ed in fine il secondo vicepresidente Dr. Straffner (pangermanista),
@@ -133,10 +136,10 @@
             intento, avrebbe egli dovuto fare rispettare la Costituzione. Quei rivoltosi risposero
             che ad ogni costo si sarebbero essi riuniti in Parlamento, e se ne venissero impediti,
             susciterebbero uno sciopero generale.</p>
-         <p>Il Governo però, che era ben preparato ad ogni emergenza, fece chiudere manu militari il
-            Palazzo della Camera, ed energicamente mandò a monte lo sciopero minacciato. Sì ottime
-            misure hanno ridonato perfetta tranquillità ed ordine pubblico, ma non faranno cessare
-            le notizie allarmistiche, che di proposito propalano i socialisti.</p>
+         <p>Il Governo però, che era ben preparato ad ogni emergenza, fece chiudere <pb n="3"/>manu
+            militari il Palazzo della Camera, ed energicamente mandò a monte lo sciopero minacciato.
+            Sì ottime misure hanno ridonato perfetta tranquillità ed ordine pubblico, ma non faranno
+            cessare le notizie allarmistiche, che di proposito propalano i socialisti.</p>
          <p>Se il Governo, che è sorretto da tutte le persone di buon senso, si manterrà fermo e
             risoluto, come si è dimostrato finora, e continuerà a prendere senza riguardi forti
             misure contro i perturbatori dell’ordine pubblico e a migliorare la situazione
@@ -149,6 +152,7 @@
          <closer>
             <salute><lb/>Inchinato al bacio della Sacra Porpora, col più profondo ossequio ho
                <lb/>l’onore di raffermarmi <lb/>della Eminenza Vostra Reverendissima </salute>
+            <note type="foliation" rend="typewritten">76</note>
             <signed><lb/>Umilissimo, devmo, obbmo Servo <lb/>+Enrico, Arciv. di Side <lb/>Nunzio
                Aplico </signed>
          </closer>

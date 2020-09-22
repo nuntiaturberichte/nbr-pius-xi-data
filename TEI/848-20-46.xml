@@ -81,12 +81,13 @@
    </teiHeader>
    <text type="Telegramm">
       <body>
+         <pb n="1"/>
          <head>Cifra <placeName>Vienna</placeName>
             <date when="1933-03-25">25/03/1923</date></head>
          <p>Cancelliere col Ministro Esteri mi hanno comunicato oralmente: accordata riunione a
-            Mila(no) insieme con <sic>Musolini</sic> 30 corrente. Il 30 si porterebbe<del rend="strikethrough">ro</del> a Roma se Sua Santità si
-            degnasse riceverlo lunedì 2 Aprile dovendo ritornare immediatamente Vienna. Prego
-            sollecita risposta </p>
+            Mila(no) insieme con <sic>Musolini</sic> 30 corrente. Il 30 si porterebbe<del
+               rend="strikethrough">ro</del> a Roma se Sua Santità si degnasse riceverlo lunedì 2
+            Aprile dovendo ritornare immediatamente Vienna. Prego sollecita risposta </p>
          <closer><signed>Sibilia</signed></closer>
       </body>
    </text>

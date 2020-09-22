@@ -68,6 +68,7 @@
    </teiHeader>
    <text type="Brief">
       <body>
+         <pb n="1"/>
          <opener><salute>Eccellenza Reverendissima,</salute></opener>
          <p>Nella lettera acclusa presento a Sua Santità il mio umile parere sull’Ill.mo e Rev.mo
             Mons. Innitzer come fui incaricato dall’Ecc.a Va Rev.ma nella venerata lettera del 6
@@ -77,6 +78,7 @@
                ossequi, <lb/>dell’Eccellenza Vostra Rev.ma dev.mo servitore
                </salute><signed><lb/>Agostino Bea S.J. <lb/>Preside del Pont. Istituto Bibl.
             </signed></closer>
+         <note type="foliation" rend="typewritten">42</note>
       </body>
    </text>
 </TEI>

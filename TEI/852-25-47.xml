@@ -95,6 +95,7 @@
    </teiHeader>
    <text type="Brief">
       <body>
+         <pb n="1"/>
          <opener>
             <seg type="subjectLine">Oggetto: Notizie politiche.</seg>
             <salute>Eminenza Reverendissima,</salute>
@@ -114,6 +115,7 @@
          <p>In esso si prospettano serie economie in tutti i rami della pubblica amministrazione,
             nessuno escluso, e che dovrebbero dare un risparmio di oltre 150 milioni di Schilling.
             Anche il bilancio del Culto verrà così ridotto circa del sei per cento.</p>
+         <pb n="2"/>
          <p>Ciò che deve notarsi, è un profondo e non dissimulato dissidio che esiste nel seno del
             Gabinetto stesso. I cristiano-sociali vogliono assolutamente il ritiro del Dr. Schober,
             venendo considerato come uomo pericoloso per l’economia politica austriaca, e come
@@ -134,9 +136,9 @@
             senza le Camere, e sciogliere queste se fosse necessario.</p>
          <p>Mi viene assicurato che il Dr. Buresch abbia avocato direttamente a sé lo studio del
             progetto di Concordato, volendone del tutto eliminare lo Schober; che sia molto
-            favorevole ai desideri della Santa Sede, e del tutto contrario all’introduzione del
-            matrimonio civile in Austria. E’ consolante che molti affiliati al socialismo se ne
-            ritirano, accortisi di venire meschinamente ingannati.</p>
+            favorevole ai desideri della Santa Sede, e <pb n="3"/>del tutto contrario
+            all’introduzione del matrimonio civile in Austria. E’ consolante che molti affiliati al
+            socialismo se ne ritirano, accortisi di venire meschinamente ingannati.</p>
          <p>A semplice titolo di notizie politiche, mi permetto in fine di racchiudere alcune
             informazioni sulle gravi difficoltà interne dei Sovieti, informazioni che <subst>
                <del rend="overwritten"/>
@@ -146,6 +148,7 @@
          <closer>
             <salute><lb/>Inchinato al bacio della Sacra Porpora, col più profondo ossequio ho
                <lb/>l’onore di riaffermarmi della Eminenza Vostra Reverendissima </salute>
+            <note type="foliation" rend="typewritten">48</note>
             <signed rend="handwritten"><lb/>Umilissimo, devmo, obbmo Servo <lb/>+Enrico, Arciv. di
                Side <lb/>Nunzio Aplico </signed>
          </closer>

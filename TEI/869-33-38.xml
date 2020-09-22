@@ -66,6 +66,7 @@
    </teiHeader>
    <text type="Archivsnotiz">
       <body>
+         <pb n="1"/>
          <head><lb/>Apprezzamenti di S. E. Revma <lb/>il Sig. Card. Vicario di S. J. <lb/>su mons.
             Innitzer </head>
          <p>L’Emo Sig. Card. Marchetti-Selvaggiani conosce Mons. Innitzer. “E’ buono, molto buono” –
@@ -78,8 +79,9 @@
             anche, del Rettore dell’Istituto Biblico, che lo deve conoscere, anche perché l’Innitzer
             è professore in S. Scrittura.</p>
          <closer>
-            <placeName>Città del vaticano</placeName>, <date when="1932-08-04">4 Agosto 1932 </date>
+            <placeName>Città del vaticano</placeName>, <date when="1932-08-04">4 Agosto 1932</date>
          </closer>
+         <note type="foliation" rend="typewritten">38</note>
       </body>
    </text>
 </TEI>

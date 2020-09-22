@@ -103,6 +103,7 @@
    </teiHeader>
    <text type="Brief">
       <body>
+         <pb n="1"/>
          <opener><salute>Eccellenza Illma e Revma,</salute></opener>
          <p>Tornato il 12 <sic>m.c.</sic> da un breve soggiorno di vacanze, ho trovato la
             veneratissima lettera di V. Eccellenza Illma e Revma del 6 agosto in cui mi prega di
@@ -116,9 +117,12 @@
             <p>Innanzi tutto vorrei dire che le “serie ragioni” che l’Illmo e Revmo Mons. Venceslao
                Grosam oppone alla sua promozione alla sede arcivescovile di Vienna, al mio parere
                non esistono in realtà,</p>
+            <note type="foliation" rend="typewritten">46</note>
             <!-- Hier fehlt fol. 47 in der Mappe - muss noch ergänzt werden! -->
          </div>
          <div>
+            <pb/>
+            <!-- Hier noch Zeitenzahl einfügen, sobald fol. 47 ergänzt wurde -->
             <p>confessare che le informazioni che posso dare io, saranno scarse, appartenendo il
                detto Monsignore ad un’altra diocesi ed essendo io impedito dal “Secretum S.
                Officii”, di informarmi più minutamente intorno al detto candidato.</p>
@@ -132,7 +136,7 @@
                diocesi estere; finalmente è Segretario generale dell’”Unione Leonina” (Società
                scientifica a Vienna) e consiliarius deputatus pro administratione temporalium
                seminariorum archidioecesis. È prelato domestico di Sua Santità (fin dall’anno 1931)
-               e nell’anno 1930/31 occupava l’ufficio di ministro pubblico nel ministero
+               e nell’anno 1930/31 <pb/>occupava l’ufficio di ministro pubblico nel ministero
                d’amministrazione sociale.</p>
             <p>Nell’anno 1908 pubblico un’opera scientifica “Giovanni Battista secondo la S.
                Scrittura e Tradizione” e fin dall’anno 1911 continuò “il commentario dell’evangelio”
@@ -147,32 +151,33 @@
             <p>Al mio parere sarebbe anche lui ben idoneo e degno di essere promosso alla dignità
                della sede arcivescovile di Vienna, ed infatti già poco tempo dopo la morte
                deplorabile di Sua Eminenza Cardinale Piffl, da più lati fu anche egli nominato suo
-               successore, benché io creda che in grande parte questo desiderio corrisponda ai voti
-               di quelli che vorrebbero un arcivescovo di indole benigna, di carattere conciliante
-               piuttosto che non insista troppo su “principî” e non faccia sentire una mano forte;
-               ma appunto queste qualità sarebbero desiderabili, per non dire indispensabili, per il
-               futuro arcivescovo e vengono anche desiderate da quelli che deplorano la volubilità e
-               leggerezza del carattere dei Viennesi, che si vantano d’”un cuore d’oro”, ma credono
-               di potersi contentare di un vangelo cosidetto “cristiano”, ma non troppo
-               “cattolico.”</p>
+               successore, benché io creda che in grande parte<note type="foliation"
+                  rend="typewritten">48</note>
+               <pb/>questo desiderio corrisponda ai voti di quelli che vorrebbero un arcivescovo di
+               indole benigna, di carattere conciliante piuttosto che non insista troppo su
+               “principî” e non faccia sentire una mano forte; ma appunto queste qualità sarebbero
+               desiderabili, per non dire indispensabili, per il futuro arcivescovo e vengono anche
+               desiderate da quelli che deplorano la volubilità e leggerezza del carattere dei
+               Viennesi, che si vantano d’”un cuore d’oro”, ma credono di potersi contentare di un
+               vangelo cosidetto “cristiano”, ma non troppo “cattolico.”</p>
             <p>Ed appunto in questo riguardo non c’è il <sic>menomo</sic> dubbio che Mons. Grosam
                sarebbe un riformatore incomparabilmente più energico e forte che non Mons. Innitzer,
                il quale temo che sia un po’ condiscendente<add place="above" hand="#UR"
                   >nachgiebig</add> ed annuente<add place="above" hand="#UR">zustimmend</add>.</p>
             <p>Ma ripeto che io non voglia troppo insistere sul mio giudizio, non conoscendo forse
                di modo sufficiente il carattere di Mons. Innitzer; certo sarà necessario di
-               informarsi su di lui ancora per mezzo di una persona ecclesiastica in Vienna che lo
-               conosca abbastanza.</p>
-            <p>Queste sono le informazioni che credo possa dare con tutta la responsabilità di coscienza in un affare di sommo momento.</p>
+               informarsi su di lui ancora per mezzo di una persona ecclesiastica <pb/>in Vienna che
+               lo conosca abbastanza.</p>
+            <p>Queste sono le informazioni che credo possa dare con tutta la responsabilità di
+               coscienza in un affare di sommo momento.</p>
          </div>
          <closer>
-            <salute><lb/>Mi approfitto dell’occasione per raffermarmi <lb/>con sensi di profondissima venerazione.
-               <lb/>di V. Eccellenza Illma e Revma
-               <lb/>servitore umilissimo in Cristo
-            </salute><signed><lb/>+Johannes Maria Gfoellner
-               <lb/>Vescovo di Linz
-            </signed>
+            <salute><lb/>Mi approfitto dell’occasione per raffermarmi <lb/>con sensi di
+               profondissima venerazione. <lb/>di V. Eccellenza Illma e Revma <lb/>servitore
+               umilissimo in Cristo </salute><signed><lb/>+Johannes Maria Gfoellner <lb/>Vescovo di
+               Linz </signed>
          </closer>
+         <note type="foliation" rend="typewritten">49</note>
       </body>
    </text>
 </TEI>

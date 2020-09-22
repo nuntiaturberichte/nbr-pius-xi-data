@@ -83,6 +83,7 @@
    </teiHeader>
    <text type="Brief">
       <body>
+         <pb n="1"/>
          <opener>
             <seg type="subjectLine">Oggetto: Mgr. Innitzer.</seg>
             <salute>Eminenza Reverendissima,</salute>
@@ -101,7 +102,8 @@
             solido fondamento. Basterà notare la fermezza di carattere dimostrata dall’Innitzer in
             più occasioni e particolarmente quando fu Rettore Magnifico di questa Università dove
             trovansi parecchi Professori ebrei e protestanti, che seppe con molto tatto ed energia
-            metterli a posto come se ne presentasse il caso; e quando fu Ministro della Providenza
+            metterli a <note type="foliation" rend="typewritten">36</note>
+            <pb n="2"/>posto come se ne presentasse il caso; e quando fu Ministro della Providenza
             Sociale diportandosi nobilmente contro i socialisti in pubblica Camera nelle varie volte
             che questi intaccavano gli interessi della Chiesa.</p>
          <p>Credo che il suo carattere affabile, dolce, aperto, franco e condiscendente in ciò che è

@@ -97,6 +97,7 @@
    </teiHeader>
    <text type="Brief">
       <body>
+         <pb n="1"/>
          <opener>
             <seg type="subjectLine">Oggetto: Notizie politiche.</seg>
             <salute>Eminenza Reverendissima,</salute>
@@ -124,10 +125,11 @@
             Governo del Mgr. Seipel, da produrne la caduta; circa l’azione energica che voleva
             intraprendersi dai buoni contro la tirannia socialista; circa il parere di Mgr. Seipel
             sull’opportunità di doversi usare coi socialisti altri mezzi.</p>
-         <p>Le speranze che il partito cristiano-sociale aveva fondate sull’energia del nuovo
-            Cancelliere von Streeruwitz, come vi è stato assicurato, sono restate deluse: poiché
-            egli invece di mostrare i denti ai socialisti, ha procurato di accarezzarli, e far loro
-            eccessive concessioni economiche.</p>
+         <p>Le speranze che il partito cristiano-sociale aveva fon<note type="foliation"
+               rend="typewritten">69</note><pb n="2" break="no" type="sh"/>date sull’energia del
+            nuovo Cancelliere von Streeruwitz, come vi è stato assicurato, sono restate deluse:
+            poiché egli invece di mostrare i denti ai socialisti, ha procurato di accarezzarli, e
+            far loro eccessive concessioni economiche.</p>
          <p>Tale condotta dello Streeruwitz non solo gli ha talmente alienato le simpatie dei buoni
             e dell’intero partito cristiano-sociale, da far prevedere facilmente le sue dimissioni
             più o meno prossime; ma ancora è stat<add rend="overwritten">a</add> di potente impulso
@@ -167,11 +169,13 @@
             corifei hanno già preparato le loro valigie per fuggire: è poi un fatto che i
             socialisti, che hanno depositi nella Banca socialista, ritirano frettolosamente il loro
             denaro.</p>
-         <p>Nei buoni qui regna un certo ottimismo, non scevro di qualche timore; ma nell’insieme si
-            crede che non vi sarà né guerra civile, né insurrezioni<add rend="handwritten">,</add>
-            né spargimento di sangue, all’infuori di probabili disordini, ad affrontare i quali
-            questo Governo è ben preparato per reprimerli<add rend="handwritten">;</add> e che
-            piuttosto possano sperarsi tempi migliori per l’Austria cattolica.</p>
+         <p>Nei buoni qui regna un certo ottimismo, non scevro di qual<note type="foliation"
+               rend="typewritten">70</note><pb n="4" break="no" type="sh"/>che timore; ma
+            nell’insieme si crede che non vi sarà né guerra civile, né insurrezioni<add
+               rend="handwritten">,</add> né spargimento di sangue, all’infuori di probabili
+            disordini, ad affrontare i quali questo Governo è ben preparato per reprimerli<add
+               rend="handwritten">;</add> e che piuttosto possano sperarsi tempi migliori per
+            l’Austria cattolica.</p>
          <p>Fra qualche settimana o<add rend="handwritten">,</add> al più<add rend="handwritten"
                >,</add> fra poche settimane si vedrà ciò che accaderà<add rend="handwritten">;</add>
             e compirò il mio dovere di tenerne informata il meglio possibile l’E.V.Rev.ma.</p>

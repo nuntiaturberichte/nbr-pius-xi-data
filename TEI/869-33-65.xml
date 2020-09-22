@@ -78,6 +78,7 @@
    </teiHeader>
    <text type="Brief">
       <body>
+         <pb n="1"/>
          <opener>
             <seg type="subjectLine">Oggetto: Favorevole accoglienza elezione Mgr. Innitzer.</seg>
             <salute>Eminenza Reverendissima,</salute>
@@ -93,15 +94,17 @@
             mettendo in rilievo le straordinarie qualità del nuovo Arcivescovo, esprime la sua
             riconoscenza al Santo Padre per essersi degnato di dare a questa insigne Metropoli un
             così degno Pastore.</p>
-         <p>Pure la stampa liberale è stata concorde nel dire che la scelta non poteva essere più
-            felice, e lo stesso organo del partito socialista democratico, l’”Arbeiter Zeitung”, pur
-            non tralasciando l’occasione di manifestarsi favorevole alla separazione della Chiesa
-            dallo Stato e di ferire in qualche modo il Governo, è costretto a confessare che “la
-            scelta del Papa non è caduta su di una personalità antipatica”.</p>
+         <p>Pure la stampa liberale è stata concorde nel dire che la scelta non<note
+               type="foliation" rend="typewritten">65</note>
+            <pb n="2"/>poteva essere più felice, e lo stesso organo del partito socialista
+            democratico, l’”Arbeiter Zeitung”, pur non tralasciando l’occasione di manifestarsi
+            favorevole alla separazione della Chiesa dallo Stato e di ferire in qualche modo il
+            Governo, è costretto a confessare che “la scelta del Papa non è caduta su di una
+            personalità antipatica”.</p>
          <closer><salute><lb/>Inchinato al bacio della Sacra Porpora, col più profondo ossequio ho
                <lb/>l’onore di riaffermarmi <lb/>della Eminenza Vostra Reverendissima </salute>
             <signed><lb/>Umilissimo, devmo, obbmo Servo <lb/>+Enrico, Arciv. di Side <lb/>Nunzio
-               Aplico </signed>
+               Aplico</signed>
          </closer>
       </body>
    </text>
