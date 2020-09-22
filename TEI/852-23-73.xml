@@ -98,8 +98,8 @@
             <seg type="subjectLine">Oggetto: Ministero Schober e notizie politiche</seg>
             <salute>Eminenza Reverendissima</salute>
          </opener>
-         <p>Del nuovo Ministero Schober, come dal mio telegramma del 26 settembre u.s., il Dr.
-            Antonio Eiselberg, celebrità medica viennese e buon cattolico, e il Dr. Otto Juch, capo
+         <p>Del nuovo Ministero Schober, come dal mio telegramma del 26 settembre u.s., il <rs type="person" ref="https://mpr.acdh.oeaw.ac.at/entity/9380/">Dr.
+            Antonio <choice><sic>Eiselberg</sic><corr>Eiselsberg</corr></choice></rs>, celebrità medica viennese e buon cattolico, e il Dr. Otto Juch, capo
             sezione nel Ministero delle Finanze, non hanno rispettivamente accettato il portafoglio
             della Pubblica Istruzione e delle Finanze, assumendone perciò l’interim lo stesso
             Cancelliere Schober.</p>
