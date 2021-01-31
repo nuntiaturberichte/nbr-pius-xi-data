@@ -92,6 +92,9 @@
                <date when="1929-09-20">20.09.1929</date>
                <placeName>Wien</placeName>
             </correspAction>
+            <correspAction type="received">
+               <persName>Pietro Gasparri</persName>
+            </correspAction>
          </correspDesc>
       </profileDesc>
    </teiHeader>
