@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Nuntiatur Pius XI</title>
+                <title level="a">Index</title>
+                <author>
+                    <persName>
+                        <forename>Martin</forename>
+                        <surname>Kroißenbrunner</surname>
+                    </persName>
+                </author>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">
+                        <surname>Gottsmann</surname>
+                        <forename>Andreas</forename>
+                    </persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The (CC BY 4.0)-License applies to this document.</p>
+                    </licence>
+                </availability>
+                <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URI"/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="text_and_img">
+                <div xml:id="text">
+                    <p style="big">Die digitale Edition der Nuntiatur Pius XI. präsentiert die
+                        Korrespondenz des Papstes und seiner Gesandten aus den Jahren XXXX bis XXXX.
+                        Diese umfangreiche Sammlung umfasst derzeit über 2000 XXXX, die wertvolle
+                        Einblicke in die politischen, diplomatischen und religiösen Entwicklungen
+                        während der Zwischenkriegszeit bieten.</p>
+                    <p style="small">In den kommenden Projektphasen wird die Edition schrittweise um
+                        weitere Briefe und Dokumente ergänzt. Ziel ist es, die gesamte Korrespondenz
+                        als Open-Access-Edition digital zugänglich zu machen. Damit wird ein breiter
+                        Zugang für ForscherInnen, HistorikerInnen und politisch Interessierte
+                        geschaffen, die diese Quellen nutzen und auf unterschiedliche Aspekte hin
+                        erforschen können.</p>
+                    <p style="small">Die Nuntiaturberichte aus der Zeit von Pius XI. sind ein
+                        einzigartiges Zeugnis der kirchlichen Diplomatie in einer politisch
+                        turbulenten Ära. Sie dokumentieren die Aktivitäten der päpstlichen
+                        Gesandten, die Bemühungen des Heiligen Stuhls um Frieden und Stabilität
+                        sowie den Umgang mit aufkommenden totalitären Ideologien. Die digitale
+                        Aufbereitung der Briefe ermöglicht eine zeitgemäße Nutzung und trägt zu
+                        einem vertieften Verständnis dieser historischen Quellen bei.</p>
+                </div>
+                <div xml:id="img">
+                    <figure source="./images/portrait.jpg">
+                        <desc>Pius XI. am Beginn seines Pontifikates</desc>
+                    </figure>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
