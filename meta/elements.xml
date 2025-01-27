@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Grazer Nuntiaturberichte</title>
+                <title level="a">Kodierungsrichtlinien</title>
+                <author>
+                    <persName>
+                        <forename>Martin</forename>
+                        <surname>Kroißenbrunner</surname>
+                    </persName>
+                </author>
+                <funder>
+                    <persName ref="https://d-nb.info/gnd/1155422082">
+                        <surname>Gottsmann</surname>
+                        <forename>Andreas</forename>
+                    </persName>
+                    <address>
+                        <orgName>Historisches Institut beim Österreichischen Kulturforum in
+                            Rom</orgName>
+                        <street>Viale Bruno Buozzi 111-113</street>
+                        <settlement>Rom</settlement>
+                        <postCode>00197</postCode>
+                        <country>Italien</country>
+                    </address>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2024">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The (CC BY 4.0)-License applies to this document.</p>
+                    </licence>
+                </availability>
+                <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URI"/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="1">
+                <p>In den folgenden Abschnitten werden die wesentlichen Elemente und Attribute, die
+                    in den TEI-Dateien verwendet werden, detailliert aufgeführt. Diese Aufstellung
+                    beinhaltet wichtige Informationen über etwaige Normalisierungen und
+                    projektbezogene Anpassungen.
+                    Dabei wurde das Vorgehen und die Strukturierung der Elemente stark an der <ref
+                        target="https://schnitzler-briefe.acdh.oeaw.ac.at/elemente.html"
+                        >Schnitzler-Briefedition</ref> orientiert. Diese Dokumentation richtet sich
+                    nicht nur an Forscherinnen und Forscher, die mit diesen Daten weiterarbeiten
+                    möchten, sondern dient auch uns selbst als Orientierungshilfe und
+                    Arbeitsanleitung, ähnlich einem Stylesheet.</p>
+
+                <div type="2">
+                    <head type="2">Allgemein</head>
+                    <p>Die XML-Dateien, die <ref
+                            target="https://github.com/nuntiaturberichte/nbr-graz-data">hier</ref>
+                        zu finden sind, folgen im Wesentlichen den Richtlinien der <ref
+                            target="https://tei-c.org/guidelines/P5/">TEI P5</ref>. In den folgenden
+                        Abschnitten werden lediglich jene Elemente hervorgehoben und erklärt, die
+                        zusätzliche Erläuterungen erfordern.</p>
+
+                    <p>Da es sich bei diesem Projekt um eine Retrodigitalisierung handelt, in der
+                        bereits edierte Briefwechsel aus gedruckten Publikationen ins Internet
+                        überführt werden, wurde aus Gründen der Konsistenz beschlossen, die Quelle
+                        als Buch und nicht als Sammlung einzelner Briefe zu behandeln. Dies erklärt,
+                        warum typische Elemente für Briefe in den Dokumenten nicht verwendet
+                        werden.</p>
+
+                    <p>Nachstehend wird ein Beispiel für die Kodierung einer Seite in TEI
+                        vorgestellt. Das Bild zeigt auf der linken Seite eine gescannte Seite des
+                        vierten Bandes. Die mittleren Kästchen enthalten die angewandten
+                        TEI-Kodierungen, während die Kästchen auf der rechten Seite den
+                        vollständigen XPath angeben, der beschreibt, wo sich das jeweilige Element
+                        in der XML-Datei befindet.</p>
+                    <figure xml:id="kodierung-bsp.png" source="./images/kodierung-bsp.png">
+                        <desc>Visualisierung der Kodierung einer physischen Buchseite</desc>
+                    </figure>
+                </div>
+
+                <div type="2">
+                    <head type="2">Verwendete Elemente</head>
+                    <!-- eigene paragraphen (später ev in kursiv) für front.xml -->
+                    <p>Die Elemente sind in der Reihenfolge aufgelistet, in der sie typischerweise
+                        in den Dateien vorkommen. Für jedes Element wird in Listenpunkten der
+                        entsprechende XPath angegeben, ebenso wie die Information, ob das jeweilige
+                        Element für einen Brief zwingend erforderlich ist.</p>
+                    <div type="3">
+                        <head type="3">TEI[@xml:id]</head>
+                        <list>
+                            <item>XPath: /TEI</item>
+                            <item>erforderlich: ja</item>
+                        </list>
+                        <p>Das <code>TEI</code>-Element ist das Wurzelelement eines Briefes. Das
+                            Attribut <code>@xml:id</code> enthält als Wert die Band- und Briefnummer
+                            und matcht den RegEx <code>"L(\d)_([\d\.]{5})"</code> (beispielsweise
+                                <code>"L1_00001"</code>). In diesem Format entspricht
+                                <code>$1</code> der Bandnummer und <code>$2</code> der
+                            Briefnummer.</p>
+                    </div>
+
+                    <div type="3">
+                        <head type="3">teiHeader</head>
+                        <p>Der <code>teiHeader</code> enthält folgende Elemente:</p>
+
+                        <div type="4">
+                            <head type="4">collection</head>
+                            <list>
+                                <item>XPath:
+                                    /TEI/teiHeader/fileDesc/sourceDesc/msDesc/msIdentifier/collection</item>
+                                <item>erforderlich: ja</item>
+                            </list>
+                            <p>Dieses Element enthält die Archivsignatur des Manuskripts. Falls
+                                Zeilenumbrüche verwendet wurden, um mehrere Signaturen voneinander
+                                zu trennen, kann das Element <code>lb</code> darin enthalten sein.
+                                Eine vollständige Liste aller verwendeten Archive ist in der
+                                jeweiligen Bandeinleitung zum Brief zu finden.</p>
+                        </div>
+
+                        <div type="4">
+                            <head type="4">bibl[@type="regest"]</head>
+                            <list>
+                                <item>XPath: /TEI/teiHeader/fileDesc/sourceDesc/bibl</item>
+                                <item>erforderlich: nein</item>
+                            </list>
+                            <p>Dieses Element verweist auf externe Regesten. Mehrere Verweise werden
+                                durch das Element <code>lb</code> getrennt.</p>
+                        </div>
+
+                        <div type="4">
+                            <head type="4">bibl[@type="druck"]</head>
+                            <list>
+                                <item>XPath: /TEI/teiHeader/fileDesc/sourceDesc/bibl</item>
+                                <item>erforderlich: nein</item>
+                            </list>
+                            <p>Dieses Element verweist auf gedruckte Ausgaben des Briefes. Auch hier
+                                wird <code>lb</code> verwendet, um mehrere Verweise zu trennen.</p>
+                        </div>
+
+                        <div type="4">
+                            <head type="4">bibl[@type="beilage"]</head>
+                            <list>
+                                <item>XPath: /TEI/teiHeader/fileDesc/sourceDesc/bibl</item>
+                                <item>erforderlich: nein</item>
+                            </list>
+                            <p>Dieses Element verweist auf Beilagen. Die Verweise werden ebenfalls
+                                durch <code>lb</code> getrennt.</p>
+                        </div>
+
+                        <div type="4">
+                            <head type="4">correspDesc</head>
+                            <list>
+                                <item>XPath: /TEI/teiHeader/profileDesc/correspDesc</item>
+                                <item>erforderlich: nein</item>
+                            </list>
+                            <p><code>correspDesc</code> enthält eine standardisierte Beschreibung
+                                des Übermittlungsvorgangs eines Korrespondenzstücks (Absender, Empfänger,
+                                Orte, Daten). Diese von der TEI-SIG Correspondence entwickelte 
+                                Struktur wird u.a. von der Online-Plattform <ref target="https://correspsearch.net"
+                                    >correspSearch.net</ref> genutzt, um Informationen zu
+                                Briefwechseln zu speichern und zugänglich zu machen.</p>
+                        </div>
+
+                        <div type="4">
+                            <head type="4">abstract</head>
+                            <list>
+                                <item>XPath: /TEI/teiHeader/profileDesc/abstract</item>
+                                <item>erforderlich: nein</item>
+                            </list>
+                            <p>Dieses Element enthält die vom Editor verfasste Zusammenfassung des
+                                Briefes.</p>
+                        </div>
+                    </div>
+
+                    <div type="3">
+                        <head type="3">text</head>
+                        <p>Im <code>text</code>-Element befinden sich folgende Elemente:</p>
+
+                        <div type="4">
+                            <head type="4">head[@n]</head>
+                            <list>
+                                <item>XPath: /TEI/text/body/head</item>
+                                <item>erforderlich: ja</item>
+                            </list>
+                            <p>Dieses Element enthält den Briefkopf, wobei das Attribut
+                                    <code>n</code> die Briefnummer spezifiziert.</p>
+                        </div>
+
+                        <div type="4">
+                            <head type="4">div</head>
+                            <list>
+                                <item>XPath: /TEI/text/body/div</item>
+                                <item>erforderlich: ja</item>
+                            </list>
+                            <p>Das <code>div</code>-Element gruppiert die Paragraphen eines
+                                Briefes.</p>
+                        </div>
+
+                        <div type="4">
+                            <head type="4">pb[@xml:id]</head>
+                            <list>
+                                <item>XPath: /TEI/teiHeader/profileDesc/abstract//pb |<lb/>
+                                    /TEI/text/body/div//pb</item>
+                                <item>erforderlich: nein</item>
+                            </list>
+                            <p>Dieses Element markiert den Beginn einer Seite und dient als Sprungziel für
+                                Verlinkungen aus dem Register. Das Attribut <code>@xml:id</code>
+                                enthält die Band- und Seitennummer, die im Format
+                                    <code>"P(\d)_(\d{7})"</code> angegeben wird. Beispiel:
+                                    <code>"P1_0000001"</code>. Hierbei steht <code>$1</code> für die
+                                Bandnummer und <code>$2</code> für die Seitennummer.</p>
+
+                            <p>Auch wenn es vom Grunddokument abweicht, kommt ein <code>pb</code> im
+                                XML-Dokument nur in den oben genannten Pfaden vor. Schließlich
+                                entschied man sich dazu, den Fußnotenapparat in eine
+                                In-Text-Zitierweise umzuwandeln, sodass sich die Seitenbeginne an
+                                den Fließtexten orientieren und nicht an den Fußnoten am Seitenende.
+                                Beginnt eine Seite mit einem Brief, steht das Element direkt nach
+                                    <code>div</code>. Wenn ein Seitenumbruch ein Wort teilt, steht
+                                    <code>pb</code> ohne Leerzeichen im Wort.</p>
+                        </div>
+
+                        <div type="4">
+                            <head type="4">p</head>
+                            <list>
+                                <item>XPath: /TEI/text/body/div/p</item>
+                                <item>erforderlich: nein</item>
+                            </list>
+                            <p>Ein Absatz des Brieftexts.</p>
+                        </div>
+
+                        <div type="4">
+                            <head type="4">note[@type='siglum']</head>
+                            <list>
+                                <item>XPath: /TEI/text/body/head/note
+                                    |<lb/>/TEI/teiHeader/fileDesc/sourceDesc/msDesc/msIdentifier/collection/p/note
+                                    |<lb/>/TEI/teiHeader/fileDesc/sourceDesc/bibl[@type="beilage"]/note
+                                    |<lb/>/TEI/text/body/div/p/note</item>
+                                <item>erforderlich: nein</item>
+                            </list>
+                            <p>Dieses Element unterscheidet sich von einer regulären Fußnote
+                                    (<code>note[@type='footnote']</code>). Nach dem Verständnis der
+                                Editoren beziehen sich reguläre Fußnoten auf den Inhalt des Briefes,
+                                während Sigla philologische Aspekte des Textes wie Streichungen,
+                                Ergänzungen, schwer lesbare Wörter oder Textlücken kennzeichnen.
+                                Neben <code>@type</code> enthält dieses Element das Attribut
+                                    <code>@xml:id</code>, dessen Wert folgenden RegEx matcht:
+                                    <code>SN(\d)_([\d\.]{5}|[\d]{4}A)_([a-z])</code>.
+                                    <code>$1</code> bezieht sich auf die Band-, <code>$2</code> auf
+                                die Briefnummer und <code>$3</code> auf das Siglum.</p>
+                            <p>Sigla können Spannen bilden. In solchen Fällen verweist ein
+                                    <code>ref@target</code> auf das entsprechende
+                                    <code>note@xml:id</code></p>
+                        </div>
+
+                        <div type="4">
+                            <head type="4">note[@type='footnote']</head>
+                            <list>
+                                <item>XPath: /TEI/teiHeader/profileDesc/abstract/p/note
+                                    |<lb/>/TEI/text/body/head/note |<lb/>/TEI/text/body/div/p/note
+                                    |<lb/>/TEI/teiHeader/fileDesc/sourceDesc/msDesc/msIdentifier/collection/note
+                                    |<lb/>/TEI/teiHeader/fileDesc/sourceDesc/bibl[@type="beilage"]/note</item>
+                                <item>erforderlich: nein</item>
+                            </list>
+                            <p>Dieses Element bezieht sich auf die inhaltliche
+                                Ebene eines Briefes. Neben <code>@type</code> enthält dieses Element
+                                das Attribut <code>@xml:id</code>, dessen Wert folgenden RegEx
+                                matcht: <code>FN\d_([\d\.]{5}|[\d]{4}A)_\d{2}</code>.
+                                    <code>$1</code> bezieht sich auf die Band-, <code>$2</code> auf
+                                die Briefnummer und <code>$3</code> auf die Fußnotenziffer.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </body>
+
+    </text>
+</TEI>
