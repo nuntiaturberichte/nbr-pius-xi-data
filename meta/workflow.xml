@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="s">Grazer Nuntiaturberichte</title>
+                <title level="s">Nuntiatur Pius XI</title>
                 <title level="a">Arbeitsablauf</title>
                 <author>
                     <persName>
@@ -44,288 +44,106 @@
     </teiHeader>
     <text>
         <body>
-            <div type="1">
-                <p>Das Projekt entstand in Zusammenarbeit mit Auftraggeber Andreas Gottsmann, den
-                    drei ÖAW-Mitarbeitern Daniel Schopper, Stephan Kurz und Peter Andorfer, Lektorin
-                    Sabine Kofler sowie Martin Kroißenbrunner, der die digitale Edition federführend
-                    entwickelte. Die Kommunikation erfolgte neben E-Mail und Instant Messenger durch
-                    mehrere Treffen an der ÖAW in Wien.</p>
+            <div>
+                <p>Als Projekt des ÖHI Rom entstand die digitale Edition in erster Linie in
+                    Zusammenarbeit mit dem Auftraggeber Andreas Gottsmann (ÖHI Rom), Bernhard
+                    Kronegger (Universität Passau) sowie Martin Kroißenbrunner, der als externer
+                    Mitarbeiter beteiligt war. Die Kommunikation erfolgte durch E-Mail und
+                    Videokonferenzen.</p>
                 <p>Da die Erstellung digitaler Editionen einem ständigen Wandel unterliegt, der mit
                     häufigen Anpassungen der Arbeitsmittel einhergeht, werden immer wieder kleine
                     Änderungen vorgenommen, ohne dass diese anders als durch die Benutzung selbst
                     dokumentiert werden. Eine Darstellung des Arbeitsablaufs kann daher nur eine
                     Momentaufnahme sein, auch wenn wir bemüht sind, sie aktuell zu halten und auch
                     Veränderungen im Zeitverlauf zu dokumentieren.</p>
+                <p>Das zu digitalisierende Material beschränkt sich auf fünf Mappen. Pro Mappe wurde
+                    derselbe Workflow angewandt: Transkription, Kollationierung, TEI-Kodierung und
+                    schließlich Internetstellung. Im folgenden wird genauer auf diese
+                    Arbeitsschritte eingegangen.</p>
+                <p>(ev. Tabelle, die Arbeitsschritte und daran beteiligte Personen)</p>
             </div>
-            <div type="2">
-                <head type="2">Transkription</head>
-                <p>Der erste Schritt war die Umwandlung des Ausgangsmaterials (Bände 2 und 3:
-                    physische Bücher, Bände 4 und 5: PDF-Dateien) in computerlesbaren Text. Da Band
-                    1 bereits vor Beginn des offiziellen Projekts transkribiert und kontrolliert
-                    worden war, war dieser Schritt nur für die restlichen vier Bände erforderlich.
-                    Am Ende dieses Schrittes standen die korrigierten Transkriptionen aller Bände
-                    für den Export auf Transkribus bereit.</p>
-                <div type="3">
-                    <head type="3">Bände 2 und 3</head>
-                    <p>Für die Transkription der Bände 2 und 3 wurde <ref target="https://transkribus.eu">Transkribus</ref> eingesetzt.
-                        Transkribus ist eine in Innsbruck entwickelte Plattform zur automatischen
-                        Texterkennung nicht nur von gedruckten Texten, wie in diesem Fall, sondern
-                        auch von Handschriften. Nach dem Hochladen der Faksimiles wurde wie folgt
-                        vorgegangen:</p>
-                    <list type="ordered">
-                        <item>Layout der Seiten erfassen: Ziel dieses Schrittes war es, einerseits
-                            die Grundlinien bzw. »baselines« der Zeilen und andererseits die
-                            Seitenelemente (Seitenzahlen, Überschriften, Absätze, …) mittels »text
-                            regions« zu erfassen. Ersteres dient als Ausgangsbasis für die
-                            automatische Texterkennung, Letzteres zur Strukturierung der
-                            Transkription. Mehrere von Transkribus zur Verfügung gestellte
-                            Layout-Analyse-Engines wurden getestet und die geeignetste eingesetzt.
-                            Das Ergebnis wurde anschließend überprüft und gegebenenfalls
-                            korrigiert.</item>
-                        <item>Textbereiche annotieren: Ziel dieses Schrittes war es, die
-                            Textregionen zu benennen. Die untenstehende Tabelle zeigt, welche
-                            Bezeichnungen verwendet wurden. P2PaLA ist ein Layout-Analysewerkzeug,
-                            das Strukturtypen auf Regionsebene und Grundlinien einer Seite auf der
-                            Basis von vortrainierten Modellen erkennt und diesen Schritt erheblich
-                            erleichterte. Auch hier wurde das Ergebnis kontrolliert und
-                            gegebenenfalls korrigiert.</item>
-                        <item>Texterkennung: Die Erstellung einer Transkription des Faksimiles war
-                            das Ziel dieses Schrittes. Da die von Transkribus zur Verfügung
-                            gestellten Modelle nicht mit Hochstellungen umgehen konnten, wurden
-                            eigene Modelle trainiert. Dazu wurden etwa 75 Seiten eigenhändig
-                            transkribiert. Die Modelle lieferten Transkriptionen mit
-                            durchschnittlich 1-2 Fehlern pro Seite. Diese wurden dankenswerterweise
-                            von Frau <ref target="https://sabine-kofler.com/">Sabine Kofler</ref>
-                            korrigiert.</item>
-                    </list>
-                    <p>Die Bände 1-3 wurden als PAGE XML-Dateien exportiert. Dabei wurden pro
-                        Band Dateien generiert für die Einleitung und jenen Abschnitt, der die Briefe beinhaltet.</p>
-                </div>
-                <div type="3">
-                    <head type="3">Bände 4 und 5</head>
-                    <p>Die Bände 4 und 5 wurden vom Verlag der Österreichischen Akademie der
-                        Wissenschaften als PDF-Dateien übermittelt. Da es sich um textbasierte
-                        PDF-Dateien handelt, konnte der Text aus diesen extrahiert werden. Um den
-                        Workflow, der für die Bände 1 bis 3 vorgesehen war, zu übernehmen, entschied
-                        man sich, auch für diese Bände PAGE XML-Dateien zu erstellen. Dabei wurde
-                        ähnlich vorgegangen wie bei den Bänden 2 und 3. Nach dem Hochladen der
-                        Faksimiles wurden folgende Schritte unternommen:</p>
-                    <list type="ordered">
-                        <item>Layout der Seiten erfassen: siehe oben</item>
-                        <item>Textbereiche annotieren: siehe oben</item>
-                        <item>Text einfügen: Im Transkribus-Desktop-Client besteht die Möglichkeit, Faksimiles
-                            auf Basis von Grundlinien mit vorhandenen Transkriptionen zu
-                            synchronisieren. Dazu muss für jedes Faksimile eine TXT-Datei zur
-                            Verfügung stehen. Zu diesem Zweck wurde der Text aus den PDF-Dateien
-                            extrahiert und mittels eines Python-Skripts pro Seite eine TXT-Datei
-                            erstellt. Diese TXT-Dateien dienen dann als Grundlage für die
-                            Synchronisation.</item>
-                    </list>
-                    <p>Anschließend wurden wieder PAGE XML-Dateien exportiert.</p>
-                </div>
+            <div type="1">
+                <head type="1">1. Transkription</head>
+                <p>Der erste Schritt war die Umwandlung des Ausgangsmaterials in computerlesbaren
+                    Text. [Wie wurde Mappe 1 und 2 transkribiert? Fand eine Korrektur statt?]. Am
+                    Ende dieses Schrittes standen die korrigierten Transkriptionen für den nächsten
+                    Schritt, der Kollation, bereit.</p>
+                <p>Für die Transkription der [Mappe 3] wurde<ref target="https://transkribus.eu"
+                        >Transkribus</ref> eingesetzt. Transkribus ist eine in Innsbruck entwickelte
+                    Plattform zur automatischen Texterkennung. Nach dem Hochladen der Faksimiles
+                    wurde wie folgt vorgegangen:</p>
+                <list type="ordered">
+                    <item>###Layout der Seiten erfassen: Ziel dieses Schrittes war es, einerseits
+                        die Grundlinien bzw. »baselines« der Zeilen und andererseits die
+                        Seitenelemente (Seitenzahlen, Überschriften, Absätze, …) mittels »text
+                        regions« zu erfassen. Ersteres dient als Ausgangsbasis für die automatische
+                        Texterkennung, Letzteres zur Strukturierung der Transkription. Mehrere von
+                        Transkribus zur Verfügung gestellte Layout-Analyse-Engines wurden getestet
+                        und die geeignetste eingesetzt. Das Ergebnis wurde anschließend überprüft
+                        und gegebenenfalls korrigiert.</item>
+                    <item>###Textbereiche annotieren: Ziel dieses Schrittes war es, die Textregionen
+                        zu benennen. Die untenstehende Tabelle zeigt, welche Bezeichnungen verwendet
+                        wurden. P2PaLA ist ein Layout-Analysewerkzeug, das Strukturtypen auf
+                        Regionsebene und Grundlinien einer Seite auf der Basis von vortrainierten
+                        Modellen erkennt und diesen Schritt erheblich erleichterte. Auch hier wurde
+                        das Ergebnis kontrolliert und gegebenenfalls korrigiert.</item>
+                    <item>###Texterkennung: Die Erstellung einer Transkription des Faksimiles war
+                        das Ziel dieses Schrittes. Da die von Transkribus zur Verfügung gestellten
+                        Modelle nicht mit Hochstellungen umgehen konnten, wurden eigene Modelle
+                        trainiert. Dazu wurden etwa 75 Seiten eigenhändig transkribiert. Die Modelle
+                        lieferten Transkriptionen mit durchschnittlich 1-2 Fehlern pro Seite. Diese
+                        wurden dankenswerterweise von Frau <ref target="https://sabine-kofler.com/"
+                            >Sabine Kofler</ref> korrigiert.</item>
+                </list>
+                <p>###Die Bände 1-3 wurden als PAGE XML-Dateien exportiert. Dabei wurden pro Band
+                    Dateien generiert für die Einleitung und jenen Abschnitt, der die Briefe
+                    beinhaltet.</p>
             </div>
-            <div type="2">
-                <head type="2">Erstellung der TEI-Dokumente</head>
-                <p>Hauptbestandteile eines TEI-Dokuments sind das <gi>teiHeader</gi>- und das <gi>text</gi>-Element.
-                    Im Folgenden wird darauf eingegangen, wie beide Teile zustande kamen und wie sie
-                    zusammengesetzt wurden.</p>
-                <div type="3">
-                    <head type="3"><gi>teiHeader</gi></head>
-                    <p>Um den <gi>teiHeader</gi> zu erstellen bediente man sich Goobi und Python.</p>
-                    <div type="4">
-                        <head type="4">Goobi</head>
-                        <p><ref target="https://goobi.io/">Goobi</ref> ist eine Open Source
-                            Software-Suite, die für die Digitalisierung und Verwaltung von
-                            Kulturgut entwickelt wurde. Nach dem Einlesen der Faksimiles wurde jeder
-                            Brief als eigenes Strukturelement in der Webanwendung erfasst und mit
-                            Normdaten zu den an der Korrespondenz beteiligten Personen und Orten
-                            angereichert. Das Ergebnis sind <ref
-                                target="https://github.com/nuntiaturberichte/nbr-graz-data/tree/main/mets"
-                                >METS-Dateien.</ref></p>
-                    </div>
-                    <div type="4">
-                        <head type="4">Python</head>
-                        <p>Zur Erstellung der <code>teiHeader</code>-Elemente wurden zwei
-                            Python-Skripte benötigt.</p>
-                        <p>Das erste Skript nutzte die von Goobi exportierten METS-Dateien als
-                            Input. Das Ergebnis waren fünf XML-Dokumente (eines pro Band) mit je
-                            einem Root-Element, das für jeden Brief ein
-                            <code>correspDesc</code>-Element enthielt.</p>
-                        <p>Für jeden Band wurde eine Vorlage für den <code>teiHeader</code>
-                            erstellt, die Informationen zu <code>titleStmt</code>,
-                                <code>publicationStmt</code> und <code>sourceDesc</code>
-                            beinhaltete. Ein weiteres Python-Skript kombinierte diese
-                                <code>teiHeader</code>-Vorlage für jeden Brief mit dem
-                            entsprechenden <code>correspDesc</code>-Element. Das Ergebnis war ein
-                            XML/TEI-Dokument pro Band, mit einem Root-Element, das für jeden Brief
-                            ein <code>TEI</code>-Element enthielt. Jedes <code>TEI</code>-Element
-                            beinhaltete einen nahezu vollständigen <code>teiHeader</code> (abgesehen
-                            vom Regest und der Archivsignatur, die im Nachhinein hinzugefügt wurden)
-                            sowie ein leeres <code>text</code>-Element.</p>
-                    </div>
-                </div>
-                <div type="3">
-                    <head type="3"><gi>text</gi></head>
-                    <p>Für die Erstellung des <code>text</code>-Elements wurde das XSLT-Stylesheet
-                        "page2tei-0.xsl" und wiederum Python verwendet.</p>
-                    <div type="4">
-                        <head type="4">page2tei-0.xsl</head>
-                        <p>Mithilfe des auf GitHub gehosteten XSLT-Stylesheets <ref
-                                target="https://github.com/dariok/page2tei/tree/parametrize">
-                                page2tei-0.xsl</ref> von Dario Kampkaspar wurden die zehn PAGE XML-Dateien, die als
-                            Export aus Transkribus vorlagen (pro Band je eine für die Einleitung und
-                            eine für den Briefteil), in TEI/XML-Dateien transformiert. Dabei wurden
-                            auf Grundlage der in Transkribus definierten Strukturtypbezeichnungen
-                            TEI-konforme Elemente erzeugt.</p>
-                    </div>
-                    <div type="4">
-                        <head type="4">Python</head>
-                        <p>Die mit dem genannten Stylesheet konvertierten Dateien stellten jedoch noch
-                            keine vollständig TEI-konformen Dokumente dar. Obwohl jeder Brief nun
-                            als eigenständiges TEI-Dokument mit Elementen wie <code>head</code>,
-                                <code>p</code> und <code>note</code> vorliegt, sind weitere
-                            Anpassungen erforderlich, um korrekte TEI-Dokumente zu erhalten. So muss
-                            beispielsweise der Fußnotenapparat in ein In-Text-Zitationssystem
-                            umgewandelt werden. Außerdem müssen durch Seitenumbrüche unterbrochene
-                            Paragraphen (dargestellt als <code>p</code> für den ursprünglichen
-                            Paragraphen, <code>pb</code> für den Seitenumbruch und
-                                <code>ab[@type="paragraph-continued"]</code> für die Fortsetzung)
-                            wieder zusammengesetzt und die bereits erstellten <code>teiHeader</code>
-                            hinzugefügt werden.</p>
-                        <p>Hierfür wurde Python verwendet. Nach dessen Ausführung erhielt man für
-                            jeden Band ein TEI/XML-Dokument mit einem Root-Element, das für jeden
-                            Brief ein <code>TEI</code>-Element beinhaltete. Dieses enthielt einen
-                            teilweise leeren <code>teiHeader</code> (Regest und Archivsignatur
-                            wurden von der Transkription in den <code>teiHeader</code> übernommen)
-                            und ein korrekt ausgefülltes <code>text</code>-Element.</p>
-                        <p>Die folgende Tabelle zeigt für jeden Schritt die Bezeichnung des
-                            jeweiligen Seitenelements. Unter „Transkribus“ ist die
-                            Strukturtypbezeichnung in Transkribus angegeben (wie im Schritt
-                            „Textbereiche annotieren“ erwähnt), „page2tei-0.xsl“ bezieht sich auf
-                            die Elementbezeichnung im Output von „page2tei-0.xsl“, und
-                            „Zielstruktur“ gibt die Bezeichnung im finalen TEI-Element an.</p>
-                        <table>
-                            <row>
-                                <cell>Seitenelement</cell>
-                                <cell>Transkribus</cell>
-                                <cell>page2tei-0.xsl</cell>
-                                <cell>Zielstruktur</cell>
-                            </row>
-                            <row>
-                                <cell cols="4">Diese Elemente sind in allen Bänden vorhanden</cell>
-                            </row>
-                            <row>
-                                <cell>Seitennummer</cell>
-                                <cell>page-number</cell>
-                                <cell>//fw[@type="page-number"]</cell>
-                                <cell>//pb[@xml:id]</cell>
-                            </row>
-                            <row>
-                                <cell>Briefnummer</cell>
-                                <cell>letter-number</cell>
-                                <cell>//ab[@type="letter-number"]</cell>
-                                <cell>//TEI[@xml:id] | //head[@n]</cell>
-                            </row>
-                            <row>
-                                <cell>Briefkopf</cell>
-                                <cell>heading</cell>
-                                <cell>//head</cell>
-                                <cell>//head[@n]</cell>
-                            </row>
-                            <row>
-                                <cell>Regest</cell>
-                                <cell>editors-note</cell>
-                                <cell>//ab[@type="editors-note"]</cell>
-                                <cell>//abstract/p</cell>
-                            </row>
-                            <row>
-                                <cell>Regest-Fortsetz.</cell>
-                                <cell>editors-note-continued</cell>
-                                <cell>//ab[@type="editors-note-continued"]</cell>
-                                <cell>//abstract/p</cell>
-                            </row>
-                            <row>
-                                <cell>Quellenangabe</cell>
-                                <cell>msIdentifier</cell>
-                                <cell>//ab[@type="msIdentifier"]</cell>
-                                <cell>//msIdentifier/collection</cell>
-                            </row>
-                            <row>
-                                <cell>Paragraph</cell>
-                                <cell>paragraph</cell>
-                                <cell>//p</cell>
-                                <cell>//body/div/p</cell>
-                            </row>
-                            <row>
-                                <cell>Paragraph-Fortsetz.</cell>
-                                <cell>paragraph-continued</cell>
-                                <cell>//ab[@type="paragraph-continued"]</cell>
-                                <cell>//body/div/p</cell>
-                            </row>
-                            <row>
-                                <cell>Fußnotenapparat</cell>
-                                <cell>footnote</cell>
-                                <cell>//note[@n="[footnote reference]"]</cell>
-                                <cell>//note[@xml:id and @type="footnote"]</cell>
-                            </row>
-                            <row>
-                                <cell>Fußnotenapparat-Fortsetz.</cell>
-                                <cell>footnote-continued</cell>
-                                <cell>//note[@n="[footnote-continued reference]"]</cell>
-                                <cell>//note[@xml:id and @type="footnote"]</cell>
-                            </row>
-                            <row>
-                                <cell cols="4">Diese Elemente sind zusätzlich in den Bänden 4 und 5
-                                    vorhanden</cell>
-                            </row>
-                            <row>
-                                <cell>Verweis auf gedruckte Ausgaben des Briefes</cell>
-                                <cell>druck</cell>
-                                <cell>//ab[@type="druck"]</cell>
-                                <cell>//sourceDesc/bibl[@type="druck"]</cell>
-                            </row>
-                            <row>
-                                <cell>Verweis auf Beilage</cell>
-                                <cell>beilage</cell>
-                                <cell>//ab[@type="beilage"]</cell>
-                                <cell>//sourceDesc/bibl[@type="beilage"]</cell>
-                            </row>
-                            <row>
-                                <cell cols="4">Diese Elemente sind zusätzlich im Band 5
-                                    vorhanden</cell>
-                            </row>
-                            <row>
-                                <cell>Verweis auf externes Regest</cell>
-                                <cell>regest</cell>
-                                <cell>//ab[@type="regest"]</cell>
-                                <cell>//sourceDesc/bibl[@type="regest"]</cell>
-                            </row>
-                            <row>
-                                <cell>Textkritischer Apparat</cell>
-                                <cell>sigla-footnote</cell>
-                                <cell>//ab[@type="sigla-footnote"]</cell>
-                                <cell>//note[@xml:id and @type="siglum"]</cell>
-                            </row>
-                        </table>
-                        <p>Nachdem <gi>teiHeader</gi> und <gi>text</gi> für jeden Brief vorhanden gewesen sind, wurden
-                            die beiden Teile mit einem weiteren Python-Skript zusammengefügt, womit
-                            die Erstellung der TEI-Dokumente abgeschlossen war.</p>
-                    </div>
-                </div>
+            <div type="1">
+                <head type="1">#2. Kollationierung</head>
+                <p>Bei der Kollation Zunächst wird festgelegt, welche Textzeugen in den Vergleich
+                    einbezogen werden sollen. Dazu gehört die Entscheidung, ob es eine
+                    Leithandschrift oder Referenzfassung gibt, an der sich der Vergleich orientiert.
+                    Meistens wird eine früheste oder maßgebliche Version als Basis herangezogen.</p>
+                <p>Der eigentliche Vergleich erfolgt dann zeilen- oder wortweise. Dabei werden alle
+                    Abweichungen zwischen den Textfassungen erfasst. Solche Unterschiede können
+                    orthografischer Natur sein, lexikalische Varianten betreffen oder sich in der
+                    Syntax widerspiegeln. Auch Auslassungen oder spätere Ergänzungen sind relevant.
+                    Diese Varianten werden entweder manuell dokumentiert oder mit Hilfe digitaler
+                    Tools wie CollateX oder Juxta ermittelt, die große Textmengen effizient
+                    vergleichen können.</p>
+                <p>Schließlich erfolgt die Bewertung der Varianten. Hier stellt sich die Frage,
+                    welche Version als ursprünglicher oder maßgeblicher angesehen wird. Dazu kann
+                    eine stemmatische Analyse herangezogen werden, wenn eine Rekonstruktion der
+                    Überlieferungsgeschichte erforderlich ist. Auch eine texthistorische
+                    Einschätzung kann entscheidend sein, insbesondere wenn es sich um spätere
+                    Korrekturen oder bewusste Änderungen durch den Autor handelt. In manchen Fällen
+                    reflektieren verschiedene Fassungen auch unterschiedliche redaktionelle
+                    Intentionen, sodass eine redaktionskritische Betrachtung notwendig wird. Das
+                    Ergebnis der Kollation fließt in die Erstellung des finalen Textes und in den
+                    textkritischen Apparat ein, der dem Leser die Varianten systematisch
+                    erschließt.</p>
             </div>
-            <div type="2">
-                <head type="2">Static Site generieren mit DSE-Static-Cookiecutter</head>
+
+            <div type="1">
+                <head type="1">3. TEI-Kodierung</head>
+                <p>###</p>
+            </div>
+
+            <div type="1">
+                <head type="1">4. Internetstellung</head>
                 <p>Nach der Erstellung der <ref
-                        target="https://github.com/nuntiaturberichte/nbr-graz-data"
-                        >XML/TEI-Dateien</ref>, die auf dieser Website darstellt werden, wurden
+                        target="https://github.com/nuntiaturberichte/nbr-pius-xi-data/tree/default/TEI/editions"
+                        >XML/TEI-Dateien</ref>, die auf dieser Website darstellt werden, wurden <ref
+                        target="https://github.com/nuntiaturberichte/nbr-pius-xi-static/tree/main/xslt"
+                        >XSLT-Dateien</ref> erzeugt, um mittels <code>ant</code>-Befehl und einer
                         <ref
-                        target="https://github.com/nuntiaturberichte/nbr-graz-static/tree/main/xslt"
-                        >XSLT-Dateien</ref> erzeugt, um mittels einer <code>ant</code> build.xml-Datei HTML-Seiten zu
-                    generieren. Dieser Schritt basiert auf dem Static Site Generator <ref
+                        target="https://github.com/nuntiaturberichte/nbr-pius-xi-static/tree/main/build.xml"
+                        >build.xml-Datei</ref> HTML-Seiten zu generieren. Diese Vorgangsweise
+                    basiert auf dem Static Site Generator <ref
                         target="https://github.com/acdh-oeaw/dse-static-cookiecutter"
                         >DSE-Static-Cookiecutter</ref>.</p>
             </div>
-
         </body>
     </text>
 </TEI>

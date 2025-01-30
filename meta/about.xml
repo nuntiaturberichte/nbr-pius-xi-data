@@ -45,162 +45,67 @@
     <text>
         <body>
             <div>
-                <p>Diese digitale Edition erfasst die Korrespondenz des Grazer Nuntius zwischen 1580
-                    und 1602. Sie basiert auf der Retrodigitalisierung von derzeit fünf Bänden, die
-                    vom Historischen Institut am Österreichischen Kulturforum in Rom herausgegeben
-                    und vom Verlag der Österreichischen Akademie der Wissenschaften veröffentlicht
-                    wurden. Im Zuge der Digitalisierung wurde keine zusätzliche editorische
-                    Bearbeitung vorgenommen. Im Folgenden finden Sie grundlegende Informationen zu
-                    den Bänden.</p>
-                <table type="vol_rev">
-                    <row>
-                        <cell/>
-                        <cell>1. Band</cell>
-                        <cell>2. Band</cell>
-                        <cell>3. Band</cell>
-                        <cell>4. Band</cell>
-                        <cell>5. Band</cell>
-                    </row>
-                    <row>
-                        <cell>Titel</cell>
-                        <cell>Nuntiatur des Germanico Malaspina; Sendung des Antonio Possevino;
-                            1580-1582</cell>
-                        <cell>Nuntiatur des Germanico Malaspina und des Giovanni Andrea Caligari;
-                            1582-1587</cell>
-                        <cell>Nuntiatur des Girolamo Portia und Korrespondenz des Hans Kobenzl;
-                            1592-1595</cell>
-                        <cell>Nuntiatur des Girolamo Portia; 1595-1598</cell>
-                        <cell>Nuntiatur des Girolamo Portia; 1599-1602</cell>
-                    </row>
-                    <row>
-                        <cell>Datum der Veröffentlichung</cell>
-                        <cell>1973</cell>
-                        <cell>1981</cell>
-                        <cell>2001</cell>
-                        <cell>2012</cell>
-                        <cell>2012</cell>
-                    </row>
-                    <row>
-                        <cell>bearbeitet von</cell>
-                        <cell>Johann Rainer</cell>
-                        <cell>Johann Rainer</cell>
-                        <cell>Johann Rainer</cell>
-                        <cell>Johann Rainer</cell>
-                        <cell>Elisabeth Zingerle</cell>
-                    </row>
-                    <row>
-                        <cell>beteiligte Personen</cell>
-                        <cell/>
-                        <cell>Sabine Weiss</cell>
-                        <cell>Heinz Noflatscher; Christian Rainer</cell>
-                        <cell>Christian Rainer; Elisabeth Garms-Cornides</cell>
-                        <cell/>
-                    </row>
-                    <row>
-                        <cell>ISBN</cell>
-                        <cell>3-7001-0023-X</cell>
-                        <cell>3-7001-0424-3</cell>
-                        <cell>3-7001-2964-5</cell>
-                        <cell>978-3-7001-7139-3</cell>
-                        <cell>978-3-7001-7146-1</cell>
-                    </row>
-                    <row>
-                        <cell>Printausgabe erwerblich unter</cell>
-                        <cell/>
-                        <cell/>
-                        <cell><ref
-                                target="https://verlag.oeaw.ac.at/produkt/nuntiatur-des-girolamo-portia-und-korresondenz-des-hans-kobenzl-1592-1595/601160?product_form=593"
-                                >Link</ref></cell>
-                        <cell><ref
-                                target="https://verlag.oeaw.ac.at/produkt/grazer-nuntiatur-4-band/601425?product_form=538"
-                                >Link</ref></cell>
-                        <cell><ref
-                                target="https://verlag.oeaw.ac.at/produkt/grazer-nuntiatur-5-band/600719?product_form=424"
-                                >Link</ref></cell>
-                    </row>
-                </table>
-            </div>
-            <div>
-                <p>Ziel dieser Website ist es, sowohl die Briefe als auch die editorische Arbeit
+                <p>Diese digitale Edition umfasst die Korrespondenz der Nuntiatur von Papst Pius XI.
+                    und bietet einen Einblick in die diplomatischen Beziehungen des Heiligen Stuhls
+                    während seines Pontifikats (1922-1939). Die Edition dokumentiert die
+                    Kommunikation zwischen dem päpstlichen Nuntius und dem Vatikan sowie mit
+                    staatlichen und kirchlichen Akteuren.</p>
+                <p>Die zugrunde liegenden Dokumente wurden an der Universität Passau kollationiert
+                    und ediert. Dabei wurden die Texte kritisch gesichtet, kommentiert und nach
+                    wissenschaftlichen Standards aufbereitet. Mit finanzieller Unterstützung des
+                    Österreichischen Historischen Instituts in Rom wurde die digitale Edition
+                    realisiert. Damit wird die Nuntiaturkorrespondenz einer breiten Öffentlichkeit
+                    zugänglich gemacht und die Erforschung der diplomatischen Tätigkeit des Heiligen
+                    Stuhls in der Zwischenkriegszeit ermöglicht.</p>
+                <p>Vorraussichtlich ab April 2025 werden drei der insgesamt fünf Mappen mit den
+                    Originaldokumenten der Öffentlichkeit zugänglich gemacht. In den folgenden
+                    Projektphasen wird die Edition sukzessive um weitere Dokumente ergänzt. Ziel ist
+                    es, die gesamte Korrespondenz als Open-Access-Edition digital zugänglich zu
+                    machen.</p>
+                <p>Es wurde versucht, die wichtigsten Merkmale der Originaldokumente auf
+                    verschiedene Weise visuell darzustellen. Dadurch konnte der Entstehungsprozess
+                    sichtbar gemacht werden. Neben der "Annotationsansicht" wird auch eine
+                    "Leseansicht" zur Verfügung gestellt.</p>
+                <p>Ziel dieser Website ist es, sowohl die Dokumente als auch die editorische Arbeit
                     einem breiten Publikum zugänglich zu machen und die Recherche durch verschiedene
                     Zugangsmöglichkeiten zu erleichtern. Dazu stehen mehrere Möglichkeiten zur
-                    Verfügung: <list type="ordered">
-                        <item>Das Briefverzeichnis (unter Menüpunkt »Briefe«), das alle
-                            digitalisierten Briefe auflistet und nach diversen Kategorien sortiert
-                            und durchsucht werden kann.</item>
+                    Verfügung: <list>
+                        <item>Das Dokumentverzeichnis (unter Menüpunkt »Dokumente«), das alle
+                            digitalisierten Dokumente auflistet und nach diversen Kategorien
+                            sortiert und durchsucht werden kann.</item>
                         <item>Die Kalenderansicht (unter Menüpunkt »Kalender«) ermöglicht den
                             Zugriff auf die Briefe aus einer zeitlichen Perspektive.</item>
-                        <item>Das Register (unter Menüpunkt »Register«), das über alle Bände hinweg
-                            auf die wichtigsten Entitäten verweist. </item>
                         <item>Die Volltextsuche (unter Menüpunkt »Suche«), ergänzt durch die
                             Möglichkeit, die Suchergebnisse nach verschiedenen Facetten zu
                             filtern.</item>
                     </list></p>
+                <p>Die Briefe sind in deutscher und italienischer Sprache verfasst. Mithilfe der
+                    Übersetzungsfunktion des Browsers ist es möglich die Inhalte zu übersetzen,
+                    wobei Google Chrome die besten Ergebnisse liefert.</p>
+                <p>Die Daten sind mit einer freien Lizenz versehen (CC BY&#160;4.0). Sie ermöglicht
+                    es, ohne Nachfrage, aber mit Nennung der Datenherkunft, die Daten
+                    weiterzuverwenden und zu bearbeiten. Die Daten selbst folgen weitgehend den
+                    Empfehlungen der <ref target="https://tei-c.org/guidelines/p5/">TEI P5</ref>.
+                    Die Kodierung wird im Menüpunkt »<ref target="elements.html"
+                        >Kodierungsrichtlinien</ref>« separat beschrieben.</p>
+                <p>Wie handwerklich vorgegangen wurde, lässt sich unter »<ref type="URL"
+                        target="workflow.html">Arbeitsablauf</ref>« nachlesen. Die XML-Dokumente
+                    können über ein <ref
+                        target="https://github.com/nuntiaturberichte/nbr-pius-xi-data"
+                        >GitHub-Repositorium</ref> heruntergeladen werden.</p>
+                <p>Die Webseite, die zur Ansicht der Daten zur Verfügung gestellt wird, ist keine
+                    Eigenentwicklung, sondern basiert auf dem <ref
+                        target="https://github.com/acdh-oeaw/dse-static-cookiecutter"
+                        >DSE-Static-Cookiecutter</ref> von Peter Andorfer. Die dazugehörigen Daten
+                    können ebenso über ein <ref
+                        target="https://github.com/nuntiaturberichte/nbr-pius-xi-static"
+                        >GitHub-Repositorium</ref> geladen werden. Dass von der »Ansicht der Daten«
+                    die Rede ist, soll auch deutlich machen, dass die Website als <emph>eine</emph>
+                    mögliche Art verstanden wird, die Daten zu betrachten. Sie ist aber nicht die
+                    einzige. Komplexere Filterungen sind in dieser Webapplikation nicht vorgesehen,
+                    es steht aber allen frei, entsprechende Anwendungen zu entwickeln.</p>
             </div>
-            <div type="text_and_img">
-                <div xml:id="text">
-                    <p>Die Briefe sind größtenteils in italienischer und teilweise in lateinischer
-                        Sprache verfasst. Für Personen, die dieser Sprachen nicht mächtig sind, wird
-                        empfohlen, die Übersetzungsfunktion des jeweiligen Browsers zu verwenden,
-                        wobei Google Chrome die besten Ergebnisse liefert.</p>
-                    <p>Die Daten sind mit einer freien Lizenz versehen (CC BY&#160;4.0). Sie
-                        ermöglicht es, ohne Nachfrage, aber mit Nennung der Datenherkunft, die Daten
-                        weiterzuverwenden und zu bearbeiten. Die Daten selbst folgen weitgehend den
-                        Empfehlungen der <ref target="https://tei-c.org/guidelines/p5/">TEI
-                        P5</ref>. Die Kodierung wird im Menüpunkt »<ref
-                            target="kodierungsrichtlinien.html">Kodierungsrichtlinien</ref>« separat
-                        beschrieben.</p>
-                    <p>Unter »Bandeinleitungen« findet man zu jedem Band historische
-                        Kontextualisierung, Quellenangaben, Literatur- sowie Abkürzungsverzeichnisse
-                        und Auflistungen benutzter Archive.</p>
-                    <p>Wie handwerklich vorgegangen wurde, lässt sich unter »<ref type="URL"
-                            target="arbeitsablauf.html">Arbeitsablauf</ref>« nachlesen. Die
-                        XML-Dokumente können über ein <ref
-                            target="https://github.com/nuntiaturberichte/nbr-graz-data"
-                            >GitHub-Repositorium</ref> heruntergeladen werden.</p>
-                    <p>Die Webseite, die zur Ansicht der Daten zur Verfügung gestellt wird, ist
-                        keine Eigenentwicklung, sondern basiert auf dem <ref
-                            target="https://github.com/acdh-oeaw/dse-static-cookiecutter"
-                            >DSE-Static-Cookiecutter</ref> von Peter Andorfer. Die dazugehörigen
-                        Daten können ebenso über ein <ref
-                            target="https://github.com/nuntiaturberichte/nbr-graz-static"
-                            >GitHub-Repositorium</ref> geladen werden. Dass von der »Ansicht der
-                        Daten« die Rede ist, soll auch deutlich machen, dass die Website als <emph>eine</emph>
-                        mögliche Art verstanden wird, die Daten zu betrachten. Sie ist aber nicht
-                        die einzige. Komplexere Filterungen sind in dieser Webapplikation nicht vorgesehen, es steht aber allen frei, entsprechende Anwendungen zu entwickeln.</p>
-                </div>
-                <div xml:id="img">
-                    <figure source="./images/portrait.png">
-                        <desc>Portrait von Girolamo Portia</desc>
-                        <p>Portrait des Girolamo conte de Portia (1559-1612) im Alter von 48 Jahren,
-                            1607</p>
-                    </figure>
-                    <figure source="./images/fac-1.png">
-                        <desc>Faksimile eines Briefes von Portia vom 1. September 1597</desc>
-                        <p>Schreiben Portias vom 1. September 1597</p>
-                    </figure>
-                    <figure source="./images/fac-2.png">
-                        <desc>Faksimile eines Briefes von Kardinal Aldobrandini vom 6. Mai
-                            1600</desc>
-                        <p>Originale Weisung Kardinal Aldobrandinis an Portia, 6. Mai 1600</p>
-                    </figure>
-                    <figure source="./images/fac-3.png">
-                        <desc>Faksimile eines Briefes von Kardinal San Giorgios vom 11. März
-                            1600</desc>
-                        <p>Originale Weisung Kardinal San Giorgios an Portia, 11. März 1600</p>
-                    </figure>
-                    <figure source="./images/siegel-orig.png">
-                        <desc>Siegel von Portia</desc>
-                        <p>Siegel von Portia am Notariatsinstrument für die Trennung der Ehe des
-                            Fürstenpaares von Siebenbürgen, 16. August 1599</p>
-                    </figure>
-                    <figure source="./images/siegel-abdr.png">
-                        <desc>Zeichnung des Siegelabdrucks</desc>
-                        <p>Zeichnung angefertigt und zur Verfügung gestellt von Dr. Ludwig
-                            Freidinger</p>
-                    </figure>
-                </div>
-            </div>
+
             <div>
                 <head type="sub">Rechte</head>
                 <p>Auf eine wichtige Einschränkung bei Fragen der Rechte sei gesondert hingewiesen:
@@ -211,6 +116,7 @@
                     Urheberrechtsinhabern und -inhaberinnen die Erlaubnis gegeben, diese
                     aufzunehmen. Das heißt nicht, dass diese nunmehr gemeinfrei sind.</p>
             </div>
+
             <div>
                 <head type="sub">Beteiligte Personen</head>
                 <table type="pers">
@@ -221,34 +127,48 @@
                     </row>
                     <row n="1">
                         <cell>Univ.-Doz. Dr. Andreas Gottsmann</cell>
-                        <cell>Auftraggeber</cell>
-                        <cell>2022-2024</cell>
+                        <cell>Auftraggeber Digitalisierung</cell>
+                        <cell>Jänner 2025 - [April 2025]</cell>
                     </row>
                     <row n="2">
-                        <cell>Martin Kroißenbrunner B.Ed., M.A.</cell>
-                        <cell>Transkription, Erstellung der TEI-Dokumente, Erstellung der
-                            Webapplikation</cell>
-                        <cell>2022-2024</cell>
+                        <cell>Dr. Bernhard Kronegger</cell>
+                        <cell>Kollation, Transkription, Edition</cell>
+                        <cell>2020-[2025]</cell>
+                    </row>
+                    <row n="2">
+                        <cell>Dr. Sandra Kremon</cell>
+                        <cell>Kollation</cell>
+                        <cell>2025</cell>
                     </row>
                     <row n="3">
-                        <cell>Mag. Dr. Peter Andorfer</cell>
-                        <cell>Volltextsuche, Deployment der Webapplikation</cell>
-                        <cell>2024</cell>
+                        <cell>Dame die Mappe 1 transkribiert hat</cell>
+                        <cell>Transkription</cell>
+                        <cell>???</cell>
                     </row>
                     <row n="4">
-                        <cell>Sabine Kofler B.A., M.A.</cell>
-                        <cell>Lektorat Band 2 und 3</cell>
-                        <cell>2023</cell>
+                        <cell>Martin Kroißenbrunner B.Ed., M.A.</cell>
+                        <cell>Transkription, Erstellung TEI-Dokumente, Internetstellung</cell>
+                        <cell>Jänner 2025 - [April 2025]</cell>
                     </row>
                     <row n="5">
                         <cell>Mag. Daniel Schopper</cell>
-                        <cell>Beratung</cell>
-                        <cell>2022-2024</cell>
+                        <cell>Erstellung TEI-Vorlage</cell>
+                        <cell>???</cell>
                     </row>
                     <row n="6">
                         <cell>Dr. Stephan Kurz</cell>
-                        <cell>Beratung, Korrekturen Webapplikation</cell>
-                        <cell>2022-2024</cell>
+                        <cell>Erstellung TEI-Vorlage</cell>
+                        <cell>???</cell>
+                    </row>
+                    <row n="3">
+                        <cell>Mag. Dr. Peter Andorfer</cell>
+                        <cell>???</cell>
+                        <cell>???</cell>
+                    </row>
+                    <row n="3">
+                        <cell>...</cell>
+                        <cell>...</cell>
+                        <cell>...</cell>
                     </row>
                 </table>
             </div>

@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="s">Grazer Nuntiaturberichte</title>
+                <title level="s">Nuntiatur Pius XI</title>
                 <title level="a">Kodierungsrichtlinien</title>
                 <author>
                     <persName>
@@ -44,240 +44,442 @@
     </teiHeader>
     <text>
         <body>
-            <div type="1">
+            <div>
                 <p>In den folgenden Abschnitten werden die wesentlichen Elemente und Attribute, die
                     in den TEI-Dateien verwendet werden, detailliert aufgeführt. Diese Aufstellung
                     beinhaltet wichtige Informationen über etwaige Normalisierungen und
-                    projektbezogene Anpassungen.
-                    Dabei wurde das Vorgehen und die Strukturierung der Elemente stark an der <ref
-                        target="https://schnitzler-briefe.acdh.oeaw.ac.at/elemente.html"
-                        >Schnitzler-Briefedition</ref> orientiert. Diese Dokumentation richtet sich
-                    nicht nur an Forscherinnen und Forscher, die mit diesen Daten weiterarbeiten
-                    möchten, sondern dient auch uns selbst als Orientierungshilfe und
-                    Arbeitsanleitung, ähnlich einem Stylesheet.</p>
+                    projektbezogene Anpassungen. </p>
+                <p>Diese Dokumentation richtet sich nicht nur an Forscherinnen und Forscher, die mit
+                    diesen Daten weiterarbeiten möchten, sondern dient auch uns selbst als
+                    Orientierungshilfe und Arbeitsanleitung, ähnlich einem Stylesheet.</p>
+                <p>Die XML-Dateien, die <ref
+                        target="https://github.com/nuntiaturberichte/nbr-pius-xi-data">hier</ref> zu
+                    finden sind, folgen im Wesentlichen den Richtlinien der <ref
+                        target="https://tei-c.org/guidelines/P5/">TEI P5</ref>. In den folgenden
+                    Abschnitten werden lediglich jene Elemente hervorgehoben und erklärt, die
+                    zusätzliche Erläuterungen erfordern.</p>
 
-                <div type="2">
-                    <head type="2">Allgemein</head>
-                    <p>Die XML-Dateien, die <ref
-                            target="https://github.com/nuntiaturberichte/nbr-graz-data">hier</ref>
-                        zu finden sind, folgen im Wesentlichen den Richtlinien der <ref
-                            target="https://tei-c.org/guidelines/P5/">TEI P5</ref>. In den folgenden
-                        Abschnitten werden lediglich jene Elemente hervorgehoben und erklärt, die
-                        zusätzliche Erläuterungen erfordern.</p>
-
-                    <p>Da es sich bei diesem Projekt um eine Retrodigitalisierung handelt, in der
-                        bereits edierte Briefwechsel aus gedruckten Publikationen ins Internet
-                        überführt werden, wurde aus Gründen der Konsistenz beschlossen, die Quelle
-                        als Buch und nicht als Sammlung einzelner Briefe zu behandeln. Dies erklärt,
-                        warum typische Elemente für Briefe in den Dokumenten nicht verwendet
-                        werden.</p>
-
-                    <p>Nachstehend wird ein Beispiel für die Kodierung einer Seite in TEI
-                        vorgestellt. Das Bild zeigt auf der linken Seite eine gescannte Seite des
-                        vierten Bandes. Die mittleren Kästchen enthalten die angewandten
-                        TEI-Kodierungen, während die Kästchen auf der rechten Seite den
-                        vollständigen XPath angeben, der beschreibt, wo sich das jeweilige Element
-                        in der XML-Datei befindet.</p>
-                    <figure xml:id="kodierung-bsp.png" source="./images/kodierung-bsp.png">
-                        <desc>Visualisierung der Kodierung einer physischen Buchseite</desc>
-                    </figure>
-                </div>
-
-                <div type="2">
-                    <head type="2">Verwendete Elemente</head>
-                    <!-- eigene paragraphen (später ev in kursiv) für front.xml -->
+                <div type="1">
+                    <head type="1">Verwendete Elemente</head>
                     <p>Die Elemente sind in der Reihenfolge aufgelistet, in der sie typischerweise
-                        in den Dateien vorkommen. Für jedes Element wird in Listenpunkten der
-                        entsprechende XPath angegeben, ebenso wie die Information, ob das jeweilige
-                        Element für einen Brief zwingend erforderlich ist.</p>
-                    <div type="3">
-                        <head type="3">TEI[@xml:id]</head>
-                        <list>
-                            <item>XPath: /TEI</item>
-                            <item>erforderlich: ja</item>
-                        </list>
-                        <p>Das <code>TEI</code>-Element ist das Wurzelelement eines Briefes. Das
-                            Attribut <code>@xml:id</code> enthält als Wert die Band- und Briefnummer
-                            und matcht den RegEx <code>"L(\d)_([\d\.]{5})"</code> (beispielsweise
-                                <code>"L1_00001"</code>). In diesem Format entspricht
-                                <code>$1</code> der Bandnummer und <code>$2</code> der
-                            Briefnummer.</p>
+                        in den Dateien vorkommen. Neben der Beschreibung wird für jedes Element in
+                        Listenpunkten der entsprechende XPath angegeben, ebenso wie die Information,
+                        ob das jeweilige Element für ein Dokument zwingend erforderlich ist.</p>
+
+                    <div type="2">
+                        <head type="2">teiHeader</head>
+                        <p>Der <code>teiHeader</code> enthält Metadaten zum Dokument und gliedert
+                            sich in mehrere Abschnitte.</p>
+
+                        <div type="3">
+                            <head type="3">sourceDesc</head>
+
+                            <div type="4">
+                                <head type="4">msDesc</head>
+
+                                <div type="5">
+                                    <head type="5">msDesc > @type</head>
+                                    <list>
+                                        <item>XPath:
+                                            /TEI/teiHeader/fileDesc/sourceDesc/msDesc/@type</item>
+                                        <item>erforderlich: ja</item>
+                                    </list>
+                                    <p>Dieses Attribut beschreibt den Dokumententyp und kann
+                                        folgende Werte annehmen:</p>
+                                    <list type="circle">
+                                        <item>
+                                            <code>Reinschrift</code>
+                                        </item>
+                                        <item>
+                                            <code>Konzept</code>
+                                        </item>
+                                        <item>
+                                            <code>Abschrift</code>
+                                        </item>
+                                    </list>
+                                </div>
+
+                                <div type="5">
+                                    <head type="5">msIdentifier</head>
+
+                                    <div type="6">
+                                        <head type="6">repository</head>
+                                        <list>
+                                            <item>XPath:
+                                                /TEI/teiHeader/fileDesc/sourceDesc/msDesc/msIdentifier/repository</item>
+                                            <item>erforderlich: ja</item>
+                                        </list>
+                                        <p>Dieses Element enthält das Archivkürzel sowie weitere
+                                            Identifier für den Bestand. Beispiele für Kürzel:</p>
+                                        <list type="circle">
+                                            <item><code>AA.EE.SS.</code> = Archivio Storico della
+                                                Congregazione degli Affari Ecclesiastici
+                                                Straordinari</item>
+                                            <item><code>AAV</code> = Archivio Apostolico
+                                                Vaticano</item>
+                                        </list>
+                                    </div>
+
+                                    <div type="6">
+                                        <head type="6">idno[@type="archive"]</head>
+                                        <list>
+                                            <item>XPath:
+                                                /TEI/teiHeader/fileDesc/sourceDesc/msDesc/msIdentifier/idno[@type="archive"]</item>
+                                            <item>erforderlich: ja</item>
+                                        </list>
+                                        <p>Dieses Element enthält die Angaben, die das jeweilige
+                                            Dokument innerhalb des Bestands auffindbar machen.</p>
+                                    </div>
+
+                                    <div type="6">
+                                        <head type="6"
+                                            >idno[@type="institutional"][@subtype="internal"]</head>
+                                        <list>
+                                            <item>XPath:
+                                                /TEI/teiHeader/fileDesc/sourceDesc/msDesc/msIdentifier/idno[@type="institutional"][@subtype="internal"]</item>
+                                            <item>erforderlich: nein</item>
+                                        </list>
+                                        <p>Enthält die von der archivierenden Institution vergebene
+                                            Registernummer.</p>
+                                    </div>
+
+                                    <div type="6">
+                                        <head type="6"
+                                            >idno[@type="institutional"][@subtype="external"]</head>
+                                        <list>
+                                            <item>XPath:
+                                                /TEI/teiHeader/fileDesc/sourceDesc/msDesc/msIdentifier/idno[@type="institutional"][@subtype="external"]</item>
+                                            <item>erforderlich: nein</item>
+                                        </list>
+                                        <p>Enthält Registernummern des Dokuments, die von anderen
+                                            Institutionen als der archivierenden vergeben
+                                            wurden.</p>
+                                    </div>
+                                </div>
+
+                                <div type="5">
+                                    <head type="5">msContents > msItem >
+                                        note[@type="keyword"]</head>
+                                    <list>
+                                        <item>XPath:
+                                            /TEI/teiHeader/fileDesc/sourceDesc/msDesc/msContents/msItem/note[@type="keyword"]</item>
+                                        <item>erforderlich: nein</item>
+                                    </list>
+                                    <p>Dieses Element enthält Schlüsselwörter, über die das Dokument
+                                        im Register auffindbar ist.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div type="3">
+                            <head type="3">physDesc</head>
+
+                            <div type="4">
+                                <head type="4">scriptDesc > ab</head>
+                                <list>
+                                    <item>XPath:
+                                        /TEI/teiHeader/fileDesc/sourceDesc/physDesc/scriptDesc/ab</item>
+                                    <item>erforderlich: nein</item>
+                                </list>
+                                <p>Dieses Element beschreibt die Art der Schrift des Dokuments.
+                                    Mögliche Werte sind:</p>
+                                <list type="circle">
+                                    <item>
+                                        <code>Maschinenschriftlich</code>
+                                    </item>
+                                    <item>
+                                        <code>Handschriftlich</code>
+                                    </item>
+                                    <item>
+                                        <code>Gesetzt</code>
+                                    </item>
+                                </list>
+                            </div>
+                        </div>
+
+                        <div type="3">
+                            <head type="3">profileDesc</head>
+
+                            <div type="4">
+                                <head type="4">abstract > p</head>
+                                <list>
+                                    <item>XPath: /TEI/teiHeader/profileDesc/abstract/p</item>
+                                    <item>erforderlich: nein</item>
+                                </list>
+                                <p>Dieses Element enthält eine Kurzbeschreibung des Dokuments.</p>
+                            </div>
+                        </div>
+
+                        <div type="3">
+                            <head type="3">correspDesc</head>
+
+                            <div type="4">
+                                <head type="4">correspAction[@type="sent"]</head>
+                                <list>
+                                    <item>XPath:
+                                        /TEI/teiHeader/profileDesc/correspDesc/correspAction[@type="sent"]</item>
+                                    <item>erforderlich: nein</item>
+                                </list>
+                                <p>Dieses Element beschreibt den Absender des Dokuments mit den
+                                    Unterelementen:</p>
+                                <list type="circle">
+                                    <item><code>persName</code> – Name des Absenders</item>
+                                    <item><code>date</code> – Datum der Sendung</item>
+                                    <item><code>placeName</code> – Ort der Sendung</item>
+                                </list>
+                            </div>
+
+                            <div type="4">
+                                <head type="4">correspAction[@type="received"]</head>
+                                <list>
+                                    <item>XPath:
+                                        /TEI/teiHeader/profileDesc/correspDesc/correspAction[@type="received"]</item>
+                                    <item>erforderlich: nein</item>
+                                </list>
+                                <p>Dieses Element beschreibt den Empfänger des Dokuments. In der
+                                    Regel fehlt das Datum, mit Ausnahme von Telegrammen.</p>
+                            </div>
+                        </div>
                     </div>
 
-                    <div type="3">
-                        <head type="3">teiHeader</head>
-                        <p>Der <code>teiHeader</code> enthält folgende Elemente:</p>
+                    <div type="2">
+                        <head type="2">text</head>
+                        <p>Das <code>text</code>-Element enthält den Hauptinhalt eines Dokuments und
+                            seine Struktur.</p>
 
-                        <div type="4">
-                            <head type="4">collection</head>
+                        <div type="3">
+                            <head type="3">text > @type</head>
                             <list>
-                                <item>XPath:
-                                    /TEI/teiHeader/fileDesc/sourceDesc/msDesc/msIdentifier/collection</item>
+                                <item>XPath: /TEI/text/@type</item>
                                 <item>erforderlich: ja</item>
                             </list>
-                            <p>Dieses Element enthält die Archivsignatur des Manuskripts. Falls
-                                Zeilenumbrüche verwendet wurden, um mehrere Signaturen voneinander
-                                zu trennen, kann das Element <code>lb</code> darin enthalten sein.
-                                Eine vollständige Liste aller verwendeten Archive ist in der
-                                jeweiligen Bandeinleitung zum Brief zu finden.</p>
+                            <p>Dieses Attribut gibt den Dokumenttyp an. Mögliche Werte sind:</p>
+                            <list type="circle">
+                                <item><code>Brief</code></item>
+                                <item><code>Bericht</code></item>
+                                <item><code>Telegramm</code></item>
+                                <item><code>Vermerk</code></item>
+                                <item><code>Archivsnotiz</code></item>
+                            </list>
                         </div>
 
-                        <div type="4">
-                            <head type="4">bibl[@type="regest"]</head>
+                        <div type="3">
+                            <head type="3">pb[@n]</head>
                             <list>
-                                <item>XPath: /TEI/teiHeader/fileDesc/sourceDesc/bibl</item>
+                                <item>XPath: /TEI/text/body/pb</item>
                                 <item>erforderlich: nein</item>
                             </list>
-                            <p>Dieses Element verweist auf externe Regesten. Mehrere Verweise werden
-                                durch das Element <code>lb</code> getrennt.</p>
+                            <p>Dieses Element markiert den Beginn einer neuen Seite und dient der
+                                grafischen Darstellung des Dokuments.</p>
                         </div>
 
-                        <div type="4">
-                            <head type="4">bibl[@type="druck"]</head>
-                            <list>
-                                <item>XPath: /TEI/teiHeader/fileDesc/sourceDesc/bibl</item>
-                                <item>erforderlich: nein</item>
-                            </list>
-                            <p>Dieses Element verweist auf gedruckte Ausgaben des Briefes. Auch hier
-                                wird <code>lb</code> verwendet, um mehrere Verweise zu trennen.</p>
+                        <div type="3">
+                            <head type="3">body</head>
+                            <p>Das <code>body</code>-Element enthält den eigentlichen Inhalt des
+                                Dokuments.</p>
+
+                            <div type="4">
+                                <head type="4">opener > seg[@type="subjectLine"]</head>
+                                <list>
+                                    <item>XPath:
+                                        /TEI/text/body/opener/seg[@type="subjectLine"]</item>
+                                    <item>erforderlich: nein</item>
+                                </list>
+                                <p>Dieses Element enthält die vom Autor gegebene Betreffzeile in der
+                                    Originalsprache.</p>
+                            </div>
+
+                            <div type="4">
+                                <head type="4">opener > salute</head>
+                                <list>
+                                    <item>XPath: /TEI/text/body/opener/salute</item>
+                                    <item>erforderlich: nein</item>
+                                </list>
+                                <p>Dieses Element enthält die Grußformel des Dokuments.</p>
+                            </div>
+
+                            <div type="4">
+                                <head type="4">p</head>
+                                <list>
+                                    <item>XPath: /TEI/text/body/p</item>
+                                    <item>erforderlich: ja</item>
+                                </list>
+                                <p>Jedes <code>p</code>-Element stellt einen Absatz des Textes
+                                    dar.</p>
+                            </div>
+
+                            <div type="4">
+                                <head type="4">note[@type="foliation"][@rend]</head>
+                                <list>
+                                    <item>XPath: /TEI/text/body/note[@type="foliation"]</item>
+                                    <item>erforderlich: nein</item>
+                                </list>
+                                <p>Dieses Element zeigt an, wo Archivare eine Nummer zur Folierung
+                                    angebracht haben. Das Attribut <code>@rend</code> gibt an, ob
+                                    die Nummer maschinengeschrieben oder handschriftlich ist:</p>
+                                <list type="circle">
+                                    <item><code>typewritten</code></item>
+                                    <item><code>handwritten</code></item>
+                                </list>
+                            </div>
+
+                            <div type="4">
+                                <head type="4">note[@type="footnote"]</head>
+                                <list>
+                                    <item>XPath: /TEI/text/body/note[@type="footnote"]</item>
+                                    <item>erforderlich: nein</item>
+                                </list>
+                                <p>Dieses Element enthält Fußnoten zum Text.</p>
+                            </div>
                         </div>
 
-                        <div type="4">
-                            <head type="4">bibl[@type="beilage"]</head>
-                            <list>
-                                <item>XPath: /TEI/teiHeader/fileDesc/sourceDesc/bibl</item>
-                                <item>erforderlich: nein</item>
-                            </list>
-                            <p>Dieses Element verweist auf Beilagen. Die Verweise werden ebenfalls
-                                durch <code>lb</code> getrennt.</p>
+                        <div type="3">
+                            <head type="3">closer</head>
+                            <p>Das <code>closer</code>-Element enthält die abschließenden Elemente
+                                eines Dokuments.</p>
+
+                            <div type="4">
+                                <head type="4">closer > salute</head>
+                                <list>
+                                    <item>XPath: /TEI/text/body/closer/salute</item>
+                                    <item>erforderlich: nein</item>
+                                </list>
+                                <p>Dieses Element enthält die Schlussformel des Dokuments.</p>
+                            </div>
+
+                            <div type="4">
+                                <head type="4">closer > signed[@rend="handwritten"]</head>
+                                <list>
+                                    <item>XPath:
+                                        /TEI/text/body/closer/signed[@rend="handwritten"]</item>
+                                    <item>erforderlich: nein</item>
+                                </list>
+                                <p>Dieses Element enthält die handschriftliche Unterschrift des
+                                    Autors.</p>
+                            </div>
                         </div>
+                        <div type="3">
+                            <head type="3">Beschreibung des Entstehungsprozesses</head>
+                            <p>Dieses Segment beschreibt editorische Eingriffe und Annotationen, die
+                                während des Schreibprozesses oder durch spätere Leser vorgenommen
+                                wurden.</p>
 
-                        <div type="4">
-                            <head type="4">correspDesc</head>
-                            <list>
-                                <item>XPath: /TEI/teiHeader/profileDesc/correspDesc</item>
-                                <item>erforderlich: nein</item>
-                            </list>
-                            <p><code>correspDesc</code> enthält eine standardisierte Beschreibung
-                                des Übermittlungsvorgangs eines Korrespondenzstücks (Absender, Empfänger,
-                                Orte, Daten). Diese von der TEI-SIG Correspondence entwickelte 
-                                Struktur wird u.a. von der Online-Plattform <ref target="https://correspsearch.net"
-                                    >correspSearch.net</ref> genutzt, um Informationen zu
-                                Briefwechseln zu speichern und zugänglich zu machen.</p>
-                        </div>
+                            <div type="4">
+                                <head type="4">hi[@rend="underline"]</head>
+                                <list>
+                                    <item>XPath: /TEI/text/body//hi[@rend="underline"]</item>
+                                    <item>erforderlich: nein</item>
+                                </list>
+                                <p>Dieses Element zeigt eine Unterstreichung im Dokument an. Falls
+                                    erkennbar, von welcher Hand die Unterstreichung stammt, wird
+                                    dies mit dem Attribut <code>@hand</code> angegeben:</p>
+                                <list type="circle">
+                                    <item><code>hand="Autor"</code> – Der Autor selbst hat
+                                        unterstrichen.</item>
+                                    <item><code>hand="#LF"</code> – Kürzel für eine bestimmte
+                                        Person, z.B. Luigi Faidutti.</item>
+                                    <item><code>hand="#UR"</code> – Ein unbekannter Leser hat
+                                        unterstrichen.</item>
+                                </list>
+                            </div>
 
-                        <div type="4">
-                            <head type="4">abstract</head>
-                            <list>
-                                <item>XPath: /TEI/teiHeader/profileDesc/abstract</item>
-                                <item>erforderlich: nein</item>
-                            </list>
-                            <p>Dieses Element enthält die vom Editor verfasste Zusammenfassung des
-                                Briefes.</p>
-                        </div>
-                    </div>
+                            <div type="4">
+                                <head type="4">hi[@rend="mark"]</head>
+                                <list>
+                                    <item>XPath: /TEI/text/body//hi[@rend="mark"]</item>
+                                    <item>erforderlich: nein</item>
+                                </list>
+                                <p>Eine längere Textstelle wurde mit einem vertikalen Strich am Rand
+                                    markiert. In der Regel stammt diese Markierung von einem
+                                    unbekannten Leser (<code>hand="#UR"</code>).</p>
+                            </div>
 
-                    <div type="3">
-                        <head type="3">text</head>
-                        <p>Im <code>text</code>-Element befinden sich folgende Elemente:</p>
+                            <div type="4">
+                                <head type="4">subst</head>
+                                <list>
+                                    <item>XPath: /TEI/text/body//subst</item>
+                                    <item>erforderlich: nein</item>
+                                </list>
+                                <p>Dieses Element umfasst eine Kombination aus einer Löschung
+                                        (<code>del</code>) und einer Ergänzung (<code>add</code>),
+                                    die eine Korrektur oder Änderung des Originaltextes anzeigt.</p>
+                            </div>
 
-                        <div type="4">
-                            <head type="4">head[@n]</head>
-                            <list>
-                                <item>XPath: /TEI/text/body/head</item>
-                                <item>erforderlich: ja</item>
-                            </list>
-                            <p>Dieses Element enthält den Briefkopf, wobei das Attribut
-                                    <code>n</code> die Briefnummer spezifiziert.</p>
-                        </div>
+                            <div type="4">
+                                <head type="4">del[@rend="strikethrough"]</head>
+                                <list>
+                                    <item>XPath: /TEI/text/body//del[@rend="strikethrough"]</item>
+                                    <item>erforderlich: nein</item>
+                                </list>
+                                <p>Dieses Element zeigt an, dass ein Text durchgestrichen wurde:</p>
+                                <list type="circle">
+                                    <item>Text ist noch lesbar:
+                                            <code>del[@rend="strikethrough"]</code></item>
+                                    <item>Text wurde unleserlich:
+                                            <code>del[@rend="strikethrough"]/gap[@reason="strikethrough"]</code></item>
+                                </list>
+                            </div>
 
-                        <div type="4">
-                            <head type="4">div</head>
-                            <list>
-                                <item>XPath: /TEI/text/body/div</item>
-                                <item>erforderlich: ja</item>
-                            </list>
-                            <p>Das <code>div</code>-Element gruppiert die Paragraphen eines
-                                Briefes.</p>
-                        </div>
+                            <div type="4">
+                                <head type="4">del > gap[@reason="overwritten"]</head>
+                                <list>
+                                    <item>XPath:
+                                        /TEI/text/body//del/gap[@reason="overwritten"]</item>
+                                    <item>erforderlich: nein</item>
+                                </list>
+                                <p>Dieses Element zeigt an, dass der ursprüngliche Text durch eine
+                                    Überschreibung unleserlich gemacht wurde.</p>
+                                <p>Zusätzlich kann für die Visualisierung spezifiziert werden, wie
+                                    viele Zeichen betroffen sind:</p>
+                                <list type="circle">
+                                    <item><code>unit="char"|"words"</code> - die Einheit</item>
+                                    <item><code>quantity="x"</code> – Anzahl der überschriebenen
+                                        Einheiten.</item>
+                                </list>
+                            </div>
 
-                        <div type="4">
-                            <head type="4">pb[@xml:id]</head>
-                            <list>
-                                <item>XPath: /TEI/teiHeader/profileDesc/abstract//pb |<lb/>
-                                    /TEI/text/body/div//pb</item>
-                                <item>erforderlich: nein</item>
-                            </list>
-                            <p>Dieses Element markiert den Beginn einer Seite und dient als Sprungziel für
-                                Verlinkungen aus dem Register. Das Attribut <code>@xml:id</code>
-                                enthält die Band- und Seitennummer, die im Format
-                                    <code>"P(\d)_(\d{7})"</code> angegeben wird. Beispiel:
-                                    <code>"P1_0000001"</code>. Hierbei steht <code>$1</code> für die
-                                Bandnummer und <code>$2</code> für die Seitennummer.</p>
+                            <div type="4">
+                                <head type="4">add</head>
+                                <list>
+                                    <item>XPath: /TEI/text/body//add</item>
+                                    <item>erforderlich: nein</item>
+                                </list>
+                                <p>Dieses Element zeigt hinzugefügten Text an.</p>
+                            </div>
 
-                            <p>Auch wenn es vom Grunddokument abweicht, kommt ein <code>pb</code> im
-                                XML-Dokument nur in den oben genannten Pfaden vor. Schließlich
-                                entschied man sich dazu, den Fußnotenapparat in eine
-                                In-Text-Zitierweise umzuwandeln, sodass sich die Seitenbeginne an
-                                den Fließtexten orientieren und nicht an den Fußnoten am Seitenende.
-                                Beginnt eine Seite mit einem Brief, steht das Element direkt nach
-                                    <code>div</code>. Wenn ein Seitenumbruch ein Wort teilt, steht
-                                    <code>pb</code> ohne Leerzeichen im Wort.</p>
-                        </div>
+                            <div type="4">
+                                <head type="4">add[@rend="overwritten"]</head>
+                                <list>
+                                    <item>XPath: /TEI/text/body//add[@rend="overwritten"]</item>
+                                    <item>erforderlich: nein</item>
+                                </list>
+                                <p>Der neue Text wurde durch das Überschreiben des ursprünglichen
+                                    Textes hinzugefügt.</p>
+                            </div>
 
-                        <div type="4">
-                            <head type="4">p</head>
-                            <list>
-                                <item>XPath: /TEI/text/body/div/p</item>
-                                <item>erforderlich: nein</item>
-                            </list>
-                            <p>Ein Absatz des Brieftexts.</p>
-                        </div>
+                            <div type="4">
+                                <head type="4">add[@place="above"]</head>
+                                <list>
+                                    <item>XPath: /TEI/text/body//add[@place="above"]</item>
+                                    <item>erforderlich: nein</item>
+                                </list>
+                                <p>Der neue Text wurde oberhalb der ursprünglichen Zeile
+                                    hinzugefügt.</p>
+                            </div>
 
-                        <div type="4">
-                            <head type="4">note[@type='siglum']</head>
-                            <list>
-                                <item>XPath: /TEI/text/body/head/note
-                                    |<lb/>/TEI/teiHeader/fileDesc/sourceDesc/msDesc/msIdentifier/collection/p/note
-                                    |<lb/>/TEI/teiHeader/fileDesc/sourceDesc/bibl[@type="beilage"]/note
-                                    |<lb/>/TEI/text/body/div/p/note</item>
-                                <item>erforderlich: nein</item>
-                            </list>
-                            <p>Dieses Element unterscheidet sich von einer regulären Fußnote
-                                    (<code>note[@type='footnote']</code>). Nach dem Verständnis der
-                                Editoren beziehen sich reguläre Fußnoten auf den Inhalt des Briefes,
-                                während Sigla philologische Aspekte des Textes wie Streichungen,
-                                Ergänzungen, schwer lesbare Wörter oder Textlücken kennzeichnen.
-                                Neben <code>@type</code> enthält dieses Element das Attribut
-                                    <code>@xml:id</code>, dessen Wert folgenden RegEx matcht:
-                                    <code>SN(\d)_([\d\.]{5}|[\d]{4}A)_([a-z])</code>.
-                                    <code>$1</code> bezieht sich auf die Band-, <code>$2</code> auf
-                                die Briefnummer und <code>$3</code> auf das Siglum.</p>
-                            <p>Sigla können Spannen bilden. In solchen Fällen verweist ein
-                                    <code>ref@target</code> auf das entsprechende
-                                    <code>note@xml:id</code></p>
-                        </div>
-
-                        <div type="4">
-                            <head type="4">note[@type='footnote']</head>
-                            <list>
-                                <item>XPath: /TEI/teiHeader/profileDesc/abstract/p/note
-                                    |<lb/>/TEI/text/body/head/note |<lb/>/TEI/text/body/div/p/note
-                                    |<lb/>/TEI/teiHeader/fileDesc/sourceDesc/msDesc/msIdentifier/collection/note
-                                    |<lb/>/TEI/teiHeader/fileDesc/sourceDesc/bibl[@type="beilage"]/note</item>
-                                <item>erforderlich: nein</item>
-                            </list>
-                            <p>Dieses Element bezieht sich auf die inhaltliche
-                                Ebene eines Briefes. Neben <code>@type</code> enthält dieses Element
-                                das Attribut <code>@xml:id</code>, dessen Wert folgenden RegEx
-                                matcht: <code>FN\d_([\d\.]{5}|[\d]{4}A)_\d{2}</code>.
-                                    <code>$1</code> bezieht sich auf die Band-, <code>$2</code> auf
-                                die Briefnummer und <code>$3</code> auf die Fußnotenziffer.</p>
+                            <div type="4">
+                                <head type="4">add[@place="below"]</head>
+                                <list>
+                                    <item>XPath: /TEI/text/body//add[@place="below"]</item>
+                                    <item>erforderlich: nein</item>
+                                </list>
+                                <p>Der neue Text wurde unterhalb der ursprünglichen Zeile
+                                    hinzugefügt.</p>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </body>
-
     </text>
 </TEI>
