@@ -24,8 +24,35 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <!-- To be decided -->
-            <publisher>Publication Information</publisher>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2025">2025</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                     vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                     verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                     kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
+                     Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
+                     nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
+                     oder Ihre Nutzung besonders. Keine weiteren Einschränkungen – Sie dürfen keine
+                     zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
+                     Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
+                     Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
+                     möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
+                     brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
+                     Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
+                     beschränken.</p>
+               </licence>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc status="Reinschrift">
@@ -57,25 +84,25 @@
                politische Lage in Österreich und vor allem in Wien berichtet und die Lage als
                alarmierend, kritisch und beunruhigend bezeichnet. Diese Nachrichten würden von den
                Sozialdemokraten flankiert von den Großdeutschen verbreitet, um die Regierung zu
-               stürzen, welche seit einiger Zeit ernste Maßnahmen gegen sie ergreife und die von
-               der vernünftigen öffentlichen Meinung gepriesen und ohne Vorbehalt befürwortet werde.
+               stürzen, welche seit einiger Zeit ernste Maßnahmen gegen sie ergreife und die von der
+               vernünftigen öffentlichen Meinung gepriesen und ohne Vorbehalt befürwortet werde.
                Eine dieser Maßnahmen bezog sich auf den Eisenbahnerstreik vom 1. März. Am 4. März
-               brachten die Sozialisten und Großdeutschen einen Antrag dafür ein, dass die
-               Regierung die harten Maßnahmen gegen die sozialistischen Eisenbahner vermindere.
-               Dieser Antrag wurde mit 81 zu 80 Stimmen angenommen, aber als man die Stimmen
-               überprüfte, wurde klar, dass ein sozialistischer Abgeordneter zwei Mal abgestimmt
-               hatte. Dies resultierte in einem unbeschreiblichen und gewalttätigen Tumult, in Folge
-               dessen der Nationalratspräsident Dr. Renner (Sozialist), sein erster Vizepräsident
-               Dr. Ramek (Christlichsozialer) und schließlich der zweite Vizepräsident Dr. Straffner
-               (Großdeutscher), da sie keine Ruhe herstellen konnten, ihre Resignation bekannt gaben,
-               und so die Sitzung ohne Präsidenten weder fortfahren noch geschlossen werden konnte.
-               Ein solcher Fall sei von der Verfassung nicht vorgesehen, aber biete der Regierung
-               einen großen Vorteil und ein wirklich leichtes Spiel. Am 15. März habe Dr. Straffner
-               mit Unterstützung der Großdeutschen versucht, die Sitzung vom 4. des Monats
+               brachten die Sozialisten und Großdeutschen einen Antrag dafür ein, dass die Regierung
+               die harten Maßnahmen gegen die sozialistischen Eisenbahner vermindere. Dieser Antrag
+               wurde mit 81 zu 80 Stimmen angenommen, aber als man die Stimmen überprüfte, wurde
+               klar, dass ein sozialistischer Abgeordneter zwei Mal abgestimmt hatte. Dies
+               resultierte in einem unbeschreiblichen und gewalttätigen Tumult, in Folge dessen der
+               Nationalratspräsident Dr. Renner (Sozialist), sein erster Vizepräsident Dr. Ramek
+               (Christlichsozialer) und schließlich der zweite Vizepräsident Dr. Straffner
+               (Großdeutscher), da sie keine Ruhe herstellen konnten, ihre Resignation bekannt
+               gaben, und so die Sitzung ohne Präsidenten weder fortfahren noch geschlossen werden
+               konnte. Ein solcher Fall sei von der Verfassung nicht vorgesehen, aber biete der
+               Regierung einen großen Vorteil und ein wirklich leichtes Spiel. Am 15. März habe Dr.
+               Straffner mit Unterstützung der Großdeutschen versucht, die Sitzung vom 4. des Monats
                wieder aufzunehmen. Die Regierung habe ihn aber freundlich darauf hingewiesen, dass
                dies gegen die Verfassung sei und dass man, wenn er auf seinem Vorhaben bestehe, die
-               Verfassung durchzusetzen gedenke. Die Aufständigen hätten geantwortet, dass sie
-               sich um jeden Preis im Parlament treffen würden und, falls man sie hindere, einen
+               Verfassung durchzusetzen gedenke. Die Aufständigen hätten geantwortet, dass sie sich
+               um jeden Preis im Parlament treffen würden und, falls man sie hindere, einen
                Generalstreik ausrufen würden. Die Regierung habe aber, auf den Notfall gut
                vorbereitet, den Nationalrat militärisch abgeriegelt und den angedrohten Streik
                abgewehrt. Sollte die Regierung, unterstützt von allen Menschen guten Sinnes, ihren

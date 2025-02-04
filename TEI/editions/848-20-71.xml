@@ -26,8 +26,35 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <ab/>
-            <!-- To be decided -->
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2025">2025</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                     vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                     verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                     kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
+                     Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
+                     nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
+                     oder Ihre Nutzung besonders. Keine weiteren Einschränkungen – Sie dürfen keine
+                     zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
+                     Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
+                     Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
+                     möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
+                     brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
+                     Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
+                     beschränken.</p>
+               </licence>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc status="Reinschrift">
@@ -70,19 +97,19 @@
                erforderlich mache. Des Weiteren müsse man sich der Arbeiterschaft zuwenden, um der
                Dominanz der Austromarxisten entgegenzuwirken. Die Situation könne verbessert werden,
                wenn vermehrt auf die Stimmen der Bischöfe unter der Leitung von Kardinal Piffl
-               gehört werden würde. Der Autor attestiert einen Mangel an Kirchen und Seelsorgern, wie
-               bereits aus einer Untersuchung unter dem Titel „Die Winterseelsorgenot“ eines „Mgr.
-               Giacomo Fried“ bekannt sei. Der Mangel an einheimischen Priestern könnte durch die
-               Entsendung ausländischer Priester behoben werden. Als Bedrohung beschreibt der Autor
-               die geringe Zahl an kirchlichen Schulen. Ihr Anteil läge in Wien nur bei 12%, während es sich
-               beim Rest um sozialistische Schulen handle, bei denen der Großteil der Direktoren
-               Sozialisten oder Freimaurer seien. Der Erfolg dieser Schulen sei darauf begründet,
-               dass sie durch die Finanzierung seitens der Sozialdemokratischen Partei kein Schulgeld verlangen müssten.
-               In Folge fehlender religiöser Erziehung gingen die frommen Praktiken unter
-               Jugendlichen zurück, stattdessen widme die Jugend sich verschiedenen Sportarten. Die
-               Sozialisten würden danach trachten nun auch noch die Höheren Schulen und
-               Universitäten zu erobern. Es sei daher geboten, eine Hochschule für die Ausbildung
-               guter katholischer Lehrer einzurichten.</p>
+               gehört werden würde. Der Autor attestiert einen Mangel an Kirchen und Seelsorgern,
+               wie bereits aus einer Untersuchung unter dem Titel „Die Winterseelsorgenot“ eines
+               „Mgr. Giacomo Fried“ bekannt sei. Der Mangel an einheimischen Priestern könnte durch
+               die Entsendung ausländischer Priester behoben werden. Als Bedrohung beschreibt der
+               Autor die geringe Zahl an kirchlichen Schulen. Ihr Anteil läge in Wien nur bei 12%,
+               während es sich beim Rest um sozialistische Schulen handle, bei denen der Großteil
+               der Direktoren Sozialisten oder Freimaurer seien. Der Erfolg dieser Schulen sei
+               darauf begründet, dass sie durch die Finanzierung seitens der Sozialdemokratischen
+               Partei kein Schulgeld verlangen müssten. In Folge fehlender religiöser Erziehung
+               gingen die frommen Praktiken unter Jugendlichen zurück, stattdessen widme die Jugend
+               sich verschiedenen Sportarten. Die Sozialisten würden danach trachten nun auch noch
+               die Höheren Schulen und Universitäten zu erobern. Es sei daher geboten, eine
+               Hochschule für die Ausbildung guter katholischer Lehrer einzurichten.</p>
             <p>Er beschreibt dann die vielen Methoden, mit denen die Feinde der Kirche dem Glauben
                zusetzten, wobei er besonders auf die sogenannte „Sever-Ehe“ eingeht. Im Vergleich
                zur weiten Verbreitung von Gewerkschaften hätten die Katholiken nur einen geringen
@@ -91,16 +118,16 @@
                habe sich weit verbreitet, während es der katholischen Gegenorganisation „Frohe
                Kindheit“ noch nicht gelungen sei aufzuschließen.</p>
             <p>Der Autor weist dann darauf hin, dass seine Beobachtungen aufgrund zeitlicher
-               Beschränkungen nicht auf eine ausführliche Studie der Situation, sondern vielmehr auf den
-               Berichten einiger Kenner der Lage beruhen, die er im Folgenden vorstellt:</p>
+               Beschränkungen nicht auf eine ausführliche Studie der Situation, sondern vielmehr auf
+               den Berichten einiger Kenner der Lage beruhen, die er im Folgenden vorstellt:</p>
             <list>
-               <item>a) Der apostolische Nuntius Msgr. Enrico <sic>Silva</sic>: Der Nuntius zeige Vertrauen in
-                  die Situation und teile die Befürchtungen der Pessimisten nicht. Er erwarte
-                  Verbesserungen in der Gesetzgebung und der Sicherheitslage durch die Arbeit der
-                  Heimwehr. Die extremen Sozialisten seien nicht die Masse der Leute, sondern nur
-                  vereinzelte Individuen. Er glaube, dass eine kommende Dreierallianz zwischen
-                  Italien, Ungarn und Österreich die wirtschaftliche Lage verbessern werde. Seiner
-                  Einschätzung nach würden die katholischen Organisationen florieren und das
+               <item>a) Der apostolische Nuntius Msgr. Enrico <sic>Silva</sic>: Der Nuntius zeige
+                  Vertrauen in die Situation und teile die Befürchtungen der Pessimisten nicht. Er
+                  erwarte Verbesserungen in der Gesetzgebung und der Sicherheitslage durch die
+                  Arbeit der Heimwehr. Die extremen Sozialisten seien nicht die Masse der Leute,
+                  sondern nur vereinzelte Individuen. Er glaube, dass eine kommende Dreierallianz
+                  zwischen Italien, Ungarn und Österreich die wirtschaftliche Lage verbessern werde.
+                  Seiner Einschätzung nach würden die katholischen Organisationen florieren und das
                   Episkopat um Piffl sowie die Priester des Landes wären bis auf wenige Ausnahmen
                   vorbildlich in ihrer Arbeit. Die Zahlen der Kirchenaustritte beunruhigten ihn
                   nicht, es gebe jedoch einen Bedarf an zusätzlichen Kirchen und Schulen.</item>
@@ -115,10 +142,10 @@
                   heraufbeschworen habe.</item>
                <item>c) Weihbischof Msgr. Kamprath: Er äußerte sich in selber Weise wie Kardinal
                   Piffl.</item>
-               <item>d) Präsident Wilhelm Miklas: Er besprach vor allem politische und wirtschaftliche
-                  Probleme. Er sei über die Sever-Ehen besorgt, weil diese nolens-volens im Namen
-                  des Präsidenten der Republik ausgesprochen würden. Dies würde ihn in schwere
-                  Gewissenskonflikte bringen.</item>
+               <item>d) Präsident Wilhelm Miklas: Er besprach vor allem politische und
+                  wirtschaftliche Probleme. Er sei über die Sever-Ehen besorgt, weil diese
+                  nolens-volens im Namen des Präsidenten der Republik ausgesprochen würden. Dies
+                  würde ihn in schwere Gewissenskonflikte bringen.</item>
                <item>e) Mgsr. Ignaz Seipel: Was die wirtschaftliche Lage Österreichs betreffe, habe
                   er sich optimistisch gezeigt. Er teile aber die Einschätzung, dass die religiöse
                   Situation sehr schwerwiegend sei. Für die Seelsorge habe er empfohlen, den Mangel
@@ -142,20 +169,20 @@
                   dass eine Katastrophe bevorstünde. In Wien fänden die sozialistischen
                   Organisationen einen Verbündeten in der anti-katholischen Presse, die sich vor
                   allem in Hand der Juden befinde.</item>
-               <item>i) P. Giese S.V.D (Gymnasialdirektor im XVIII. Wiener Gemeindebezirk): Er sprach
-                  vor allem über die Gefahr, die von den sozialistischen Schulen und den
+               <item>i) P. Giese S.V.D (Gymnasialdirektor im XVIII. Wiener Gemeindebezirk): Er
+                  sprach vor allem über die Gefahr, die von den sozialistischen Schulen und den
                   Kirchenaustritten ausging. Er betonte die Unabdingbarkeit einer soliden religiösen
                   Erziehung innerhalb und außerhalb der Schulen.</item>
-               <item>j) P. Andlau S.J. (Oberer der Jesuitenkirche am Hof): Er vertrat einen sehr pessimistischen
-                  Ausblick für die Kirchen in Österreich und speziell für Wien. Die Kirchenaustritte
-                  seien zu zahlreich und der katholische Klerus wie auch die katholischen
-                  Organisationen zu wenige.</item>
+               <item>j) P. Andlau S.J. (Oberer der Jesuitenkirche am Hof): Er vertrat einen sehr
+                  pessimistischen Ausblick für die Kirchen in Österreich und speziell für Wien. Die
+                  Kirchenaustritte seien zu zahlreich und der katholische Klerus wie auch die
+                  katholischen Organisationen zu wenige.</item>
                <item>k) P. Koch S.V.P.: Er zeigte sich erfreut über die Arbeit der Katholiken unter
-                  Anleitung ihrer Bischöfe. Er war besorgt über die Probleme in der Seelsorge und die
-                  Gefahr durch die bolschewistischen Methoden der Feinde der Kirche.</item>
+                  Anleitung ihrer Bischöfe. Er war besorgt über die Probleme in der Seelsorge und
+                  die Gefahr durch die bolschewistischen Methoden der Feinde der Kirche.</item>
                <item>l) Max Wladimir von Beck: Er habe mit ihm über die Situation in Wien und
-                  Österreich gesprochen und besonders auch über Wege, die Frage nach den Ehedispensen
-                  zu klären.</item>
+                  Österreich gesprochen und besonders auch über Wege, die Frage nach den
+                  Ehedispensen zu klären.</item>
                <item>m) Dr. Friedrich Funder (Herausgeber der Reichspost): Er setze sich regelmäßig
                   mit dem Austro-Marxismus auseinander und weise auf dessen Intentionen und
                   Schädlichkeit hin. Er erhoffe sich viel vom religiösen Aufbruch. Er sei ein
@@ -924,12 +951,13 @@
                gioventù, la fede dall’abisso che le minaccia nel nostro paese”. (Card. Piffl, al V
                congresso cattolico diocesano di Vienna, 14-16 giugno 1929).</p>
             <p>“Secondo <persName>Lenin</persName>, sono solo due le potenze che domineranno il
-               futuro, la<note type="foliation" rend="typewritten">87</note> <pb n="33"/>chiesa cattolica ed il bolscevismo... E queste due potenze
-               ormai si disputano in aperta lotta Vienna, il baluardo dell’Europa. Se dovesse
-               vincere il bolscevismo, quale sciagura per l’Europa tutta! Il pericolo adunque, che
-               ci minaccia così da vicino, richiede l’unione di tutte le energie dei cattolici...”
-               (Il Vescovo Mgr. <persName>Waitz</persName>, alla Giornata Sociale di Vienna, 16-19
-               giugno 1929).</p>
+               futuro, la<note type="foliation" rend="typewritten">87</note>
+               <pb n="33"/>chiesa cattolica ed il bolscevismo... E queste due potenze ormai si
+               disputano in aperta lotta Vienna, il baluardo dell’Europa. Se dovesse vincere il
+               bolscevismo, quale sciagura per l’Europa tutta! Il pericolo adunque, che ci minaccia
+               così da vicino, richiede l’unione di tutte le energie dei cattolici...” (Il Vescovo
+               Mgr. <persName>Waitz</persName>, alla Giornata Sociale di Vienna, 16-19 giugno
+               1929).</p>
          </div>
          <closer>
             <lb/><placeName>Kaunas</placeName>, <date when="1929-08-06">6 agosto 1929</date>

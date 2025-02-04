@@ -24,8 +24,35 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <!-- To be decided -->
-            <publisher>Publication Information</publisher>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2025">2025</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                     vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                     verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                     kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
+                     Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
+                     nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
+                     oder Ihre Nutzung besonders. Keine weiteren Einschränkungen – Sie dürfen keine
+                     zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
+                     Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
+                     Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
+                     möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
+                     brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
+                     Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
+                     beschränken.</p>
+               </licence>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc status="Reinschrift">
@@ -41,7 +68,7 @@
                         >Bundespräsidentschaftswahl</note>
                      <note type="keyword" resp="#bernhard.kronegger">Miklas</note>
                      <note type="keyword" resp="#bernhard.kronegger">Seipel</note>
-                     <note type="keyword" resp="#bernhard.kronegger">Heimwehren</note>
+                     <note type="keyword" resp="#bernhard.kronegger">Heimwehr</note>
                      <note type="keyword" resp="#bernhard.kronegger">Pfrimer Putsch</note>
                   </msItem>
                </msContents>
@@ -107,8 +134,8 @@
             voluto rimandare alla primavera del 1932 l’elezione presidenziale, ma che dovettero
             rinunziarvi attesa la tenace opposizione dei socialisti ed annuire a che essa avesse
             luogo il 18 corrente mese – non solo hanno ottenuto il loro intento; ma ancor più una
-            bella vittoria sui socialisti<add rend="handwritten">,</add> rimanendo il Dr. Miklas
-            non già fino alla primavera del del prossimo anno, ma fino all’Ottobre del 1935.</p>
+            bella vittoria sui socialisti<add rend="handwritten">,</add> rimanendo il Dr. Miklas non
+            già fino alla primavera del del prossimo anno, ma fino all’Ottobre del 1935.</p>
          <p>Il Signore protegge visibilmente questa cara Nazione.</p>
          <p>Nell’ostinato contegno dei socialisti contro i cristiano-sociali, si è verificato un
             mutamento singolare e repentino almeno di tattica.<note type="foliation"

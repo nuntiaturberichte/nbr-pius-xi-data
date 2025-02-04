@@ -26,8 +26,35 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <!-- To be decided -->
-            <publisher>...</publisher>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2025">2025</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                     vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                     verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                     kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
+                     Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
+                     nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
+                     oder Ihre Nutzung besonders. Keine weiteren Einschränkungen – Sie dürfen keine
+                     zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
+                     Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
+                     Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
+                     möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
+                     brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
+                     Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
+                     beschränken.</p>
+               </licence>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc status="Reinschrift">
@@ -57,21 +84,22 @@
          <abstract>
             <p>Der Nuntius habe sich gestern mit dem aus dem Sanatorium zurückgekehrten Seipel
                unterhalten. Die christlichsoziale Partei, der Landbund und andere Fraktionen würden
-               ihn drängen, die Kandidatur zur Wahl des Bundespräsidenten zu akzeptieren. Seipel habe
-               ihnen gesagt, er müsse sich dies erst noch überlegen. Seipel habe hinzugefügt, dass
-               die Nominationen bis Mitte September veröffentlicht würden, und das Dr. Renner als
-               sozialistischer Kandidat aufgestellt würde. Deshalb müsse Seipel den Hl. Stuhl um ein apostolisches Indult bezüglich des Canon 139 §2
-               bitten, ohne dass er die Kandidatur nicht akzeptieren wolle und könne. Der Nuntius
-               spreche sich dafür aus, dieses Indult zu erteilen. Was die Wahl betreffe, so glaube
-               Seipel, dass er gute Chancen habe zu gewinnen. Aufgrund der Dringlichkeit bitte der
-               Nuntius, dass der Hl. Stuhl ihm die Entscheidung per verschlüsseltem Telegramm
-               zukommen lasse. Seipel habe danach mit dem Nuntius über den Entwurf des Konkordats
-               gesprochen, welches er von Kanzler Buresch erhalten habe. Seipel habe gesagt, dass er
-               den Entwurf für exzellent halte, nur der auf die Staatsfinanzen bezogene Teil könne
-               Schwierigkeiten bereiten. Auch die vier Fälle in den Anmerkungen könnten leicht
-               gelöst werden, da die Christlichsozialen sich mit aller Kraft gegen die Einführung
-               der Zivilehe in Österreich stellen würden und die Stabilität und Unauflöslichkeit der
-               katholischen Ehe verteidigen würden.</p>
+               ihn drängen, die Kandidatur zur Wahl des Bundespräsidenten zu akzeptieren. Seipel
+               habe ihnen gesagt, er müsse sich dies erst noch überlegen. Seipel habe hinzugefügt,
+               dass die Nominationen bis Mitte September veröffentlicht würden, und das Dr. Renner
+               als sozialistischer Kandidat aufgestellt würde. Deshalb müsse Seipel den Hl. Stuhl um
+               ein apostolisches Indult bezüglich des Canon 139 §2 bitten, ohne dass er die
+               Kandidatur nicht akzeptieren wolle und könne. Der Nuntius spreche sich dafür aus,
+               dieses Indult zu erteilen. Was die Wahl betreffe, so glaube Seipel, dass er gute
+               Chancen habe zu gewinnen. Aufgrund der Dringlichkeit bitte der Nuntius, dass der Hl.
+               Stuhl ihm die Entscheidung per verschlüsseltem Telegramm zukommen lasse. Seipel habe
+               danach mit dem Nuntius über den Entwurf des Konkordats gesprochen, welches er von
+               Kanzler Buresch erhalten habe. Seipel habe gesagt, dass er den Entwurf für exzellent
+               halte, nur der auf die Staatsfinanzen bezogene Teil könne Schwierigkeiten bereiten.
+               Auch die vier Fälle in den Anmerkungen könnten leicht gelöst werden, da die
+               Christlichsozialen sich mit aller Kraft gegen die Einführung der Zivilehe in
+               Österreich stellen würden und die Stabilität und Unauflöslichkeit der katholischen
+               Ehe verteidigen würden.</p>
          </abstract>
          <correspDesc>
             <correspAction type="sent">

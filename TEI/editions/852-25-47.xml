@@ -24,8 +24,35 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <!-- To be decided -->
-            <publisher>Publication Information</publisher>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2025">2025</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                     vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                     verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                     kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
+                     Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
+                     nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
+                     oder Ihre Nutzung besonders. Keine weiteren Einschränkungen – Sie dürfen keine
+                     zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
+                     Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
+                     Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
+                     möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
+                     brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
+                     Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
+                     beschränken.</p>
+               </licence>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc status="Reinschrift">
@@ -55,12 +82,13 @@
             <p>Die österreichische Politik vollziehe sich seit einiger Zeit sehr ruhig und man könne
                hoffen, dass vorbehaltlich internationaler Komplikationen sie sich weiter ruhig
                entwickle trotz der Presse, vor allem der ausländischen, die hier und da
-               sensationalistische und tendenziöse Artikel über Putsche und Revolutionen schreibe. Die derzeitige Regierung sei von der
-               schwierigen Situation in Beschlag genommen. Zusätzlich zu einer radikalen Reform der
-               staatlichen Administration habe der Kanzler Buresch auch ein Budget für 1932
-               vorgelegt. Dieses werde im Nationalrat bisher in ausreichender Ruhe diskutiert. Mit
-               den darin enthaltenen Maßnahmen sollen über 150 Millionen Schilling gespart werden.
-               Auch das Kultus Budget soll im Ausmaß von 6% gekürzt werden.</p>
+               sensationalistische und tendenziöse Artikel über Putsche und Revolutionen schreibe.
+               Die derzeitige Regierung sei von der schwierigen Situation in Beschlag genommen.
+               Zusätzlich zu einer radikalen Reform der staatlichen Administration habe der Kanzler
+               Buresch auch ein Budget für 1932 vorgelegt. Dieses werde im Nationalrat bisher in
+               ausreichender Ruhe diskutiert. Mit den darin enthaltenen Maßnahmen sollen über 150
+               Millionen Schilling gespart werden. Auch das Kultus Budget soll im Ausmaß von 6%
+               gekürzt werden.</p>
             <p>Im Kabinett gebe es tiefsitzende Meinungsverschiedenheiten. Die Christlichsozialen
                wollten um jeden Preis den Rücktritt von Dr. Schober erreichen, da sie ihn als einen
                für die politische Ökonomie Österreichs und die Partei selbst als gefährlich
@@ -71,10 +99,10 @@
                sollen, aber die Großdeutschen hätten den Christlichsozialen zu verstehen gegeben,
                dass sie in die Opposition wechseln würden, wenn sie Schober zum Rücktritt zwängen.
                Dies hätte die Mehrheit der Christlichsozialen im Parlament und die Verabschiedung
-               des Budgets gefährdet. Das Verhalten Schobers sei sehr kritisiert worden und es
-               könne sein, dass das gesamte Kabinett Buresch zurücktreten werde müssen, um einer
-               starken Regierung Platz zu machen, die den Mut habe, auch ohne die Parlamentskammern
-               zu regieren und diese wenn nötig aufzulösen. Was das Konkordat betreffe, so sei ihm
+               des Budgets gefährdet. Das Verhalten Schobers sei sehr kritisiert worden und es könne
+               sein, dass das gesamte Kabinett Buresch zurücktreten werde müssen, um einer starken
+               Regierung Platz zu machen, die den Mut habe, auch ohne die Parlamentskammern zu
+               regieren und diese wenn nötig aufzulösen. Was das Konkordat betreffe, so sei ihm
                versichert worden, dass Dr. Buresch sich die Durchsicht des Projekts selbst
                vorbehalte und Schober komplett heraushalten wolle. Dies würde den Wünschen des Hl.
                Stuhls sehr entgegenkommen und der Einführung einer Zivilehe in Österreich

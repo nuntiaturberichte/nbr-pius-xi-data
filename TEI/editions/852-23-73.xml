@@ -26,8 +26,35 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <!-- To be decided -->
-            <publisher>...</publisher>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2025">2025</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                     vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                     verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                     kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
+                     Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
+                     nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
+                     oder Ihre Nutzung besonders. Keine weiteren Einschränkungen – Sie dürfen keine
+                     zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
+                     Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
+                     Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
+                     möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
+                     brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
+                     Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
+                     beschränken.</p>
+               </licence>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc status="Reinschrift">
@@ -42,7 +69,7 @@
                      <note type="keyword" resp="#bernhard.kronegger">Innenpolitik</note>
                      <note type="keyword" resp="#bernhard.kronegger">Kabinett</note>
                      <note type="keyword" resp="#bernhard.kronegger">Soziale Frage</note>
-                     <note type="keyword" resp="#bernhard.kronegger">Schulen</note>
+                     <note type="keyword" resp="#bernhard.kronegger">Schule</note>
                      <note type="keyword" resp="#bernhard.kronegger">Verfassungsreform</note>
                   </msItem>
                </msContents>
@@ -66,17 +93,17 @@
                aktuelle Kanzler Schober sei ein energetischer Mann und der Kirche wohlgesonnen, ein
                Freund von Kardinal Piffl und des Nuntius. Gestern in der ersten Audienz habe er dem
                Nuntius gesagt, dass er ruhig aber entschieden gegen die Sozialisten vorgehen werde.
-               Der Kanzler habe lächelnd gesagt, dass es an der Zeit wäre, mit den Sozialisten - „den
-               Türken des 20. Jahrhunderts“ - fertig zu werden. Die Verfassung müsse reformiert
+               Der Kanzler habe lächelnd gesagt, dass es an der Zeit wäre, mit den Sozialisten -
+               „den Türken des 20. Jahrhunderts“ - fertig zu werden. Die Verfassung müsse reformiert
                werden. Solange die Sozialisten dies unterstützten, würde er sie dulden. Sollten sie
                ihn blockieren, würde er zu anderen Methoden greifen. Der Nuntius habe empfohlen, die
                soziale Frage anzugehen, vor allem was die religiöse Erziehung in den Schulen angehe.
                Dies habe er gesagt, weil er gehört habe, dass es von den Großdeutschen Druck gegeben
                habe, das Bildungsministerium nicht zu klerikalisieren, was wohl der Grund dafür sei,
-               dass Msgr. Innitzer nicht zum Bildungsminister wurde. Man glaube, dass Schober vorhabe
-               die verfassungsrechtlichen Garantien zu suspendieren, die Kammern aufzulösen und
-               Neuwahlen auszurufen. Dies würde aber nicht sofort geschehen, da die Sozialisten sehr
-               angespannt wären. Mgr. Seipel sei von seinem behandelnden Arzt in eine Klinik
+               dass Msgr. Innitzer nicht zum Bildungsminister wurde. Man glaube, dass Schober
+               vorhabe die verfassungsrechtlichen Garantien zu suspendieren, die Kammern aufzulösen
+               und Neuwahlen auszurufen. Dies würde aber nicht sofort geschehen, da die Sozialisten
+               sehr angespannt wären. Mgr. Seipel sei von seinem behandelnden Arzt in eine Klinik
                eingewiesen worden, mit der Auflage keinerlei Arbeit zu verrichten und keine Besuche
                zu empfangen. Der Direktor der Reichspost, Dr. Funder, hätte ihn besucht und ihm
                mitgeteilt, dass er mit Sicherheit wisse, dass Mgr. Seipel sich komplett aus der
@@ -102,8 +129,11 @@
             <seg type="subjectLine">Oggetto: Ministero Schober e notizie politiche</seg>
             <salute>Eminenza Reverendissima</salute>
          </opener>
-         <p>Del nuovo Ministero Schober, come dal mio telegramma del 26 settembre u.s., il <rs type="person" ref="https://mpr.acdh.oeaw.ac.at/entity/9380/">Dr.
-            Antonio <choice><sic>Eiselberg</sic><corr>Eiselsberg</corr></choice></rs>, celebrità medica viennese e buon cattolico, e il Dr. Otto Juch, capo
+         <p>Del nuovo Ministero Schober, come dal mio telegramma del 26 settembre u.s., il <rs
+               type="person" ref="https://mpr.acdh.oeaw.ac.at/entity/9380/">Dr. Antonio <choice>
+                  <sic>Eiselberg</sic>
+                  <corr>Eiselsberg</corr>
+               </choice></rs>, celebrità medica viennese e buon cattolico, e il Dr. Otto Juch, capo
             sezione nel Ministero delle Finanze, non hanno rispettivamente accettato il portafoglio
             della Pubblica Istruzione e delle Finanze, assumendone perciò l’interim lo stesso
             Cancelliere Schober.</p>
@@ -176,4 +206,3 @@
       </body>
    </text>
 </TEI>
-
