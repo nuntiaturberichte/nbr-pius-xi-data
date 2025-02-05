@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -104,6 +104,12 @@
                <persName ref="http://d-nb.info/gnd/1110822049">Giuseppe Pizzardo</persName>
                <placeName>Vatikanstadt</placeName>
             </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="correspondence_230">Enrico Sibilia -
+                  Giuseppe Pizzardo</ref>
+               <ref subtype="next_letter" type="withinCollection" target="822-16-11.xml">822-16-11:
+                  Theodor Kardinal Innitzer, Ohne Ort und Datum</ref>
+            </correspContext>
          </correspDesc>
       </profileDesc>
       <revisionDesc>

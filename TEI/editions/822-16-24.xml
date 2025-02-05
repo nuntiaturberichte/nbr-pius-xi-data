@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -98,6 +98,14 @@
                <persName>Giuseppe Pizzardo</persName>
                <!-- Verlinkung einfügen: Pizzardo -->
             </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="correspondence_2619">Giuseppe Pizzardo -
+                  Luigi Punzolo</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="822-16-11.xml"
+                  >822-16-11: Theodor Kardinal Innitzer, Ohne Ort und Datum</ref>
+               <ref subtype="next_letter" type="withinCollection" target="848-20-46.xml">848-20-46:
+                  Enrico Sibilia, Wien 25.03.1923</ref>
+            </correspContext>
          </correspDesc>
       </profileDesc>
    </teiHeader>

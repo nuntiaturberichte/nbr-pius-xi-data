@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -103,6 +103,14 @@
                     <persName>Eugenio Pacelli</persName>
                     <!-- Verlinkung auf Datenbank einfügen -->
                 </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_5093">Eugenio Pacelli
+                        - Theodor Innitzer</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="822-15-28.xml"
+                        >822-15-28: Enrico Sibilia an Giuseppe Pizzardo, Wien 25.10.1935</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="822-16-24.xml"
+                        >822-16-24: Luigi Punzolo an Giuseppe Pizzardo, Wien, 21.11.1936</ref>
+                </correspContext>
             </correspDesc>
         </profileDesc>
     </teiHeader>

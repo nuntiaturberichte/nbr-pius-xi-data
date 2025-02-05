@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -93,6 +93,20 @@
                <persName>Enrico Sibilia</persName>
                <placeName>Wien</placeName>
             </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="correspondence_7212">Enrico Sibilia -
+                  Eugenio Pacelli</ref>
+               <ref subtype="previous_letter" type="withinCorrespondence"
+                  source="correspondence_7212" target="869-33-13.xml">869-33-13: Enrico Sibilia an
+                  Eugenio Pacelli, Wien 11.07.1932</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_7212"
+                  target="869-33-15.xml">869-33-15: Enrico Sibilia an Eugenio Pacelli, Wien
+                  20.07.1932</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="869-33-13.xml"
+                  >869-33-13: Enrico Sibilia an Eugenio Pacelli, Wien 11.07.1932</ref>
+               <ref subtype="next_letter" type="withinCollection" target="869-33-15.xml">869-33-15:
+                  Enrico Sibilia an Eugenio Pacelli, Wien 20.07.1932</ref>
+            </correspContext>
          </correspDesc>
       </profileDesc>
    </teiHeader>

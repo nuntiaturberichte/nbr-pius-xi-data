@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -119,6 +119,14 @@
             <correspAction type="forwarded">
                <persName>Enrico Sibilia</persName>
             </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="correspondence_4714">Pius XI. - Wenzel
+                  Grosam</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="869-33-15.xml"
+                  >869-33-15: Enrico Sibilia an Eugenio Pacelli, Wien 20.07.1932</ref>
+               <ref subtype="next_letter" type="withinCollection" target="869-33-35.xml">869-33-35:
+                  Eugenio Pacelli an Enrico Sibilia, Vatikanstadt 27.07.1932</ref>
+            </correspContext>
          </correspDesc>
       </profileDesc>
    </teiHeader>

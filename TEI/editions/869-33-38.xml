@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -89,6 +89,14 @@
             <date when="1932-08-04">04.08.1932</date>
             <placeName>Vatikanstadt</placeName>
          </creation>
+         <correspDesc>
+            <correspContext>
+               <ref subtype="previous_letter" type="withinCollection" target="869-33-37.xml"
+                  >869-33-37: Mgr. Segretario an Johannes Gföllner, Vatikanstadt 06.08.1932</ref>
+               <ref subtype="next_letter" type="withinCollection" target="869-33-41.xml">869-33-41:
+                  Giuseppe Pizzardo an Augustin Bea, Vatikanstadt 06.08.1935</ref>
+            </correspContext>
+         </correspDesc>
       </profileDesc>
    </teiHeader>
    <text type="Archivsnotiz">
