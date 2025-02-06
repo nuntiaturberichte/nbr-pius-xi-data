@@ -84,12 +84,12 @@
          </abstract>
          <correspDesc>
             <correspAction type="sent">
-               <persName>Giuseppe Pizzardo</persName>
+               <persName ref="https://d-nb.info/gnd/1110822049">Giuseppe Pizzardo</persName>
                <date when="1932-08-06">06.08.1932</date>
                <placeName>Vatikanstadt</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName>Johannes Gföllner</persName>
+               <persName ref="https://d-nb.info/gnd/129176222">Johannes Gföllner</persName>
                <placeName>Linz</placeName>
             </correspAction>
             <correspContext>

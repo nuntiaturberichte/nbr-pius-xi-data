@@ -7,7 +7,8 @@
       <fileDesc>
          <titleStmt>
             <title>Eugenio Pacelli an Enrico Sibilia, Vatikanstadt 27.07.1932</title>
-            <author><persName>Eugenio Pacelli</persName></author>
+            <author><persName ref="https://d-nb.info/gnd/118594753">Eugenio Pacelli</persName>
+            </author>
             <respStmt>
                <resp>TEI tempalte prepared by</resp>
                <persName ref="#daniel.schopper">Daniel Schopper</persName>
@@ -90,12 +91,12 @@
          </abstract>
          <correspDesc>
             <correspAction type="sent">
-               <persName>Eugenio Pacelli</persName>
+               <persName ref="https://d-nb.info/gnd/118594753">Eugenio Pacelli</persName>
                <date when="1932-07-27">27.07.1932</date>
                <placeName>Vatikanstadt</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName>Enrico Sibilia</persName>
+               <persName ref="https://d-nb.info/gnd/1013145208">Enrico Sibilia</persName>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="correspondence_7212">Enrico Sibilia -

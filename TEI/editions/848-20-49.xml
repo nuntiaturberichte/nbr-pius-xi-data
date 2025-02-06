@@ -8,7 +8,7 @@
          <titleStmt>
             <title>Pietro Gasparri an Enrico Sibilia, Rom 31.03.1923</title>
             <author>
-               <persName>Pietro Gasparri</persName>
+               <persName ref="https://d-nb.info/gnd/118689657">Pietro Gasparri</persName>
             </author>
             <respStmt>
                <resp>TEI tempalte prepared by</resp>
@@ -96,12 +96,12 @@
          </abstract>
          <correspDesc>
             <correspAction type="sent">
-               <persName>Pietro Gasparri</persName>
+               <persName ref="https://d-nb.info/gnd/118689657">Pietro Gasparri</persName>
                <date when="1923-03-31">31.03.1923</date>
                <placeName>Rom</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName>Enrico Sibilia</persName>
+               <persName ref="https://d-nb.info/gnd/1013145208">Enrico Sibilia</persName>
                <placeName>Wien</placeName>
             </correspAction>
             <correspContext>

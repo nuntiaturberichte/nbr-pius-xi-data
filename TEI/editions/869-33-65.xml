@@ -92,12 +92,12 @@
          </abstract>
          <correspDesc>
             <correspAction type="sent">
-               <persName>Enrico Sibilia</persName>
+               <persName ref="https://d-nb.info/gnd/1013145208">Enrico Sibilia</persName>
                <date when="1932-09-22">22.09.1932</date>
                <placeName>Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName>Eugenio Pacelli</persName>
+               <persName ref="https://d-nb.info/gnd/118594753">Eugenio Pacelli</persName>
                <placeName>Vatikanstadt</placeName>
             </correspAction>
             <correspContext>

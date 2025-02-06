@@ -8,7 +8,7 @@
          <titleStmt>
             <title>Luigi Punzolo an Giuseppe Pizzardo, Wien, 21.11.1936</title>
             <author>
-               <persName>Luigi Punzolo</persName>
+               <persName ref="https://d-nb.info/gnd/1098571487">Luigi Punzolo</persName>
             </author>
             <respStmt>
                <resp>TEI tempalte prepared by</resp>
@@ -89,13 +89,13 @@
          </abstract>
          <correspDesc>
             <correspAction type="sent">
-               <persName>Luigi Punzolo</persName>
+               <persName ref="https://d-nb.info/gnd/1098571487">Luigi Punzolo</persName>
                <!-- Verlinkung einfügen: Punzolo -->
                <date when="1936-11-21">21.11.1936</date>
                <placeName>Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName>Giuseppe Pizzardo</persName>
+               <persName ref="https://d-nb.info/gnd/1110822049">Giuseppe Pizzardo</persName>
                <!-- Verlinkung einfügen: Pizzardo -->
             </correspAction>
             <correspContext>

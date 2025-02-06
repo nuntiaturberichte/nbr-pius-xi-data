@@ -8,7 +8,7 @@
             <titleStmt>
                 <title>Theodor Kardinal Innitzer, Ohne Ort und Datum</title>
                 <author>
-                    <persName>Theodor Innitzer</persName>
+                    <persName ref="https://d-nb.info/gnd/118555634">Theodor Innitzer</persName>
                     <!-- Link auf Kurzbiographie einfügen -->
                 </author>
                 <respStmt>
@@ -95,12 +95,12 @@
             </abstract>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName>Theodor Innitzer</persName>
+                    <persName ref="https://d-nb.info/gnd/118555634">Theodor Innitzer</persName>
                     <!-- Verlinkung auf Datenbank einfügen -->
                     <!-- Datum und Ort sind nicht gegeben wie wird dies hier umgesetzt, einfach auslassen? -->
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Eugenio Pacelli</persName>
+                    <persName ref="https://d-nb.info/gnd/118594753">Eugenio Pacelli</persName>
                     <!-- Verlinkung auf Datenbank einfügen -->
                 </correspAction>
                 <correspContext>

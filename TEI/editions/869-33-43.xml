@@ -7,7 +7,7 @@
       <fileDesc>
          <titleStmt>
             <title>Augustin Bea an Pius XI., Pullach bei München 12.08.1932</title>
-            <author><persName>Augustin Bea</persName></author>
+            <author><persName ref="https://d-nb.info/gnd/118654144">Augustin Bea</persName></author>
             <respStmt>
                <resp>TEI tempalte prepared by</resp>
                <persName ref="#daniel.schopper">Daniel Schopper</persName>
@@ -99,16 +99,16 @@
          </abstract>
          <correspDesc>
             <correspAction type="sent">
-               <persName>Augustin Bea</persName>
+               <persName ref="https://d-nb.info/gnd/118654144">Augustin Bea</persName>
                <date when="1932-08-12">12.08.1932</date>
                <placeName>Pullach bei München</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName>Pius XI.</persName>
+               <persName ref="https://d-nb.info/gnd/118594745">Pius XI.</persName>
                <placeName>Vatikanstadt</placeName>
             </correspAction>
             <correspAction type="forwarded">
-               <persName>Giuseppe Pizzardo</persName>
+               <persName ref="https://d-nb.info/gnd/1110822049">Giuseppe Pizzardo</persName>
                <placeName>Vatikanstadt</placeName>
             </correspAction>
             <correspContext>

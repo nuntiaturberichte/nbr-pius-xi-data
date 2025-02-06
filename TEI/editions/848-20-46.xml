@@ -8,7 +8,7 @@
          <titleStmt>
             <title>Enrico Sibilia, Wien 25.03.1923</title>
             <author>
-               <persName>Enrico Sibilia</persName>
+               <persName ref="https://d-nb.info/gnd/1013145208">Enrico Sibilia</persName>
             </author>
             <respStmt>
                <resp>TEI tempalte prepared by</resp>
@@ -95,12 +95,12 @@
          </abstract>
          <correspDesc>
             <correspAction type="sent">
-               <persName>Enrico Sibilia</persName>
+               <persName ref="https://d-nb.info/gnd/1013145208">Enrico Sibilia</persName>
                <date when="1933-03-25">25.03.1933</date>
                <placeName>Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName>Pietro Gasparri</persName>
+               <persName ref="https://d-nb.info/gnd/118689657">Pietro Gasparri</persName>
                <placeName>Rom</placeName>
             </correspAction>
             <correspContext>

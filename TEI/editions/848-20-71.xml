@@ -8,7 +8,7 @@
          <titleStmt>
             <title>Luigi Faidutti, Kaunas, 06.08.1929</title>
             <author>
-               <persName>Luigi Faidutti</persName>
+               <persName ref="https://d-nb.info/gnd/1067193782">Luigi Faidutti</persName>
             </author>
             <respStmt>
                <resp>TEI tempalte prepared by</resp>
@@ -197,7 +197,7 @@
          </abstract>
          <correspDesc>
             <correspAction type="sent">
-               <persName>Luigi Faidutti</persName>
+               <persName ref="https://d-nb.info/gnd/1067193782">Luigi Faidutti</persName>
                <date when="1928-08-06">06.08.1928</date>
                <placeName>Kaunas</placeName>
             </correspAction>
@@ -440,7 +440,8 @@
                   <hi rend="underline" hand="#UR">guidati nella previsione del futuro</hi>.</hi></p>
             <pb n="11"/>
             <div type="person" n="a.">
-               <head>L’Eccmo Nunzio Apostolico Mons. <persName>Enrico Sibilia</persName></head>
+               <head>L’Eccmo Nunzio Apostolico Mons. <persName
+                     ref="https://d-nb.info/gnd/1013145208">Enrico Sibilia</persName></head>
                <p>Si mostra fiducioso, e dice di non condividere i timori e le preoccupazioni di
                   tanti pessimisti per partito. Prevede un cambiamento in meglio nella legislazione
                   dello Stato, e che l’organizzazione militaristica “Heimwehr” saprà fiaccare il
@@ -969,7 +970,8 @@
          </div>
          <closer>
             <lb/><placeName>Kaunas</placeName>, <date when="1929-08-06">6 agosto 1929</date>
-            <lb/><signed rend="align(right)">Sac. <persName>Luigi Faidutti</persName></signed>
+            <lb/><signed rend="align(right)">Sac. <persName ref="https://d-nb.info/gnd/1067193782"
+                  >Luigi Faidutti</persName></signed>
          </closer>
       </body>
    </text>

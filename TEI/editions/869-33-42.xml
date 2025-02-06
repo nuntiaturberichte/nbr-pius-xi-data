@@ -82,12 +82,12 @@
          </abstract>
          <correspDesc>
             <correspAction type="sent">
-               <persName>Augustin Bea</persName>
+               <persName ref="https://d-nb.info/gnd/118654144">Augustin Bea</persName>
                <date when="1932-08-12"/>
                <placeName>Pullach bei München</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName>Giuseppe Pizzardo</persName>
+               <persName ref="https://d-nb.info/gnd/1110822049">Giuseppe Pizzardo</persName>
                <placeName>Vatikanstadt</placeName>
             </correspAction>
             <correspContext>

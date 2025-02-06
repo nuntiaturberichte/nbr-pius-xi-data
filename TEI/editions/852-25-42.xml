@@ -8,7 +8,7 @@
          <titleStmt>
             <title>Enrico Sibilia an Eugenio Pacelli, Wien 29.08.1931</title>
             <author>
-               <persName>Enrico Sibilia</persName>
+               <persName ref="https://d-nb.info/gnd/1013145208">Enrico Sibilia</persName>
             </author>
             <respStmt>
                <resp>TEI tempalte prepared by</resp>
@@ -103,12 +103,12 @@
          </abstract>
          <correspDesc>
             <correspAction type="sent">
-               <persName>Enrico Sibilia</persName>
+               <persName ref="https://d-nb.info/gnd/1013145208">Enrico Sibilia</persName>
                <date when="1931-08-29">29.08.1931</date>
                <placeName>Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName>Eugenio Pacelli</persName>
+               <persName ref="https://d-nb.info/gnd/118594753">Eugenio Pacelli</persName>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="correspondence_7212">Enrico Sibilia -

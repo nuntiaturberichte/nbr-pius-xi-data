@@ -118,12 +118,12 @@
          </abstract>
          <correspDesc>
             <correspAction type="sent">
-               <persName>Johannes Maria Gföllner</persName>
+               <persName ref="https://d-nb.info/gnd/129176222">Johannes Gföllner</persName>
                <date when="1932-08-14">14.08.1932</date>
                <placeName>Linz</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName>Giuseppe Pizzardo</persName>
+               <persName ref="https://d-nb.info/gnd/1110822049">Giuseppe Pizzardo</persName>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="correspondence_3264">Giuseppe Pizzardo -
