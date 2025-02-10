@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Johannes Maria Gföllner an Kardinal Innitzer, Linz, 18.07.1936</title>
+                <author>
+                    <persName ref="https://d-nb.info/gnd/129176222">Johannes Gföllner</persName>
+                </author>
+                <respStmt>
+                    <resp>TEI created</resp>
+                    <persName ref="#martin.kroissenbrunner">Martin Kroissenbrunner</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <!-- @status? -->
+                    <msIdentifier>
+                        <repository><!-- ??? --></repository>
+                        <idno type="archive">Pos. 882, Fasc. 43, Fol. 34r+v - 41r</idno>
+                        <idno type="institutional" subtype="internal"><!-- ??? --></idno>
+                        <idno type="institutional" subtype="external"><!-- ??? --></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Neuland</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Katholische
+                                Aktion</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Christlichsoziale
+                                Partei</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Seelsorge</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Liturgische
+                                Bewegung</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Innitzer</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Gföllner</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Hl. Stuhl</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <scriptDesc>
+                            <ab><!-- ??? --></ab>
+                        </scriptDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p><!-- ??? --></p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/129176222">Johannes Gföllner</persName>
+                    <date when="1936-07-18">18.07.1934</date>
+                    <placeName>Linz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118555634">Theodor Innitzer</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text><!-- @type? -->
+        <body>
+            <opener>
+                <salute>Eure Eminenz!</salute>
+                <salute>Hochwürdigster Herr Kardinal und Staatssekretär!</salute>
+            </opener>
+            <p>Das gütige und ehrende Schreiben Eurer Eminenz vom 3. Juli d. J. No 2386/36 kam mir
+                am 8. Juli zu, und danke ich ehrfurchtsvollst für das darin bekundete besondere
+                Vertrauen.</p>
+            <p>Infolge vieler Firmungsreisen kam ich nicht in die Lage, den hohen Auftrag sogleich
+                zu erledigen, zumal ich mir vorher noch einige vollkommen verläßliche Informationen
+                holen wollte, selbstverständlich ohne im geringsten den Grund der Anfrage zu
+                verraten.</p>
+            <p>Was nun die Neuland-Bewegung in Wien anlangt, so glaube ich, Eur. Eminenz am besten
+                zu dienen, wenn ich zunächst die historische Entwicklung kurz darlege und dann meine
+                Wohlmeinung hierüber äußere.</p>
+            <div type="chapter" n="I">
+                <head>Historische Entwicklung.</head>
+                <p>In <hi rend="underline">Deutschland</hi> ist „Neuland“ Bezeichnung für eine</p>
+                <!-- untypischer Zeilenumbruch -->
+                <p>1914 gegründete Erneuerungs- u. Freiheitsbewegung von Frauen und Mädchen zur
+                    Erneuerung des protestantischen Glaubens und einer neuen Lösung der Frauenfrage.
+                    Der Sitz der Bewegung ist in Eisenach (Thüringen), die Mitgliederzahl über
+                    14.000. Die Führerin Guida Diehl u. viele Mitglieder arbeiteten schon seit 1928
+                    in der national-sozialistischen Partei mit.</p>
+                <p>In <hi rend="underline">Österreich</hi> ist Neuland eine katholische
+                    Jugendbewegung, herausgewachsen aus dem christlich-deutschen Studentenbund, mit
+                    dem Sitz in Wien; die mehr als 1500 Mitglieder (männlich u. weiblich) sind in
+                    Gaue und Gruppen gegliedert, teilweise auch nach Berufsgilden (Lehrer-,
+                    Priester-, Mediziner-, Juristengilde). Das Gründungsjahr ist 1921. Die
+                    eigentlichen geistlichen Führer sind zwei Priester: Dr. theol. Karl <hi
+                        rend="underline">Rudolf</hi>, geboren 1876, Priester 1912; 1914-1922
+                    Subregens im Priesterseminar in Wien, seit 1919 akademischer Seelsorger,</p>
+                <!-- untypischer Zeilenumbruch -->
+                <p>seit 1922 Domkurat in St. Stephan. Er ist Gründer und Leiter des Wiener
+                    Studentensekretariates, des Hilfswerkes für Schulsiedlungen und des Wiener
+                    Seelsorge-Institutes für zeitgemäße Seelsorge, Gründer und Herausgeber
+                    verschiedener zeitgemäßer Werke und Zeitschriften.</p>
+                <p>Der zweite Priester ist Dr. theol. Michael <hi rend="underline">Pfliegler</hi>,
+                    geboren 1891, Priester 1915, früher Religionsprofessor an einem Wiener
+                    Bundesgymnasium, jetzt Dozent an der theologischen Fakultät in Wien. Er ist der
+                    eigentliche Führer und geistige Gründer von „Neuland“ und Vorkämpfer für die
+                    Innere Mission an den irregewordenen Sozialisten, Freidenkern u.a. sowie für die
+                    Neugestaltung der Religions-Pädagogik.</p>
+                <p>Außer diesen beiden Priestern nimmt noch ein dritter seit einiger Zeit eine
+                    führende Stelle ein. Dr. theol. Meinrad Langhammer, Prämostratenser des Stifts
+                    Tepl (Tschechoslowakei) und</p>
+                <!-- untypischer Zeilenumbruch -->
+                <p>Religionsprofessor an der Theresianischen Akademie in Wien.</p>
+                <p>Schon unter Kardinal Piffl (+1932) gab es kirchlicherseits Schwierigkeiten mit
+                    Neuland. Eine Gruppe von Neuländern erschien beim Herrn Kardinal, um ihm
+                    Vorhalte zu machen u. Ratschläge zu geben; sie wurden aber mit der Antwort
+                    entlassen, sie sollten zuerst Demut lernen!</p>
+                <p>Neue Schwierigkeiten tauchten unter dem gegenwärtigen Herrn Kardinal Innitzer
+                    auf. Zu Beginn dieses Jahres 1936 wurde Se. Eminenz von der Leitung des Wiener
+                    Priesterseminares ein Memorandum überreicht, worin ausführlich auf die Gefahren
+                    durch Neuland aufmerksam gemacht wurde: Stellung zur kirchlichen Autorität, zur
+                    Marienverehrung u.a. daraufhin wurde Neuland suspendiert und speziell im
+                    Priesterseminar verboten; es wurde auch versprochen, daß die Vereinigung der
+                    Neuländer-Priester</p>
+                <!-- untypischer Zeilenumbruch -->
+                <p>aufgelöst werde – eine Vereinigung, die mehr durch die gemeinsame Idee als durch
+                    Statuten zusammengehalten wird; es kommt vor, daß man sich vorstellt mit den
+                    Worten: N. N. Neuländerpriester, was allein schon einen gewissen Separatismus
+                    atmet.</p>
+                <p>Die Suspension, die unmittelbar vor der Generalversammlung von „Neuland“
+                    erfolgte, machte zunächst großen Eindruck; aber schon bald darauf erfolgte eine
+                    Rechtfertigung bei Se. Eminenz, die zur Folge hatte, daß die Vereinigung nicht
+                    aufgelöst wurde, während das Verbot für das Priesterseminar in Kraft blieb. In
+                    der Fastenzeit wurden sodann in der Minoritenkirche Fastenvorträge für Neuländer
+                    veranstaltet, in denen, wie es scheint, die gemachten Vorhalte widerlegt bzw
+                    eine gewisse Läuterung vollzogen werden sollte. Es berührte eigentümlich, daß in
+                    einer öffentlichen Kirche Vorträge für Neuländer gehalten wurden, wodurch diese
+                    wieder gewissermaßen aus der Gemeinschaft der anderen</p>
+                <!-- untypischer Zeilenumbruch -->
+                <p>Gläubigen herausgehoben wurden.</p>
+                <p>Im Mai d. J. kam es dann zu einer vollen Rehabilitierung von Neuland und
+                    Eingliederung in die Katholische Aktion durch Se. Eminenz. Es ist mir bekannt,
+                    daß sich die Wiener theologische Fakultät darüber sehr verwunderte und
+                    gelegentlich einer Fakultätssitzung ihrem Befremden Ausdruck gegeben hat, wie ja
+                    überhaupt die Fakultät im ganzen der Neuland-Bewegung mit größter Skepsis
+                    gegenübersteht; ebenso weiß ich, daß der gewesene hochwürdigste Herr
+                    Apostolische Nuntius Kardinal Sibilia Se. Eminenz daraufhin geschrieben hat, die
+                    Nachricht davon habe ihn mit größtem Schmerze erfüllt. Seit jener Zeit sind
+                    tatsächlich die Stimmen des Unmutes und Mißmutes im Klerus der Erzdiözese Wien
+                    nicht verstummt, da der größere Teil des Klerus die Neuland-Bewegung ablehnt;
+                    wie ich aus sicherer Quelle vernehme, haben sogar mehrere Dekanate an den Herrn
+                    Kardinal eine Bittschrift gerichtet, man möge ihnen keine</p>
+                <!-- untypischer Zeilenumbruch -->
+                <p>Neuländer als Kapläne schicken.</p>
+                <p>Von Wien aus hat die Neuland-Bewegung auch auf andere österreichische Diözesen
+                    übergegriffen, wenn auch in geringerem Ausmaße; in der Diözese Gurk (Klagenfurt)
+                    soll sie ebenfalls schon ziemliche Verwirrung angerichtet haben. In meiner
+                    Diözese bestehen mir zwei ganz kleine Ortsgruppen, die aber niemals mit dem
+                    Bischof Fühlung genommen haben und die ich auch niemals der Kath. Aktion
+                    eingliedern werde, sosehr es mir schwer fällt, eine Bewegung in meiner Diözese
+                    zu unterdrücken, die in der Erzdiözese meines hochwürdigsten Herrn Metropoliten
+                    u. Kardinals nicht nur der Kath. Aktion eingegliedert ist, sondern durch Se.
+                    Eminenz offene Anerkennung und Förderung findet.</p>
+            </div>
+            <div type="chapter" n="II">
+                <head>Meine Beurteilung.</head>
+                <p>Was nun den kirchlichen oder vielmehr unkirchlichen Charakter der
+                    Neuland-Bewegung anlangt, ist meine Meinung folgende.</p>
+                <p>Es ist nicht zu leugnen, daß eine Anzahl von sehr ideal gesinnten Leuten in den
+                    Reihen von Neuland sehr agil tätig sind; auch die drei genannten Geistlichen
+                    sind sonst tadellose u. eifrige Priester; hochw. Herr Pfliegler hat sich, seit
+                    er Dozent an der Universität wurde, von der Bewegung etwas mehr
+                    zurückgezogen.</p>
+                <p>Diese erwähnte Agilität erklärt sich aus dem Grundcharakter von „Neuland“, das
+                    grundsätzlich <hi rend="underline">„dynamische“</hi> Bewegung sein will, sich
+                    darum für alle augenblicklichen Zeitströmungen interessiert, sich ihnen
+                    anschließt, soweit es eben noch zulässig ist; dabei beachtet aber „Neuland“ zu
+                    wenig die <hi rend="underline">„statischen“</hi> Grundsätze, hat kein klares
+                    Ziel vor Augen, sieht überall nur die gewissen politischen Werte, übersieht aber
+                    die Grundlagen der gefährlichen Geistesrichtungen, macht daher auch leicht
+                    bedenkliche Zugeständnisse und bekundet im Grundsätzlichen eine gewisse
+                    Verschwommenheit im Denken, die namentlich bei der Jugend</p>
+                <!-- untypischer Zeilenumbruch -->
+                <p>bedenklich wirkt. Daher kam es z.B., daß in der Zeit des Hochganges des
+                    Sozialismus ein Großteil der Neuländer sozialistisch eingestellt war und später,
+                    wie allgemein bekannt war, national-sozialistisch.</p>
+                <p>Ein weiteres ungutes Kennzeichen ist ein ausgesprochener Hang zum Subjektivismus,
+                    zum sog. „Erlebnis“ und daher auch ein bedenklich gesteigertes Selbstbewußtsein
+                    – um nicht einen stärkeren Ausdruck zu gebrauchen –, so daß sich die Neuländer
+                    als jene betrachten, die allein der geistigen Situation von heute gewachsen sind
+                    und sie zu meistern verstehen. Überheblichkeit und Geistesstolz wird ihnen nicht
+                    ohne Grund vorgeworfen.</p>
+                <p>In weiterer Auswirkung der verfehlten subjektivistischen Grundeinstellung betonen
+                    die Neuländer stark den Gedanken des „Führertums“</p>
+                <!-- untypischer Zeilenumbruch -->
+                <p>und geraten dadurch in eine schiefe Einstellung zur kirchlichen „Autorität“, der
+                    sie nur so lange u. nur in soweit zu folgen zu folgen gewillt sind, als sie
+                    ihren subjektiven Ideen u. Bestrebungen entgegenkommt. Haben sie sich doch sogar
+                    zur Äußerung verstiegen: „Sollte die Kirche einmal die Vermittelung der Gnaden
+                    durch Maria als kirchliche Lehre erklären, dann müßten sie diese ablehnen.“</p>
+                <p>Sie nehmen ja auch besonders der Marienverehrung gegenüber eine sehr reservierte,
+                    um nicht zu sagen eine ablehnende Haltung ein, namentlich was das hl.
+                    Rosenkranzgebet betrifft, das ihnen zu wenig „christozentrisch“ erscheint.</p>
+                <p>In übertriebener liturgischer Bewegung betonen sie fast ausschließlich die
+                    „christozentrische Idee“ in Gottesdienst u. Andacht u. wollen daher das hl.
+                    Rosenkranzgebet während der hl. Messe nicht gelten lassen. Überhaupt sehen sie
+                    die Neugestaltung</p>
+                <!-- untypischer Zeilenumbruch -->
+                <p>des christlichen Lebens formell u. fast ausschließlich bedingt durch die
+                    liturgische Bewegung, die in Österreich vom Augustiner-Chorherrenstift
+                    Klosterneuburg bei Wien aus mit größtem Nachdruck, ja förmlichem Übereifer u.
+                    reformatorischem Geiste betrieben wird u. vielfach exzentrische Formen
+                    annimmt.</p>
+                <p>Die Kirche erscheint ihnen vorwiegend als „Gnadenkirche“ in Verkennung der
+                    „Rechtskirche“, als ob die Kirche nicht auch wie jede menschliche Gemeinschaft
+                    einen organisatorischen Charakter besitzen müßte; nicht die Hierarchie ist ihnen
+                    das Erste, sondern die lebendige, kraftvolle Persönlichkeit.</p>
+                <p>Es bestehen auch große Schwierigkeiten zwischen dem Wiener erzbischöflichen
+                    Ordinariat u. Neuland, bzw dem in seinem Geiste geleiteten „Seelsorge-Institut“,
+                    da letzteres vielfach Agenden übernimmt oder durchführt, die in den Bereich</p>
+                <!-- untypischer Zeilenumbruch -->
+                <p>des Ordinariats fallen. Unter dieser „Nebenregierung“ leidet insbesondere auch
+                    der hochwürdigste Herr Wiener Weihbischof u. Generalvikar Kamprath, der sicher
+                    wertvolle Informationen geben könnte, wenn er dazu aufgefordert würde.</p>
+                <p>So kommt durch Neuland eine förmliche Spaltung in den Klerus der Erzdiözese Wien,
+                    der auch sonst gute Anregungen nur aus dem Grunde ablehnt, weil sie von Dr.
+                    Rudolf, dem geistigen Führer des Neuland, stammen. Neuland wird so eine Art
+                    „Kirche in der Kirche“ oder „Staat im Staat“ mit stark separatistischem
+                    Charakter. Die Neuländer arbeiten denn auch mit allen Mitteln und Kräften daran,
+                    daß sich ihre Richtung durchsetzt; darum suchen sie überall die einflußreichen
+                    Stellen mit Leuten ihrer Gesinnung zu besetzen z.B. die Religionsprofessuren an
+                    den Mittelschulen, wobei ihnen die einflußreiche Beihilfe eines Herrn im
+                    Bundesministerium, der</p>
+                <!-- untypischer Zeilenumbruch -->
+                <p>selber Neuländer ist, zugute kommt.</p>
+                <p>Im Priesterseminar fügen sich jetzt zwar die Alumnen dem Verbot von „Neuland“,
+                    aber nur gezwungen; im stillen sympathisieren sie dennoch mit dieser Richtung u.
+                    sind willens, sich ihr später anzuschließen, um bessere u. einflußreichere
+                    Stellen zu bekommen. Eine geradlinige Durchbildung des jungen Klerus ist dadurch
+                    erschwert. Indirekt hat Neuland durch seinen maßgebenden Geist auch die
+                    Katholische Aktion in Wien beeinflußt und in eine Stellung gebracht, die kaum
+                    den Intentionen des Apostolischen Stuhles entsprechen dürfte; die Folge ist, daß
+                    die Geistlichkeit <hi rend="underline">diese<del rend="strikethrough"
+                        >r</del></hi> Art Katholischer Aktion, die namentlich die Liturgische
+                    Bewegung übermäßig betont, vielfach ablehnt und innerlich nicht mitarbeitet.</p>
+                <p>Wenn sich daher Neuland in dieser Richtung weiter entwickelt, ist die Gefahr
+                    einer ausgesprochen unkirchlichen Richtung nicht ausgeschlossen. Maßgebende
+                    Kreise sagen, Neuland sei augenblicklich die einzige</p>
+                <!-- untypischer Zeilenumbruch -->
+                <p>innerkirchliche Gefahr in Österreich.</p>
+                <p>Wenn ich mir daher einen Vorschlag erlauben darf, so ginge dieser dahin, der
+                    Apostolische Stuhl sollte die ganze Bewegung „Neuland“ in Österreich direkt
+                    verbieten u. zw. je eher desto besser, wenn nicht mit der Zeit wirklich großer
+                    geistiger Schaden daraus entstehen soll.</p>
+                <p>Solange Se. Eminenz Kardinal Innitzer die Bewegung protegiert u. durch die
+                    formelle Eingliederung in die Katholische Aktion als unbedenklich anerkennt,
+                    wird es den einzelnen Bischöfen schwer, wenn nicht unmöglich gemacht, etwas
+                    dagegen zu tun.</p>
+                <p>Und Se. Eminenz ist, wie allgemein bekannt, vor allem durch Dr. Rudolf
+                    beeinflußt, dessen Ideen u. Ratschläge er mit vollem Vertrauen befolgt; wenn es
+                    gelänge, vor allem diesen Herren aus der Umgebung Se. Eminenz ferne zu halten
+                    und seinen Einfluß zu brechen, dann wäre auch die Gefahr „Neuland“ teilweise
+                    gebannt, wenn auch nicht gebrochen; letzteres kann nur durch ein grund-</p>
+                <p>sätzliches Verbot erfolgen.</p>
+                <p>Ich weiß auch, daß der gewesene apostolische Nuntius Kardinal Sibilia in allem
+                    Ernste Se. Eminenz Innitzer auf den unguten Einfluß dieses seines Ratgebers Dr.
+                    Rudolf aufmerksam machte, aber leider kein Gehör fand.</p>
+                <p>Se. Eminenz Innitzer ist bekannt durch große, fast zu große Herzensgüte, die zu
+                    leicht vertraut, alles ohne nähere Prüfung gut u. schön findet und ein gewisses
+                    dogmatisches Feingefühl vermissen läßt; das den tiefsten Grund und Sinn gewisser
+                    Ideen u. Bewegungen erfaßt u. würdigt; darum kann Neuland gegenüber nur ein
+                    Eingreifen Roms Abhilfe bringen.</p>
+                <p>Hiemit glaube ich mich des mir gewordenen Auftrages erledigt zu haben und
+                    überlasse nunmehr das Weitere der Weisheit u. dem Ermessen Eur. Eminenz.</p>
+            </div>
+            <closer>
+                <lb/><salute>In tiefster Ehrfurcht geharre ich</salute>
+                <lb/><signed>+Johannes Maria Gföllner</signed>
+                <lb/>Bischof von Linz </closer>
+        </body>
+    </text>
+</TEI>

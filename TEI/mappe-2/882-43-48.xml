@@ -1,0 +1,319 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><!-- ??? --></title>
+                <author>
+                    <persName><!-- ??? --></persName>
+                </author>
+                <respStmt>
+                    <resp>TEI created</resp>
+                    <persName ref="#martin.kroissenbrunner">Martin Kroissenbrunner</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <!-- @status? -->
+                    <msIdentifier>
+                        <repository><!-- ??? --></repository>
+                        <idno type="archive">Pos. 882, Fasc. 43, Fol. 48r - 54r</idno>
+                        <idno type="institutional" subtype="internal"><!-- ??? --></idno>
+                        <idno type="institutional" subtype="external"><!-- ??? --></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Neuland</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Katholische
+                                Aktion</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Seelsorge</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Liturgische
+                                Bewegung</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Innitzer</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Soziale Frage</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Hl. Stuhl</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <scriptDesc>
+                            <ab><!-- ??? --></ab>
+                        </scriptDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p><!-- ??? --></p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- ??? -->
+                </correspAction>
+                <correspAction type="received">
+                    <!-- ??? -->
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <opener>
+                <seg type="subjectLine">RELAZIONE SUL MOVIMENTO „NEULAND“</seg>
+            </opener>
+            <p>In Germania “Neuland” è il nome di un movimento di rinnovamento e di libertà, fondato
+                nel 1914 da signore e signorine, per rinnovare la fede protestante e per la
+                soluzione della <hi rend="underline">questione femminile.</hi></p>
+            <p>La sede dell’associazione è ad Eisenach (Turingia) e il numero degli aderenti supera
+                il 14 mila.</p>
+            <p>La promotrice, <hi rend="underline">Guida Diehl</hi>, e molte socie collaborano sin
+                dal 1928 al partito nazionalsocialista.</p>
+            <p>In <hi rend="underline">Austria</hi> “Neuland” è un movimento di giovani cattolici,
+                che ha avuto origine dall’associazione studentesca cristiano=tedesca.</p>
+            <p>Vienna ne è la sede. I membri (più di 1500), maschi e femmine, sono raggruppati in “Ga<subst>
+                    <del><gap reason="strikethrough" unit="char" quantity="1"/></del>
+                    <add>u</add>
+                </subst>e” e “Gruppen”, e in parte anche in corporazioni professionali (degli
+                insegnanti dei sacerdoti, dei medici, dei giuristi). </p>
+            <p>L’anno della fondazione è il 1921. I veri dirigenti ecclesiastici sono due
+                sacerdoti:</p>
+            <p>Dr. teol. Carlo <hi rend="underline" hand="#UR"
+                >Rudolf</hi><!-- "Unterstrichen vom Leser" -> #UR passt? --> , nato nel 18<subst>
+                    <del rend="overwritten">7</del>
+                    <add rend="overwritten">8</add>
+                </subst>6, ordinato sacerdote nel 1912; (dal 1914 al 1922……. nel seminario di
+                Vienna), dal 1919 in cura d’anime all’accademia e dal 1922 curato del duomo di S.
+                Stefano.</p>
+            <p>Egli è fondatore e direttore del segretariato viennese degli studenti, dell’istituto
+                viennese per la cura d’anime adatta al tempo presente, fondatore ed editore di
+                numerose opere e pubblicazioni confacenti alle es<subst>
+                    <del rend="strikethrough">o</del>
+                    <add>i</add>
+                </subst>genze dei tempi.</p>
+            <p>L’altro sacerdote è il DR; teol. Michele Pfliegler, nato nel 1891, sacerdote nel
+                1915, già professore di religione in un ginnasio governativo di Vienna ed ora
+                docente alla </p>
+            <pb n="2"/>
+            <p>facoltà teologica di Vienna.</p>
+            <p>Egli è il vero capo e il fondatore spirituale del “Neuland”, e il propugnatore della
+                missione interna per i socialisti, liberi pensatori ed altri traviati, come pure
+                della riorganizzazione della <hi rend="underline">pedagogia religiosa.</hi></p>
+            <p>Oltre a questi due sacerdoti, c’è un terzo che sta assumendo da un certo tempo, una
+                parte preponderante; il Dr. teol. <hi rend="underline">Mainrado Langhammer</hi>,
+                premonstratense del monastero di Jegl (Cecoslovacchia) e professore di religione
+                all’accademia teresiana di Vienna.</p>
+            <p>Sin dal tempo del Card. Piffl (morto nel 1932) ci furono difficoltà ecclesiastiche
+                col “Neuland”</p>
+            <p>Un gruppo di aderenti al “Neuland” si presentò al cardina<subst>
+                    <del rend="strikethrough">e</del>
+                    <!-- "Korrigiert von „e“" -> strikethrough passt? -->
+                    <add>l</add>
+                </subst>e per fargli delle rimostranze e per <sic>d rgli </sic>dei suggerimenti:
+                furono congedati, però e venne loro risposto che dovevano imparare dapprima
+                l’umiltà.</p>
+            <p>Nuove difficoltà sorsero recentemente.</p>
+            <p>Al principio del 1936 la direzione del seminario ecclesiastico di Vienna present<add
+                    rend="Akzent handschriftlich">ò</add> all’Autorità Ecclesiastica Viennese un
+                memorandum, in cui attirava l’attenzione, per mezzo di una dettagliata esposizione,
+                sui pericoli del “Neuland”: Il suo atteggiamento di fronte all’autorità
+                ecclesiastica, di fronte alla devozione alla Madonna, ecc.</p>
+            <p><hi rend="mark">In seguito a ciò il “Neuland” fu sospeso e proibito in modo speciale
+                    nel seminario diocesano; si promise anche che l’associazione dei sacerdoti
+                    aderenti al “Neuland” sarebbe stata sciolta; associazione che sussiste
+                    veramente</hi> più per la comunanza delle idee che per il vincolo di uno
+                statuto.</p>
+            <pb n="3"/>
+            <p>Pare che essi si presentino così: “N.N. Neul<sic>à</sic>nderpriester” (prete del
+                “Neuland”, e basta ciò per dare l’impressione di un certo <hi rend="underline"
+                    >separatismo</hi>.</p>
+            <p>La sospensione, avvenuta immediatamente prima dell’assemblea generale del “Neuland”,
+                fece dapprima una grande impressione; ma poco dopo, essendo state presentate
+                all’autorità Ecclesiastiche delle giustificazioni, si ebbe per conseguenza che
+                l’associazione non venne sciolta, mentre rimase in vigore il solo divieto per il
+                seminario diocesano</p>
+            <p>Nella quaresima fu subito organizzato un corso di predicazioni quaresimali per gli
+                aderenti al “Neuland” nella chiesa dei Minori; in queste conferenze = a quanto pare
+                = si sarebbero confutati le osservazioni fatte al “Neuland” e si sarebbe compiuta
+                una certa chiarificazione.</p>
+            <p>Sembrò strano che si tenessero in una pubblica chiesa conferenze per i membri del
+                “Neuland”, mentre essi erano stati separati dagli altri fedeli.</p>
+            <p>Nel maggio di quest’anno si venne infine ad una completa riabilitazione del “Neuland”
+                e al suo inquadramento <sic>nellazione</sic> cattolica.</p>
+            <p>La facoltà teologica di Vienna se ne meravigliò altamente e, in occasione di una
+                riunione della facoltà, espresse il suo stupore, dato che, del resto, tutta la
+                facoltà si mantiene in un atteggiamento di grande s<subst>
+                    <del rend="strikethrough">e</del>
+                    <!-- "Korrigiert von e" -> strikethrough passt? -->
+                    <add>c</add>
+                </subst>etticismo verso il movimento “Neuland”.</p>
+            <p>Da allora le voci di malcontento e di disgusto non sono cessate fra il clero
+                dell’arcidiocesi di Vienna, perché la maggior parte di esso respinge il movimento
+                “Neuland”.</p>
+            <p>Anzi, da quanto si dice parecchi decanati hanno indirizzato al signor Cardinale
+                Innitzer la preghiera di non in=</p>
+            <pb n="4"/>
+            <p>viare loro come cappellano dei sacerdoti aderenti al “Neuland”.</p>
+            <p>Da Vienna il “Neuland” si è insinuato in altre diocesi austriache, quantunque in
+                misura più ristretta.</p>
+            <p>Non si può negare che un gran numero di persone ricche di nobili idealità, agisce
+                attivamente nel movimento “Neuland”; anche i tre sacerdoti suddetti sono, del resto,
+                    <hi rend="mark" hand="#UR"
+                    ><!-- "An der Seite vom Leser markiert" -> #UR passt? -->preti virtuosi e
+                    zelanti; il rev. <hi rend="underline" hand="#UR"
+                        ><!-- "Unterstrichen vom Leser" -> #UR passt? -->Pfliegler</hi> , da quando
+                    è diventato docente universitario, si è un po' ritirato dal movimento.</hi></p>
+            <p>La menzionata agilità si spiega dal carattere fondamentale del “Neuland”, che vuol
+                essere fondamentalmente un movimento dinamico che prende interesse a tutte le
+                correnti dei nostri tempi; alle quali in tanto esso aderisce, in quanto è
+                evidentemente ammissibile che lo possa fare.</p>
+            <p>In contrapposto a ciò il “Neuland” <sic>tien</sic> conto troppo poco dei principii
+                statistici, non ha innanzi agli occhi nessuna chiara finalità, vede dovunque
+                soltanto determinati valori politici, esamina invece le ragioni delle pericolose
+                tendenze spirituali, fa perciò anche facilmente delle ammissioni che lasciano
+                perplessi, e manifesta, in massima una certa nebulosità di pensiero, la quale
+                esercita sulla gioventù un’influenza che impensierisce.</p>
+            <p>Ne segue che, per esempio, al tempo dell’ascesa del socialismo, una buona parte degli
+                aderenti al “Neuland” si fece socialista, mentre più tardi=<del><gap
+                        reason="overwritten" unit="char" quantity="5"/></del> com’è noto= passò
+                nelle file dei nazionalsocialisti.</p>
+            <p>Un’altra caratteristica sfavorevole è un’accentuata inclinazione al soggettivismo,
+                alla <sic>cosidetta</sic> “esperienza”, e quindi una not<subst>
+                    <del rend="strikethrough">i</del>
+                    <!-- "Korrigiert von „i“" -> strikethrough passt? -->
+                    <add>e</add>
+                </subst>vole presunzione = per non usare un’espressione più forte = in modo che i
+                membri del “Neuland” si </p>
+            <pb n="5"/>
+            <p>Considerano come i soli cresciuti in un ambiente spirituale che sanno di
+                dominare.</p>
+            <p>Perciò non senza ragione si rinfacciano loro arroganza e presunzione.</p>
+            <p>Gli aderenti al “Neuland” sottolineano poi il concetto dell’autoritarismo, venendo
+                così a mettere da parte l’”autorità” ecclesiastica, che sono disposti a seguire in
+                tanto, in quanto viene incontro alle loro idee e tendenze soggettive.</p>
+            <p><hi rend="mark" hand="#UR"
+                    ><!-- "An der Seite durch Leser markiert" -> #UR passt? -->Si sono addirittura
+                    spinti fino a questa dichiarazione: “se la chiesa dovesse una volta proclamare
+                    la mediazio</hi>ne di Maria per l’acquisto della grazia quale dottrina della
+                Chiesa, essi sarebbero costretti di rinnegarla”.</p>
+            <p><hi rend="mark" hand="#UR"
+                    ><!-- "An der Seite durch Leser markiert" -> #UR passt? -->Essi assumono, anzi,
+                    nei riguardi della devozione mariana un atteggiamento di ostilità, per non dire
+                    perfino di ripulsa, e precisamente per quanto concerne il santo rosario, che
+                    sembra loro troppo poco “cristocentrico”.</hi></p>
+            <p>Nel movimento liturgico esagerato essi segnalano quasi unicamente l’”idea
+                cristicentrica” nella Messa e nelle pratiche di pietà, e non vogliono perciò
+                ammettere durante la Messa la recita del santo rosario.</p>
+            <p><sic>Sopratutto</sic>, poi, essi promuovono la vita cristiana servendosi quasi
+                esclusivamente del movimento liturgico, alimentato in Austria, col massimo favore,
+                con un zelo, anzi, formalista<del><gap reason="strikethrough" unit="char"
+                        quantity="1"/></del> con uno spirito riformatore e spesso con forme
+                eccentriche, dal monastero degli agostiniani di <sic>Klosternenburg</sic> presso
+                Vienna.</p>
+            <p>La Chiesa apparisce loro, in modo predominante, come la “La Chiesa della grazia”,
+                come se la Chiesa, al pari di qualsiasi società umana, non dovesse avere anche
+                una</p>
+            <pb n="6"/>
+            <p>struttura ben organizzata.</p>
+            <p>La gerarchia non è per loro al primo posto, ma la persona, soggetto vivente,
+                gagliardo.</p>
+            <p>Gravi difficoltà sussistono anche fra l’Ordinariato arcivescovile di Vienna e il
+                “Neuland”, rispettivamente il “Seelsorgerinstitut” (istituto per i curatori d’anime
+                organizzato secondo lo spirito del “Neuland”.</p>
+            <p>Questo istituto, infatti, si assume o compie funzioni che sono di competenza
+                dell’Ordinariato.</p>
+            <p>Sotto a questo governo collaterale soffre specialmente il Vescovo Ausiliare
+                Kamprath.</p>
+            <p>Si forma così, per mezzo del “Neuland”, uno scisma formale nel clero
+                    <sic>dellarcidiocesi</sic> di Vienna, il quale rifiuta del resto le buone
+                esortazioni anche per il semplice fatto che provengono dal Dr. Rudolf, il direttore
+                spirituale del “Neuland”.</p>
+            <p>Questo movimento diventa così una specie di “Chiesa nella Chiesa” o di “Stato nello
+                Stato” con un carattere spiccatamente separatista?</p>
+            <p>I suoi aderenti, poi, lavorano con tutti i mezzi e con tutte le forze perché la loro
+                tendenza si affermi: cercano perciò di occupare con persone del loro movimento i
+                posti di maggior influenza, per esempio le cattedre di religione nelle scuole medie,
+                per ottenere le quali vengono favoriti dall’influente appoggio di un signore del
+                ministero, egli pure socio del “Neuland”.</p>
+            <p><hi rend="mark" hand="#UR"
+                    ><!-- "An der Seite durch Leser markiert" -> #UR passt? -->Veramente ora nel
+                    seminario diocesano gli alunni si conformano al divieto del “Neuland”, ma
+                    soltanto se vi sono costretti; tacitamente essi simpatizzano t<subst>
+                        <del rend="strikethrough">i</del>
+                        <!-- "Korrigiert von „i“" -> strikethrough passt? -->
+                        <add>u</add>
+                    </subst>ttora con</hi> questa tendenza e sono decisi di aderirvi in seguito per
+                ot=</p>
+            <pb n="7"/>
+            <p>tenere posti migliori e di maggiore influenza.</p>
+            <p>Si rende difficile così una retta formazione del giovane clero.</p>
+            <p>Indirettamente, poi, il “Neuland” ha influito anche sull’azione cattolica viennese
+                per mezzo del suo spirito decisivo, mettendola in una situazione che può
+                difficilmente corrispondere alle intenzioni della Sede Apostolica.</p>
+            <p>Ne consegue che il clero evita spesso questo genere di azione cattolica, che esagera
+                nel mettere in rilievo il movimento liturgico, e perciò non vi coopera.</p>
+            <p>Se, perciò, il “Neuland” si sviluppa ulteriormente in questo senso non <subst>
+                    <del rend="overwritten">vi</del>
+                    <add rend="overwritten">xx</add>
+                </subst> è escluso il pericolo di un’accentuata tendenza<subst>
+                    <del rend="overwritten">anticleri</del>
+                    <add rend="overwritten">xxxxxxxxx</add>
+                </subst> antiecclesiastica.</p>
+            <p>Negli ambienti competenti si dice che il “Neuland” è attualmente l’unico pericolo che
+                minacci in Austria la Chiesa dall’interno.</p>
+            <p>La S. Sede dovrebbe proibire direttamente in Austria tutto il movimento “Neuland” e
+                quanto prima tanto meglio altrimenti ne verrebbe col tempo un danno veramente
+                grave.</p>
+            <p><hi rend="mark" hand="#UR"
+                    ><!-- "An der Seite durch Leser markiert" -> #UR passt? -->D’altronde è grande
+                    l’influenza che esercita negli ambienti ecclesiastici il Dr. Rudolf.</hi></p>
+            <p><hi rend="mark" hand="#UR"
+                    ><!-- "An der Seite durch Leser markiert" -> #UR passt? -->Se si riuscisse in
+                    primo luogo a tenere lontano questo signore dall’”Entourage” di Sua Eminenza il
+                    Card. Innitzer e ad eliminar<subst>
+                        <del rend="strikethrough"
+                            ><!-- "Korrigiert von „o“" -> strikethrough passt? -->o</del>
+                        <add>n</add>
+                    </subst>e l’influenza, sarebbe evitato in parte il pericolo del “Neuland” e for<subst>
+                        <del rend="strikethrough"
+                            ><!-- "Korrigiert von „es“" -> strikethrough passt? -->es</del>
+                        <add>se</add>
+                    </subst> sarebbe del tutto scong</hi>giurato.</p>
+            <p>La definitiva eliminazione non si potrebbe però ottenere che per mezzo di una
+                proibizione di massima.</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ernst Karl Winter an Pius XI, 13.11.1934</title>
+                <author>
+                    <persName ref="https://d-nb.info/gnd/11955447X">Dr. Ernst Karl Winter</persName>
+                </author>
+                <respStmt>
+                    <resp>TEI created</resp>
+                    <persName ref="#martin.kroissenbrunner">Martin Kroissenbrunner</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <!-- @status? -->
+                    <msIdentifier>
+                        <repository><!-- ??? --></repository>
+                        <idno type="archive">Pos. 881, Fasc. 42, Fol. 1045 – 1075</idno>
+                        <!-- recto/verso? -->
+                        <idno type="institutional" subtype="internal"><!-- ??? --></idno>
+                        <idno type="institutional" subtype="external"><!-- ??? --></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <!-- zu überprüfen -->
+                            <note type="keyword" resp="#martin.kroissenbrunner">Dollfuß</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Schuschnigg</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Bürgerkrieg</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Christlichsoziale
+                                Partei</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Seelsorge</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Katholische
+                                Aktion</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Soziale Frage</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner"
+                                >Februarkatastrophe</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <scriptDesc>
+                            <ab><!-- ??? --></ab>
+                        </scriptDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p><!-- ??? --></p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11955447X">Ernst Karl Winter</persName>
+                    <date when="1934-11-13">13.11.1934</date>
+                </correspAction>
+                <correspAction type="received">
+                    <!-- zu überprufen -->
+                    <persName ref="https://d-nb.info/gnd/118594745">Pius XI.</persName>
+                    <placeName>Vatikanstadt</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <!-- @type="Bericht"? -->
+        <body>
+            <opener>
+                <salute>Heiliger Vater!</salute>
+            </opener>
+            <p>Einige wenige Tage in der ewigen Stadt komme ich mit grosser Freude der Aufforderung
+                nach, Eurer Heiligkeit, einen Bericht zu geben über die religiöse Seite der
+                politischen Aufgabe, die ich vor mehr als einem halben Jahr in Oesterreich
+                übernommen habe.</p>
+            <p>Ich wurde von dem verstorbenen Bundeskanzler Dr. Dollfuss, mit dem ich durch zwanzig
+                Jahre persönlich befreundet war, unmittelbar nach der Februarkatastrophe in
+                Oesterreich dazu berufen, eine politische Aktion zur Verständigung der früheren
+                sozialdemokratischen Arbeiterschaft mit dem neuen Regime in die Wege zu leiten. Der
+                neue Bundeskanzler Dr. Schuschnigg hat diese Berufung bestätigt. Zum Ausdrucke
+                dieser Berufung wurde ich zum dritten Vizebürgermeister der Stadt Wien ernannt. Die
+                politische Aktion zur Verständigung von Staat und Arbeiterschaft, die ich leite,
+                wird heute im Inland und Ausland gewöhnlich als „Aktion Winter“ bezeichnet.</p>
+            <p>Dass gerade ich zu dieser politischen Aufgabe berufen wurde, der ich bisher kein
+                Politiker war, sondern ausschliesslich wissenschaftlich gearbeitet hatte, liegt
+                darin begründet, dass ich in den Verfassungskämpfen des Jahres 1933, obwohl immer
+                ein konservativer Schriftsteller, öffentlich und im Gegensatz zu der Auffassung
+                meines Freundes Dollfuss die Rechtsauffassung der Sozialdemokratie vertreten habe,
+                nach der die Handlungsweisen der österreichischen Regierung ein Verfassungsbruch
+                war. Dadurch gewann ich sehr viele Beziehungen zu den Sozialdemokraten und ein
+                grosses Vertrauen in der Arbeiterschaft, um dessentwillen mich Dollfuss zu der
+                erwähnten Aufgabe berief.</p>
+            <p>Die geistige und religiöse Lage der österreichischen Arbeiterschaft ist seit dem
+                Heldenkampfe, den ein Teil der Sozialdemokraten im Februar führte und seit der
+                Niederwerfung dieses Aufstandes durch die Staatsmacht, vielfach eine trostlose. Die
+                Menschen haben ihre Partei und ihre Organisation, die für sie eine Art
+                Religionsersatz war, über Nacht verloren und sind in gewissem Sinne führerlos und
+                auch schutzlos. Die Verbitterung ist grenzenlos, weil sie durch das Gefühl <subst>
+                    <del rend="strikethrough">elittettenen</del>
+                    <add>erlittenen</add>
+                </subst> Unrechtes getragen wird. In dieser geistigen Lage ist es aussichtslos, die
+                ehemals sozialdemokratischen Massen über Nacht für den neuen Staat gewinnen zu
+                wollen. Wir beschränken uns daher darauf, die geistig regsamen Kräfte in der
+                österreichischen Arbeiterschaft zu beeinflussen und in einer Eliteorganisation zu
+                sammeln. Nur langsam können die geschlagenen Wunden wieder ausheilen.</p>
+            <p>Die religiöse Lage insbesondere ist in der österreichischen Arbeiterschaft durch
+                folgende geschichtliche Entwicklung bestimmt. Es gibt im österreichischen Volke
+                keinen eigentlich antireligiösen Affekt. Die katholische Substanz ist auch in den
+                Zeiten des Liberalismus erhalten geblieben. Die langjährige Verquickung von
+                katholischer Kirche und christlichsozialer Partei in Oesterreich, bewirkt durch
+                einzelne Personalunionen, hat jedoch die politischen Gegner des christlichsozialen
+                Lagers vielfach in die antikirchliche Haltung hineingedrängt, was die jüdische
+                Führung der Sozialdemokratie naturgemäss zu ihren Gunsten ausgenützt hat. Nach
+                meinen Erfahrungen war die Bereitschaft sowohl der Arbeitermassen als auch ihrer
+                Führer, sich einer katholischen Staatsführung unterzuordnen und in der religiösen
+                Frage zu lernen und sich umzustellen, am grössten im Jahre 1933 während der
+                Verfassungskämpfe, als die Sozialdemokratie den fast sicheren Untergang vor Augen zu
+                jedem Kompromiss bereit war. Es war ein historischer Fehler, dass die Staatsführung
+                damals diese Verständigung nicht wollte, wie ich und meine Freunde sie öffentlich
+                vorschlugen.</p>
+            <p>Dadurch, dass die österreichische Staatsführung ihren Willen feierlich proklamierte,
+                einen „christlichen Staat im Sinne der Quadragesimo anno“ aufbauen zu wollen,
+                gleichzeitig aber die Februarkatastrophe eintrat, die viele Härten und
+                Ungerechtigkeiten gegen Unschuldige zur Folge hatte u. noch immer hat, werden alle
+                Mängel des gegenwärtigen Regimes nicht etwa bloss den konkreten Menschen, die es
+                bilden, in die Schuhe geschoben, sondern von der Arbeitermasse als Ausdruck
+                christlichen Geistes empfunden.</p>
+            <p>In klarer Erkenntnis der ungeheureren Schwierigkeit dieser Lage gerade von Standpunkt
+                des Christentums und ohne selbst an der Herbeiführung dieser Lage beteiligt gewesen
+                zu sein, habe ich mich dennoch bedingungslos dem Aufbauwerk der österreichischen
+                Regierung zur Verfügung gestellt, weil in dieser nicht nur für Oesterreich, sondern
+                für den christlichen Namen selbst ungemein prekären Situation niemand, der Christ
+                und Oesterreicher ist, sich von der Mitverantwortung ausschliessen darf. Ich habe
+                die Aufgabe übernommen, dem neuen Oesterreich die sozialdemokratische Arbeiterschaft
+                zuzuführen und ich werde dieser Aufgabe, gedeckt durch das Vertrauen der obersten
+                    Staatsführung<add>,</add> nachkommen, unbekümmert um die Kritik, die mir
+                gelegentlich nicht nur aus dem Lager der sozialdemokratischen Illegalen, sondern
+                auch teils aus Heimwehrkreisen, teils aus dem früher christlichsozialen Kreisen
+                entgegentritt. Eine Aufgabe wie die von mir übernommene ist ohne eine neue
+                politische Methode, die naturgemäss da und dort Widerspruch und Missverständnisse
+                erweckt, eben nicht durchführbar.</p>
+            <p>Bei der Durchführung meiner politischen Aufgabe halte ich in Wien vor allem den
+                engsten Kontakt mit denjenigen Priestern, die sich die Organisation der
+                Arbeiterseelsorge zur Aufgabe gemacht haben: dem akademischen Seelsorger Dr. Karl
+                Rudolf, einem persönlichen langjährigen Freunde von Seipel und Dollfuss, dem
+                Jesuitenpater Georg Bichelmaier und dem in der Seelsorge unter den Sozialdemokraten
+                erfahrenen Prof. Michael Pfliegler. Auch die Arbeiterseelsorge befolgt das Prinzip
+                der Elitebildung und in der Bildung von kleinen Kreisen. In den Arbeitervierteln und
+                vor allem in den grossen Gemeindehauskomplexen entstehen jetzt überall kleine
+                Seelsorgestationen, um die sich kleine Kreise von Arbeitern sammeln. Zwischen diesen
+                Kreisen und unseren politischen Gruppen stellen sich allmählich Beziehungen her, die
+                für beide Teile wertvoll sind.</p>
+            <p>Wie die Dinge heute in Oesterreich liegen, ist die „Aktion Winter“, die nicht aus
+                Unbescheidenheit, sondern infolge der Schöpfung und Leitung durch mich diesen Namen
+                hat, nicht nur die einzige bis an die halten marxistischen Kernschichten der
+                österreichischen Arbeiterschaft vordringende</p>
+            <!-- untypischer Zeilenumbruch-->
+            <p>politische <sic>Phanlanx</sic>, die die Sozialdemokraten zum Staate führen kann,
+                sondern darüber hinaus eines der hauptsächlichsten Mittel, durch die auch auf
+                religiösem Gebiete die österreichische Arbeiterschaft allmählich aufgelockert und
+                neuen Ideen zu geführt werden kann. Wir suchen zwar in unserer politischen Aktion
+                die religiösen Probleme nicht, weichen ihnen freilich auch nicht aus, wohl aber
+                schaffen wir die politischen und sozialen Voraussetzungen für ein besseres
+                Verständnis auch der religiösen Gedankenwelt auf Seite der Arbeiterschaft.</p>
+            <p>Freilich kann diese ganze Arbeit im politischen und im seelsorgerlichen Bereiche
+                nicht gelingen, wenn nicht Gott, wirksam auch in den historischen Ereignissen, der
+                österreichischen Staatsführung wahrhaft die Gnade gibt, den christlichen Staat, den
+                sie versprochen hat und der den Volksmassen ein wenigstens bescheidenes Stücklein
+                Brot bieten soll, wirklich aufzubauen. Dazu bedarf das christliche Oesterreich der
+                katholischen Solidarität alle anderen Völker des katholischen Erdkreises in
+                Gebietsgedenken vor Gott. Insbesondere bedarf <sic>hiezu</sic>
+                <del rend="strikethrough"><gap rend="strikethrough" unit="char" quantity="2"/></del>
+                Oesterreich auch des Segens des väterlichen Hauptes der katholischen Oikumene.</p>
+            <p>Als ein <del rend="strikethrough">Stück</del> in <subst>
+                    <del rend="strikethrough">den</del>
+                    <add place="above">den</add>
+                </subst> weltlichen<add rend="handwritten">|</add>Aufgabenbereich
+                    <sic>vorgebauetes</sic> Stück der katholischen Aktion Oesterreichs erbitte auch
+                ich, Heiliger Vater, <del rend="strikethrough">für</del> am Tage des Heiligen
+                Stanislaus Kostka für mich und meine achtköpfige Familie ebenso wie für meine
+                politische Aktion, in der eine neue Arbeiterbewegung Oesterreichs ihren Anfang
+                nimmt, den heiligen Segen des Stellvertreters Christi auf Erden und Heiligen Vaters
+                der Christenheit.</p>
+            <closer>
+                <signed rend="handwritten">Dr. Ernst Karl Winter</signed>
+            </closer>
+        </body>
+    </text>
+</TEI>
