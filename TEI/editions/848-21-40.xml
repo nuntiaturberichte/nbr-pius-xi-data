@@ -124,7 +124,7 @@
                <del rend="overwritten">i</del>
                <del rend="strikethrough">re il</del>
                <add rend="overwritten">e</add>
-               <add place="aboce" rend="handwritten">del</add>
+               <add place="above" rend="handwritten">del</add>
             </subst> movimento <subst>
                <del rend="strikethrough">Nazionalsocialista</del>
                <add place="above" rend="handwritten">hitleriano</add>
