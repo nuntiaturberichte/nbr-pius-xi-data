@@ -95,7 +95,8 @@
             </correspDesc>
         </profileDesc>
     </teiHeader>
-    <text><!-- @type? -->
+    <text>
+        <!-- @type? -->
         <body>
             <opener>
                 <salute>Eure Eminenz!</salute>
@@ -112,7 +113,7 @@
                 zu dienen, wenn ich zunächst die historische Entwicklung kurz darlege und dann meine
                 Wohlmeinung hierüber äußere.</p>
             <div type="chapter" n="I">
-                <head>Historische Entwicklung.</head>
+                <head>I. Historische Entwicklung.</head>
                 <p>In <hi rend="underline">Deutschland</hi> ist „Neuland“ Bezeichnung für eine</p>
                 <!-- untypischer Zeilenumbruch -->
                 <p>1914 gegründete Erneuerungs- u. Freiheitsbewegung von Frauen und Mädchen zur
@@ -196,7 +197,7 @@
                     Eminenz offene Anerkennung und Förderung findet.</p>
             </div>
             <div type="chapter" n="II">
-                <head>Meine Beurteilung.</head>
+                <head>II. Meine Beurteilung.</head>
                 <p>Was nun den kirchlichen oder vielmehr unkirchlichen Charakter der
                     Neuland-Bewegung anlangt, ist meine Meinung folgende.</p>
                 <p>Es ist nicht zu leugnen, daß eine Anzahl von sehr ideal gesinnten Leuten in den
@@ -303,6 +304,8 @@
                     dogmatisches Feingefühl vermissen läßt; das den tiefsten Grund und Sinn gewisser
                     Ideen u. Bewegungen erfaßt u. würdigt; darum kann Neuland gegenüber nur ein
                     Eingreifen Roms Abhilfe bringen.</p>
+            </div>
+            <div>
                 <p>Hiemit glaube ich mich des mir gewordenen Auftrages erledigt zu haben und
                     überlasse nunmehr das Weitere der Weisheit u. dem Ermessen Eur. Eminenz.</p>
             </div>
