@@ -1,0 +1,473 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="K-POS_883_fasz_44_13r-26r">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Theodor Kardinal Innitzer an <!-- ??? -->, Wien, 29.09.1933</title>
+                <author>
+                    <persName ref="https://d-nb.info/gnd/118555634">Theodor Innitzer</persName>
+                </author>
+                <respStmt>
+                    <resp>TEI created</resp>
+                    <persName ref="#martin.kroissenbrunner">Martin Kroissenbrunner</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <!-- @status? -->
+                    <msIdentifier>
+                        <repository><!-- ??? --></repository>
+                        <idno type="archive">Pos. 883, Fasc. 44, Fol. 13r - 26r</idno>
+                        <idno type="institutional" subtype="internal"><!-- ??? --></idno>
+                        <idno type="institutional" subtype="external"><!-- ??? --></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <note type="keyword" resp="#martin.kroissenbrunner"
+                                >Nationalsozialismus</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Katholische
+                                Aktion</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Quadragesimo
+                                anno</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Innitzer</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Gföllner</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Hl. Stuhl</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Anschluss</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner"
+                                >Verfassungsreform</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <scriptDesc>
+                            <ab><!-- ??? --></ab>
+                        </scriptDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p><!-- ??? --></p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118555634">Theodor Innitzer</persName>
+                    <date when="1933-09-29">29.09.1933</date>
+                    <placeName>Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <!-- ??? -->
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <!-- @type=Brief? -->
+        <body>
+            <!-- Word Datei enthält Tabstopps - wie damit umgehen? -->
+            <opener>INSERTO al N. 15.261/726.<lb/> Con allegata<lb/><seg type="subjectLine">Lettera
+                    Pastorale del Vescovo di Linz</seg></opener>
+            <p>Pro m e m o r i a.</p>
+            <p>Über Aufforderung des Heiligen Apostolischen Stuhles erlaubt sich der österreichische
+                Episkopat, seine Auffassung über den Nationalsozialismus im <sic>allgemeinen</sic>
+                und insbesondere in Österreich im <sic>folgenden</sic> in aller Ehrfurcht und
+                Ergebenheit gegen den Heiligen Apostolischen Stuhl darzulegen.</p>
+            <div type="chapter" n="I">
+                <head>I. Grundsätzliche Stellungnahme.</head>
+                <p>J<!-- richtige Transkription? Im gesamten Dokument steht immer wieder J statt I -->n
+                    der grundsätzlichen Auffassung über das Wesen, die Bestrebungen und Ziele des
+                    Nationalsozialismus im <sic>allgemeinen</sic> schliesst sich der österreichische
+                    Episkopat zunächst den <hi rend="underline" hand="UR"
+                        ><!-- "vom Leser unterstrichen" -> #UR passt? -->anfänglichen</hi>
+                    Kundgebungen des reichsdeutschen Gesamtepiskopates vollinhaltlich an, insoweit
+                    darin grundsätzlich zu den Jrrtümern des Nationalsozialismus Stellung genommen
+                    wurde. Die österreichischen Bischöfe haben sodann schon in einem gemeinsamen
+                    Hirtenschreiben vom 7. Februar 1932 vor dem Nationalsozialismus eindringlich
+                    gewarnt, seine Hauptirrtümer angedeutet, seine masslosen Übertreibungen
+                    hervorgehoben und auf die ernsten Folgen aufmerksam gemacht, die mit seinem
+                    Siege verbunden wären.</p>
+                <p>Jnsbesondere aber steht der österreichische Episkopat einheitlich und geschlossen
+                    auf dem Standpunkt jener theoretischen Grundsätze und praktischen Folgerungen,
+                    die im Hirtenbrief <hi rend="underline">„Über wahren und falschen
+                        Nationalismus“</hi></p>
+                <!-- untypischer Zeilenumbruch -->
+                <p>des Hochwürdigsten Herrn Bischofes Johannes Maria GFÖLLNER von Linz vom 21.
+                    Jänner 1933 zum Ausdruck kommen; 3 Exemplare dieses Hirtenbriefes liegen hier
+                    bei.</p>
+                <p><hi rend="underline" hand="#UR"
+                        ><!-- "vom Leser unterstrichen" -> #UR passt? -->Die Hauptgedanken des
+                        Hirtenbriefes</hi> kommen in folgenden 4 Grundwahrheiten zum Ausdruck:</p>
+                <list>
+                    <item>1.) Die Menschheit ist eine einheitliche Familie.</item>
+                    <item>2.) Der wahre christliche Nationalismus ist von Gott gewollt und wird von
+                        der Kirche gebilligt.</item>
+                    <item>3.) Nation und Staat sind verschieden und der Staat ist über der
+                        Nation.</item>
+                    <item>4.) Über allem Nationalismus steht die Religion, die nicht national,
+                        sondern übernational ist.</item>
+                </list>
+                <p>Über den Nationalsozialismus als <hi rend="underline" hand="UR"
+                        ><!-- "vom Leser unterstrichen" -> #UR passt? -->System</hi> fällt der
+                    Hirtenbrief das abschliessende Urteil: Der Nationalsozialismus krankt innerlich
+                    an materialistischem Rassenwahn – an unchristlichen Nationalismus – an
+                    nationalistischer Auffassung der Religion; sein religiöses Programm weisen wir
+                    darum zurück, umso mehr als neuestens der Nationalsozialismus in Deutschland
+                    durch das Sterilisationsgesetz sich in schroffen Gegensatz zur katholischen
+                    Moral gestellt hat.</p>
+                <p>Der österreichische Episkopat hält an den Grundsätzen dieses Hirtenbriefes auch
+                    jetzt n<subst>
+                        <del rend="strikethrough">i</del>
+                        <!-- "Korrigiert von „i“" -> strikethrough passt? -->
+                        <add>o</add>
+                    </subst>ch fest, obwohl es scheinen könnte, dass sie seit der politischen
+                    Neuordnung in Deutschland und durch die <hi rend="underline">seitdem</hi>
+                    erflossenen Kundgebungen des deutschen Episkopates teilweise desavouiert
+                    wären.</p>
+                <p>Zunächst hat ja auch der deutsche Episkopat in seiner neuen Stellungnahme zu der
+                    politischen Neugestaltung seine <hi rend="underline">grundsätzliche</hi>
+                    Verurteilung der <hi rend="underline">theoretischen Jrrtümer</hi></p>
+                <!-- untypischer Zeilenumbruch -->
+                <p>des Nationalsozialismus ausdrücklich aufrecht erhalten und in keiner Weise
+                    abgeschwächt.</p>
+                <p>Sodann war in Deutschland die praktische Stellungnahme des Episkopates zur neuen
+                    Regierung und obersten Staatsgewalt eine wesentlich andere als in
+                    Österreich.</p>
+                <p>Jn D e u t s c h l a n d stand der Episkopat nicht mehr einer blossen politischen
+                        <hi rend="underline">Partei</hi> gegenüber, sondern der <hi rend="underline"
+                        >Regierung</hi> und <hi rend="underline">Staatsgewalt als solcher</hi>, die
+                    allerdings aus der politischen nationalsozialistischen Partei hervorgegangen und
+                    ausschliesslich von ihr repräsentiert war. Einer legalen staatlichen Obrig<subst>
+                        <del rend="overwritten">j</del>
+                        <add rend="overwritten">k</add>
+                    </subst>eit gegenüber konnte und musste auch der Episkopat jene amtliche
+                    Stellung einnehmen, die die christliche Staatslehre gebietet und die die Kirche
+                    von jeher in ähnlichen Fällen eingenommen hatte.</p>
+                <p>Der deutsche Episkopat konnte dies um so leichter tun, als durch die amtliche
+                    Erklärung des deutschen Reichskanzlers Hitler die Freiheit und Rechte der
+                    katholischen Kirche ausdrücklich garantiert worden waren.</p>
+                <p>Jn Ö s t e r r e i c h dagegen lagen und liegen bis zur Stunde die Verhältnisse
+                    wesentlich anders. Hier bildeten die Nationalsozialisten lediglich eine
+                    politische <hi rend="underline">Partei</hi>, die gleich anderen politischen
+                    Parteien nach politischer Machtstellung strebte und noch immer strebt.</p>
+                <p>Jn der <hi rend="underline">Regierung</hi> als solcher war jedoch die
+                    nationalsozialistische Partei nicht vertreten, ja es wurde ihr durch die
+                    gegenwärtige Regierung jedwede politische Betätigung von Amtswegen verboten, so <subst>
+                        <del><gap reason="overwritten" unit="char" quantity="1"/></del>
+                        <!-- "Korrigiert von ausleserlichem Buchstaben" -> overwritten passt?-->
+                        <add>d</add>
+                    </subst>ass für den österreichischen Episkopat die nationalsozialistische Partei
+                    als solche</p>
+                <!-- untypischer Zeilenumbruch -->
+                <p>formell und amtlich nicht mehr in Betracht kommt.</p>
+                <p>Während also der deutsche Episkopat einer nationalsozialistischen <hi
+                        rend="underline">Regierung</hi> gegenüber steht, steht der österreichische
+                    Episkopat weder einer nationalsozialistischen Partei und noch viel weniger einer
+                    solchen Regierung gegenüber, so dass er in seiner Stellungnahme dem
+                    Nationalsozialismus gegenüber lediglich durch seine <hi rend="underline"
+                        >grundsätzliche</hi> Einstellung im obigen Sinne geleitet ist.</p>
+                <p>Was insbesondere den Abschluss des reichsdeutschen Konkordate<subst>
+                        <del rend="strikethrough"
+                            ><!-- "Korrigiert von „n“" -> strikethrough passt? --></del>
+                        <add>s</add>
+                    </subst> anlangt, so vertritt selbstverständlich auch der österreichische
+                    Episkopat den Standpunkt, dass dieses Konkordat nicht mir der
+                    nationalsozialistischen <hi rend="underline">Partei</hi>, sondern mit der <hi
+                        rend="underline">Regierung</hi> und legalen <hi rend="underline"
+                        >Staatsgewalt</hi> abgeschlossen wurde und dass es lediglich die
+                    Rechtsverhältnisse zwischen Staat und Kirche ordnet, aber keinerlei
+                    grundsätzliche Stellungnahme oder gar Anerkennung der nationalsozialistischen
+                    Grundsätze und Bestrebungen bedeutet. Darum sieht sich auch der österreichische
+                    Episkopat durch die p<subst>
+                        <del rend="strikethrough">l</del>
+                        <!-- "Korrigiert durch „l“" -> strikethrough passt? -->
+                        <add>o</add>
+                    </subst>litische Neuordnung in Deutschland in seiner grundsätzlichen Ablehnung
+                    und Verurteilung der nationalsozialistischen Jrrtümer und Bestrebungen in keiner
+                    Weise behindert oder zu einer Neuorientierung veranlasst.</p>
+            </div>
+            <div type="chapter" n="II">
+                <p>II. Die politische Situation des Nationalsozialismus in Österreich.</p>
+                <p>Die politischen Ziele und Bestrebungen der nationalsozialistischen Partei in
+                    Österreich waren von allem Anfange an gegen die politische Selbstständigkeit und
+                    Unabhängigkeit</p>
+                <!-- untypischer Zeilenumbruch -->
+                <p>Österreichs gerichtet. Das Hauptziel war von jeher, nach dem politischen
+                    Schlagwort „Ein Volk- ein Reich“, die Angliederung Österreichs an Deutschland
+                    und die Eingliederung in die gemeinsame Regierung, sobald und soweit es die
+                    internationalen Verhältnisse und Verträge ermöglichen und gestatten.</p>
+                <p>Diesen Zielen und <sic>Betrebungen</sic> trat die gegenwärtige österreichische
+                    Regierung von Anfang an mit aller Entschiedenheit, Offenheit und Konsequenz
+                    entgegen, insbesondere durch das politische Verbot der nationalsozialistischen
+                    Partei und die entsprechenden praktischen Massnahmen.</p>
+                <p>Diese Auffassung und Stellungnahme der Regierung gewann von Anfang an die
+                    wärmsten Sympathien des Volkes, die stetig zunahmen und gegenwärtig bei dem
+                    weitaus grössten Teil des Volkes herrschend und noch immer in Zunahme begriffen
+                    sind.</p>
+                <p>Auch der österreichische Episkopat billigt und fördert seinerseits vom
+                    katholischen und kirchlichen Standpunkt aus diese Stellungnahme und diese
+                    Bestrebungen der Regierung.</p>
+                <p>Die politische Unabhängigkeit und Freiheit Österreichs ist nicht nur
+                    staatspolitisch und völkerrechtlich garantiert, sondern auch historisch
+                    gerechtfertigt durch die nationale Eigenart des Österreichertums, dem eine
+                    besondere Mission des Friedens und der Kultur in Europa zugewiesen erscheint;
+                    insbesondere aber legen auch kirchliche und religiöse Jnteressen eine solche
+                    politische Unabhängigkeit nahe.</p>
+                <p>Österreich ist in seiner erdrückenden Mehrheit katholisch,</p>
+                <!-- untypischer Zeilenumbruch -->
+                <p>die katholische Glaubensidee ist wenig von einer protestantischen Umwelt
+                    beeinflusst, das katholische Glaubensleben entfaltet sich freier, zum
+                    Unterschied von Deutschland, wo die geistige protestantische Umwelt und das
+                    notwendige Zusammenleben mit Akatholiken erfahrungsgemäss die Reinheit des
+                    Glaubens und die volle ungehinderte Entfaltung des katholischen Glaubenslebens
+                    und die volle ungehinderte Entfaltung des katholischen Glaubenslebens
+                    beeinflussen und beeinträchtigen, teilweise sogar einem bedauerlichen religiösen
+                    Jinterkonfessionalismus und Jindifferentismus die Wege ebnen.</p>
+                <p>Sowohl geschichtlich als politisch ist Österreich mit dem Katholizismus viel
+                    inniger verbunden und will dieser seiner geschichtlichen Tradition auch jetzt
+                    treu bleiben umsomehr, als die gegenwärtige Regierung in jeder Hinsicht und
+                    energisch bemüht ist, die katholischen Grundsätze zur Grundlage für den Aufbau
+                    des Staates in ausgesprochen christlichem Sinne zu nehmen.</p>
+                <p>Diese politische Grundauffassung des Episkopates und der Mehrheit des Volkes
+                    begegnet selbstverständlich dem schärfsten Widerstand der Nationalsozialisten
+                    und der ihnen nahestehenden politischen Kreise.</p>
+                <p>Die äussere politische Tätigkeit der Nationalsozialisten ist zwar durch das
+                    staatliche Verbot behindert und in den Hintergrund gedrängt, aber durchaus nicht
+                    erloschen oder lahmgelegt. Eine ständige geheime und offene Einflussnahme,
+                    Aufmunterung und Förderung seitens der nationalsozialistischen Partei <subst>
+                        <del rend="strikethrough">u</del>
+                        <!-- "Korrigiert von „u“" -> strikethrough passt? -->
+                        <add>i</add>
+                    </subst>n Deutschland, ja offiziöser und offizieller Kreise dortselbst ermutigt
+                    und treibt unterbrochen die hiesigen Nationalsozialisten an, ihre geheime,
+                    staatsfeindliche</p>
+                <!-- untypischer Zeilenumbruch -->
+                <p>und insbesondere österreichfeindliche Wühlarbeit mit dem ausgesprochenen Ziele
+                    des Sturzes gegenwärtigen Regierung und der Erringung der politischen
+                    Machtstellung nach dem Beispiele Deutschlands fortzusetzen und zu steigern. Kein
+                    Mittel erscheint <sic>hiefür</sic> zu schlecht. Wenn auch staatlich verboten,
+                    setzt dennoch die Partei im geheimen und unter verschiedenen Form<subst>
+                        <del rend="strikethrough">o</del>
+                        <!-- "Korrigiert von „o“" -> strikethrough passt? -->
+                        <add>e</add>
+                    </subst>n und Namen ihre staatsfeindliche Betätigung fort. Namentlich Angehörige
+                    der sog. intelligenten Kreise, Hochschul- und Mittelschulprofessoren, Lehrer,
+                    Beamte, akademisch Gebildete suchen immer wieder ihre nationalsozialistischen
+                    Jdeen und Pläne zu verbreiten und vor allem auch die studierende Jugend in ihren
+                    Bann zu ziehen, was ihnen leider vielfach gelungen ist. Sehr geschickt nützen
+                    sie dabei <add place="above">auch</add> die Abneigung der einheimischen
+                    Bevölkerung gegen das Judentum aus und betören das Volk durc<subst>
+                        <del rend="strikethrough">h</del>
+                        <!-- "Korrigiert von „h“" -> strikethrough passt? -->
+                        <add>h</add>
+                    </subst> abenteuerliche Versprechungen wirtschaftlicher Natur.</p>
+                <p>Vielfach sind es die Anhänger des Liberalismus und eines übersteigerten deutschen
+                    Nationalismus, die jetzt auf dem Umwege des Nationalsozialismus ihre
+                    Weltanschauung und ihre politischen Jdeale zu verwirklichen trachten; ganz
+                    besonders aber sind die ehemaligen Apostel der sog. „Los-von-Rom-Bewegung“ auch
+                    die eifrigsten Verfechter des Nationalsozialismus und der liberale und
+                    schismatische Grundcharakter der angeblich nationalen Bewegung tritt immer
+                    wieder hervor.</p>
+                <p>Ein Sieg des Nationalsozialismus würde sich in der Gesetzgebung entschieden in
+                    kirchenfeindlichem Sinne auswirken.</p>
+                <p>Ausser den geistigen Propagandamitteln bedient sich aber der Nationalsozialismus
+                    in Österreich auch ganz offen verschiedener Gewaltmittel. Eine fast ständige
+                    Beunruhigung und</p>
+                <!-- untypischer Zeilenumbruch -->
+                <p>Belästigung der friedlichen Bevölkerung erfolgt durch eigene sog. Klebe-Kolonnen,
+                    die überall auf Wegen und Strassen, Gebäuden und selbst kirchlichen Bauten
+                    hochverräterische und revolutionäre Propagandazettel aufkleben.</p>
+                <p>Ferner suchen die Nationalsozialisten bei jeder Gelegenheit beunruhigende
+                    Gerüchte unter der Bevölkerung zu verbreiten, um das Vertrauen zur Regierung zu
+                    erschüttern; selbst an Auffo<del rend="strikethrough">e</del>rderungen zu
+                    ungesetzlichen Methoden und Aktionen fehlt es nicht.</p>
+                <p>Sie gehen aber auch zu gewaltsamen Taten über, vergewaltigen friedliche Anhänger
+                    staatstreuer Organisationen und Angehörige legaler staatlicher Formationen; ja
+                    selbst terroristische Überfalle und Gewaltakte mit Bomben und Handgranaten kamen
+                    wiederholt vor und beunruhigten das öffentliche Leben und störten die staatliche
+                    Ordnung im höchsten Grade.</p>
+                <p>Jmmer und immer wieder müssen auf Grund der staatlichen und polizeilichen Erlasse
+                    und Vorschriften zahlreiche Verhaftungen nationalsozialistischer
+                    Parteiangehöriger vorgenommen werden; Amtsenthebungen, Entziehung des
+                    Bürgerrechtes, Disziplinaruntersuchungen sind an der Tagesordnung. Zahlreiche
+                    Freunde und Anhänger der Partei flüchten in der Regel auf illegalen Wegen und im
+                    geheimen nach Deutschland, wo sie bessere materielle Existenzbedingungen
+                    erhoffen und gegen Österreich eine unglaublich verlogene Greuelpropaganda
+                    unterstützen; nicht wenige von solchen politischen Flüchtlingen treten dann in
+                    Deutschland der sog. österreichischen Legion bei, einer militärisch
+                    organisierten Truppe, die immer wieder mit kriegerischen Überfällen auf das
+                    österreichische Grenzgebiet droht.</p>
+                <p>Diese Drohungen werden auch von der österreichischen</p>
+                <!-- untypischer Zeilenumbruch -->
+                <p>Regierung ernst genommen, weshalb namentlich in letzterer Zeit die Grenzgebiete
+                    militärischen Schutz erhielten, um die Bevölkerung zu beruhigen und für alle
+                    Fälle gerüstet zu sein.</p>
+                <p>Alle diese offenkundigen Tatsachen erweisen zur Genüge<del rend="strikethrough"
+                        >,</del> den ausgesprochen staatsf<subst>
+                        <del rend="strikethrough">i</del>
+                        <!-- "Korrigiert von „i“" -> strikethrough passt? -->
+                        <add>e</add>
+                    </subst>indlichen, revolutionären und geheimen freimaurerischen Charakter des
+                    österreichischen Nationalsozialismus, der darum keine blosse parteipolitische
+                    Bewegung nach dem Beispiel anderer <sic>politischen</sic> Parteien darstellt,
+                    sondern in eine offenkundige Revolutionsbewegung gegen die bestehende staatliche
+                    legale Gewalt und Verfassung ausartet. Träte die Regierung diesem Treiben nicht
+                    energisch entgegen, so hätten wir wohl in Österreich bald einen Bürgerkrieg mit
+                    all seinen bitteren Folgen, ja Österreich könnte überhaupt Kriegsschauplatz
+                    werden.</p>
+                <p>Nach Anschauung des österreichischen Episkopates ist darum eine Mitgliedschaft
+                    und aktive Teilnahme an den Bestrebungen des Nationalsozialismus wenigstens in
+                    Österreich unvereinbar mit dem katholischen Gewissen und mit den fundamentalsten
+                    Pflichten eines loyalen Staatsbürgers, die jedwede revolutionäre Beseitigung der
+                    legalen Staatsgewalt und jede Schädigung des Gemeinwohles ausschliessen.</p>
+                <p>Es wäre daher höchst wünschenswert, wenn die höchste Autorität des Apostolischen
+                    Stuhles eine diesbezügliche lehramtliche und das Gewissen festigende und
+                    klärende Enunziation erliesse; darauf gestützt könnte dann der Episkopat
+                    einerseits auch jene katholischen Kreise mit noch grösserem Nachdruck belehren
+                    und warnen, die noch immer mit dem</p>
+                <!-- untypischer Zeilenumbruch -->
+                <p><hi rend="mark" hand="#UR"
+                        ><!-- "Am Rand markiert vom Leser" -> #UR passt? -->Nationalsozialismus
+                        stark sympathisieren, anderseits könnte er eine weitere praktische Stellung
+                        einnehmen hinsichtlich des</hi>
+                </p>
+            </div>
+            <div type="chapter" n="III">
+                <head>III. Verhältnisses zur gegenwärtigen Regierung.</head>
+                <p/>
+                <p>Der Episkopat ist zunächst überzeu<subst>
+                        <del rend="strikethrough">h</del>
+                        <!-- "Korrigiert von „h“" -> strikethrough passt? -->
+                        <add>g</add>
+                    </subst>t von der vollkommen legalen Stellung<subst>
+                        <del rend="strikethrough">s</del>
+                        <!-- "Korrigiert von „s“" -> strikethrough passt? -->
+                        <add>n</add>
+                    </subst>ahme und korrekten Handlungsweise der jetzigen Staatsgewalt. Die
+                    Ausschaltung des Parlaments vollzog sich im Rahmen der bestehenden Gesetze und
+                    die darauf erfolgten Notverordnungen der Regierung wurden vom
+                    Verfassungsgerichtshof als gesetzlich anerkannt. Grundsätzlich muss aber
+                    besonders daran festgehalten und erinnert werden, dass es nicht nur ein
+                    geschriebenes positives Staatsrecht, sondern auch ein allgemein verbindliches
+                    Naturrecht gibt, das die Grundlage jedes positiven Rechtes bildet und das als
+                    höchste Norm jeder Staatsautorität und gesetzlichen Tätigkeit de<subst>
+                        <del rend="strikethrough">s</del>
+                        <!-- "Handschriftlich korrigiert von „s“" -> strikethrough passt? -->
+                        <add rend="handwritten">n</add>
+                    </subst> Satz aufstellt: salus populi suprema lex esto.</p>
+                <p>Wenn erfahrungsgemäss und nach dem Urteil wenigstens des pars sanior populi eine
+                    Staatsverfassung und gesetzgeberische Körperschaft nicht mehr dem Wohle des
+                    Volksganzen dient, sondern egoistische Parteiinteressen fördert, die ihrerseits
+                    wieder eine wahrhaft soziale und staatserhaltende und fördernde Tätigkeit
+                    behindern, so dass der Staat allmählich einem Chaos und einem die Existenz des
+                    Ganzen bedrohenden Zustand entgegen geht, dann ist es nicht nur Recht, sondern
+                    Pflicht der Staatsgewalt, die morschen Grandlagen durch die neue zu ersetzen und
+                    eine dem wahren Wohle dienende Reform anzubahnen und in die Tat umsetzen.</p>
+                <p>Daran ist die Staatsgewalt auch nicht gehindert durch</p>
+                <!-- untypischer Zeilenumbruch -->
+                <p>den auf eine frühere Verfassung abgelegten Eid; erklärt doch auch der Codex J. C.
+                    Can. 1318, § 1, : „Jusjurandum promissorium sequitur naturam et conditiones
+                    actus cui adjicitur“, und Can 1319 : „Obligatio jurejurando promissorio inducta
+                    desinit….. 2o, sie res jurata substantialiter mutetur aut <hi rend="underline"
+                        hand="#UR"><!-- "Vom Leser unterstrichen" -> #UR passt? -->mutatis
+                        adjunctis</hi>, fiat sive mal<subst>
+                        <del rend="strikethrough">s</del>
+                        <!-- "Korrigiert von „s“" -> strikethrough passt? -->
+                        <add>a</add>
+                    </subst>sive omnino indifferens aut denique <hi rend="underline">majus bonum
+                        impediat</hi>“.</p>
+                <p>Der österreichische Episkopat anerkennt daher nicht nur die vollkommen legale
+                    Stellung und Tätigkeit der gegenwärtigen Regierung, sondern kann ihre ganz in
+                    christlichem Geiste gehaltene Reformarbeit nur von Herzen begrüssen und
+                    fördern.</p>
+                <p>Eine Reihe von kirchen-und religionsfeindlichen Bestimmungen und Verordnungen
+                    wurde bereits aufgehoben, besonders auf dem Gebiete der Schule und hinsichtlich
+                    der Abfallspropaganda durch Freidenker und Sozialdemokraten; die
+                    staatsfeindliche Partei des Kommunismus und die illegalen Schutzformationen des
+                    sozialistischen sog. Schutzbundes wurden verboten; die politische Verhetzung der
+                    studierenden Jugend wurde eingedämmt; wahrhaft soziale Fürsorgemassnahmen wurden
+                    getroffen zur Behebung der Arbeitslosigkeit und Schaffung von
+                    Arbeitsgelegenheiten; aber namentlich begrüssenswert ist der offen bekundete
+                    Wille der Regierung, eine soziale Neuordnung des Staates auf berufständischer
+                    Grundlage im Sinne und Geiste des Rundschreibens „Quadragesimo anno“ zu schaffen
+                    und so die Jntentionen des Apostolischen Stuhles in vorbildlicher Weise und
+                    erstmals zu verwirklichen. Auch die Heeresmacht wurde ganz</p>
+                <!-- untypischer Zeilenumbruch -->
+                <p>im katholischen Geiste reorganisiert und durch Wiedereinführung des Kruzifixes in
+                    den K<subst>
+                        <del rend="strikethrough">s</del>
+                        <!-- "Korrigiert von „s“" -> strikethrough passt? -->
+                        <add>a</add>
+                    </subst>sernen und Anbringung von Marienbildern an den Bändern militärischer
+                    Fahnen der christliche Charakter offenkundig betont.</p>
+                <p>Jn hervorragender Weise hat sodann die Regierung ihre ausgesprochen katholische
+                    Gesinnung betätigt und dokumentiert auf dem grossartigen Katholikentag in Wien.
+                    Da der Heilige Apostolische Stuhl selber dies in offenkundigster und
+                    auszeichnender Weise anerkannt und gewürdigt hat, erübrigt sich jede weitere
+                    Bemerkung.</p>
+                <p>Die bereits angekündigten und noch zu gewärtigenden Massnahmen der Regierung
+                    lassen noch weitere beste Wirkungen besonders hinsichtlich Schul-und
+                    Ehegesetzgebung im Geiste einer christlichen Staats-und Gesellsc<subst>
+                        <del rend="strikethrough">j</del>
+                        <!-- "Korrigiert von „j“" -> strikethrough passt? -->
+                        <add>h</add>
+                    </subst>aftsreform erhoffen.</p>
+                <p>Der österreichische Episkopat hält es darum auch für angezeigt, im Anschlusse an
+                    die erbetene Kundgebung des Heiligen Vaters über den Nationalsozialismus ein
+                    diesbezügliches gemeinsames Hirtenwort der Bischöfe an die Gläubigen zu richten,
+                    worin ihnen das Urteil des Apostolischen Stuhles über den Nationalsozialismus
+                    zur Kenntnis gebracht und die Gewissenspflicht der Treue und loyalen Gesinnung
+                    gegen die gegenwärtige Staatsgewalt und Regierung ans Herz gelegt wird. Handelt
+                    es sich doch nicht um eine rein politische Angelegenheit, sondern um höchste
+                    kirchliche Jnteressen und um fundamentale staatsbürgerliche Pflichten, wie sie
+                    der Heilige Stuhl selber so oft und so entschieden betont hat.</p>
+            </div>
+            <div>
+                <p>Mit diesen Darlegungen glaubt der österreichische Episkopat, seiner ihm
+                    aufgetragenen Pflicht bezüglich Kundgebung seiner Wohlmeinung entspr<subst>
+                        <del rend="strikethrough">i</del>
+                        <!-- "Korrigiert von „j“" -> strikethrough passt? -->
+                        <add>o</add>
+                    </subst>chen zu haben, und unterwirft sich in demütigster und bereitwilligster
+                    Weise allen weiteren Weisungen des Heiligen Apostolischen Stuhles.</p>
+            </div>
+            <closer>
+                <signed rend="handwritten">+ Theod. Kard. Innitzer</signed><lb/>Theodor Kardinal
+                Innitzer<lb/>Erzbischof von Wien,<lb/>im Namen des österreichischen Episkopates
+                    <dateline>Wien, am 29. September 1933</dateline>
+            </closer>
+        </body>
+    </text>
+</TEI>
