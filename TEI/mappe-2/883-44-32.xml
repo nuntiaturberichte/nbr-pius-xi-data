@@ -1,10 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="K-POS_883_fasz_44_32-33">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title><!-- ??? --></title>
+                <title>Alois Hudal an<!-- ??? -->, Rom 05.10.1933</title>
                 <author>
                     <persName ref="https://d-nb.info/gnd/118554239">Alois Hudal</persName>
                 </author>
@@ -69,7 +71,6 @@
                             <note type="keyword" resp="#martin.kroissenbrunner">Soziale Frage</note>
                             <note type="keyword" resp="#martin.kroissenbrunner"
                                 >Antisemitismus</note>
-
                         </msItem>
                     </msContents>
                     <physDesc>
@@ -118,140 +119,198 @@
             <p>Per il primo:</p>
             <p>Secondo il mio modesto parere l’attuale posizione dell’Episcopato Austriaco in
                 confronto al Governo del Cancelliere Dollfuss è quello che UNICAMENTE è possibile.
-                Il Governo attuale ha mostrato con parole e fatti ripetutamente un sentimento cosi
-                profondo cattolico e pieno delle dottrine contenute nelle ultime encicliche del
-                Santo Padre che forse dai tempi di Windhorst e O’Conell non hanno più parlato uomini
-                responsabili dello Stato in un modo talmente fermo nei principii cattolici. Un
-                cambiamento politico del Governo attuale, diciamo per elezione, in favore del NS
-                sarebbe una SCONFITTA ENORME del Cattolicesimo in Austria. I partigiani del NS in
+                Il Governo attuale ha mostrato con parole e fatti ripetutamente un sentimento
+                    <sic>cosi</sic> profondo cattolico e pieno delle dottrine contenute nelle ultime
+                encicliche del Santo Padre che forse dai tempi di Windhorst e O’Conell non hanno più
+                parlato uomini responsabili dello Stato in un modo talmente fermo nei principii
+                cattolici. Un cambiamento politico del Governo attuale, diciamo per elezione, in
+                favore del NS sarebbe un<subst>
+                    <del rend="strikethrough">e</del>
+                    <!-- "Handschriftlich korrigiert von „e“" -> strikethrough passt? -->
+                    <add rend="handwritten">a</add>
+                </subst> SCONFITTA ENORME del Cattolicesimo in Austria. I partigiani del NS in
                 Austria sono nella maggioranza cattolici non più praticanti, apostati e dal
                 protestantismo infettati. La prima conseguenza di un Governo NS in Austria sarà che
                 si manderà via da tutte le posizioni nello Stato i fedeli accademici cattolici per
                 sostituirli con persone liberali. L’esempio come nella Rhenania e in Baviera
-                dapertutto si nominava solamente protestanti dove prima erano impiegati cattolici
-                    <hi rend="underline">è una lezione troppo chiara anche per l’Austria</hi>. Le
-                conseguenze tristi di un tale cambiamento politico in Austria sarebbero cosi forte,
-                chè anche in nessuna maniera potrebbero essere reparate, - se - supponiam o questo
-                caso – il partito NS in Austria <hi rend="underline">ratificasse</hi> o <hi
-                    rend="underline">migliorasse</hi> il Concordato sottoscritto dal cancelliere
-                Dollfuss. Mancherebbe sempre lo spirito ed il Concordato servirebbe solamente come
-                un <hi rend="underline">paravento</hi> e mezzo nelle mani di questi politici per
-                potere piu facilmente ingannare il popolo commune ed il clero sui veri ed ultimi
-                scopi massonici e anticattolici del NS. Il cattolicismo austriaco che come quello in
-                Germania con grandi sacrifici sempre più negli ultimi anni ha svilu ppato le sue
-                organizzazioni, fra poco condurebbe solamente più una vita <hi rend="underline"
-                    >nella sagrestia senza contatto colla vita pubblica</hi>. Già adesso i
-                partigiani del NS hanno promosso una propaganda di apostasie dal cattolicismo nelle
-                diocesi di Gurk e Seccovia – che cosa faranno quando un giorno avrebbero tutto
-                l’istrumento </p>
-            <p/>
+                    <sic>dapertutto</sic> si nominava solamente protestant<subst>
+                    <del rend="strikethrough">o</del>
+                    <!-- "Handschriftlich korrigiert von „o“" -> strikethrough passt? -->
+                    <add rend="handwritten">i</add>
+                </subst> dove prima erano impiegati cattolici <hi rend="underline">è una lezione
+                    troppo chiara anche per l’Austria</hi>. Le conseguenze trist<subst>
+                    <del rend="strikethrough">e</del>
+                    <!-- "Korrigiert von „e“" -> strikethrough passt? -->
+                    <add>i</add>
+                </subst> di un tale cambiamento politico in Austria sarebbero <sic>cosi</sic> forte,
+                chè anche in nessuna maniera potrebbero essere reparate, <del rend="strikethrough"
+                    >-</del> se <add rend="handwritten">-</add> supponia<subst>
+                    <del rend="strikethrough">m</del>
+                    <!-- "Korrigiert von „m“" -> strikethrough passt? -->
+                    <add>m</add>
+                </subst>o questo caso – il partito NS in Austria <hi rend="underline"
+                    >ratificasse</hi> o <hi rend="underline">migliorasse</hi> il Concordato
+                sottoscritto dal cancelliere Dollfuss. Mancherebbe sempre lo spirito ed il
+                Concordato servirebbe solamente come un <hi rend="underline">paravento</hi> e mezzo
+                nelle mani di questi politici per potere <sic>piu</sic> facilmente ingannare il
+                popolo <sic>commune</sic> ed il clero sui veri ed ultimi scopi massonici e
+                anticattolici del NS. Il cattolicismo austriaco che come quello in Germania con
+                grandi sacrifici sempre più negli ultimi anni ha svil<subst>
+                    <del rend="strikethrough"><gap reason="strikethrough" unit="char" quantity="1"
+                        /></del>
+                    <!-- "Korrigiert von unleserlichem Buchstaben" -> strikethrough passt? -->
+                    <add>u</add>
+                </subst>ppato le sue organizzazioni, fra poco condurebbe solamente più una vita <hi
+                    rend="underline">nella sagrestia senza contatto colla vita pubblica</hi>. Già
+                adesso i partigiani del NS hanno promosso una propaganda di apostasie dal
+                cattolicismo nelle diocesi di Gurk e Seccovia – che cosa faranno quando un giorno
+                avrebbero tutto l’istrumento</p>
+            <!-- untypischer Zeilenumbruch -->
             <p>dello Stato alla sua disposzione, appoggiati in queste tendenze antiromane per il
-                Protestan tismo della Germania? </p>
-            <p>Cosi devono i Vescovi Austriaci con buona coscienza appoggiare con fermezza e
-                prudenza il Governo attuale senza però di immischiarsi personalmente nella politica.
-                In questo atteggiamento aspettano con ottime ragioni che la Santa Sede approvasse la
-                loro posizione.</p>
+                    Protesta<add place="above" rend="handwritten">n</add>tismo della Germania<subst>
+                    <del rend="strikethrough">.</del>
+                    <!-- "Handschriftlich korrigiert von „.“" -> strikethrough passt? -->
+                    <add rend="handwritten">?</add>
+                </subst></p>
+            <p><sic>Cosi</sic> devono i Vescovi Austriaci con buona coscienza appoggiare con
+                fermezza e prudenza il Governo attuale senza però di immischiarsi personalmente
+                nella politica. In questo atteggiamento aspettano con ottime ragioni che la Santa
+                Sede approvasse la loro posizione.</p>
             <p>Al secondo:</p>
-            <p>La lettera pastorale dell’Eccmo Vescovo di Linz è senza dubbio eccellente e classica
-                nei principii e nelle sue deduzioni <hi rend="underline">anche oggi</hi> nonostante
-                che intanto il NS ha preso il Governo in Germania. Non ha <hi rend="underline"
-                    >niente</hi> perduto dal suo primitivo valore. E parola di un vero Vescovo „qui
-                cognoscit signa temporum“. E‘ cosi potrebbe benissimo servire come modello per una
+            <p><hi rend="underline" hand="#UR"><!-- "Unterstrichen vom Leser" -> #UR passt? -->La
+                    lettera pastorale dell’Eccmo Vescovo di Linz</hi> è senza dubbio eccellente e
+                classica nei principii e nelle sue deduzioni <hi rend="underline">anche oggi</hi>
+                nonostante che intanto il NS ha preso il Governo in Germania. Non ha <hi
+                    rend="underline">niente</hi> perduto dal suo primitivo valore. <add
+                    rend="Akzent handschriftlich">E</add> parola di un vero Vescovo „qui cognoscit
+                signa temporum“. E‘ <sic>cosi</sic> potrebbe benissimo servire come modello per una
                 lettera pastorale collettiva dell’Episcopato Austriaco che solamente dovrebbe avere
-                un altro titolo, per esempio = Nazione, patriotismo e la dottrina cristiana =, o
-                „Roma e la nazione“ ecc; basterebbe di accentuare i principii fondamentali senza una
-                propria polemica contro il partito NS.</p>
+                un altro titolo, per esempio = Nazione<add rend="handwritten">,</add> patriotismo e
+                la dottrina cristiana =, o „Roma e la nazione“ ecc; basterebbe di accentuare i
+                principii fondamentali <hi rend="underline" hand="#UR"
+                    ><!-- "Unterstrichen vom Leser" -> #UR passt? -->senza</hi> una propria polemica
+                contro il partito NS.</p>
             <p><hi rend="underline">Però ed adesso vengo al fondo di tutto</hi> – questa lettera
                 pastorale <hi rend="underline">presuppone</hi> assolutamente una <hi
                     rend="underline">altra</hi> cosa che l’Episcopato Austriaco con buone ragioni
                 domanda. Fra tanti cattolici austriaci esiste una <hi rend="underline"
                     >confusione</hi> dopo che la Santa Sede ha concluso un Concordato coll’attuale
-                Governo NS della Germania. =Molti dicono: „ In Austria l’Episcopato combatte il
-                partito NS mentre in Germania si fa un Concordato e l’Episcopato Germanico ammonisce
-                i fedeli di collaborare.= I principii del NS sono in Austria <hi rend="underline">le
-                    stesse</hi> come quelle in Germania.” Che la Santa Sede doveva fare un
-                Concordato per salvare almeno quello che si può ancora salvare, la gente commune mai
+                Governo NS della Germania. =Molti dicono: <add rend="handwritten">„</add>In Austria
+                l’Episcopato combatte il partito NS mentre in Germania si fa un Concordato e
+                l’Episcopato Germanico ammonisce i fedeli di collaborare.= I principii del NS sono
+                in Austria <hi rend="underline">le stesse</hi> come quelle in Germania.<add
+                    rend="handwritten">”</add> Che la Santa Sede doveva fare un Concordato per
+                salvare almeno quello che si può ancora salvare, la gente <sic>commune</sic> mai
                 capirà non distinguendo fra partito ed autorità statale. E‘ un momento <hi
                     rend="underline">psicologico</hi> di <hi rend="underline">grande</hi> importanza
-                e la ragione di una confusione delle anime. „ Si ha concluso un Concordato con la
-                fiducia che Hitler manterrà la sua promessa data nella prima adunanza del
-                parlamento, ma i fondamenti spirituali del partito non hanno subito nessun
-                cambiamento, sono restati gli stessi come prima del mese di marzo ed il partito
-                (Governo) aspira di infiltrare tutta la gente colla sua idea per formare l’uomo
-                germanico “ . Queste sono le riflessioni del popolo che devono concuotere tutta
-                l’autorità dei Vescovi se nello stesso momento in Austria combattono il NS mentre in
-                Germania oggi le organizzazioni cattoliche stesse raccomandano una stretta
-                collaborazione – è una contradizione che deve creare un conflitto anche nelle anime
-                dei cattolici fedeli in confronto all’autorità ecclesiastica.</p>
-            <p>Cosi nella mia coscienza mi sento costretto di proporre come <hi rend="underline"
-                    >indispensabile e come un sacro dovere che la Santa Sede solennemente tanto
-                    presto che possibile condanni gli errori fondamentali del NS prima che
-                    l’Episcopato pubblicasse una nuova lettera pastorale sul nazionalismo pagano e
-                    cristiano</hi>. Tali errori che sono vere eresi ed una peste per la
-                civilizazione e dovrebbero essere condannati <hi rend="underline">nella forma più
-                    solenne sono</hi>: (per esempio) La dottrina sulla prevalenza e assoluta
-                superiorità della razza ariana su tutte le altre, sulla razza stessa ed il mito del
-                sangue, sulla nazionalizazione della religione, la separazione del Vecchio
-                Testamento dal Nuovo – errore fondamentale di questo partito, l’antisemitismo
-                radicale pieno di ingiustizie ed atti barbari contro molti ebrei, la dottrina che la
-                religione cristiana fu falsificata per il giudaismo ecc, l’assoluta prevalenza dello
-                Stato ecc.</p>
+                e la ragione di una confusione delle anime. <add rend="handwritten">„</add>Si ha
+                concluso un Concordato con la fiducia che Hitler manterrà la sua promessa data nella
+                prima adunanza del parlamento, ma i fondamenti spirituali del partito non hanno
+                subito nessun cambiamento, sono restati gli stessi come prima del mese di marzo ed
+                il partito (Governo) aspira di infiltrare tutta la gente colla sua idea per formare
+                    l’<hi rend="underline" hand="#UR"
+                    ><!-- "Unterstrichen vom Leser" -> #UR passt? -->uomo germanico</hi><add
+                    rend="handwritten">“</add> . Queste sono le riflessioni del popolo che devono
+                concuotere tutta l’autorità dei Vescovi se nello stesso momento in Austria
+                combattono il NS mentre in Germania oggi le organizzazioni cattoliche stesse
+                raccomandano una stretta collaborazione – è una contradizione che deve creare un
+                conflitto anche nelle anime dei cattolici fedeli in confronto all’autorità
+                ecclesiastica.</p>
+            <p><sic>Cosi</sic> nella mia coscienza mi sento costretto di proporre come <hi
+                    rend="underline">indispensabile e come un sacro dovere che la Santa Sede
+                    solennemente tanto presto che possibile condanni gli errori fondamentali del NS
+                    prima che l’Episcopato pubblicasse una nuova lettera pastorale sul nazionalismo
+                    pagano e cristiano</hi>. Tali errori che sono vere <sic>eresi</sic> ed una peste
+                per la <sic>civilizazione</sic> e dovrebbero essere condannati <hi rend="underline"
+                    >nella forma più solenne sono</hi>: <add rend="handwritten">(per esempio)</add>
+                La dottrina sulla prevalenza e assoluta superiorità della razza ariana su tutte le
+                altre, sulla razza stessa ed il mito del sangue, sulla <sic>nazionalizazione</sic>
+                della religione, la separazione del Vecchio Testamento dal Nuovo – errore
+                fondamentale di questo partito, l’antisemitismo <add rend="handwritten"
+                    >radicale</add> pieno di ingiustizie ed atti barbari contro molti ebrei, la
+                dottrina che la religione cristiana fu falsificata per il giudaismo ecc, l’assoluta
+                prevalenza dello Stato ecc.</p>
             <p>Per condannare queste dottrine che sono il germe di tanti e tanti barbarismi e leggi
-                abominabili del NS in Germania basta però di mettere sul indice dei libri proibiti
-                il famoso libro di <hi rend="underline">Rosenberg</hi> “Der Mythos des 20.
-                Jahrhunderts”, München 1932, dal quale si puo dedurre <hi rend="underline">tutti gli
-                    errori del partito NS in Germania</hi>. Si dovrebbe <hi rend="underline"
-                    >motivare insieme colla condanna anche la ragione per la stampa
-                    internazionale</hi> che questo libro è contrario non solamente alla dottrina
-                cristiana e cattolica ma anche ai primitivi principii dell’umanità insegnante niente
-                altro che un paganismo resciuscitato , una idolatria dello Stato e un feticismo
-                della razza (confer l’eccellente articolo allegato del gio rnale “Mattino” di
-                Napoli). Il libro è inoltre pieno di calunnie contro i Papi come se questi fossero
-                sempre stati nemici dei tedeschi.</p>
+                abominabili del NS in Germania <hi rend="underline" hand="#UR"
+                    ><!-- "Unterstrichen vom Leser" -> #UR passt? -->basta</hi> però di mettere sul
+                indice dei libri proibiti il famoso libro di <hi rend="underline" hand="author #UR"
+                    ><!-- "Vom Autor und auch vom Leser unterstrichen" -> #UR passt? -->Rosenberg</hi>
+                “Der Mythos des 20. Jahrhunderts”, München 1932, dal quale si <sic>puo</sic> dedurre
+                    <hi rend="underline">tutti gli errori del partito NS in Germania</hi>. Si
+                dovrebbe <hi rend="underline">motivare insieme colla condanna anche la ragione per
+                    la stampa internazionale</hi> che questo libro è contrario non solamente alla
+                dottrina cristiana e cattolica ma anche ai primitivi principii dell’umanità
+                insegnante niente altro che un paganismo <sic>resciuscitato</sic>, una idolatria
+                dello Stato e un feticismo della razza (confer l’eccellente articolo allegato del gi<subst>
+                    <del rend="strikethrough">r</del>
+                    <!-- "Korrigiert von „r“" -> strikethrough passt? -->
+                    <add>o</add>
+                </subst> rnale “Mattino” di Napoli). Il libro è inoltre pieno di calunnie contro i
+                Papi come se questi fossero sempre stati nemici dei tedeschi.</p>
             <p>Questo libro oggi in Germania è già diffuso in 8 edizioni fra poche settimane e viene
-                sempre più <hi rend="underline">popolarizzato essendo il fondamento per la
+                sempre più popolarizzato <hi rend="underline">essendo il fondamento per la
                     formazione spirituale della gioventù di Hitler</hi>. <hi rend="underline">Lo
                     scopo</hi> dell’autore Rosenberg è di formare <hi rend="underline">una nuova
-                    religione cristiana libera dal vecchio testamento e essenzia lmente germanico e
-                    antiromano</hi>. La conseguenza sarà che la prossima generazione in Germania
-                sarà educata con uno spirito nemico alla Santa Sede, pieno di confusione religiosa,
-                tanto più perché la gioventù cattolica sarà costretta di entrare nelle file delle
-                associazzioni giovanili di Hitler. L’Osservatore Romano ha il libro in una
-                recensione subito condannato quando fu pubblicato, anche i Vescovi della Germania
-                domandavano sempre che Hitler apertamente si separi dalle idee e dottrine di questo
-                autore, però il partito non ha <hi rend="underline">fatto mai</hi> qualcosa di
-                serio, si trovano tutte queste idee anche nel libro che Hitler stesso ha pubblicato
-                “La mia lotta” solamente in quanto alla religione cristiana lui sembra di essere un
-                puo più giusto.</p>
-            <p/>
+                    religione cristiana libera dal vecchio testamento e essenzi<subst>
+                        <del rend="strikethrough">o</del>
+                        <!-- "Korrigiert von „o“" -> strikethrough passt? -->
+                        <add>a</add>
+                    </subst>lmente germanico e antiromano</hi>. La conseguenza sarà che la prossima
+                generazione in Germania sarà educata con uno spirito nemico alla Santa Sede, pieno
+                di confusione religiosa, tanto più perché la gioventù cattolica sarà costretta di
+                entrare nelle file delle <sic>associazzioni</sic> giovanili di Hitler. L’Osservatore
+                Romano ha il libro in una recensione subito condannato quando fu pubblicato, anche i
+                Vescovi della Germania domandavano sempre che Hitler apertamente si separi dalle
+                idee e dottrine di questo autore, però il partito non ha <hi rend="underline">fatto
+                    mai</hi> qualcosa di serio, si trovano tutte queste idee anche nel libro che
+                Hitler stesso ha pubblicato “La mia lotta” solamente in quanto alla religione
+                cristiana lui sembra di essere un <sic>puo</sic> più giusto.</p>
+            <!-- untypischer Zeilenumbruch -->
             <p>Il partito NS non ha fatto niente per rifiutare queste eresie di Rosenberg ma ha
                 nominato l’autore <hi rend="underline">come proprio ispiratore del programma
                     educativo del NS</hi>.</p>
             <p><hi rend="underline">Senza una condanna</hi> solenne di questi errori fondamentali
                 dalla parte della Santa Sede chiaramento avanti tutto il mondo che con grande
-                sodisfazione vedera che la su prema autorità morale del mondo ha il corraggio di
-                condannare tutto che è contrario ai sani principii, mi pare che una nuova lettera
-                pastorale dell’Episcopato non solamente <hi rend="underline">sara superflua ma
+                    <sic>sodisfazione</sic>
+                <sic>vedera</sic> che la s<subst>
+                    <del rend="strikethrough"><gap reason="strikethrough" unit="char" quantity="1"
+                        /></del>
+                    <!-- "Korrigiert von unleserlich" -> strikethrough passt? -->
+                    <add>u</add>
+                </subst>prema autorità morale del mondo ha il <sic>corraggio</sic> di condannare
+                tutto che è contrario ai sani principii, mi pare che una nuova lettera pastorale
+                dell’Episcopato non solamente <hi rend="underline"><sic>sara</sic> superflua ma
                     direttamente nociva per la religione cattolica in Austria</hi>. La confusione
-                crescera sempre più. Se dopo la condanna del libro per il <hi rend="underline"
-                    >Sant’Offizio</hi> e per un a <hi rend="underline">solenne enunziazione del
-                    Santo Padre eventualmente in occasione del prossimo Concistorio</hi> il partito
-                NS non cambiarà queste idee che lentamente <hi rend="underline">rovineranno</hi>
-                tutta la gioventù ca ttolica in Germania e Austria, allora mi pare di essere venuto
-                il momento per comminciare una chiara separazione eventualmente con censure
+                    <sic>crescera</sic> sempre più. Se dopo la condanna del libro per il <hi
+                    rend="underline">Sant’Offizio</hi> e per u<subst>
+                    <del rend="strikethrough">a</del>
+                    <!-- "Korrigiert von „a“" -> strikethrough passt? -->
+                    <add>n</add>
+                </subst>a <hi rend="underline">solenne <sic>enunziazione</sic> del Santo Padre
+                    eventualmente in occasione del prossimo Concistorio</hi> il partito NS non
+                    <sic>cambiarà</sic> queste idee che lentamente <hi rend="underline"
+                    >rovineranno</hi> tutta la gioventù c<subst>
+                    <del rend="strikethrough">t</del>
+                    <!-- "Korrigiert von „t“" -> strikethrough passt? -->
+                    <add>a</add>
+                </subst>ttolica in Germania e Austria, allora mi pare di essere venuto il momento
+                per <sic>comminciare</sic> una chiara separazione eventualmente con censure
                 ecclesiastiche fra i veri cattolici e quelli che nessuno può più salvare.</p>
-            <p>Il NS nella sua sostanza non si può equiperare al fascismo in Italia. Il NS è <hi
-                    rend="underline">essenzialmente nato dal Protestantismo</hi> e restera quello
-                che era dall’inizio. Mentre in Italia poteva il Cattolicismo in molti luoghi avere
-                una nuova rinascita, dappertutto dove il NS il suo <hi rend="underline">vero</hi>
-                carattere con i suoi principii poteva sviluppare verra come conseguenza la morte del
-                Cattolicismo – <hi rend="underline">fra questi due la pace non puo avere una durata
-                    lunga</hi>, forse un armistizio ma la lotta è inevitabile se non il NS
-                apertamente si separasse dalle dottrine erronee ed eretiche di Rosenberg.</p>
-            <closer>
-                <salute>Roma, il 5 ottobre 1933</salute>
-                <signed>Mons. Alois Hudal</signed>
-            </closer>
+            <p>Il NS nella sua sostanza non si p<subst>
+                    <del rend="strikethrough"><gap reason="strikethrough" unit="char" quantity="2"
+                        /></del>
+                    <!-- "Handschriftlich korrigiert von unleserlichen Buchstaben" -> strikethrough passt? -->
+                    <add>uò</add>
+                </subst> equiperare al fascismo in Italia. Il NS è <hi rend="underline"
+                    >essenzialmente nato dal Protestantismo</hi> e <sic>restera</sic> quello che era
+                dall’inizio. Mentre in Italia poteva il Cattolicismo in molti luoghi avere una nuova
+                rinascita, dappertutto dove il NS il suo <hi rend="underline">vero</hi> carattere
+                con i suoi principii poteva sviluppare <sic>verra</sic> come conseguenza la morte
+                del Cattolicismo – <hi rend="underline">fra questi due la pace non <sic>puo</sic>
+                    avere una durata lunga</hi>, forse un armistizio ma la lotta è inevitabile se
+                non il NS apertamente si separasse dalle dottrine erronee ed eretiche di
+                Rosenberg.</p>
+            <closer>Roma, il 5 ottobre 1933</closer>
         </body>
     </text>
 </TEI>
