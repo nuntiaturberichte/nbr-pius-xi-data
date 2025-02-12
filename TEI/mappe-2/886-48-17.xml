@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><!-- ??? --></title>
+                <author><!-- ??? --></author>
+                <respStmt>
+                    <resp>TEI created</resp>
+                    <persName ref="#martin.kroissenbrunner">Martin Kroissenbrunner</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <!-- @status? -->
+                    <msIdentifier>
+                        <repository><!-- ??? --></repository>
+                        <idno type="archive">Pos. 886, Fasc. 48, Fol. 17r - 20r</idno>
+                        <idno type="institutional" subtype="internal"><!-- ??? --></idno>
+                        <idno type="institutional" subtype="external"><!-- ??? --></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Anschluss</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Quadragesimo
+                                anno</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Hl. Stuhl</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Katholische
+                                Aktion</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner"
+                                >Verfassungsreform</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Soziale Frage</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner"
+                                >Nationalsozialismus</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <scriptDesc>
+                            <ab><!-- ??? --></ab>
+                        </scriptDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p><!-- ??? --></p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName><!-- ??? --></persName>
+                    <date when="1934-03-13">13.03.1934</date>
+                </correspAction>
+                <correspAction type="received">
+                    <!-- ??? -->
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <opener><add rend="handwritten">Appunto e
+                    <unclear>sparl</unclear><!-- "Lesung von „sparl“ unklar" -> Umsetzung passt so? --><lb/>
+                    per un eventuale articolo 13-3-34<lb/>
+                    <seg type="subjectLine">Anschluss</seg></add>
+            </opener>
+            <!-- ab hier weitermachen -->
+            <p>Le notizie dei gravi avvenimenti verificatesi in questi giorni in Austria hanno
+                diffuso nel mondo come un senso di sgomento.</p>
+            <p>I politici potranno lamentare la fine dell’indipendenza di una Nazione, che al
+                riconoscimento dei compiti , aveva una importante funzione da svolgere nel mondo
+                secondo tradizioni secolari.</p>
+            <p>I diplomatici potranno meravigliarsi per uno sb occo così imprevisto dopo tante
+                trattative e documenti che non avrebbero potuto farlo prevedere.</p>
+            <p>Noi cattolici non possiamo non preoccuparc i per una ragione molto superiore perché
+                tocca più da vicino la vita dello spirito di milioni di nostri fratelli in
+                Cristo.</p>
+            <p>Nessuno mai più nella Chiesa ha proclamato la libertà dei popoli e il diritto di una
+                Nazione ad organizzarsi secondo le proprie caratteristiche etniche e spirituali.
+                Nessuno mai più e meglio della Chiesa ha difeso i diritti delle minoranze affermando
+                che in via ordinaria è giusto e legittimo che tutti coloro i quali sono uniti dallo
+                stesso vincolo di nazionalità siano anche uniti nella compagine di uno Stato
+                armonico e indipendente.</p>
+            <p>Gli avvenimenti stupiscono. Quale Nazione poteva vantare una documentazione più larga
+                e solenne di garanzie internazionali? </p>
+            <p>Trattati, dichiarazione collettive delle maggiori Pontezne , Protocolli firmati e
+                confermati, discorsi e articoli di grandi Statisti. Eppure tutto è stato vano.</p>
+            <p>Di fronte alla violenza questo castello di carta è crollato. I ragionamenti più
+                fondati e le assicurazioni più esplicite hanno </p>
+            <p/>
+            <p>dovuto c edere il posto alla fatalità degli eventi.</p>
+            <p>Quante contradizioni .</p>
+            <p>Mai come ora si è fatto più uso delle parole più alte e più nobili: libertà, diritto,
+                giustizia, decisione dei popoli, ecc. ecc.</p>
+            <p>Si parla di plebiscito e di libertà e nello stesso tempo si annunziano autoblindate,
+                reparti di fanteria, ecc.: s’incarcerano vescovi e uomini politici rei soltanto di
+                aver servito la Fede e la Patria.</p>
+            <p>Si minaccia si intimidisce come se il timore fosse la sicura garanzia della libera
+                scelta.</p>
+            <p>Si inneggia alla libertà e si mandano armati. Si parla di prosperità e si incarcerano
+                moltissime persone. Si parla di eguaglianza mentre organizzazioni formidabili
+                opprimono e distruggono le iniziative individuali.</p>
+            <p>Si parla di cultura e si vuole imporre a tutti un modo di pensare e di vivere.</p>
+            <p>Si parla di maggioranza e si imprigionano coloro che non essendo più al potere ed
+                esse ndo una minoranza non dovrebbero più destare alcuna preoccupazione.</p>
+            <p>Allargando la considerazione a tutto il mondo, due sanguinosissime guerre in atto:
+                qua si distrugge la produzione che è sovrabbondante : là migliaia di persone muoiono
+                di fame.</p>
+            <p>Altrove lotte e interessi di partiti si sovrappongono al bene della Nazione.</p>
+            <p/>
+            <p>In territori immensi è tolta qualsiasi libertà di coscienza, si uccidono, si
+                imprigionano persone soltanto perché credono in Dio e vogliono rimanere fedeli alla
+                loro religione.</p>
+            <p>In molti luoghi si cerca di dividere gli uomi ni in due grandi eserciti armati l’uno
+                contro l’altro. L’uno in nome della democrazia, l’altro in nome dell’autorità.</p>
+            <p>Che cosa è questa incertezza?</p>
+            <p>Questa onda di violenza e di tirannia che minaccia di tutto sommergere?</p>
+            <p>Che cosa è questa impossibilità di trovare di fronte a fatti gravissimi, non diciamo
+                un’azione concreta, ma un giudizio concorde quando è palese la violazione del
+                diritto più elementare? </p>
+            <p>Quale è la causa di tutto questo?</p>
+            <p>Non si mette più a xxxx base Dio e la sua fede . Non si vuole più ammessa nella vita
+                pubblica l’influenza salutare della Chiesa e così tramontano per sempre duei due
+                astri che dovrebbero illuminare tutta la vita civile cioè la carità e la giustizia
+                (Ricordare alcune parole molto belle sulla carità e la giustizia della Quadragesimo
+                Anno)</p>
+            <p>Senza giustizia non vi può essere che sopraffazione. Senz a carità non vi può essere
+                che odio. Sotto tutti e due gli aspetti non si pu ò giungere che al trionfo della
+                violenza.</p>
+            <p/>
+            <p>E quando tra i rapporti della vita individuale è solo il più forte ad avere la meglio
+                è la fine di ogni libera e decorosa convivenza tra le mura di una stessa città
+                nell’interno di uno stesso paese.</p>
+            <p>Ma quando nei rapporti internazionali la parola definitiva è alla forza e alla
+                violenza, quando i Patti sanciti non sono che pezzi di carta e la parola
+                solennemente data non xxxx è che un suono di vento, è la fine dell’onestà e della
+                rettitudine nella vita internazionale, è la fine della civiltà e il trionfo della
+                barbarie.</p>
+        </body>
+    </text>
+</TEI>

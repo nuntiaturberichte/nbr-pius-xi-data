@@ -1,0 +1,258 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><!-- ??? --> an Dollfuß, Rom 5. Februar 1934</title>
+                <author><!-- ??? --></author>
+                <respStmt>
+                    <resp>TEI created</resp>
+                    <persName ref="#martin.kroissenbrunner">Martin Kroissenbrunner</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <!-- @status? -->
+                    <msIdentifier>
+                        <repository><!-- ??? --></repository>
+                        <idno type="archive">Pos. 883, Fasc. 45, Fol. 35r - 38r</idno>
+                        <idno type="institutional" subtype="internal"><!-- ??? --></idno>
+                        <idno type="institutional" subtype="external"><!-- ??? --></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Dollfuß</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner"
+                                >Nationalsozialismus</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Hl. Stuhl</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Katholische
+                                Aktion</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner"
+                                >Verfassungsreform</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Anschluss</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Nuntiatur</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Völkerbund</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <scriptDesc>
+                            <ab><!-- ??? --></ab>
+                        </scriptDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p><!-- ??? --></p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName><!-- ??? --></persName>
+                    <date when="1934-02-05">05.02.1933</date>
+                    <placeName>Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <!-- passt so? -->
+                    <persName ref="https://d-nb.info/gnd/118526561">Engelbert Dollfuß</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <!-- Dokument enthält Tabstops -> wie damit umgehen? -->
+            <opener>
+                <dateline>Rom, am <sic>S</sic>.Februar 1934.</dateline><lb/><add rend="handwritten"
+                    >Rapporto confidenziale<lb/> del Sig. ministro d‘Austria<lb/> al Cancelliere Dollfuss.<lb/>
+                    <seg type="subjectLine">«Pastorale dei Vescovi austriaci»</seg></add><lb/>
+                <salute>Herr Bundeskanzler!</salute>
+            </opener>
+            <p>Gestern fragte der britische Gesandte beim Heiligen Stuhle, Sir Robert Clive,
+                telephonisch an, ob mich heute vormittag aufsuchen könne.</p>
+            <p>Im Laufe seines heute erfolgten Besuches führte mein Mitredner sinngemäss ungefähr
+                folgendes aus:</p>
+            <p>Seine Regierung interessiere sich dafür, welche Haltung die Kurie Oesterreich
+                gegenüber <sic>eunnehme</sic>, beziehungsweise ob in dieser Haltung eine Aenderung
+                eingetreten sei.</p>
+            <p>In diesem Zusammenhange begannen seine Ausführungen damit, dass man den Eindruck
+                gehabt habe, die seinerzeit vom österreichischen Episkopat verfügte Zurückziehung
+                des Klerus aus der Politik sei im Sinne der durch deutschen Verhältnisse
+                hervorgerufenen allgemeinen <sic>Neucinstellung</sic> der Kurie erfolgt, die, wie er
+                selbst aus entsprechenden Gesprächen zu entnehmen <sic>Genegenheit</sic> gehabt hab<subst>
+                    <del rend="strikethrough">r</del>
+                    <!-- "Korrigiert von „r“" -> strikethrough passt? -->
+                    <add>e</add>
+                </subst>,der Fernhaltung des Klerus von der Politik und dem Wegfall des Zentrums und
+                der Zentrumspolitik nicht besonders nachtrauere.</p>
+            <p>Man hätte den Eindruck haben müssen, das die eben, beregte Verfügung des
+                österreichischen Episkopates auf diese Linie zurückzuführen <sic>seinund</sic> dass
+                sie vermeiden sollte, dass im Gegensatz zu der in Deutschland eingetretenen Lage der
+                Klerus in Oesterreich sich zu sehr eine bestimmte Richtung in der österreichischen
+                Politik exponiere.</p>
+            <p>Der in der Folge erlassene Hirtenbrief des österreichischen Episkopates habe unter
+                diesem Gesichtswinkel eine gewisse Desorientierung geschaffen.</p>
+            <p>Da die Nachrichten eines Umsichgreifens des Nazismus in Oesterreich sich
+                verdichteten, läge es nur in der selbstverständlichen Taktik traditioneller Vorsicht
+                der Kurie, wenn sich gewisse Zurückhaltungen bei ihr ergäben.</p>
+            <p>Das Interesse meines Mitredners <sic>dreite</sic> sich um die Frage ob in der</p>
+            <!-- untypischer Zeilenumbruch -->
+            <p>Haltung der Kurie Oesterreich gegenüber eine Aenderung bemerkbar sei, wobei ich den
+                Eindruck hatte, er selbst neige einer solchen Annahme zu.</p>
+            <p>Hiezu nahm ich in nachstehendem Sinne Stellung:</p>
+            <p>Ich erklärte zunächst eindeutig, dass die Verfügung <sic>betrenfend</sic> die
+                Zurückziehung des Klerus aus der Politik initiativ vom „<sic>osterreichischen</sic>
+                Episkopat ausgegangen ist, <subst>
+                    <del rend="strikethrough"><gap reason="strikethrough" unit="char" quantity="1"
+                        /></del>
+                    <!-- "Korrigiert von unleserlich" -> strikethrough passt? -->
+                    <add>w</add>
+                </subst>eil der Kurs der gegenwärtigen Regierung eine genügende Gewähr für die
+                Sicherheit der kirchlichen Belange darstellt und daher jede aktive Stellungnahme von
+                Mitgliedern des Klerus gerade im Interesse der Regierung die Möglichkeit jedweder
+                weiteren <sic>Auseynandersetzung</sic> über den <sic>von</sic> Episkopat autoritativ
+                gebilligten Regierungskurs genommen worden.</p>
+            <p>Da es sich hier um eine initiative Massnahme des österreichischen Episkopates
+                gehandelt habe, könne zunächst einmal unter dem Gesichtswinkel dieser Frage eine
+                Aenderung in der Einstellung der Kurie Oesterreich gegenüber überhaupt nicht in
+                Frage kommen.</p>
+            <p>Was den Hirtenbrief des österreichischen Episkopates anlange, so sei meines Erachtens
+                hier ebensowenig eine Einflussnahmen des Heiligen Stuhles vorgelegen;dieser
+                Hirtenbrief sei in gleicher Weise ein spontaner Akt des Österreichischen Episkopates
+                gewesen.</p>
+            <p>Das Faktum jedoch, dass der österreichische Episkopat zur absolut initiativen
+                Erlassung eines solchen Hirtenbriefes sich spontan bestimmt gefunden habe, sei
+                meines persönlichen Erachtens aber ein sprechendes Indiz für das notorische ganz
+                allgemeine spezifische Wohlwollen der Kurie Oesterreich gegenüber, da sich ansonsten
+                der österreichische Episkopat wohl vorher an die Ku<subst>
+                    <del rend="strikethrough">e</del>
+                    <!-- "Korrigiert von „e“" -> strikethrough passt? -->
+                    <add>r</add>
+                </subst>ie <sic>gewennet</sic> haben würde.</p>
+            <p>Ohne dass also der Heilige <sic>Suhl</sic>
+                <sic>sebst</sic> in <sic>irgend einem</sic> dieser Belange aus seiner
+                    <sic>traditinellen</sic> Reserve zu einer positiven Mitbestimmung hervorgetreten
+                wäre, seien diese Tatsachen ein sichtlicher Beleg für das notorische Wohlwollen der
+                Kurie Oesterreich gegenüber.</p>
+            <p>Dieses könne bei der allgemein bekannten, streng observanten Einstellung der
+                österreichischen Regierung zur Kirche <sic>naturgemäs</sic> auch gar nicht anders
+                sein.</p>
+            <p>Entgegen der Neigung meines Mitredners, gewisse <sic>aufgetre ne</sic> Befür-</p>
+            <!-- untypischer Zeilenumbruch -->
+            <p>chtungen und damit im Zusammenhang eingetretene Reserven des Heiligen Stuhles zu
+                vermuten; erklärte ich weiter, dass ich <sic>i</sic> der <sic>geshilderten</sic>
+                wohlwollendsten allgemeinen Einstellung der Kurie inzwischen auch durchaus keine
+                Aenderung wahrgenommen habe in diesem Zusammenhang verwies ich auch auf die
+                Schreibart des „Osservatore Romano“ über österreichische Belange, wobei ich <sic>aus
+                    drücklich</sic> hinzufügte, dass hier durchaus keine wie immer geartet
+                Einflussnahme von <sic>irgend einer</sic> dritten Seite vorliegt.</p>
+            <p>Dass es an allen möglichen und unmöglichen Versuchen von verschiedensten Seiten,
+                durch durchaus falsche und tendenziöse Schilderungen über die Lage in Oesterreich
+                das Bild zu verwirren nicht <sic>magelt</sic>, sei möglich.</p>
+            <p>Ich persönlich hätte den Eindruck, dass überall in den verschiedenen Zentren Europas
+                eine systematische Irreführung <sic>betrie ben</sic> werde.</p>
+            <p>Die Tatsachenlage sei <sic>jedoc</sic> die, dass nur ein durchaus geringfügiger
+                Prozentsatz, der sich aus einem Teil studierender Jugendlicher und sogenannter
+                Intelligenzkreise rekrutiert, den Nazi-Rummel in tunlichst überlauter Weise in
+                Oesterreich inszeniert und dadurch den Eindruck zu erwecken trachte, dass es sich um
+                eine allgemeine Bewegung handelt.</p>
+            <p>Mein Mitredner musste mit zustimmen, dass z.B. hundert lärmende Radaubrüder alles
+                übrige andere übertönen können und ihnen gegenüber eine loyale Masse von
+                Hunderttausenden, die nicht lärmen, einfach unbemerkt bleibt.</p>
+            <p>Im Verfolge des Gespräches meinte mein Mitredner noch, dass es zu einer fast
+                selbstverständlichen Vorsichtstaktik der <sic>Kirke</sic> gehört, tunlichst
+                wenigstens lose Kontakte zu allen Richtungen zu <sic>habe</sic>, die im Staate zur
+                Mitherrschaft <sic>gelalgen</sic> könnten.</p>
+            <p>In diesem Zusammenhange erwähnte er das politische <sic>Geschich</sic> des Nuntius
+                von Spanien, Tedeschini, hinsichtlich dessen man überrascht gewesen sei, wie er
+                sofort nach dem Sturz der Monarchie bereits über relativ verzweigte <subst>
+                    <del rend="strikethrough">i</del>
+                    <!-- "Korrigiert von „i“" -> strikethrough passt? -->
+                    <add>u</add>
+                </subst>nd gute <sic>Kontacte</sic> zu den neuen <sic>Machthbern</sic> verfügte, und
+                er fragte mich, ob es nicht möglich sei, dass eventuell auch der
+                    <sic>Apostolosche</sic> Nuntius in Wien solche Zusammenhänge besitze.</p>
+            <p>Hiezu erklärte ich, dass ich den Herrn Apostolischen Nuntius in Wien zuletzt im
+                Oktober v.J. gesehen habe und dass ich auf Grund meiner per-</p>
+            <!-- untypischer Zeilenumbruch -->
+            <p>sönlichen allgemeinen <sic>Eindrüche</sic> eine solche <sic>Moglichkeit</sic> für
+                ausgeschlossen halten musste; auch verfüge der Herr Apostolische Nuntius in Wien
+                nicht über die Kenntnis der deutschen Sprache, was seine Kontaktmöglichkeiten schon
+                a priori wesentlich einschränkt.</p>
+            <p>Damit war das dem Besuche zugrunde liegende Thema <sic>eigent lich</sic>
+                erschöpft.</p>
+            <p>Nebenbei bemerkte mein Mitredner noch im Gespräche über das Verhältnis zu
+                Deutschland, es sei zu hoffen, dass di<subst>
+                    <del rend="strikethrough">r</del>
+                    <!-- "Korrigiert von „r“" -> strikethrough passt? -->
+                    <add>e</add>
+                </subst> Streit-frage nicht bis zum Völkerbund gelange.</p>
+            <p>Hiezu erwiderte ich, dass ich von dieser Frage dien<subst>
+                    <del rend="strikethrough">t</del>
+                    <!-- "Korrigiert von „t“" -> strikethrough passt? -->
+                    <add>s</add>
+                </subst>tlich abseits stehe dass ich jedoch persönlich keine andere Möglichkeit
+                sähe, als nunmehr den Völkerbund zu befassen.</p>
+            <p>Ich empfände <sic>eies</sic> abgesehen vom Rechte vor allem als eine Pflicht, denn
+                Oesterreich sei die Verpflichtung auferlegt worden, seine Selbständigkeit zu
+                erhalten und in dem Momente, wo die Erfüllung dieser <sic>Verplichtung</sic> durch
+                Einflüsse von auswärts gefährdet werde und direkte Auseinandersetzungen zu keinem
+                Zeile führen sei es die Pflicht des Verpflichteten, mit der Sachlage vor seine
+                    <sic>Mandaten</sic>, die ihm diese Verpflichtung,<sic>,</sic> auferlegt haben,
+                zu treten.</p>
+            <p>Darauf hat mi<subst>
+                    <del rend="strikethrough">e</del>
+                    <!-- "Korrigiert von „e“" -> strikethrough passt? -->
+                    <add>r</add>
+                </subst> mein Mitredner nichts ent<subst>
+                    <del rend="strikethrough">r</del>
+                    <!-- "Korrigiert von „r“" -> strikethrough passt? -->
+                    <add>g</add>
+                </subst>egnet.</p>
+            <p>Von Interesse <sic>wre</sic> noch die von meinem Mitredner gelegentlich geäusserte
+                Ueberzeugung, dass es dem Regime in Deutschland mit der Absicht, zu einem vollen
+                Akkord mit Frankreich zu kommen, unzweifelhaft ernst ist, und dass die politische
+                Unstabilität in Frankreich die Herstellung dieses Einvernehmens ungemein erschwere,
+                da man sich keinem stabilen Verhandlungspartner gegenüber befindet.</p>
+            <p>Abschrift dieses Berichtes übermittle ich geleichzeitig dem Herrn österreichischen
+                Gesandten beim Königlich Italienischen Hofe.</p>
+            <closer><salute>Genehmigen, Herrn Bundeskanzler, den Ausdruck meiner vollkommensten
+                    Ergebenheit.</salute></closer>
+        </body>
+    </text>
+</TEI>

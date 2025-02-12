@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Österreichische Geistliche an Pius XI., Graz-Vordernberg-Seckau
+                    25.09.1933</title>
+                <author>
+                    <persName>Bonifaz Wienand</persName>
+                    <persName ref="https://d-nb.info/gnd/1018047751">Simon Pirchegger</persName>
+                    <persName ref="https://d-nb.info/gnd/1220856517">Franz Mandl</persName><!-- richtige Normdatei? -->
+                    <persName ref="https://d-nb.info/gnd/118763393">Johannes Ude</persName>
+                </author>
+                <respStmt>
+                    <resp>TEI created</resp>
+                    <persName ref="#martin.kroissenbrunner">Martin Kroissenbrunner</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <!-- @status? -->
+                    <msIdentifier>
+                        <repository><!-- ??? --></repository>
+                        <idno type="archive">Pos. 883, Fasc. 44, Fol. 3r - 7r</idno>
+                        <idno type="institutional" subtype="internal"><!-- ??? --></idno>
+                        <idno type="institutional" subtype="external"><!-- ??? --></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <note type="keyword" resp="#martin.kroissenbrunner"
+                                >Nationalsozialismus</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Dollfuß</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Hl. Stuhl</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner"
+                                >Verfassungsreform</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Soziale Frage</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Katholische
+                                Aktion</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Anschluss</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Seipel</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <scriptDesc>
+                            <ab><!-- ??? --></ab>
+                        </scriptDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p><!-- ??? --></p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Bonifaz Wienand</persName>
+                    <persName ref="https://d-nb.info/gnd/1018047751">Simon Pirchegger</persName>
+                    <persName ref="https://d-nb.info/gnd/1220856517">Franz Mandl</persName>
+                    <!-- richtige Normdatei? -->
+                    <persName ref="https://d-nb.info/gnd/118763393">Johannes Ude</persName>
+                    <date when="1933-09-25">25.09.1933</date>
+                    <placeName>Graz</placeName>
+                    <placeName>Vordernberg</placeName>
+                    <placeName>Seckau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <!-- passt so? -->
+                    <persName ref="https://d-nb.info/gnd/118594745">Pius XI.</persName>
+                    <placeName>Vatikanstadt</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <opener><salute>Beatissime Papa,</salute></opener>
+            <p>Infrascripti sacerdotes Austriaci audent Beatitudinem Tuam certiorem facere de
+                quibusdam rebus, quae summum dolorem ipsis creant, sperantes et scientes se iustum
+                et paternum advocatum Te reperturos in calamitate sua, quae simul est calamitas
+                multorem centenorum millium Catholicorum patriae nostrae.</p>
+            <p>Ante omnia scias velimus, principium illud a Te et a praedecessoribus Tuis saepius
+                promulgatum, quo statuitur, hominem catholicum salvis fidei morumque praeceptis in
+                rebus politicis plenam libertatem opinionis et optionis habere, in patria nostra ex
+                compluribus mensibus non iam valere. Asseclae nempe Socialismi Nationalis, legitimis
+                potestatibus ecclesiasticis non defendentibus, immo tacite approbantibus, a
+                moderatoribus rei publicae eisdemque faventibus ephemeridibus sic dictis
+                „christianis“ ut „mali christiani“ Neobolschevismum sive „Bolschevismum fuscum“
+                sequentes exagitantur et publice diffamantur. Non raro accidit, ut sacerdotes
+                hominibus Socialismo Nationali adhaerentibus sacramenta denegent, quippe qui „ad
+                societatem ab Ecclesia prohibitam pertineant.” Asseclae dictae factionis saepissime
+                negotio privantur et miseriae traduntur (Cf. Additamentum I.); ut „mali et seducti
+                catholici“ in ephemeridibus, quae „catholicae” vocantur, publice diffamantur.
+                Moderatores quidem rei publicae putant, iuste sese in asseclas Socialismi Nationalis
+                invehere, quippe qui unionem reipublicae Austriacae cum Germania appetant sicque
+                perduellionis rei sint; </p>
+            <pb n="2"/>
+            <p>hoc vero nihil aliud est quam praetextus nuperrime arte inventus. Nam si studium
+                illud revera perduellio esset, plerique moderatores rei pubblicae (ut puta Seipel,
+                Miklas, Vangoin, Dollfuss…) nec non et homines plurimi de scientiis, artibus, rebus
+                oeconomicis optime meriti et ipsi eiusdem criminis rei facti essent, ut patet ex
+                additamento II. Perspectum autem est nobis, studium Socialismi Nationalis in Austria
+                quoque non solum nihil contra fidem et mores moliri, immo vero illos sublimes fines
+                eum appetere, ut sunt animorum morumque renovatio, liberatio a liberalismo et
+                materialismo, el<del rend="strikethrough">l</del>iminatio corruptionis, sedatio
+                luctae classium, profligatio bolschevismi et atheismi, cultus boni nationalis, cura
+                communissalutis tuendae etc. Cum vero agitatio Socialismi Nationalis in appatendis
+                illis finibus tam strenua tamque efficax sit, ut in ordine sociali ab ipsa statuendo
+                veteres partes politicae ex ordine individualistico natae e medio tolli necesse sit,
+                ideo fautores istarum partium contra hunc hostem formidolosum omnia auxilia in aciem
+                educere conantur – quin etiam sanctam religionem. Haec vera causa conflictus;
+                conflictus niquam mere politicus, cum quo sancta religio illicite conmiscetur.
+                Quousque creverit apud nos pertubatio, demonstrant novissimae defectiones a fide a
+                mense Junio factae, quas retores rei publicae inde a die 16. Augusti consiliis mere
+                externis et politicis impedire conantur, ut patet ex additamento III. Rogamus Te,
+                Beatissime Papa, ut Antistites nostros de hac re sollicite
+                    <add><!-- "Von zweiter Hand ausgebessert" -> wie umzusetzen? -->interroges</add>;
+                videbis enim ex una parte defectionem inspiratam et propagatam ab atheistis
+                marxisticis paene cessasse, quippe <add place="above">qui</add> se sub regimine
+                hodierno tutos senti<subst>
+                    <del rend="strikethrough">a</del>
+                    <!-- "Korrigiert von „a“" -> strikethrough passt? -->
+                    <add>u</add>
+                </subst>nt a periculo ex parte Socialismi Nationalis sibi imminente, ex alter<subst>
+                    <del rend="strikethrough">o</del>
+                    <!-- "Verbessert von „o“" -> strikethrough passt? -->
+                    <add>a</add>
+                </subst> vero parte crescentem numerum homininum cul-</p>
+            <pb n="3"/>
+            <p>torum et opulentorum inde a mense Junio ab Ecclesia defecisse. Tacemus de
+                defectionibus internis, quae propter legem latam die 16. Augusti externe perscribi
+                non iam <subst>
+                    <del rend="strikethrough">potest</del>
+                    <add place="above">possunt</add>
+                </subst>.</p>
+            <p>Liquidum nobis est, hominos christianos parum fortes in fide persecutiones iniuste et
+                callide auctoritate religiosa palliatas perperam confundere cum vera Ecclesiae
+                sententia; Ecclesiae ipsi illas persecutiones adscribunt et
+                    <add><!-- "Von anderer Hand ergänzt" -> wie umsetzen? -->ex</add>asperati ab
+                Ecclesia deficiunt. Praeterea cum sciant, Te ipsum cum moderatoribus rei publicae
+                Germaniae concordatum iniisse et episcop<subst>
+                    <del rend="strikethrough">us</del>
+                    <!-- "Korrigiert von „us“" -> strikethrough passt? -->
+                    <add>os</add>
+                </subst> Germaniae applaudentes renovationi nationali, fideles ad iuvandam novam
+                Germaniam exhortari, cum e contrario apud nos idem Socialismus Nationalis episcopis
+                permittentibus a viris politicis et in ephemeridibus „christianis“ vocatis ut
+                „acatholicus“ et „infensus ultimo catholicae religionis propugnaculo“ (nempe
+                Austriae) exagitetur, mirum non est, discr<subst>
+                    <del rend="strikethrough">i</del>
+                    <!-- "Korrigiert von „i“" -> strikethrough passt? -->
+                    <add>e</add>
+                </subst>pantem agendi rationem summorum Ecclesiae <sic>anstititum</sic>, Germaniae
+                ex una parte, Austriae ex altera parte, fidelibus perturbationem fideique damnum
+                creare (cf. Additamentum IV).</p>
+            <p>Moderatores rei pubblicae nostrae excusabunt quidem suam agendi rationem, afferentes
+                crimina ab asseclis Socialismi Nationalis perpetrata, conscripta in sic dicto „libro
+                fusco“ (Braunbuch) nuper edito; nobis tamen videntur haec crimina, in quantum revera
+                ab asseclis Socialismi Nationalis perpetrata sunt, mere eruptiones desperationis
+                invenum immaturorum, quibus ducas factionis nec obnoxii nec responsabiles sunt, cum
+                crimina dicta extincta factione ducisbusque exagitatis et in carcere positis
+                perpetrata sint.</p>
+            <p>Utut dolemus de paucis his et singolaribus criminibus, multo peior tamen nobis
+                vi-</p>
+            <pb n="4"/>
+            <p>detur abusus jurisjurandi religiosi, ausus a rectoribus rei publicae ante hos tres
+                menses: Jurisjurandi nempe, quo omnes officio publico fungentes (magistratus,
+                professores, magistri….) coacti sunt denuo moderatoribus rei publicae fidem vovere,
+                addita clausula speciali, se non pertinere ad quamcumque factionem terrae exterea
+                fines politicos appetentem. Socialismum Nationalem hic subintelligi debere, omnibus
+                a limine patuit. Mirum non est, ingentem animorum commotionem ortam esse ob nefandam
+                tot conscientiarum violationem. Adjicimus pauca documenta hanc rem illustrantia (cf.
+                Additamentum V.)</p>
+            <p>Concludentes igitur dicimus, apud nos iuxta nostram opinionem duo haec principia
+                catholica violari:</p>
+            <p>1. Principium inculcatum a S.S. Benedicto Papa XV. in encyclica de die 1. Nov. 1914
+                (Acta Apost. Sedis VI 576), ubi dicitur, non licere alicuius fidem in suspicionem
+                adduci eumve ut non perfecte cum Ecclesia sentientem fingi, quia in quaestione ab
+                Apostolica Sede nondum definita seu libere discussioni relicta suam propriam
+                opinionem sequatur.</p>
+            <p>2. Principium, quo statuitur, hominem catholicum salvis fidei suorumque praeceptis ut
+                in aliis, ita etiam in rebus politicis plenam opinionis et optionis libertatem
+                possidere. Quae duo principia pulchre a Cardinale Bourne quoad asseclas socialismi
+                anglici (quem tamen cum socialismo marxistico aliqualiter cohaerere constat)
+                vindicata sunt (Osservatore Romano die 2. Julii 1932).</p>
+            <pb n="5"/>
+            <p>Putant igitur infrascripti sacerdotes neglectis his duobus principiis salutem
+                animarum apud nos gravissimum damnum passuram, immo iam passam esse. Orare iterum
+                instantissime rogamus Beatitudinem Tuam, ut rem modo tractatam investigare velis,
+                ita ut verum statum patriae nostrae comperias, afflictae libertati catholicae
+                subvenias et tot periclitantibus fidelium animabus succu<hi rend="macron"
+                    ><!-- "Über dem r ist ein Strich, der eine notwendige Verdoppelung anzeigen soll" -> passt hi@rend=macron?-->r</hi>as.
+                Nomina nostra, quaesumus, rectoribus rei publicae ne detegantur.</p>
+            <closer><salute>Commendant se Beatitudini Tuae cum amore et fiducia filiali</salute><lb/>
+                <salute>Humillimi filii Tui</salute><lb/> Graecii, 22. mense Septembris 1933<lb/> P.
+                Bonifaz Wienand O.M. Conv.<lb/> Graecii, die 22. Mensis Septembris 1933<lb/> Dr.
+                Simon Pirchegger, presb. saecularis dioecesis Seccoviensis<lb/> Vordernberg, 22.
+                Septr. 1933<lb/> Franz Mandl, parochus.<lb/> Graecii 25. Sept. 1933<lb/> Sac. D.
+                Joh. Ude<lb/> Prof. In Universitate Graecensi.</closer>
+        </body>
+    </text>
+</TEI>
