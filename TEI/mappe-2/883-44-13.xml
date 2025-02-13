@@ -4,7 +4,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Theodor Kardinal Innitzer an <!-- ??? -->, Wien, 29.09.1933</title>
+                <title>Theodor Kardinal Innitzer an <!-- ZE: Elementinhalt -->, Wien,
+                    29.09.1933</title>
                 <author>
                     <persName ref="https://d-nb.info/gnd/118555634">Theodor Innitzer</persName>
                 </author>
@@ -47,15 +48,18 @@
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
-                    <!-- @status? -->
+                    <!-- ZE: @status -->
                     <msIdentifier>
-                        <repository><!-- ??? --></repository>
+                        <repository><!-- ZE: Elementinhalt --></repository>
                         <idno type="archive">Pos. 883, Fasc. 44, Fol. 13r - 26r</idno>
-                        <idno type="institutional" subtype="internal"><!-- ??? --></idno>
-                        <idno type="institutional" subtype="external"><!-- ??? --></idno>
+                        <idno type="institutional" subtype="internal"
+                            ><!-- ZE: Elementinhalt --></idno>
+                        <idno type="institutional" subtype="external"
+                            ><!-- ZE: Elementinhalt --></idno>
                     </msIdentifier>
                     <msContents>
                         <msItem>
+                            <!-- ZÜ: Elementinhalt -->
                             <note type="keyword" resp="#martin.kroissenbrunner"
                                 >Nationalsozialismus</note>
                             <note type="keyword" resp="#martin.kroissenbrunner">Katholische
@@ -72,7 +76,7 @@
                     </msContents>
                     <physDesc>
                         <scriptDesc>
-                            <ab><!-- ??? --></ab>
+                            <ab><!-- ZE: Elementinhalt --></ab>
                         </scriptDesc>
                     </physDesc>
                 </msDesc>
@@ -80,7 +84,7 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p><!-- ??? --></p>
+                <p><!-- ZE: Elementinhalt --></p>
             </abstract>
             <correspDesc>
                 <correspAction type="sent">
@@ -89,15 +93,15 @@
                     <placeName>Wien</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <!-- ??? -->
+                    <!-- ZE: Elementinhalt -->
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
-        <!-- @type=Brief? -->
+        <!-- ZE: @type? -->
         <body>
-            <!-- Word Datei enthält Tabstopps - wie damit umgehen? -->
+            <!-- ZB: Umgang mit Tabstopps -->
             <opener>INSERTO al N. 15.261/726.<lb/> Con allegata<lb/><seg type="subjectLine">Lettera
                     Pastorale del Vescovo di Linz</seg></opener>
             <p>Pro m e m o r i a.</p>
@@ -107,29 +111,30 @@
                 Ergebenheit gegen den Heiligen Apostolischen Stuhl darzulegen.</p>
             <div type="chapter" n="I">
                 <head>I. Grundsätzliche Stellungnahme.</head>
-                <p>J<!-- richtige Transkription? Im gesamten Dokument steht immer wieder J statt I -->n
-                    der grundsätzlichen Auffassung über das Wesen, die Bestrebungen und Ziele des
+                <p>J<!-- ZÜ: Im gesamten Dokument steht immer wieder J statt I -->n der
+                    grundsätzlichen Auffassung über das Wesen, die Bestrebungen und Ziele des
                     Nationalsozialismus im <sic>allgemeinen</sic> schliesst sich der österreichische
                     Episkopat zunächst den <hi rend="underline" hand="UR"
-                        ><!-- "vom Leser unterstrichen" -> #UR passt? -->anfänglichen</hi>
-                    Kundgebungen des reichsdeutschen Gesamtepiskopates vollinhaltlich an, insoweit
-                    darin grundsätzlich zu den Jrrtümern des Nationalsozialismus Stellung genommen
-                    wurde. Die österreichischen Bischöfe haben sodann schon in einem gemeinsamen
-                    Hirtenschreiben vom 7. Februar 1932 vor dem Nationalsozialismus eindringlich
-                    gewarnt, seine Hauptirrtümer angedeutet, seine masslosen Übertreibungen
-                    hervorgehoben und auf die ernsten Folgen aufmerksam gemacht, die mit seinem
-                    Siege verbunden wären.</p>
+                        ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") -->
+                        -->anfänglichen</hi> Kundgebungen des reichsdeutschen Gesamtepiskopates
+                    vollinhaltlich an, insoweit darin grundsätzlich zu den Jrrtümern des
+                    Nationalsozialismus Stellung genommen wurde. Die österreichischen Bischöfe haben
+                    sodann schon in einem gemeinsamen Hirtenschreiben vom 7. Februar 1932 vor dem
+                    Nationalsozialismus eindringlich gewarnt, seine Hauptirrtümer angedeutet, seine
+                    masslosen Übertreibungen hervorgehoben und auf die ernsten Folgen aufmerksam
+                    gemacht, die mit seinem Siege verbunden wären.</p>
                 <p>Jnsbesondere aber steht der österreichische Episkopat einheitlich und geschlossen
                     auf dem Standpunkt jener theoretischen Grundsätze und praktischen Folgerungen,
                     die im Hirtenbrief <hi rend="underline">„Über wahren und falschen
                         Nationalismus“</hi></p>
-                <!-- untypischer Zeilenumbruch -->
+                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
                 <p>des Hochwürdigsten Herrn Bischofes Johannes Maria GFÖLLNER von Linz vom 21.
                     Jänner 1933 zum Ausdruck kommen; 3 Exemplare dieses Hirtenbriefes liegen hier
                     bei.</p>
                 <p><hi rend="underline" hand="#UR"
-                        ><!-- "vom Leser unterstrichen" -> #UR passt? -->Die Hauptgedanken des
-                        Hirtenbriefes</hi> kommen in folgenden 4 Grundwahrheiten zum Ausdruck:</p>
+                        ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") --> -->Die
+                        Hauptgedanken des Hirtenbriefes</hi> kommen in folgenden 4 Grundwahrheiten
+                    zum Ausdruck:</p>
                 <list>
                     <item>1.) Die Menschheit ist eine einheitliche Familie.</item>
                     <item>2.) Der wahre christliche Nationalismus ist von Gott gewollt und wird von
@@ -140,9 +145,9 @@
                         sondern übernational ist.</item>
                 </list>
                 <p>Über den Nationalsozialismus als <hi rend="underline" hand="UR"
-                        ><!-- "vom Leser unterstrichen" -> #UR passt? -->System</hi> fällt der
-                    Hirtenbrief das abschliessende Urteil: Der Nationalsozialismus krankt innerlich
-                    an materialistischem Rassenwahn – an unchristlichen Nationalismus – an
+                        ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") --> -->System</hi>
+                    fällt der Hirtenbrief das abschliessende Urteil: Der Nationalsozialismus krankt
+                    innerlich an materialistischem Rassenwahn – an unchristlichen Nationalismus – an
                     nationalistischer Auffassung der Religion; sein religiöses Programm weisen wir
                     darum zurück, umso mehr als neuestens der Nationalsozialismus in Deutschland
                     durch das Sterilisationsgesetz sich in schroffen Gegensatz zur katholischen
@@ -150,7 +155,7 @@
                 <p>Der österreichische Episkopat hält an den Grundsätzen dieses Hirtenbriefes auch
                     jetzt n<subst>
                         <del rend="strikethrough">i</del>
-                        <!-- "Korrigiert von „i“" -> strikethrough passt? -->
+                        <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                         <add>o</add>
                     </subst>ch fest, obwohl es scheinen könnte, dass sie seit der politischen
                     Neuordnung in Deutschland und durch die <hi rend="underline">seitdem</hi>
@@ -159,7 +164,7 @@
                 <p>Zunächst hat ja auch der deutsche Episkopat in seiner neuen Stellungnahme zu der
                     politischen Neugestaltung seine <hi rend="underline">grundsätzliche</hi>
                     Verurteilung der <hi rend="underline">theoretischen Jrrtümer</hi></p>
-                <!-- untypischer Zeilenumbruch -->
+                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
                 <p>des Nationalsozialismus ausdrücklich aufrecht erhalten und in keiner Weise
                     abgeschwächt.</p>
                 <p>Sodann war in Deutschland die praktische Stellungnahme des Episkopates zur neuen
@@ -186,11 +191,11 @@
                     nationalsozialistische Partei nicht vertreten, ja es wurde ihr durch die
                     gegenwärtige Regierung jedwede politische Betätigung von Amtswegen verboten, so <subst>
                         <del><gap reason="overwritten" unit="char" quantity="1"/></del>
-                        <!-- "Korrigiert von ausleserlichem Buchstaben" -> overwritten passt?-->
+                        <!-- ZÜ: @rend ("Korrigiert von ausleserlichem Buchstaben") -->
                         <add>d</add>
                     </subst>ass für den österreichischen Episkopat die nationalsozialistische Partei
                     als solche</p>
-                <!-- untypischer Zeilenumbruch -->
+                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
                 <p>formell und amtlich nicht mehr in Betracht kommt.</p>
                 <p>Während also der deutsche Episkopat einer nationalsozialistischen <hi
                         rend="underline">Regierung</hi> gegenüber steht, steht der österreichische
@@ -199,8 +204,7 @@
                     Nationalsozialismus gegenüber lediglich durch seine <hi rend="underline"
                         >grundsätzliche</hi> Einstellung im obigen Sinne geleitet ist.</p>
                 <p>Was insbesondere den Abschluss des reichsdeutschen Konkordate<subst>
-                        <del rend="strikethrough"
-                            ><!-- "Korrigiert von „n“" -> strikethrough passt? --></del>
+                        <del rend="strikethrough"><!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") --></del>
                         <add>s</add>
                     </subst> anlangt, so vertritt selbstverständlich auch der österreichische
                     Episkopat den Standpunkt, dass dieses Konkordat nicht mir der
@@ -212,7 +216,7 @@
                     Grundsätze und Bestrebungen bedeutet. Darum sieht sich auch der österreichische
                     Episkopat durch die p<subst>
                         <del rend="strikethrough">l</del>
-                        <!-- "Korrigiert durch „l“" -> strikethrough passt? -->
+                        <!-- ZÜ: @rend ("korrigiert durch [Buchstabe/n]") -->
                         <add>o</add>
                     </subst>litische Neuordnung in Deutschland in seiner grundsätzlichen Ablehnung
                     und Verurteilung der nationalsozialistischen Jrrtümer und Bestrebungen in keiner
@@ -223,7 +227,7 @@
                 <p>Die politischen Ziele und Bestrebungen der nationalsozialistischen Partei in
                     Österreich waren von allem Anfange an gegen die politische Selbstständigkeit und
                     Unabhängigkeit</p>
-                <!-- untypischer Zeilenumbruch -->
+                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
                 <p>Österreichs gerichtet. Das Hauptziel war von jeher, nach dem politischen
                     Schlagwort „Ein Volk- ein Reich“, die Angliederung Österreichs an Deutschland
                     und die Eingliederung in die gemeinsame Regierung, sobald und soweit es die
@@ -246,7 +250,7 @@
                     insbesondere aber legen auch kirchliche und religiöse Jnteressen eine solche
                     politische Unabhängigkeit nahe.</p>
                 <p>Österreich ist in seiner erdrückenden Mehrheit katholisch,</p>
-                <!-- untypischer Zeilenumbruch -->
+                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
                 <p>die katholische Glaubensidee ist wenig von einer protestantischen Umwelt
                     beeinflusst, das katholische Glaubensleben entfaltet sich freier, zum
                     Unterschied von Deutschland, wo die geistige protestantische Umwelt und das
@@ -268,19 +272,19 @@
                     erloschen oder lahmgelegt. Eine ständige geheime und offene Einflussnahme,
                     Aufmunterung und Förderung seitens der nationalsozialistischen Partei <subst>
                         <del rend="strikethrough">u</del>
-                        <!-- "Korrigiert von „u“" -> strikethrough passt? -->
+                        <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                         <add>i</add>
                     </subst>n Deutschland, ja offiziöser und offizieller Kreise dortselbst ermutigt
                     und treibt unterbrochen die hiesigen Nationalsozialisten an, ihre geheime,
                     staatsfeindliche</p>
-                <!-- untypischer Zeilenumbruch -->
+                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
                 <p>und insbesondere österreichfeindliche Wühlarbeit mit dem ausgesprochenen Ziele
                     des Sturzes gegenwärtigen Regierung und der Erringung der politischen
                     Machtstellung nach dem Beispiele Deutschlands fortzusetzen und zu steigern. Kein
                     Mittel erscheint <sic>hiefür</sic> zu schlecht. Wenn auch staatlich verboten,
                     setzt dennoch die Partei im geheimen und unter verschiedenen Form<subst>
                         <del rend="strikethrough">o</del>
-                        <!-- "Korrigiert von „o“" -> strikethrough passt? -->
+                        <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                         <add>e</add>
                     </subst>n und Namen ihre staatsfeindliche Betätigung fort. Namentlich Angehörige
                     der sog. intelligenten Kreise, Hochschul- und Mittelschulprofessoren, Lehrer,
@@ -290,7 +294,7 @@
                     sie dabei <add place="above">auch</add> die Abneigung der einheimischen
                     Bevölkerung gegen das Judentum aus und betören das Volk durc<subst>
                         <del rend="strikethrough">h</del>
-                        <!-- "Korrigiert von „h“" -> strikethrough passt? -->
+                        <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                         <add>h</add>
                     </subst> abenteuerliche Versprechungen wirtschaftlicher Natur.</p>
                 <p>Vielfach sind es die Anhänger des Liberalismus und eines übersteigerten deutschen
@@ -305,7 +309,7 @@
                 <p>Ausser den geistigen Propagandamitteln bedient sich aber der Nationalsozialismus
                     in Österreich auch ganz offen verschiedener Gewaltmittel. Eine fast ständige
                     Beunruhigung und</p>
-                <!-- untypischer Zeilenumbruch -->
+                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
                 <p>Belästigung der friedlichen Bevölkerung erfolgt durch eigene sog. Klebe-Kolonnen,
                     die überall auf Wegen und Strassen, Gebäuden und selbst kirchlichen Bauten
                     hochverräterische und revolutionäre Propagandazettel aufkleben.</p>
@@ -330,14 +334,14 @@
                     organisierten Truppe, die immer wieder mit kriegerischen Überfällen auf das
                     österreichische Grenzgebiet droht.</p>
                 <p>Diese Drohungen werden auch von der österreichischen</p>
-                <!-- untypischer Zeilenumbruch -->
+                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
                 <p>Regierung ernst genommen, weshalb namentlich in letzterer Zeit die Grenzgebiete
                     militärischen Schutz erhielten, um die Bevölkerung zu beruhigen und für alle
                     Fälle gerüstet zu sein.</p>
                 <p>Alle diese offenkundigen Tatsachen erweisen zur Genüge<del rend="strikethrough"
                         >,</del> den ausgesprochen staatsf<subst>
                         <del rend="strikethrough">i</del>
-                        <!-- "Korrigiert von „i“" -> strikethrough passt? -->
+                        <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                         <add>e</add>
                     </subst>indlichen, revolutionären und geheimen freimaurerischen Charakter des
                     österreichischen Nationalsozialismus, der darum keine blosse parteipolitische
@@ -357,11 +361,11 @@
                     klärende Enunziation erliesse; darauf gestützt könnte dann der Episkopat
                     einerseits auch jene katholischen Kreise mit noch grösserem Nachdruck belehren
                     und warnen, die noch immer mit dem</p>
-                <!-- untypischer Zeilenumbruch -->
+                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
                 <p><hi rend="mark" hand="#UR"
-                        ><!-- "Am Rand markiert vom Leser" -> #UR passt? -->Nationalsozialismus
-                        stark sympathisieren, anderseits könnte er eine weitere praktische Stellung
-                        einnehmen hinsichtlich des</hi>
+                        ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") -->
+                        -->Nationalsozialismus stark sympathisieren, anderseits könnte er eine
+                        weitere praktische Stellung einnehmen hinsichtlich des</hi>
                 </p>
             </div>
             <div type="chapter" n="III">
@@ -369,11 +373,11 @@
                 <p/>
                 <p>Der Episkopat ist zunächst überzeu<subst>
                         <del rend="strikethrough">h</del>
-                        <!-- "Korrigiert von „h“" -> strikethrough passt? -->
+                        <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                         <add>g</add>
                     </subst>t von der vollkommen legalen Stellung<subst>
                         <del rend="strikethrough">s</del>
-                        <!-- "Korrigiert von „s“" -> strikethrough passt? -->
+                        <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                         <add>n</add>
                     </subst>ahme und korrekten Handlungsweise der jetzigen Staatsgewalt. Die
                     Ausschaltung des Parlaments vollzog sich im Rahmen der bestehenden Gesetze und
@@ -384,7 +388,7 @@
                     Naturrecht gibt, das die Grundlage jedes positiven Rechtes bildet und das als
                     höchste Norm jeder Staatsautorität und gesetzlichen Tätigkeit de<subst>
                         <del rend="strikethrough">s</del>
-                        <!-- "Handschriftlich korrigiert von „s“" -> strikethrough passt? -->
+                        <!-- ZÜ: Umsetzung ("handschriftlich korrigiert von [Buchstabe/n]") -->
                         <add rend="handwritten">n</add>
                     </subst> Satz aufstellt: salus populi suprema lex esto.</p>
                 <p>Wenn erfahrungsgemäss und nach dem Urteil wenigstens des pars sanior populi eine
@@ -396,15 +400,15 @@
                     Pflicht der Staatsgewalt, die morschen Grandlagen durch die neue zu ersetzen und
                     eine dem wahren Wohle dienende Reform anzubahnen und in die Tat umsetzen.</p>
                 <p>Daran ist die Staatsgewalt auch nicht gehindert durch</p>
-                <!-- untypischer Zeilenumbruch -->
+                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
                 <p>den auf eine frühere Verfassung abgelegten Eid; erklärt doch auch der Codex J. C.
                     Can. 1318, § 1, : „Jusjurandum promissorium sequitur naturam et conditiones
                     actus cui adjicitur“, und Can 1319 : „Obligatio jurejurando promissorio inducta
                     desinit….. 2o, sie res jurata substantialiter mutetur aut <hi rend="underline"
-                        hand="#UR"><!-- "Vom Leser unterstrichen" -> #UR passt? -->mutatis
-                        adjunctis</hi>, fiat sive mal<subst>
+                        hand="#UR"><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") -->
+                        -->mutatis adjunctis</hi>, fiat sive mal<subst>
                         <del rend="strikethrough">s</del>
-                        <!-- "Korrigiert von „s“" -> strikethrough passt? -->
+                        <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                         <add>a</add>
                     </subst>sive omnino indifferens aut denique <hi rend="underline">majus bonum
                         impediat</hi>“.</p>
@@ -424,11 +428,11 @@
                     Grundlage im Sinne und Geiste des Rundschreibens „Quadragesimo anno“ zu schaffen
                     und so die Jntentionen des Apostolischen Stuhles in vorbildlicher Weise und
                     erstmals zu verwirklichen. Auch die Heeresmacht wurde ganz</p>
-                <!-- untypischer Zeilenumbruch -->
+                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
                 <p>im katholischen Geiste reorganisiert und durch Wiedereinführung des Kruzifixes in
                     den K<subst>
                         <del rend="strikethrough">s</del>
-                        <!-- "Korrigiert von „s“" -> strikethrough passt? -->
+                        <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                         <add>a</add>
                     </subst>sernen und Anbringung von Marienbildern an den Bändern militärischer
                     Fahnen der christliche Charakter offenkundig betont.</p>
@@ -441,7 +445,7 @@
                     lassen noch weitere beste Wirkungen besonders hinsichtlich Schul-und
                     Ehegesetzgebung im Geiste einer christlichen Staats-und Gesellsc<subst>
                         <del rend="strikethrough">j</del>
-                        <!-- "Korrigiert von „j“" -> strikethrough passt? -->
+                        <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                         <add>h</add>
                     </subst>aftsreform erhoffen.</p>
                 <p>Der österreichische Episkopat hält es darum auch für angezeigt, im Anschlusse an
@@ -458,7 +462,7 @@
                 <p>Mit diesen Darlegungen glaubt der österreichische Episkopat, seiner ihm
                     aufgetragenen Pflicht bezüglich Kundgebung seiner Wohlmeinung entspr<subst>
                         <del rend="strikethrough">i</del>
-                        <!-- "Korrigiert von „j“" -> strikethrough passt? -->
+                        <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                         <add>o</add>
                     </subst>chen zu haben, und unterwirft sich in demütigster und bereitwilligster
                     Weise allen weiteren Weisungen des Heiligen Apostolischen Stuhles.</p>

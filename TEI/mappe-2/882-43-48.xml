@@ -4,9 +4,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title><!-- ??? --></title>
+                <title><!-- ZE: Elementinhalt --></title>
                 <author>
-                    <persName><!-- ??? --></persName>
+                    <persName><!-- ZE: Elementinhalt --></persName>
                 </author>
                 <respStmt>
                     <resp>TEI created</resp>
@@ -47,15 +47,15 @@
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
-                    <!-- @status? -->
+                    <!-- ZE: @status -->
                     <msIdentifier>
-                        <repository><!-- ??? --></repository>
+                        <repository><!-- ZE: Elementinhalt --></repository>
                         <idno type="archive">Pos. 882, Fasc. 43, Fol. 48r - 54r</idno>
-                        <idno type="institutional" subtype="internal"><!-- ??? --></idno>
-                        <idno type="institutional" subtype="external"><!-- ??? --></idno>
+                        <idno type="institutional" subtype="internal"><!-- ZE: Elementinhalt --></idno>
+                        <idno type="institutional" subtype="external"><!-- ZE: Elementinhalt --></idno>
                     </msIdentifier>
                     <msContents>
-                        <msItem>
+                        <msItem><!-- ZÜ: Elementinhalt -->
                             <note type="keyword" resp="#martin.kroissenbrunner">Neuland</note>
                             <note type="keyword" resp="#martin.kroissenbrunner">Katholische
                                 Aktion</note>
@@ -69,7 +69,7 @@
                     </msContents>
                     <physDesc>
                         <scriptDesc>
-                            <ab><!-- ??? --></ab>
+                            <ab><!-- ZE: Elementinhalt --></ab>
                         </scriptDesc>
                     </physDesc>
                 </msDesc>
@@ -77,19 +77,19 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p><!-- ??? --></p>
+                <p><!-- ZE: Elementinhalt --></p>
             </abstract>
             <correspDesc>
                 <correspAction type="sent">
-                    <!-- ??? -->
+                    <!-- ZE: Elementinhalt -->
                 </correspAction>
                 <correspAction type="received">
-                    <!-- ??? -->
+                    <!-- ZE: Elementinhalt -->
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
-    <text>
+    <text><!-- ZE: @type? -->
         <body>
             <pb n="1"/>
             <opener>
@@ -112,7 +112,7 @@
             <p>L’anno della fondazione è il 1921. I veri dirigenti ecclesiastici sono due
                 sacerdoti:</p>
             <p>Dr. teol. Carlo <hi rend="underline" hand="#UR"
-                >Rudolf</hi><!-- "Unterstrichen vom Leser" -> #UR passt? --> , nato nel 18<subst>
+                >Rudolf</hi><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") --> --> , nato nel 18<subst>
                     <del rend="overwritten">7</del>
                     <add rend="overwritten">8</add>
                 </subst>6, ordinato sacerdote nel 1912; (dal 1914 al 1922……. nel seminario di
@@ -140,7 +140,7 @@
                 col “Neuland”</p>
             <p>Un gruppo di aderenti al “Neuland” si presentò al cardina<subst>
                     <del rend="strikethrough">e</del>
-                    <!-- "Korrigiert von „e“" -> strikethrough passt? -->
+                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                     <add>l</add>
                 </subst>e per fargli delle rimostranze e per <sic>d rgli </sic>dei suggerimenti:
                 furono congedati, però e venne loro risposto che dovevano imparare dapprima
@@ -148,7 +148,7 @@
             <p>Nuove difficoltà sorsero recentemente.</p>
             <p>Al principio del 1936 la direzione del seminario ecclesiastico di Vienna present<add
                     rend="Akzent handschriftlich"
-                >ò</add><!-- "Akzent handschriftlich hinzugefügt" -> Umsetzung passt so? -->
+                >ò</add><!-- ZÜ: Umsetzung ("Akzent handschriftlich hinzugefügt") -->
                 all’Autorità Ecclesiastica Viennese un memorandum, in cui attirava l’attenzione, per
                 mezzo di una dettagliata esposizione, sui pericoli del “Neuland”: Il suo
                 atteggiamento di fronte all’autorità ecclesiastica, di fronte alla devozione alla
@@ -179,7 +179,7 @@
                 riunione della facoltà, espresse il suo stupore, dato che, del resto, tutta la
                 facoltà si mantiene in un atteggiamento di grande s<subst>
                     <del rend="strikethrough">e</del>
-                    <!-- "Korrigiert von e" -> strikethrough passt? -->
+                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                     <add>c</add>
                 </subst>etticismo verso il movimento “Neuland”.</p>
             <p>Da allora le voci di malcontento e di disgusto non sono cessate fra il clero
@@ -194,9 +194,9 @@
             <p>Non si può negare che un gran numero di persone ricche di nobili idealità, agisce
                 attivamente nel movimento “Neuland”; anche i tre sacerdoti suddetti sono, del resto,
                     <hi rend="mark" hand="#UR"
-                    ><!-- "An der Seite vom Leser markiert" -> #UR passt? -->preti virtuosi e
+                    ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") --> -->preti virtuosi e
                     zelanti; il rev. <hi rend="underline" hand="#UR"
-                        ><!-- "Unterstrichen vom Leser" -> #UR passt? -->Pfliegler</hi> , da quando
+                        ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") --> -->Pfliegler</hi> , da quando
                     è diventato docente universitario, si è un po' ritirato dal movimento.</hi></p>
             <p>La menzionata agilità si spiega dal carattere fondamentale del “Neuland”, che vuol
                 essere fondamentalmente un movimento dinamico che prende interesse a tutte le
@@ -215,7 +215,7 @@
             <p>Un’altra caratteristica sfavorevole è un’accentuata inclinazione al soggettivismo,
                 alla <sic>cosidetta</sic> “esperienza”, e quindi una not<subst>
                     <del rend="strikethrough">i</del>
-                    <!-- "Korrigiert von „i“" -> strikethrough passt? -->
+                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                     <add>e</add>
                 </subst>vole presunzione = per non usare un’espressione più forte = in modo che i
                 membri del “Neuland” si </p>
@@ -227,12 +227,12 @@
                 così a mettere da parte l’”autorità” ecclesiastica, che sono disposti a seguire in
                 tanto, in quanto viene incontro alle loro idee e tendenze soggettive.</p>
             <p><hi rend="mark" hand="#UR"
-                    ><!-- "An der Seite durch Leser markiert" -> #UR passt? -->Si sono addirittura
+                    ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") --> -->Si sono addirittura
                     spinti fino a questa dichiarazione: “se la chiesa dovesse una volta proclamare
                     la mediazio</hi>ne di Maria per l’acquisto della grazia quale dottrina della
                 Chiesa, essi sarebbero costretti di rinnegarla”.</p>
             <p><hi rend="mark" hand="#UR"
-                    ><!-- "An der Seite durch Leser markiert" -> #UR passt? -->Essi assumono, anzi,
+                    ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") --> -->Essi assumono, anzi,
                     nei riguardi della devozione mariana un atteggiamento di ostilità, per non dire
                     perfino di ripulsa, e precisamente per quanto concerne il santo rosario, che
                     sembra loro troppo poco “cristocentrico”.</hi></p>
@@ -271,11 +271,11 @@
                 per ottenere le quali vengono favoriti dall’influente appoggio di un signore del
                 ministero, egli pure socio del “Neuland”.</p>
             <p><hi rend="mark" hand="#UR"
-                    ><!-- "An der Seite durch Leser markiert" -> #UR passt? -->Veramente ora nel
+                    ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") --> -->Veramente ora nel
                     seminario diocesano gli alunni si conformano al divieto del “Neuland”, ma
                     soltanto se vi sono costretti; tacitamente essi simpatizzano t<subst>
                         <del rend="strikethrough">i</del>
-                        <!-- "Korrigiert von „i“" -> strikethrough passt? -->
+                        <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                         <add>u</add>
                     </subst>ttora con</hi> questa tendenza e sono decisi di aderirvi in seguito per
                 ot=</p>
@@ -300,18 +300,18 @@
                 quanto prima tanto meglio altrimenti ne verrebbe col tempo un danno veramente
                 grave.</p>
             <p><hi rend="mark" hand="#UR"
-                    ><!-- "An der Seite durch Leser markiert" -> #UR passt? -->D’altronde è grande
+                    ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") --> -->D’altronde è grande
                     l’influenza che esercita negli ambienti ecclesiastici il Dr. Rudolf.</hi></p>
             <p><hi rend="mark" hand="#UR"
-                    ><!-- "An der Seite durch Leser markiert" -> #UR passt? -->Se si riuscisse in
+                    ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") --> -->Se si riuscisse in
                     primo luogo a tenere lontano questo signore dall’”Entourage” di Sua Eminenza il
                     Card. Innitzer e ad eliminar<subst>
                         <del rend="strikethrough"
-                            ><!-- "Korrigiert von „o“" -> strikethrough passt? -->o</del>
+                            ><!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->o</del>
                         <add>n</add>
                     </subst>e l’influenza, sarebbe evitato in parte il pericolo del “Neuland” e for<subst>
                         <del rend="strikethrough"
-                            ><!-- "Korrigiert von „es“" -> strikethrough passt? -->es</del>
+                            ><!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->es</del>
                         <add>se</add>
                     </subst> sarebbe del tutto scong</hi>giurato.</p>
             <p>La definitiva eliminazione non si potrebbe però ottenere che per mezzo di una

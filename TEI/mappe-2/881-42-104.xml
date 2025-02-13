@@ -49,17 +49,17 @@
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
-                    <!-- @status? -->
+                    <!-- ZE: @status -->
                     <msIdentifier>
-                        <repository><!-- ??? --></repository>
+                        <repository><!-- ZE: Elementinhalt --></repository>
                         <idno type="archive">Pos. 881, Fasc. 42, Fol. 1045 – 1075</idno>
-                        <!-- recto/verso? -->
-                        <idno type="institutional" subtype="internal"><!-- ??? --></idno>
-                        <idno type="institutional" subtype="external"><!-- ??? --></idno>
+                        <!-- ZE: recto/verso? -->
+                        <idno type="institutional" subtype="internal"><!-- ZE: Elementinhalt --></idno>
+                        <idno type="institutional" subtype="external"><!-- ZE: Elementinhalt --></idno>
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <!-- zu überprüfen -->
+                            <!-- ZÜ: Elementinhalt -->
                             <note type="keyword" resp="#martin.kroissenbrunner">Dollfuß</note>
                             <note type="keyword" resp="#martin.kroissenbrunner">Schuschnigg</note>
                             <note type="keyword" resp="#martin.kroissenbrunner">Bürgerkrieg</note>
@@ -75,7 +75,7 @@
                     </msContents>
                     <physDesc>
                         <scriptDesc>
-                            <ab><!-- ??? --></ab>
+                            <ab><!-- ZE: Elementinhalt --></ab>
                         </scriptDesc>
                     </physDesc>
                 </msDesc>
@@ -83,7 +83,7 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p><!-- ??? --></p>
+                <p><!-- ZE: Elementinhalt --></p>
             </abstract>
             <correspDesc>
                 <correspAction type="sent">
@@ -91,7 +91,7 @@
                     <date when="1934-11-13">13.11.1934</date>
                 </correspAction>
                 <correspAction type="received">
-                    <!-- zu überprufen -->
+                    <!-- ZÜ: Elementinhalt -->
                     <persName ref="https://d-nb.info/gnd/118594745">Pius XI.</persName>
                     <placeName>Vatikanstadt</placeName>
                 </correspAction>
@@ -99,7 +99,7 @@
         </profileDesc>
     </teiHeader>
     <text>
-        <!-- @type="Bericht"? -->
+        <!-- ZE: @type? -->
         <body>
             <opener>
                 <salute>Heiliger Vater!</salute>
@@ -189,7 +189,7 @@
                 Unbescheidenheit, sondern infolge der Schöpfung und Leitung durch mich diesen Namen
                 hat, nicht nur die einzige bis an die halten marxistischen Kernschichten der
                 österreichischen Arbeiterschaft vordringende</p>
-            <!-- untypischer Zeilenumbruch-->
+            <!-- ZB: untypischer Zeilenumbruch -> pb?-->
             <p>politische <sic>Phanlanx</sic>, die die Sozialdemokraten zum Staate führen kann,
                 sondern darüber hinaus eines der hauptsächlichsten Mittel, durch die auch auf
                 religiösem Gebiete die österreichische Arbeiterschaft allmählich aufgelockert und

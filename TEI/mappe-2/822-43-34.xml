@@ -49,15 +49,15 @@
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
-                    <!-- @status? -->
+                    <!-- ZE: @status -->
                     <msIdentifier>
-                        <repository><!-- ??? --></repository>
+                        <repository><!-- ZE: Elementinhalt --></repository>
                         <idno type="archive">Pos. 882, Fasc. 43, Fol. 34r+v - 41r</idno>
-                        <idno type="institutional" subtype="internal"><!-- ??? --></idno>
-                        <idno type="institutional" subtype="external"><!-- ??? --></idno>
+                        <idno type="institutional" subtype="internal"><!-- ZE: Elementinhalt --></idno>
+                        <idno type="institutional" subtype="external"><!-- ZE: Elementinhalt --></idno>
                     </msIdentifier>
                     <msContents>
-                        <msItem>
+                        <msItem><!-- ZÜ: Elementinhalt -->
                             <note type="keyword" resp="#martin.kroissenbrunner">Neuland</note>
                             <note type="keyword" resp="#martin.kroissenbrunner">Katholische
                                 Aktion</note>
@@ -73,7 +73,7 @@
                     </msContents>
                     <physDesc>
                         <scriptDesc>
-                            <ab><!-- ??? --></ab>
+                            <ab><!-- ZE: Elementinhalt --></ab>
                         </scriptDesc>
                     </physDesc>
                 </msDesc>
@@ -81,7 +81,7 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p><!-- ??? --></p>
+                <p><!-- ZE: Elementinhalt --></p>
             </abstract>
             <correspDesc>
                 <correspAction type="sent">
@@ -96,7 +96,7 @@
         </profileDesc>
     </teiHeader>
     <text>
-        <!-- @type? -->
+        <!-- ZE: @type? -->
         <body>
             <opener>
                 <salute>Eure Eminenz!</salute>
@@ -115,7 +115,7 @@
             <div type="chapter" n="I">
                 <head>I. Historische Entwicklung.</head>
                 <p>In <hi rend="underline">Deutschland</hi> ist „Neuland“ Bezeichnung für eine</p>
-                <!-- untypischer Zeilenumbruch -->
+                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
                 <p>1914 gegründete Erneuerungs- u. Freiheitsbewegung von Frauen und Mädchen zur
                     Erneuerung des protestantischen Glaubens und einer neuen Lösung der Frauenfrage.
                     Der Sitz der Bewegung ist in Eisenach (Thüringen), die Mitgliederzahl über
@@ -129,7 +129,7 @@
                     eigentlichen geistlichen Führer sind zwei Priester: Dr. theol. Karl <hi
                         rend="underline">Rudolf</hi>, geboren 1876, Priester 1912; 1914-1922
                     Subregens im Priesterseminar in Wien, seit 1919 akademischer Seelsorger,</p>
-                <!-- untypischer Zeilenumbruch -->
+                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
                 <p>seit 1922 Domkurat in St. Stephan. Er ist Gründer und Leiter des Wiener
                     Studentensekretariates, des Hilfswerkes für Schulsiedlungen und des Wiener
                     Seelsorge-Institutes für zeitgemäße Seelsorge, Gründer und Herausgeber
@@ -143,7 +143,7 @@
                 <p>Außer diesen beiden Priestern nimmt noch ein dritter seit einiger Zeit eine
                     führende Stelle ein. Dr. theol. Meinrad Langhammer, Prämostratenser des Stifts
                     Tepl (Tschechoslowakei) und</p>
-                <!-- untypischer Zeilenumbruch -->
+                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
                 <p>Religionsprofessor an der Theresianischen Akademie in Wien.</p>
                 <p>Schon unter Kardinal Piffl (+1932) gab es kirchlicherseits Schwierigkeiten mit
                     Neuland. Eine Gruppe von Neuländern erschien beim Herrn Kardinal, um ihm
@@ -156,7 +156,7 @@
                     Marienverehrung u.a. daraufhin wurde Neuland suspendiert und speziell im
                     Priesterseminar verboten; es wurde auch versprochen, daß die Vereinigung der
                     Neuländer-Priester</p>
-                <!-- untypischer Zeilenumbruch -->
+                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
                 <p>aufgelöst werde – eine Vereinigung, die mehr durch die gemeinsame Idee als durch
                     Statuten zusammengehalten wird; es kommt vor, daß man sich vorstellt mit den
                     Worten: N. N. Neuländerpriester, was allein schon einen gewissen Separatismus
@@ -170,7 +170,7 @@
                     eine gewisse Läuterung vollzogen werden sollte. Es berührte eigentümlich, daß in
                     einer öffentlichen Kirche Vorträge für Neuländer gehalten wurden, wodurch diese
                     wieder gewissermaßen aus der Gemeinschaft der anderen</p>
-                <!-- untypischer Zeilenumbruch -->
+                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
                 <p>Gläubigen herausgehoben wurden.</p>
                 <p>Im Mai d. J. kam es dann zu einer vollen Rehabilitierung von Neuland und
                     Eingliederung in die Katholische Aktion durch Se. Eminenz. Es ist mir bekannt,
@@ -184,7 +184,7 @@
                     nicht verstummt, da der größere Teil des Klerus die Neuland-Bewegung ablehnt;
                     wie ich aus sicherer Quelle vernehme, haben sogar mehrere Dekanate an den Herrn
                     Kardinal eine Bittschrift gerichtet, man möge ihnen keine</p>
-                <!-- untypischer Zeilenumbruch -->
+                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
                 <p>Neuländer als Kapläne schicken.</p>
                 <p>Von Wien aus hat die Neuland-Bewegung auch auf andere österreichische Diözesen
                     übergegriffen, wenn auch in geringerem Ausmaße; in der Diözese Gurk (Klagenfurt)
@@ -214,7 +214,7 @@
                     die Grundlagen der gefährlichen Geistesrichtungen, macht daher auch leicht
                     bedenkliche Zugeständnisse und bekundet im Grundsätzlichen eine gewisse
                     Verschwommenheit im Denken, die namentlich bei der Jugend</p>
-                <!-- untypischer Zeilenumbruch -->
+                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
                 <p>bedenklich wirkt. Daher kam es z.B., daß in der Zeit des Hochganges des
                     Sozialismus ein Großteil der Neuländer sozialistisch eingestellt war und später,
                     wie allgemein bekannt war, national-sozialistisch.</p>
@@ -226,7 +226,7 @@
                     ohne Grund vorgeworfen.</p>
                 <p>In weiterer Auswirkung der verfehlten subjektivistischen Grundeinstellung betonen
                     die Neuländer stark den Gedanken des „Führertums“</p>
-                <!-- untypischer Zeilenumbruch -->
+                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
                 <p>und geraten dadurch in eine schiefe Einstellung zur kirchlichen „Autorität“, der
                     sie nur so lange u. nur in soweit zu folgen zu folgen gewillt sind, als sie
                     ihren subjektiven Ideen u. Bestrebungen entgegenkommt. Haben sie sich doch sogar
@@ -239,7 +239,7 @@
                     „christozentrische Idee“ in Gottesdienst u. Andacht u. wollen daher das hl.
                     Rosenkranzgebet während der hl. Messe nicht gelten lassen. Überhaupt sehen sie
                     die Neugestaltung</p>
-                <!-- untypischer Zeilenumbruch -->
+                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
                 <p>des christlichen Lebens formell u. fast ausschließlich bedingt durch die
                     liturgische Bewegung, die in Österreich vom Augustiner-Chorherrenstift
                     Klosterneuburg bei Wien aus mit größtem Nachdruck, ja förmlichem Übereifer u.
@@ -252,7 +252,7 @@
                 <p>Es bestehen auch große Schwierigkeiten zwischen dem Wiener erzbischöflichen
                     Ordinariat u. Neuland, bzw dem in seinem Geiste geleiteten „Seelsorge-Institut“,
                     da letzteres vielfach Agenden übernimmt oder durchführt, die in den Bereich</p>
-                <!-- untypischer Zeilenumbruch -->
+                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
                 <p>des Ordinariats fallen. Unter dieser „Nebenregierung“ leidet insbesondere auch
                     der hochwürdigste Herr Wiener Weihbischof u. Generalvikar Kamprath, der sicher
                     wertvolle Informationen geben könnte, wenn er dazu aufgefordert würde.</p>
@@ -265,7 +265,7 @@
                     Stellen mit Leuten ihrer Gesinnung zu besetzen z.B. die Religionsprofessuren an
                     den Mittelschulen, wobei ihnen die einflußreiche Beihilfe eines Herrn im
                     Bundesministerium, der</p>
-                <!-- untypischer Zeilenumbruch -->
+                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
                 <p>selber Neuländer ist, zugute kommt.</p>
                 <p>Im Priesterseminar fügen sich jetzt zwar die Alumnen dem Verbot von „Neuland“,
                     aber nur gezwungen; im stillen sympathisieren sie dennoch mit dieser Richtung u.
@@ -280,7 +280,7 @@
                 <p>Wenn sich daher Neuland in dieser Richtung weiter entwickelt, ist die Gefahr
                     einer ausgesprochen unkirchlichen Richtung nicht ausgeschlossen. Maßgebende
                     Kreise sagen, Neuland sei augenblicklich die einzige</p>
-                <!-- untypischer Zeilenumbruch -->
+                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
                 <p>innerkirchliche Gefahr in Österreich.</p>
                 <p>Wenn ich mir daher einen Vorschlag erlauben darf, so ginge dieser dahin, der
                     Apostolische Stuhl sollte die ganze Bewegung „Neuland“ in Österreich direkt

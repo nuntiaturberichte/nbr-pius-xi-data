@@ -6,8 +6,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title><!-- ??? --></title>
-                <author><!-- ??? --></author>
+                <title><!-- ZE: Elementinhalt --></title>
+                <author><!-- ZE: Elementinhalt --></author>
                 <respStmt>
                     <resp>TEI created</resp>
                     <persName ref="#martin.kroissenbrunner">Martin Kroissenbrunner</persName>
@@ -47,15 +47,18 @@
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
-                    <!-- @status? -->
+                    <!-- ZE: @status -->
                     <msIdentifier>
-                        <repository><!-- ??? --></repository>
+                        <repository><!-- ZE: Elementinhalt --></repository>
                         <idno type="archive">Pos. 886, Fasc. 48, Fol. 17r - 20r</idno>
-                        <idno type="institutional" subtype="internal"><!-- ??? --></idno>
-                        <idno type="institutional" subtype="external"><!-- ??? --></idno>
+                        <idno type="institutional" subtype="internal"
+                            ><!-- ZE: Elementinhalt --></idno>
+                        <idno type="institutional" subtype="external"
+                            ><!-- ZE: Elementinhalt --></idno>
                     </msIdentifier>
                     <msContents>
                         <msItem>
+                            <!-- ZÜ: Elementinhalt -->
                             <note type="keyword" resp="#martin.kroissenbrunner">Anschluss</note>
                             <note type="keyword" resp="#martin.kroissenbrunner">Quadragesimo
                                 anno</note>
@@ -71,7 +74,7 @@
                     </msContents>
                     <physDesc>
                         <scriptDesc>
-                            <ab><!-- ??? --></ab>
+                            <ab><!-- ZE: Elementinhalt --></ab>
                         </scriptDesc>
                     </physDesc>
                 </msDesc>
@@ -79,37 +82,49 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p><!-- ??? --></p>
+                <p><!-- ZE: Elementinhalt --></p>
             </abstract>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName><!-- ??? --></persName>
+                    <persName><!-- ZE: Elementinhalt --></persName>
                     <date when="1934-03-13">13.03.1934</date>
                 </correspAction>
                 <correspAction type="received">
-                    <!-- ??? -->
+                    <!-- ZE: Elementinhalt -->
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
+        <!-- ZE: @type? -->
         <body>
             <opener><add rend="handwritten">Appunto e
-                    <unclear>sparl</unclear><!-- "Lesung von „sparl“ unklar" -> Umsetzung passt so? --><lb/>
-                    per un eventuale articolo 13-3-34<lb/>
-                    <seg type="subjectLine">Anschluss</seg></add>
+                    <unclear>sparl</unclear><!-- ZÜ: Umsetzung ("Lesung von „sparl“ unklar") --><lb/>
+                    per un eventuale articolo 13-3-34<lb/></add>
+                <add rend="handwritten" place="margin"><seg type="subjectLine">Anschluss</seg></add>
             </opener>
-            <!-- ab hier weitermachen -->
             <p>Le notizie dei gravi avvenimenti verificatesi in questi giorni in Austria hanno
                 diffuso nel mondo come un senso di sgomento.</p>
-            <p>I politici potranno lamentare la fine dell’indipendenza di una Nazione, che al
-                riconoscimento dei compiti , aveva una importante funzione da svolgere nel mondo
-                secondo tradizioni secolari.</p>
-            <p>I diplomatici potranno meravigliarsi per uno sb occo così imprevisto dopo tante
-                trattative e documenti che non avrebbero potuto farlo prevedere.</p>
-            <p>Noi cattolici non possiamo non preoccuparc i per una ragione molto superiore perché
-                tocca più da vicino la vita dello spirito di milioni di nostri fratelli in
-                Cristo.</p>
+            <p>I politici potranno lamentare la fine dell’indipendenza di una Nazione, che a<del
+                    rend="strikethrough"
+                >l</del><!-- ZÜ: Umsetzung ("handschriftlich gestrichen") --> riconoscimento dei compit<subst>
+                    <del rend="strikethrough">enti</del>
+                    <add rend="handwritten">i</add>
+                    <!-- ZÜ: Umsetzung ("Handschriftlich ersetzt durch „enti,“") -->
+                </subst>, aveva una importante funzione da svolgere nel mondo secondo tradizioni
+                secolari.</p>
+            <p>I diplomatici potranno meravigliarsi per uno s<subst>
+                    <del rend="stikethrough">v</del>
+                    <!-- ZÜ: @rend ("Korrigiert von „v“") -->
+                    <add>b</add>
+                </subst>occo così imprevisto dopo tante trattative e documenti che non avrebbero
+                potuto farlo prevedere.</p>
+            <p>Noi cattolici non possiamo non preoccupar<subst>
+                    <del rend="strikethrough">s</del>
+                    <!-- ZÜ: @rend ("Handschriftlich korrigiergt von [Buchstabe/n]") -->
+                    <add rend="handwritten">c</add>
+                </subst> i per una ragione molto superiore perché tocca più da vicino la vita dello
+                spirito di milioni di nostri fratelli in Cristo.</p>
             <p>Nessuno mai più nella Chiesa ha proclamato la libertà dei popoli e il diritto di una
                 Nazione ad organizzarsi secondo le proprie caratteristiche etniche e spirituali.
                 Nessuno mai più e meglio della Chiesa ha difeso i diritti delle minoranze affermando
@@ -117,60 +132,111 @@
                 stesso vincolo di nazionalità siano anche uniti nella compagine di uno Stato
                 armonico e indipendente.</p>
             <p>Gli avvenimenti stupiscono. Quale Nazione poteva vantare una documentazione più larga
-                e solenne di garanzie internazionali? </p>
-            <p>Trattati, dichiarazione collettive delle maggiori Pontezne , Protocolli firmati e
-                confermati, discorsi e articoli di grandi Statisti. Eppure tutto è stato vano.</p>
+                e solenne di garanzie internazionali<subst>
+                    <del rend="strikethrough">.</del>
+                    <!-- ZÜ: @rend ("Handschriftlich von [Buchstabe/n] korrigiert") -->
+                    <add rend="handwritten">?</add>
+                </subst></p>
+            <p>Trattati, dichiarazione collettive delle maggiori <sic>Pontezne</sic>, Protocolli
+                firmati e confermati, discorsi e articoli di grandi Statisti. Eppure tutto è stato
+                vano.</p>
             <p>Di fronte alla violenza questo castello di carta è crollato. I ragionamenti più
-                fondati e le assicurazioni più esplicite hanno </p>
-            <p/>
-            <p>dovuto c edere il posto alla fatalità degli eventi.</p>
-            <p>Quante contradizioni .</p>
+                fondati e le assicurazioni più esplicite hanno</p>
+            <!-- ZB: untypischer Zeilenumbruch -> pb? -->
+            <p>dovuto <subst>
+                    <del rend="strikethrough">v</del>
+                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
+                    <add>c</add>
+                </subst>edere il posto alla fatalità degli eventi.</p>
+            <p>Quante <sic>contradizioni</sic>.</p>
             <p>Mai come ora si è fatto più uso delle parole più alte e più nobili: libertà, diritto,
                 giustizia, decisione dei popoli, ecc. ecc.</p>
             <p>Si parla di plebiscito e di libertà e nello stesso tempo si annunziano autoblindate,
-                reparti di fanteria, ecc.: s’incarcerano vescovi e uomini politici rei soltanto di
-                aver servito la Fede e la Patria.</p>
+                reparti di fanteria, ecc.: s’incarcerano vescovi e uomini politici <sic>rei</sic>
+                soltanto di aver servito la Fede e la Patria.</p>
             <p>Si minaccia si intimidisce come se il timore fosse la sicura garanzia della libera
                 scelta.</p>
             <p>Si inneggia alla libertà e si mandano armati. Si parla di prosperità e si incarcerano
                 moltissime persone. Si parla di eguaglianza mentre organizzazioni formidabili
                 opprimono e distruggono le iniziative individuali.</p>
             <p>Si parla di cultura e si vuole imporre a tutti un modo di pensare e di vivere.</p>
-            <p>Si parla di maggioranza e si imprigionano coloro che non essendo più al potere ed
-                esse ndo una minoranza non dovrebbero più destare alcuna preoccupazione.</p>
+            <p>Si parla di maggioranza e si imprigionano coloro che non essendo più al potere ed ess<subst>
+                    <del rend="strikethrough">n</del>
+                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
+                    <add>e</add>
+                </subst>ndo una minoranza non dovrebbero più destare alcuna preoccupazione.</p>
             <p>Allargando la considerazione a tutto il mondo, due sanguinosissime guerre in atto:
-                qua si distrugge la produzione che è sovrabbondante : là migliaia di persone muoiono
-                di fame.</p>
+                qua si distrugge la produzione che è <sic>sovrabbondante</sic>: là migliaia di
+                persone muoiono di fame.</p>
             <p>Altrove lotte e interessi di partiti si sovrappongono al bene della Nazione.</p>
-            <p/>
+            <!-- ZB: zusätzlicher Zeilenumbruch -> pb? -->
             <p>In territori immensi è tolta qualsiasi libertà di coscienza, si uccidono, si
                 imprigionano persone soltanto perché credono in Dio e vogliono rimanere fedeli alla
                 loro religione.</p>
-            <p>In molti luoghi si cerca di dividere gli uomi ni in due grandi eserciti armati l’uno
-                contro l’altro. L’uno in nome della democrazia, l’altro in nome dell’autorità.</p>
+            <p>In molti luoghi si cerca di dividere gli uom<subst>
+                    <del rend="strikethrough">n</del>
+                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
+                    <add>i</add>
+                </subst>ni in due grandi eserciti armati l’uno contro l’altro. L’uno in nome della
+                democrazia, l’altro in nome dell’autorità.</p>
             <p>Che cosa è questa incertezza?</p>
             <p>Questa onda di violenza e di tirannia che minaccia di tutto sommergere?</p>
             <p>Che cosa è questa impossibilità di trovare di fronte a fatti gravissimi, non diciamo
                 un’azione concreta, ma un giudizio concorde quando è palese la violazione del
-                diritto più elementare? </p>
+                diritto più elementare<subst>
+                    <del rend="strikethrough">.</del>
+                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
+                    <add>?</add>
+                </subst></p>
             <p>Quale è la causa di tutto questo?</p>
-            <p>Non si mette più a xxxx base Dio e la sua fede . Non si vuole più ammessa nella vita
-                pubblica l’influenza salutare della Chiesa e così tramontano per sempre duei due
-                astri che dovrebbero illuminare tutta la vita civile cioè la carità e la giustizia
-                (Ricordare alcune parole molto belle sulla carità e la giustizia della Quadragesimo
-                Anno)</p>
-            <p>Senza giustizia non vi può essere che sopraffazione. Senz a carità non vi può essere
-                che odio. Sotto tutti e due gli aspetti non si pu ò giungere che al trionfo della
-                violenza.</p>
+            <p>Non si mette più a <subst>
+                    <del rend="overwritten">vase</del>
+                    <add rend="overwritten">xxxx</add>
+                </subst> base Dio e la sua fede<add place="above"><gap unit="word" quantity="1"
+                    /></add><!-- ZÜ: Umsetzung ("über fede handschriftliche Anmerkung, unleserlich") -->.
+                Non si vuole più ammessa nella vita pubblica l’influenza salutare della Chiesa e
+                così tramontano per sempre <sic>duei</sic> du<subst>
+                    <del rend="strikethrough">a</del>
+                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
+                    <add>e</add>
+                </subst> astri che dovrebbero illuminare tutta la vita civile cioè la carità e la
+                giustizia (Ricordare alcune parole molto belle sulla carità e la giustizia della
+                Quadragesimo Anno)</p>
+            <p>Senza giustizia non vi può essere che sopraffazione. Sen<subst>
+                    <del rend="strikethrough">a</del>
+                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
+                    <add>z</add>
+                </subst>a carit<subst>
+                    <del rend="strikethrough"><gap reason="strikethrough" unit="char" quantity="1"
+                        /></del>
+                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
+                    <add>à</add>
+                </subst> non vi può essere che odio. Sotto tutti e due gli aspetti non si p<subst>
+                    <del>i</del>
+                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
+                    <add>u</add>
+                </subst>ò giungere che al trionfo della violenza.</p>
             <p/>
-            <p>E quando tra i rapporti della vita individuale è solo il più forte ad avere la meglio
-                è la fine di ogni libera e decorosa convivenza tra le mura di una stessa città
+            <p>E quando <subst>
+                    <del rend="strikethrough">tra</del>
+                    <add place="above" rend="handwritten">per</add>
+                </subst> i rapporti della vita individuale è solo il più forte ad avere la meglio è
+                la fine di ogni libera e decorosa convivenza tra le mura di una stessa città
                 nell’interno di uno stesso paese.</p>
             <p>Ma quando nei rapporti internazionali la parola definitiva è alla forza e alla
-                violenza, quando i Patti sanciti non sono che pezzi di carta e la parola
-                solennemente data non xxxx è che un suono di vento, è la fine dell’onestà e della
-                rettitudine nella vita internazionale, è la fine della civiltà e il trionfo della
-                barbarie.</p>
+                violenza, quando i Patti sanciti non sono che pezzi di carta e la parol<subst>
+                    <del rend="stikethrough">e</del>
+                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
+                    <add>a</add>
+                </subst> solennemente dat<subst>
+                    <del rend="stikethrough">e</del>
+                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
+                    <add>a</add>
+                </subst> non <subst>
+                    <del rend="overwritten">sono</del>
+                    <add rend="overwritten">xxxx</add>
+                </subst> è che un suono di vento, è la fine dell’onestà e della rettitudine nella
+                vita internazionale, è la fine della civiltà e il trionfo della barbarie.</p>
         </body>
     </text>
 </TEI>

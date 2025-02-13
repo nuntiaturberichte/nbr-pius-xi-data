@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Alois Hudal an<!-- ??? -->, Rom 05.10.1933</title>
+                <title>Alois Hudal an<!-- ZE: Elementinhalt -->, Rom 05.10.1933</title>
                 <author>
                     <persName ref="https://d-nb.info/gnd/118554239">Alois Hudal</persName>
                 </author>
@@ -49,16 +49,16 @@
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
-                    <!-- @status? -->
+                    <!-- ZE: @status -->
                     <msIdentifier>
-                        <repository><!-- ??? --></repository>
+                        <repository><!-- ZE: Elementinhalt --></repository>
                         <idno type="archive">Pos. 883, Fasc. 44, Fol. 32 - 33</idno>
-                        <!-- recto/verso? -->
-                        <idno type="institutional" subtype="internal"><!-- ??? --></idno>
-                        <idno type="institutional" subtype="external"><!-- ??? --></idno>
+                        <!-- ZE: recto/verso? -->
+                        <idno type="institutional" subtype="internal"><!-- ZE: Elementinhalt --></idno>
+                        <idno type="institutional" subtype="external"><!-- ZE: Elementinhalt --></idno>
                     </msIdentifier>
                     <msContents>
-                        <msItem>
+                        <msItem><!-- ZÜ: Elementinhalt -->
                             <note type="keyword" resp="#martin.kroissenbrunner"
                                 >Nationalsozialismus</note>
                             <note type="keyword" resp="#martin.kroissenbrunner">Dollfuß</note>
@@ -75,7 +75,7 @@
                     </msContents>
                     <physDesc>
                         <scriptDesc>
-                            <ab><!-- ??? --></ab>
+                            <ab><!-- ZE: Elementinhalt --></ab>
                         </scriptDesc>
                     </physDesc>
                 </msDesc>
@@ -83,7 +83,7 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p><!-- ??? --></p>
+                <p><!-- ZE: Elementinhalt --></p>
             </abstract>
             <correspDesc>
                 <correspAction type="sent">
@@ -92,12 +92,12 @@
                     <placeName>Rom</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <!-- ??? -->
+                    <!-- ZE: Elementinhalt -->
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
-    <text>
+    <text><!-- ZE: @type? -->
         <body>
             <opener>voto d. Mons. Hudal<lb/>
                 <seg type="subjectLine">OSSERVAZIONI.</seg>
@@ -105,7 +105,7 @@
             <p>Il promemoria degli Eccmi Vescovi Austriaci che descrive con ogni sincerità la
                 situazione attuale politica ed ecclesiastico – politic<subst>
                     <del rend="strikethrough">o</del>
-                    <!-- "Handschriftlich korrigiert von „o“" -> strikethrough passt? -->
+                    <!-- ZÜ: Umsetzung ("handschriftlich korrigiert von [Buchstabe/n]") -->
                     <add rend="handwritten">a</add>
                 </subst> in Austria, finisce con <hi rend="underline">2 domande,</hi>:</p>
             <list>
@@ -126,7 +126,7 @@
                 cattolici. Un cambiamento politico del Governo attuale, diciamo per elezione, in
                 favore del NS sarebbe un<subst>
                     <del rend="strikethrough">e</del>
-                    <!-- "Handschriftlich korrigiert von „e“" -> strikethrough passt? -->
+                    <!-- ZÜ: Umsetzung ("handschriftlich korrigiert von [Buchstabe/n]") -->
                     <add rend="handwritten">a</add>
                 </subst> SCONFITTA ENORME del Cattolicesimo in Austria. I partigiani del NS in
                 Austria sono nella maggioranza cattolici non più praticanti, apostati e dal
@@ -135,18 +135,18 @@
                 sostituirli con persone liberali. L’esempio come nella Rhenania e in Baviera
                     <sic>dapertutto</sic> si nominava solamente protestant<subst>
                     <del rend="strikethrough">o</del>
-                    <!-- "Handschriftlich korrigiert von „o“" -> strikethrough passt? -->
+                    <!-- ZÜ: Umsetzung ("handschriftlich korrigiert von [Buchstabe/n]") -->
                     <add rend="handwritten">i</add>
                 </subst> dove prima erano impiegati cattolici <hi rend="underline">è una lezione
                     troppo chiara anche per l’Austria</hi>. Le conseguenze trist<subst>
                     <del rend="strikethrough">e</del>
-                    <!-- "Korrigiert von „e“" -> strikethrough passt? -->
+                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                     <add>i</add>
                 </subst> di un tale cambiamento politico in Austria sarebbero <sic>cosi</sic> forte,
                 chè anche in nessuna maniera potrebbero essere reparate, <del rend="strikethrough"
                     >-</del> se <add rend="handwritten">-</add> supponia<subst>
                     <del rend="strikethrough">m</del>
-                    <!-- "Korrigiert von „m“" -> strikethrough passt? -->
+                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                     <add>m</add>
                 </subst>o questo caso – il partito NS in Austria <hi rend="underline"
                     >ratificasse</hi> o <hi rend="underline">migliorasse</hi> il Concordato
@@ -158,18 +158,18 @@
                 grandi sacrifici sempre più negli ultimi anni ha svil<subst>
                     <del rend="strikethrough"><gap reason="strikethrough" unit="char" quantity="1"
                         /></del>
-                    <!-- "Korrigiert von unleserlichem Buchstaben" -> strikethrough passt? -->
+                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                     <add>u</add>
                 </subst>ppato le sue organizzazioni, fra poco condurebbe solamente più una vita <hi
                     rend="underline">nella sagrestia senza contatto colla vita pubblica</hi>. Già
                 adesso i partigiani del NS hanno promosso una propaganda di apostasie dal
                 cattolicismo nelle diocesi di Gurk e Seccovia – che cosa faranno quando un giorno
                 avrebbero tutto l’istrumento</p>
-            <!-- untypischer Zeilenumbruch -->
+            <!-- ZB: untypischer Zeilenumbruch -> pb? -->
             <p>dello Stato alla sua disposzione, appoggiati in queste tendenze antiromane per il
                     Protesta<add place="above" rend="handwritten">n</add>tismo della Germania<subst>
                     <del rend="strikethrough">.</del>
-                    <!-- "Handschriftlich korrigiert von „.“" -> strikethrough passt? -->
+                    <!-- ZÜ: Umsetzung ("handschriftlich korrigiert von [Buchstabe/n]") -->
                     <add rend="handwritten">?</add>
                 </subst></p>
             <p><sic>Cosi</sic> devono i Vescovi Austriaci con buona coscienza appoggiare con
@@ -177,7 +177,7 @@
                 nella politica. In questo atteggiamento aspettano con ottime ragioni che la Santa
                 Sede approvasse la loro posizione.</p>
             <p>Al secondo:</p>
-            <p><hi rend="underline" hand="#UR"><!-- "Unterstrichen vom Leser" -> #UR passt? -->La
+            <p><hi rend="underline" hand="#UR"><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") --> -->La
                     lettera pastorale dell’Eccmo Vescovo di Linz</hi> è senza dubbio eccellente e
                 classica nei principii e nelle sue deduzioni <hi rend="underline">anche oggi</hi>
                 nonostante che intanto il NS ha preso il Governo in Germania. Non ha <hi
@@ -188,7 +188,7 @@
                 un altro titolo, per esempio = Nazione<add rend="handwritten">,</add> patriotismo e
                 la dottrina cristiana =, o „Roma e la nazione“ ecc; basterebbe di accentuare i
                 principii fondamentali <hi rend="underline" hand="#UR"
-                    ><!-- "Unterstrichen vom Leser" -> #UR passt? -->senza</hi> una propria polemica
+                    ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") --> -->senza</hi> una propria polemica
                 contro il partito NS.</p>
             <p><hi rend="underline">Però ed adesso vengo al fondo di tutto</hi> – questa lettera
                 pastorale <hi rend="underline">presuppone</hi> assolutamente una <hi
@@ -209,7 +209,7 @@
                 subito nessun cambiamento, sono restati gli stessi come prima del mese di marzo ed
                 il partito (Governo) aspira di infiltrare tutta la gente colla sua idea per formare
                     l’<hi rend="underline" hand="#UR"
-                    ><!-- "Unterstrichen vom Leser" -> #UR passt? -->uomo germanico</hi><add
+                    ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") --> -->uomo germanico</hi><add
                     rend="handwritten">“</add> . Queste sono le riflessioni del popolo che devono
                 concuotere tutta l’autorità dei Vescovi se nello stesso momento in Austria
                 combattono il NS mentre in Germania oggi le organizzazioni cattoliche stesse
@@ -232,9 +232,9 @@
                 prevalenza dello Stato ecc.</p>
             <p>Per condannare queste dottrine che sono il germe di tanti e tanti barbarismi e leggi
                 abominabili del NS in Germania <hi rend="underline" hand="#UR"
-                    ><!-- "Unterstrichen vom Leser" -> #UR passt? -->basta</hi> però di mettere sul
+                    ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") --> -->basta</hi> però di mettere sul
                 indice dei libri proibiti il famoso libro di <hi rend="underline" hand="author #UR"
-                    ><!-- "Vom Autor und auch vom Leser unterstrichen" -> #UR passt? -->Rosenberg</hi>
+                    ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") --> -->Rosenberg</hi>
                 “Der Mythos des 20. Jahrhunderts”, München 1932, dal quale si <sic>puo</sic> dedurre
                     <hi rend="underline">tutti gli errori del partito NS in Germania</hi>. Si
                 dovrebbe <hi rend="underline">motivare insieme colla condanna anche la ragione per
@@ -243,7 +243,7 @@
                 insegnante niente altro che un paganismo <sic>resciuscitato</sic>, una idolatria
                 dello Stato e un feticismo della razza (confer l’eccellente articolo allegato del gi<subst>
                     <del rend="strikethrough">r</del>
-                    <!-- "Korrigiert von „r“" -> strikethrough passt? -->
+                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                     <add>o</add>
                 </subst> rnale “Mattino” di Napoli). Il libro è inoltre pieno di calunnie contro i
                 Papi come se questi fossero sempre stati nemici dei tedeschi.</p>
@@ -253,7 +253,7 @@
                     scopo</hi> dell’autore Rosenberg è di formare <hi rend="underline">una nuova
                     religione cristiana libera dal vecchio testamento e essenzi<subst>
                         <del rend="strikethrough">o</del>
-                        <!-- "Korrigiert von „o“" -> strikethrough passt? -->
+                        <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                         <add>a</add>
                     </subst>lmente germanico e antiromano</hi>. La conseguenza sarà che la prossima
                 generazione in Germania sarà educata con uno spirito nemico alla Santa Sede, pieno
@@ -265,7 +265,7 @@
                     mai</hi> qualcosa di serio, si trovano tutte queste idee anche nel libro che
                 Hitler stesso ha pubblicato “La mia lotta” solamente in quanto alla religione
                 cristiana lui sembra di essere un <sic>puo</sic> più giusto.</p>
-            <!-- untypischer Zeilenumbruch -->
+            <!-- ZB: untypischer Zeilenumbruch -> pb? -->
             <p>Il partito NS non ha fatto niente per rifiutare queste eresie di Rosenberg ma ha
                 nominato l’autore <hi rend="underline">come proprio ispiratore del programma
                     educativo del NS</hi>.</p>
@@ -275,7 +275,7 @@
                 <sic>vedera</sic> che la s<subst>
                     <del rend="strikethrough"><gap reason="strikethrough" unit="char" quantity="1"
                         /></del>
-                    <!-- "Korrigiert von unleserlich" -> strikethrough passt? -->
+                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                     <add>u</add>
                 </subst>prema autorità morale del mondo ha il <sic>corraggio</sic> di condannare
                 tutto che è contrario ai sani principii, mi pare che una nuova lettera pastorale
@@ -284,14 +284,14 @@
                     <sic>crescera</sic> sempre più. Se dopo la condanna del libro per il <hi
                     rend="underline">Sant’Offizio</hi> e per u<subst>
                     <del rend="strikethrough">a</del>
-                    <!-- "Korrigiert von „a“" -> strikethrough passt? -->
+                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                     <add>n</add>
                 </subst>a <hi rend="underline">solenne <sic>enunziazione</sic> del Santo Padre
                     eventualmente in occasione del prossimo Concistorio</hi> il partito NS non
                     <sic>cambiarà</sic> queste idee che lentamente <hi rend="underline"
                     >rovineranno</hi> tutta la gioventù c<subst>
                     <del rend="strikethrough">t</del>
-                    <!-- "Korrigiert von „t“" -> strikethrough passt? -->
+                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                     <add>a</add>
                 </subst>ttolica in Germania e Austria, allora mi pare di essere venuto il momento
                 per <sic>comminciare</sic> una chiara separazione eventualmente con censure
@@ -299,7 +299,7 @@
             <p>Il NS nella sua sostanza non si p<subst>
                     <del rend="strikethrough"><gap reason="strikethrough" unit="char" quantity="2"
                         /></del>
-                    <!-- "Handschriftlich korrigiert von unleserlichen Buchstaben" -> strikethrough passt? -->
+                    <!-- ZÜ: Umsetzung ("Handschriftlich korrigiert von unleserlichen Buchstaben") -->
                     <add>uò</add>
                 </subst> equiperare al fascismo in Italia. Il NS è <hi rend="underline"
                     >essenzialmente nato dal Protestantismo</hi> e <sic>restera</sic> quello che era

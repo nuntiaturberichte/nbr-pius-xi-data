@@ -6,8 +6,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title><!-- ??? --> an Dollfuß, Rom 5. Februar 1934</title>
-                <author><!-- ??? --></author>
+                <title><!-- ZE: Elementinhalt --> an Dollfuß, Rom 5. Februar 1934</title>
+                <author><!-- ZE: Elementinhalt --></author>
                 <respStmt>
                     <resp>TEI created</resp>
                     <persName ref="#martin.kroissenbrunner">Martin Kroissenbrunner</persName>
@@ -47,15 +47,18 @@
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
-                    <!-- @status? -->
+                    <!-- ZE: @status -->
                     <msIdentifier>
-                        <repository><!-- ??? --></repository>
+                        <repository><!-- ZE: Elementinhalt --></repository>
                         <idno type="archive">Pos. 883, Fasc. 45, Fol. 35r - 38r</idno>
-                        <idno type="institutional" subtype="internal"><!-- ??? --></idno>
-                        <idno type="institutional" subtype="external"><!-- ??? --></idno>
+                        <idno type="institutional" subtype="internal"
+                            ><!-- ZE: Elementinhalt --></idno>
+                        <idno type="institutional" subtype="external"
+                            ><!-- ZE: Elementinhalt --></idno>
                     </msIdentifier>
                     <msContents>
                         <msItem>
+                            <!-- ZÜ: Elementinhalt -->
                             <note type="keyword" resp="#martin.kroissenbrunner">Dollfuß</note>
                             <note type="keyword" resp="#martin.kroissenbrunner"
                                 >Nationalsozialismus</note>
@@ -71,7 +74,7 @@
                     </msContents>
                     <physDesc>
                         <scriptDesc>
-                            <ab><!-- ??? --></ab>
+                            <ab><!-- ZE: Elementinhalt --></ab>
                         </scriptDesc>
                     </physDesc>
                 </msDesc>
@@ -79,24 +82,25 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p><!-- ??? --></p>
+                <p><!-- ZE: Elementinhalt --></p>
             </abstract>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName><!-- ??? --></persName>
+                    <persName><!-- ZE: Elementinhalt --></persName>
                     <date when="1934-02-05">05.02.1933</date>
                     <placeName>Rom</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <!-- passt so? -->
+                    <!-- ZÜ: Elementinhalt -->
                     <persName ref="https://d-nb.info/gnd/118526561">Engelbert Dollfuß</persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
+        <!-- ZE: @type? -->
         <body>
-            <!-- Dokument enthält Tabstops -> wie damit umgehen? -->
+            <!-- ZB: Umgang mit Tabstopps -->
             <opener>
                 <dateline>Rom, am <sic>S</sic>.Februar 1934.</dateline><lb/><add rend="handwritten"
                     >Rapporto confidenziale<lb/> del Sig. ministro d‘Austria<lb/> al Cancelliere Dollfuss.<lb/>
@@ -116,7 +120,7 @@
                 hervorgerufenen allgemeinen <sic>Neucinstellung</sic> der Kurie erfolgt, die, wie er
                 selbst aus entsprechenden Gesprächen zu entnehmen <sic>Genegenheit</sic> gehabt hab<subst>
                     <del rend="strikethrough">r</del>
-                    <!-- "Korrigiert von „r“" -> strikethrough passt? -->
+                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                     <add>e</add>
                 </subst>,der Fernhaltung des Klerus von der Politik und dem Wegfall des Zentrums und
                 der Zentrumspolitik nicht besonders nachtrauere.</p>
@@ -131,7 +135,7 @@
                 verdichteten, läge es nur in der selbstverständlichen Taktik traditioneller Vorsicht
                 der Kurie, wenn sich gewisse Zurückhaltungen bei ihr ergäben.</p>
             <p>Das Interesse meines Mitredners <sic>dreite</sic> sich um die Frage ob in der</p>
-            <!-- untypischer Zeilenumbruch -->
+            <!-- ZB: untypischer Zeilenumbruch -> pb? -->
             <p>Haltung der Kurie Oesterreich gegenüber eine Aenderung bemerkbar sei, wobei ich den
                 Eindruck hatte, er selbst neige einer solchen Annahme zu.</p>
             <p>Hiezu nahm ich in nachstehendem Sinne Stellung:</p>
@@ -140,7 +144,7 @@
                 Episkopat ausgegangen ist, <subst>
                     <del rend="strikethrough"><gap reason="strikethrough" unit="char" quantity="1"
                         /></del>
-                    <!-- "Korrigiert von unleserlich" -> strikethrough passt? -->
+                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                     <add>w</add>
                 </subst>eil der Kurs der gegenwärtigen Regierung eine genügende Gewähr für die
                 Sicherheit der kirchlichen Belange darstellt und daher jede aktive Stellungnahme von
@@ -161,7 +165,7 @@
                 allgemeine spezifische Wohlwollen der Kurie Oesterreich gegenüber, da sich ansonsten
                 der österreichische Episkopat wohl vorher an die Ku<subst>
                     <del rend="strikethrough">e</del>
-                    <!-- "Korrigiert von „e“" -> strikethrough passt? -->
+                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                     <add>r</add>
                 </subst>ie <sic>gewennet</sic> haben würde.</p>
             <p>Ohne dass also der Heilige <sic>Suhl</sic>
@@ -173,7 +177,7 @@
                 österreichischen Regierung zur Kirche <sic>naturgemäs</sic> auch gar nicht anders
                 sein.</p>
             <p>Entgegen der Neigung meines Mitredners, gewisse <sic>aufgetre ne</sic> Befür-</p>
-            <!-- untypischer Zeilenumbruch -->
+            <!-- ZB: untypischer Zeilenumbruch -> pb? -->
             <p>chtungen und damit im Zusammenhang eingetretene Reserven des Heiligen Stuhles zu
                 vermuten; erklärte ich weiter, dass ich <sic>i</sic> der <sic>geshilderten</sic>
                 wohlwollendsten allgemeinen Einstellung der Kurie inzwischen auch durchaus keine
@@ -202,14 +206,14 @@
                 von Spanien, Tedeschini, hinsichtlich dessen man überrascht gewesen sei, wie er
                 sofort nach dem Sturz der Monarchie bereits über relativ verzweigte <subst>
                     <del rend="strikethrough">i</del>
-                    <!-- "Korrigiert von „i“" -> strikethrough passt? -->
+                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                     <add>u</add>
                 </subst>nd gute <sic>Kontacte</sic> zu den neuen <sic>Machthbern</sic> verfügte, und
                 er fragte mich, ob es nicht möglich sei, dass eventuell auch der
                     <sic>Apostolosche</sic> Nuntius in Wien solche Zusammenhänge besitze.</p>
             <p>Hiezu erklärte ich, dass ich den Herrn Apostolischen Nuntius in Wien zuletzt im
                 Oktober v.J. gesehen habe und dass ich auf Grund meiner per-</p>
-            <!-- untypischer Zeilenumbruch -->
+            <!-- ZB: untypischer Zeilenumbruch -> pb? -->
             <p>sönlichen allgemeinen <sic>Eindrüche</sic> eine solche <sic>Moglichkeit</sic> für
                 ausgeschlossen halten musste; auch verfüge der Herr Apostolische Nuntius in Wien
                 nicht über die Kenntnis der deutschen Sprache, was seine Kontaktmöglichkeiten schon
@@ -219,12 +223,12 @@
             <p>Nebenbei bemerkte mein Mitredner noch im Gespräche über das Verhältnis zu
                 Deutschland, es sei zu hoffen, dass di<subst>
                     <del rend="strikethrough">r</del>
-                    <!-- "Korrigiert von „r“" -> strikethrough passt? -->
+                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                     <add>e</add>
                 </subst> Streit-frage nicht bis zum Völkerbund gelange.</p>
             <p>Hiezu erwiderte ich, dass ich von dieser Frage dien<subst>
                     <del rend="strikethrough">t</del>
-                    <!-- "Korrigiert von „t“" -> strikethrough passt? -->
+                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                     <add>s</add>
                 </subst>tlich abseits stehe dass ich jedoch persönlich keine andere Möglichkeit
                 sähe, als nunmehr den Völkerbund zu befassen.</p>
@@ -237,11 +241,11 @@
                 zu treten.</p>
             <p>Darauf hat mi<subst>
                     <del rend="strikethrough">e</del>
-                    <!-- "Korrigiert von „e“" -> strikethrough passt? -->
+                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                     <add>r</add>
                 </subst> mein Mitredner nichts ent<subst>
                     <del rend="strikethrough">r</del>
-                    <!-- "Korrigiert von „r“" -> strikethrough passt? -->
+                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                     <add>g</add>
                 </subst>egnet.</p>
             <p>Von Interesse <sic>wre</sic> noch die von meinem Mitredner gelegentlich geäusserte

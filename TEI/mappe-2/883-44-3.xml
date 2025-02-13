@@ -11,7 +11,7 @@
                 <author>
                     <persName>Bonifaz Wienand</persName>
                     <persName ref="https://d-nb.info/gnd/1018047751">Simon Pirchegger</persName>
-                    <persName ref="https://d-nb.info/gnd/1220856517">Franz Mandl</persName><!-- richtige Normdatei? -->
+                    <persName ref="https://d-nb.info/gnd/1220856517">Franz Mandl</persName><!-- ZÜ: Normdatei -->
                     <persName ref="https://d-nb.info/gnd/118763393">Johannes Ude</persName>
                 </author>
                 <respStmt>
@@ -53,15 +53,18 @@
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
-                    <!-- @status? -->
+                    <!-- ZE: @status -->
                     <msIdentifier>
-                        <repository><!-- ??? --></repository>
+                        <repository><!-- ZE: Elementinhalt --></repository>
                         <idno type="archive">Pos. 883, Fasc. 44, Fol. 3r - 7r</idno>
-                        <idno type="institutional" subtype="internal"><!-- ??? --></idno>
-                        <idno type="institutional" subtype="external"><!-- ??? --></idno>
+                        <idno type="institutional" subtype="internal"
+                            ><!-- ZE: Elementinhalt --></idno>
+                        <idno type="institutional" subtype="external"
+                            ><!-- ZE: Elementinhalt --></idno>
                     </msIdentifier>
                     <msContents>
                         <msItem>
+                            <!-- ZÜ: Elementinhalt -->
                             <note type="keyword" resp="#martin.kroissenbrunner"
                                 >Nationalsozialismus</note>
                             <note type="keyword" resp="#martin.kroissenbrunner">Dollfuß</note>
@@ -77,7 +80,7 @@
                     </msContents>
                     <physDesc>
                         <scriptDesc>
-                            <ab><!-- ??? --></ab>
+                            <ab><!-- ZE: Elementinhalt --></ab>
                         </scriptDesc>
                     </physDesc>
                 </msDesc>
@@ -85,14 +88,14 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p><!-- ??? --></p>
+                <p><!-- ZE: Elementinhalt --></p>
             </abstract>
             <correspDesc>
                 <correspAction type="sent">
                     <persName>Bonifaz Wienand</persName>
                     <persName ref="https://d-nb.info/gnd/1018047751">Simon Pirchegger</persName>
                     <persName ref="https://d-nb.info/gnd/1220856517">Franz Mandl</persName>
-                    <!-- richtige Normdatei? -->
+                    <!-- ZÜ: Normdatei -->
                     <persName ref="https://d-nb.info/gnd/118763393">Johannes Ude</persName>
                     <date when="1933-09-25">25.09.1933</date>
                     <placeName>Graz</placeName>
@@ -100,7 +103,7 @@
                     <placeName>Seckau</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <!-- passt so? -->
+                    <!-- ZÜ: Elementinhalt -->
                     <persName ref="https://d-nb.info/gnd/118594745">Pius XI.</persName>
                     <placeName>Vatikanstadt</placeName>
                 </correspAction>
@@ -108,6 +111,7 @@
         </profileDesc>
     </teiHeader>
     <text>
+        <!-- ZE: @type? -->
         <body>
             <pb n="1"/>
             <opener><salute>Beatissime Papa,</salute></opener>
@@ -150,16 +154,16 @@
                 mense Junio factae, quas retores rei publicae inde a die 16. Augusti consiliis mere
                 externis et politicis impedire conantur, ut patet ex additamento III. Rogamus Te,
                 Beatissime Papa, ut Antistites nostros de hac re sollicite
-                    <add><!-- "Von zweiter Hand ausgebessert" -> wie umzusetzen? -->interroges</add>;
+                <!-- ZB: "Von zweiter Hand ausgebessert" -> welches Element ist zu verwenden? -->interroges<!-- ZB: Element-Endtag setzen -->;
                 videbis enim ex una parte defectionem inspiratam et propagatam ab atheistis
                 marxisticis paene cessasse, quippe <add place="above">qui</add> se sub regimine
                 hodierno tutos senti<subst>
                     <del rend="strikethrough">a</del>
-                    <!-- "Korrigiert von „a“" -> strikethrough passt? -->
+                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                     <add>u</add>
                 </subst>nt a periculo ex parte Socialismi Nationalis sibi imminente, ex alter<subst>
                     <del rend="strikethrough">o</del>
-                    <!-- "Verbessert von „o“" -> strikethrough passt? -->
+                    <!-- ZÜ: @rend ("verbessert von [Buchstabe/n]") -->
                     <add>a</add>
                 </subst> vero parte crescentem numerum homininum cul-</p>
             <pb n="3"/>
@@ -172,11 +176,11 @@
             <p>Liquidum nobis est, hominos christianos parum fortes in fide persecutiones iniuste et
                 callide auctoritate religiosa palliatas perperam confundere cum vera Ecclesiae
                 sententia; Ecclesiae ipsi illas persecutiones adscribunt et
-                    <add><!-- "Von anderer Hand ergänzt" -> wie umsetzen? -->ex</add>asperati ab
+                <add>ex</add><!-- ZÜ: Umsetzung ("Von anderer Hand ergänzt") -->asperati ab
                 Ecclesia deficiunt. Praeterea cum sciant, Te ipsum cum moderatoribus rei publicae
                 Germaniae concordatum iniisse et episcop<subst>
                     <del rend="strikethrough">us</del>
-                    <!-- "Korrigiert von „us“" -> strikethrough passt? -->
+                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                     <add>os</add>
                 </subst> Germaniae applaudentes renovationi nationali, fideles ad iuvandam novam
                 Germaniam exhortari, cum e contrario apud nos idem Socialismus Nationalis episcopis
@@ -184,7 +188,7 @@
                 „acatholicus“ et „infensus ultimo catholicae religionis propugnaculo“ (nempe
                 Austriae) exagitetur, mirum non est, discr<subst>
                     <del rend="strikethrough">i</del>
-                    <!-- "Korrigiert von „i“" -> strikethrough passt? -->
+                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                     <add>e</add>
                 </subst>pantem agendi rationem summorum Ecclesiae <sic>anstititum</sic>, Germaniae
                 ex una parte, Austriae ex altera parte, fidelibus perturbationem fideique damnum
@@ -225,7 +229,7 @@
                 instantissime rogamus Beatitudinem Tuam, ut rem modo tractatam investigare velis,
                 ita ut verum statum patriae nostrae comperias, afflictae libertati catholicae
                 subvenias et tot periclitantibus fidelium animabus succu<hi rend="macron"
-                    ><!-- "Über dem r ist ein Strich, der eine notwendige Verdoppelung anzeigen soll" -> passt hi@rend=macron?-->r</hi>as.
+                >r</hi><!-- ZÜ: Umsetzung ("Über dem r ist ein Strich, der eine notwendige Verdoppelung anzeigen soll") -->as.
                 Nomina nostra, quaesumus, rectoribus rei publicae ne detegantur.</p>
             <closer><salute>Commendant se Beatitudini Tuae cum amore et fiducia filiali</salute><lb/>
                 <salute>Humillimi filii Tui</salute><lb/> Graecii, 22. mense Septembris 1933<lb/> P.
