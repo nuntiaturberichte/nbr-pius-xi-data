@@ -53,11 +53,14 @@
                     <msIdentifier>
                         <repository><!-- ZE: Elementinhalt --></repository>
                         <idno type="archive">Pos. 882, Fasc. 43, Fol. 34r+v - 41r</idno>
-                        <idno type="institutional" subtype="internal"><!-- ZE: Elementinhalt --></idno>
-                        <idno type="institutional" subtype="external"><!-- ZE: Elementinhalt --></idno>
+                        <idno type="institutional" subtype="internal"
+                            ><!-- ZE: Elementinhalt --></idno>
+                        <idno type="institutional" subtype="external"
+                            ><!-- ZE: Elementinhalt --></idno>
                     </msIdentifier>
                     <msContents>
-                        <msItem><!-- ZÜ: Elementinhalt -->
+                        <msItem>
+                            <!-- ZÜ: Elementinhalt -->
                             <note type="keyword" resp="#martin.kroissenbrunner">Neuland</note>
                             <note type="keyword" resp="#martin.kroissenbrunner">Katholische
                                 Aktion</note>

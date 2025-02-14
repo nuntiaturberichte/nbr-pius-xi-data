@@ -98,9 +98,8 @@
     <text>
         <!-- ZE: @type? -->
         <body>
-            <opener><add rend="handwritten">Appunto e
-                    <unclear>sparl</unclear><!-- ZÜ: Umsetzung ("Lesung von „sparl“ unklar") --><lb/>
-                    per un eventuale articolo 13-3-34<lb/></add>
+            <opener><add rend="handwritten">Appunto e <unclear>sparl</unclear><lb/> per un eventuale
+                    articolo 13-3-34<lb/></add>
                 <add rend="handwritten" place="margin"><seg type="subjectLine">Anschluss</seg></add>
             </opener>
             <p>Le notizie dei gravi avvenimenti verificatesi in questi giorni in Austria hanno
@@ -115,7 +114,7 @@
                 secolari.</p>
             <p>I diplomatici potranno meravigliarsi per uno s<subst>
                     <del rend="stikethrough">v</del>
-                    <!-- ZÜ: @rend ("Korrigiert von „v“") -->
+                    <!-- ZÜ: @rend ("Korrigiert von [Buchstabe/n]") -->
                     <add>b</add>
                 </subst>occo così imprevisto dopo tante trattative e documenti che non avrebbero
                 potuto farlo prevedere.</p>
@@ -169,7 +168,7 @@
                 qua si distrugge la produzione che è <sic>sovrabbondante</sic>: là migliaia di
                 persone muoiono di fame.</p>
             <p>Altrove lotte e interessi di partiti si sovrappongono al bene della Nazione.</p>
-            <!-- ZB: zusätzlicher Zeilenumbruch -> pb? -->
+            <!-- ZB: zusätzlicher Zeilenumbruch in Word -> pb? -->
             <p>In territori immensi è tolta qualsiasi libertà di coscienza, si uccidono, si
                 imprigionano persone soltanto perché credono in Dio e vogliono rimanere fedeli alla
                 loro religione.</p>
@@ -216,7 +215,7 @@
                     <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                     <add>u</add>
                 </subst>ò giungere che al trionfo della violenza.</p>
-            <p/>
+            <!-- ZB: zusätzlicher Zeilenumbruch in Word -> pb? -->
             <p>E quando <subst>
                     <del rend="strikethrough">tra</del>
                     <add place="above" rend="handwritten">per</add>

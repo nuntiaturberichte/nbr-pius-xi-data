@@ -204,7 +204,8 @@
                     Nationalsozialismus gegenüber lediglich durch seine <hi rend="underline"
                         >grundsätzliche</hi> Einstellung im obigen Sinne geleitet ist.</p>
                 <p>Was insbesondere den Abschluss des reichsdeutschen Konkordate<subst>
-                        <del rend="strikethrough"><!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") --></del>
+                        <del rend="strikethrough"
+                            ><!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") --></del>
                         <add>s</add>
                     </subst> anlangt, so vertritt selbstverständlich auch der österreichische
                     Episkopat den Standpunkt, dass dieses Konkordat nicht mir der
@@ -388,8 +389,8 @@
                     Naturrecht gibt, das die Grundlage jedes positiven Rechtes bildet und das als
                     höchste Norm jeder Staatsautorität und gesetzlichen Tätigkeit de<subst>
                         <del rend="strikethrough">s</del>
-                        <!-- ZÜ: Umsetzung ("handschriftlich korrigiert von [Buchstabe/n]") -->
                         <add rend="handwritten">n</add>
+                        <!-- ZÜ: Umsetzung ("handschriftlich korrigiert von [Buchstabe/n]") -->
                     </subst> Satz aufstellt: salus populi suprema lex esto.</p>
                 <p>Wenn erfahrungsgemäss und nach dem Urteil wenigstens des pars sanior populi eine
                     Staatsverfassung und gesetzgeberische Körperschaft nicht mehr dem Wohle des

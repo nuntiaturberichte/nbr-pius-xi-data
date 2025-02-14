@@ -54,8 +54,10 @@
                         <repository><!-- ZE: Elementinhalt --></repository>
                         <idno type="archive">Pos. 881, Fasc. 42, Fol. 1045 – 1075</idno>
                         <!-- ZE: recto/verso? -->
-                        <idno type="institutional" subtype="internal"><!-- ZE: Elementinhalt --></idno>
-                        <idno type="institutional" subtype="external"><!-- ZE: Elementinhalt --></idno>
+                        <idno type="institutional" subtype="internal"
+                            ><!-- ZE: Elementinhalt --></idno>
+                        <idno type="institutional" subtype="external"
+                            ><!-- ZE: Elementinhalt --></idno>
                     </msIdentifier>
                     <msContents>
                         <msItem>

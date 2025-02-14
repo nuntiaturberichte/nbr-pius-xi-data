@@ -51,11 +51,14 @@
                     <msIdentifier>
                         <repository><!-- ZE: Elementinhalt --></repository>
                         <idno type="archive">Pos. 882, Fasc. 43, Fol. 48r - 54r</idno>
-                        <idno type="institutional" subtype="internal"><!-- ZE: Elementinhalt --></idno>
-                        <idno type="institutional" subtype="external"><!-- ZE: Elementinhalt --></idno>
+                        <idno type="institutional" subtype="internal"
+                            ><!-- ZE: Elementinhalt --></idno>
+                        <idno type="institutional" subtype="external"
+                            ><!-- ZE: Elementinhalt --></idno>
                     </msIdentifier>
                     <msContents>
-                        <msItem><!-- ZÜ: Elementinhalt -->
+                        <msItem>
+                            <!-- ZÜ: Elementinhalt -->
                             <note type="keyword" resp="#martin.kroissenbrunner">Neuland</note>
                             <note type="keyword" resp="#martin.kroissenbrunner">Katholische
                                 Aktion</note>
@@ -89,7 +92,8 @@
             </correspDesc>
         </profileDesc>
     </teiHeader>
-    <text><!-- ZE: @type? -->
+    <text>
+        <!-- ZE: @type? -->
         <body>
             <pb n="1"/>
             <opener>
@@ -148,11 +152,10 @@
             <p>Nuove difficoltà sorsero recentemente.</p>
             <p>Al principio del 1936 la direzione del seminario ecclesiastico di Vienna present<add
                     rend="Akzent handschriftlich"
-                >ò</add><!-- ZÜ: Umsetzung ("Akzent handschriftlich hinzugefügt") -->
-                all’Autorità Ecclesiastica Viennese un memorandum, in cui attirava l’attenzione, per
-                mezzo di una dettagliata esposizione, sui pericoli del “Neuland”: Il suo
-                atteggiamento di fronte all’autorità ecclesiastica, di fronte alla devozione alla
-                Madonna, ecc.</p>
+                >ò</add><!-- ZÜ: Umsetzung ("Akzent handschriftlich hinzugefügt") --> all’Autorità
+                Ecclesiastica Viennese un memorandum, in cui attirava l’attenzione, per mezzo di una
+                dettagliata esposizione, sui pericoli del “Neuland”: Il suo atteggiamento di fronte
+                all’autorità ecclesiastica, di fronte alla devozione alla Madonna, ecc.</p>
             <p><hi rend="mark">In seguito a ciò il “Neuland” fu sospeso e proibito in modo speciale
                     nel seminario diocesano; si promise anche che l’associazione dei sacerdoti
                     aderenti al “Neuland” sarebbe stata sciolta; associazione che sussiste
@@ -196,8 +199,9 @@
                     <hi rend="mark" hand="#UR"
                     ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") --> -->preti virtuosi e
                     zelanti; il rev. <hi rend="underline" hand="#UR"
-                        ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") --> -->Pfliegler</hi> , da quando
-                    è diventato docente universitario, si è un po' ritirato dal movimento.</hi></p>
+                        ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") --> -->Pfliegler</hi> ,
+                    da quando è diventato docente universitario, si è un po' ritirato dal
+                    movimento.</hi></p>
             <p>La menzionata agilità si spiega dal carattere fondamentale del “Neuland”, che vuol
                 essere fondamentalmente un movimento dinamico che prende interesse a tutte le
                 correnti dei nostri tempi; alle quali in tanto esso aderisce, in quanto è
@@ -226,16 +230,14 @@
             <p>Gli aderenti al “Neuland” sottolineano poi il concetto dell’autoritarismo, venendo
                 così a mettere da parte l’”autorità” ecclesiastica, che sono disposti a seguire in
                 tanto, in quanto viene incontro alle loro idee e tendenze soggettive.</p>
-            <p><hi rend="mark" hand="#UR"
-                    ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") --> -->Si sono addirittura
-                    spinti fino a questa dichiarazione: “se la chiesa dovesse una volta proclamare
-                    la mediazio</hi>ne di Maria per l’acquisto della grazia quale dottrina della
-                Chiesa, essi sarebbero costretti di rinnegarla”.</p>
-            <p><hi rend="mark" hand="#UR"
-                    ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") --> -->Essi assumono, anzi,
-                    nei riguardi della devozione mariana un atteggiamento di ostilità, per non dire
-                    perfino di ripulsa, e precisamente per quanto concerne il santo rosario, che
-                    sembra loro troppo poco “cristocentrico”.</hi></p>
+            <p><hi rend="mark" hand="#UR"><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") -->
+                    -->Si sono addirittura spinti fino a questa dichiarazione: “se la chiesa dovesse
+                    una volta proclamare la mediazio</hi>ne di Maria per l’acquisto della grazia
+                quale dottrina della Chiesa, essi sarebbero costretti di rinnegarla”.</p>
+            <p><hi rend="mark" hand="#UR"><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") -->
+                    -->Essi assumono, anzi, nei riguardi della devozione mariana un atteggiamento di
+                    ostilità, per non dire perfino di ripulsa, e precisamente per quanto concerne il
+                    santo rosario, che sembra loro troppo poco “cristocentrico”.</hi></p>
             <p>Nel movimento liturgico esagerato essi segnalano quasi unicamente l’”idea
                 cristicentrica” nella Messa e nelle pratiche di pietà, e non vogliono perciò
                 ammettere durante la Messa la recita del santo rosario.</p>
@@ -270,10 +272,9 @@
                 posti di maggior influenza, per esempio le cattedre di religione nelle scuole medie,
                 per ottenere le quali vengono favoriti dall’influente appoggio di un signore del
                 ministero, egli pure socio del “Neuland”.</p>
-            <p><hi rend="mark" hand="#UR"
-                    ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") --> -->Veramente ora nel
-                    seminario diocesano gli alunni si conformano al divieto del “Neuland”, ma
-                    soltanto se vi sono costretti; tacitamente essi simpatizzano t<subst>
+            <p><hi rend="mark" hand="#UR"><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") -->
+                    -->Veramente ora nel seminario diocesano gli alunni si conformano al divieto del
+                    “Neuland”, ma soltanto se vi sono costretti; tacitamente essi simpatizzano t<subst>
                         <del rend="strikethrough">i</del>
                         <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                         <add>u</add>
@@ -299,13 +300,12 @@
             <p>La S. Sede dovrebbe proibire direttamente in Austria tutto il movimento “Neuland” e
                 quanto prima tanto meglio altrimenti ne verrebbe col tempo un danno veramente
                 grave.</p>
-            <p><hi rend="mark" hand="#UR"
-                    ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") --> -->D’altronde è grande
-                    l’influenza che esercita negli ambienti ecclesiastici il Dr. Rudolf.</hi></p>
-            <p><hi rend="mark" hand="#UR"
-                    ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") --> -->Se si riuscisse in
-                    primo luogo a tenere lontano questo signore dall’”Entourage” di Sua Eminenza il
-                    Card. Innitzer e ad eliminar<subst>
+            <p><hi rend="mark" hand="#UR"><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") -->
+                    -->D’altronde è grande l’influenza che esercita negli ambienti ecclesiastici il
+                    Dr. Rudolf.</hi></p>
+            <p><hi rend="mark" hand="#UR"><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") -->
+                    -->Se si riuscisse in primo luogo a tenere lontano questo signore
+                    dall’”Entourage” di Sua Eminenza il Card. Innitzer e ad eliminar<subst>
                         <del rend="strikethrough"
                             ><!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->o</del>
                         <add>n</add>
