@@ -110,11 +110,11 @@
                 und insbesondere in Österreich im <sic>folgenden</sic> in aller Ehrfurcht und
                 Ergebenheit gegen den Heiligen Apostolischen Stuhl darzulegen.</p>
             <div type="chapter" n="I">
-                <head>I. Grundsätzliche Stellungnahme.</head>
+                <head>Grundsätzliche Stellungnahme.</head>
                 <p>J<!-- ZÜ: Im gesamten Dokument steht immer wieder J statt I -->n der
                     grundsätzlichen Auffassung über das Wesen, die Bestrebungen und Ziele des
                     Nationalsozialismus im <sic>allgemeinen</sic> schliesst sich der österreichische
-                    Episkopat zunächst den <hi rend="underline" hand="UR"
+                    Episkopat zunächst den <hi rend="underline" hand="#UR"
                         ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") -->
                         -->anfänglichen</hi> Kundgebungen des reichsdeutschen Gesamtepiskopates
                     vollinhaltlich an, insoweit darin grundsätzlich zu den Jrrtümern des
@@ -144,7 +144,7 @@
                     <item>4.) Über allem Nationalismus steht die Religion, die nicht national,
                         sondern übernational ist.</item>
                 </list>
-                <p>Über den Nationalsozialismus als <hi rend="underline" hand="UR"
+                <p>Über den Nationalsozialismus als <hi rend="underline" hand="#UR"
                         ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") --> -->System</hi>
                     fällt der Hirtenbrief das abschliessende Urteil: Der Nationalsozialismus krankt
                     innerlich an materialistischem Rassenwahn – an unchristlichen Nationalismus – an
@@ -224,7 +224,7 @@
                     Weise behindert oder zu einer Neuorientierung veranlasst.</p>
             </div>
             <div type="chapter" n="II">
-                <p>II. Die politische Situation des Nationalsozialismus in Österreich.</p>
+                <head>Die politische Situation des Nationalsozialismus in Österreich.</head>
                 <p>Die politischen Ziele und Bestrebungen der nationalsozialistischen Partei in
                     Österreich waren von allem Anfange an gegen die politische Selbstständigkeit und
                     Unabhängigkeit</p>
@@ -370,7 +370,7 @@
                 </p>
             </div>
             <div type="chapter" n="III">
-                <head>III. Verhältnisses zur gegenwärtigen Regierung.</head>
+                <head>Verhältnisses zur gegenwärtigen Regierung.</head>
                 <p/>
                 <p>Der Episkopat ist zunächst überzeu<subst>
                         <del rend="strikethrough">h</del>
@@ -471,8 +471,7 @@
             <closer>
                 <signed rend="handwritten">+ Theod. Kard. Innitzer</signed><lb/>Theodor Kardinal
                 Innitzer<lb/>Erzbischof von Wien,<lb/>im Namen des österreichischen Episkopates
-                    <dateline>Wien, am 29. September 1933</dateline>
-            </closer>
+                <lb/>Wien, am 29. September 1933 </closer>
         </body>
     </text>
 </TEI>
