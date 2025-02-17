@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>hi<!-- ZE: Elementinhalt --></title>
+                <title><!-- ZE: Elementinhalt --></title>
                 <author><!-- ZE: Elementinhalt --></author>
                 <respStmt>
                     <resp>TEI created</resp>
