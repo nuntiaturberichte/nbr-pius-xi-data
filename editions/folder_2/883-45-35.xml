@@ -101,9 +101,10 @@
         <!-- ZE: @type? -->
         <body>
             <!-- ZB: Umgang mit Tabstopps -->
-            <opener>
+            <opener><lb/>
                 <dateline>Rom, am <sic>S</sic>.Februar 1934.</dateline><lb/><add rend="handwritten"
-                    >Rapporto confidenziale<lb/> del Sig. ministro d‘Austria<lb/> al Cancelliere Dollfuss.<lb/>
+                    ><lb/>Rapporto confidenziale<lb/> del Sig. ministro d‘Austria<lb/> al
+                    Cancelliere Dollfuss.<lb/>
                     <seg type="subjectLine">«Pastorale dei Vescovi austriaci»</seg></add><lb/>
                 <salute>Herr Bundeskanzler!</salute>
             </opener>
