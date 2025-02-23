@@ -4,9 +4,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>[882-43-48]<!-- ZE: Elementinhalt --></title>
+                <title>Relazione sul movimento "Neuland"</title>
                 <author>
-                    <persName><!-- ZE: Elementinhalt --></persName>
+                    <persName>Unbekannter Übersetzer</persName>
                 </author>
                 <respStmt>
                     <resp>TEI created</resp>
@@ -46,19 +46,15 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <msDesc>
-                    <!-- ZE: @status -->
+                <msDesc status="Abschrift">
                     <msIdentifier>
-                        <repository><!-- ZE: Elementinhalt --></repository>
+                        <repository>AA.EE.SS, Periodo IV, Austria Ungheria</repository>
                         <idno type="archive">Pos. 882, Fasc. 43, Fol. 48r - 54r</idno>
                         <idno type="institutional" subtype="internal"
-                            ><!-- ZE: Elementinhalt --></idno>
-                        <idno type="institutional" subtype="external"
-                            ><!-- ZE: Elementinhalt --></idno>
+                            >2896/36</idno>
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <!-- ZÜ: Elementinhalt -->
                             <note type="keyword" resp="#martin.kroissenbrunner">Neuland</note>
                             <note type="keyword" resp="#martin.kroissenbrunner">Katholische
                                 Aktion</note>
@@ -67,12 +63,11 @@
                                 Bewegung</note>
                             <note type="keyword" resp="#martin.kroissenbrunner">Innitzer</note>
                             <note type="keyword" resp="#martin.kroissenbrunner">Soziale Frage</note>
-                            <note type="keyword" resp="#martin.kroissenbrunner">Hl. Stuhl</note>
                         </msItem>
                     </msContents>
                     <physDesc>
                         <scriptDesc>
-                            <ab><!-- ZE: Elementinhalt --></ab>
+                            <ab>Maschinenschriftlich</ab>
                         </scriptDesc>
                     </physDesc>
                 </msDesc>
@@ -83,17 +78,10 @@
                 <p><!-- ZE: Elementinhalt --></p>
             </abstract>
             <correspDesc>
-                <correspAction type="sent">
-                    <!-- ZE: Elementinhalt -->
-                </correspAction>
-                <correspAction type="received">
-                    <!-- ZE: Elementinhalt -->
-                </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
-    <text>
-        <!-- ZE: @type? -->
+    <text type="Übersetzung">
         <body>
             <pb n="1"/>
             <opener>
