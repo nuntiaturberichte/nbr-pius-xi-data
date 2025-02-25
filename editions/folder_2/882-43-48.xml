@@ -104,10 +104,10 @@
             <p>L’anno della fondazione è il 1921. I veri dirigenti ecclesiastici sono due
                 sacerdoti:</p>
             <p>Dr. teol. Carlo <hi rend="underline" hand="#UR"
-                >Rudolf</hi><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") --> , nato nel 18<subst>
-                    <del rend="overwritten">7</del>
-                    <add rend="overwritten">8</add>
-                </subst>6, ordinato sacerdote nel 1912; (dal 1914 al 1922……. nel seminario di
+                >Rudolf</hi>, nato nel <hi rend="underline" hand="#UR">18<subst>
+                    <del>7</del>
+                    <add place="above">8</add>
+                </subst>6</hi>, ordinato sacerdote nel 1912; (dal 1914 al 1922……. nel seminario di
                 Vienna), dal 1919 in cura d’anime all’accademia e dal 1922 curato del duomo di S.
                 Stefano.</p>
             <p>Egli è fondatore e direttore del segretariato viennese degli studenti, dell’istituto
@@ -119,6 +119,7 @@
             <p>L’altro sacerdote è il DR; teol. Michele Pfliegler, nato nel 1891, sacerdote nel
                 1915, già professore di religione in un ginnasio governativo di Vienna ed ora
                 docente alla </p>
+            <note type="foliation" rend="typewritten">48</note>
             <pb n="2"/>
             <p>facoltà teologica di Vienna.</p>
             <p>Egli è il vero capo e il fondatore spirituale del “Neuland”, e il propugnatore della
@@ -131,9 +132,8 @@
             <p>Sin dal tempo del Card. Piffl (morto nel 1932) ci furono difficoltà ecclesiastiche
                 col “Neuland”</p>
             <p>Un gruppo di aderenti al “Neuland” si presentò al cardina<subst>
-                    <del rend="strikethrough">e</del>
-                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
-                    <add>l</add>
+                    <del @rend="overwritten">e</del>
+                    <add @rend="overwritten">l</add>
                 </subst>e per fargli delle rimostranze e per <sic>d rgli </sic>dei suggerimenti:
                 furono congedati, però e venne loro risposto che dovevano imparare dapprima
                 l’umiltà.</p>
@@ -149,6 +149,7 @@
                     aderenti al “Neuland” sarebbe stata sciolta; associazione che sussiste
                     veramente</hi> più per la comunanza delle idee che per il vincolo di uno
                 statuto.</p>
+            <note type="foliation" rend="typewritten">49</note>
             <pb n="3"/>
             <p>Pare che essi si presentino così: “N.N. Neul<sic>à</sic>nderpriester” (prete del
                 “Neuland”, e basta ciò per dare l’impressione di un certo <hi rend="underline"
@@ -169,25 +170,24 @@
             <p>La facoltà teologica di Vienna se ne meravigliò altamente e, in occasione di una
                 riunione della facoltà, espresse il suo stupore, dato che, del resto, tutta la
                 facoltà si mantiene in un atteggiamento di grande s<subst>
-                    <del rend="strikethrough">e</del>
-                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
-                    <add>c</add>
+                    <del rend="overwritten">e</del>
+                    <add rend="overwritten">c</add>
                 </subst>etticismo verso il movimento “Neuland”.</p>
             <p>Da allora le voci di malcontento e di disgusto non sono cessate fra il clero
                 dell’arcidiocesi di Vienna, perché la maggior parte di esso respinge il movimento
                 “Neuland”.</p>
             <p>Anzi, da quanto si dice parecchi decanati hanno indirizzato al signor Cardinale
                 Innitzer la preghiera di non in=</p>
+            <note type="foliation" rend="typewritten">50</note>
             <pb n="4"/>
             <p>viare loro come cappellano dei sacerdoti aderenti al “Neuland”.</p>
             <p>Da Vienna il “Neuland” si è insinuato in altre diocesi austriache, quantunque in
                 misura più ristretta.</p>
             <p>Non si può negare che un gran numero di persone ricche di nobili idealità, agisce
                 attivamente nel movimento “Neuland”; anche i tre sacerdoti suddetti sono, del resto,
-                    <hi rend="mark" hand="#UR"
-                    ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") -->preti virtuosi e
+                    <hi rend="mark" hand="#UR">preti virtuosi e
                     zelanti; il rev. <hi rend="underline" hand="#UR"
-                        ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") -->Pfliegler</hi> ,
+                        >Pfliegler</hi> ,
                     da quando è diventato docente universitario, si è un po' ritirato dal
                     movimento.</hi></p>
             <p>La menzionata agilità si spiega dal carattere fondamentale del “Neuland”, che vuol
@@ -206,11 +206,11 @@
                 nelle file dei nazionalsocialisti.</p>
             <p>Un’altra caratteristica sfavorevole è un’accentuata inclinazione al soggettivismo,
                 alla <sic>cosidetta</sic> “esperienza”, e quindi una not<subst>
-                    <del rend="strikethrough">i</del>
-                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
-                    <add>e</add>
+                    <del rend="overwritten">i</del>
+                    <add rend="overwritten">e</add>
                 </subst>vole presunzione = per non usare un’espressione più forte = in modo che i
                 membri del “Neuland” si </p>
+            <note type="foliation" rend="typewritten">51</note>
             <pb n="5"/>
             <p>Considerano come i soli cresciuti in un ambiente spirituale che sanno di
                 dominare.</p>
@@ -218,12 +218,10 @@
             <p>Gli aderenti al “Neuland” sottolineano poi il concetto dell’autoritarismo, venendo
                 così a mettere da parte l’”autorità” ecclesiastica, che sono disposti a seguire in
                 tanto, in quanto viene incontro alle loro idee e tendenze soggettive.</p>
-            <p><hi rend="mark" hand="#UR"><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") -->
-                    -->Si sono addirittura spinti fino a questa dichiarazione: “se la chiesa dovesse
+            <p><hi rend="mark" hand="#UR">Si sono addirittura spinti fino a questa dichiarazione: “se la chiesa dovesse
                     una volta proclamare la mediazio</hi>ne di Maria per l’acquisto della grazia
                 quale dottrina della Chiesa, essi sarebbero costretti di rinnegarla”.</p>
-            <p><hi rend="mark" hand="#UR"><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") -->
-                    -->Essi assumono, anzi, nei riguardi della devozione mariana un atteggiamento di
+            <p><hi rend="mark" hand="#UR">Essi assumono, anzi, nei riguardi della devozione mariana un atteggiamento di
                     ostilità, per non dire perfino di ripulsa, e precisamente per quanto concerne il
                     santo rosario, che sembra loro troppo poco “cristocentrico”.</hi></p>
             <p>Nel movimento liturgico esagerato essi segnalano quasi unicamente l’”idea
@@ -238,6 +236,7 @@
             <p>La Chiesa apparisce loro, in modo predominante, come la “La Chiesa della grazia”,
                 come se la Chiesa, al pari di qualsiasi società umana, non dovesse avere anche
                 una</p>
+            <note type="foliation" rend="typewritten">52</note>
             <pb n="6"/>
             <p>struttura ben organizzata.</p>
             <p>La gerarchia non è per loro al primo posto, ma la persona, soggetto vivente,
@@ -260,14 +259,13 @@
                 posti di maggior influenza, per esempio le cattedre di religione nelle scuole medie,
                 per ottenere le quali vengono favoriti dall’influente appoggio di un signore del
                 ministero, egli pure socio del “Neuland”.</p>
-            <p><hi rend="mark" hand="#UR"><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") -->
-                    -->Veramente ora nel seminario diocesano gli alunni si conformano al divieto del
+            <p><hi rend="mark" hand="#UR">Veramente ora nel seminario diocesano gli alunni si conformano al divieto del
                     “Neuland”, ma soltanto se vi sono costretti; tacitamente essi simpatizzano t<subst>
-                        <del rend="strikethrough">i</del>
-                        <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
-                        <add>u</add>
+                        <del rend="overwritten">i</del>
+                        <add rend="overwritten">u</add>
                     </subst>ttora con</hi> questa tendenza e sono decisi di aderirvi in seguito per
                 ot=</p>
+            <note type="foliation" rend="typewritten">53</note>
             <pb n="7"/>
             <p>tenere posti migliori e di maggiore influenza.</p>
             <p>Si rende difficile così una retta formazione del giovane clero.</p>
@@ -288,19 +286,17 @@
             <p>La S. Sede dovrebbe proibire direttamente in Austria tutto il movimento “Neuland” e
                 quanto prima tanto meglio altrimenti ne verrebbe col tempo un danno veramente
                 grave.</p>
-            <p><hi rend="mark" hand="#UR"><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") -->
-                    -->D’altronde è grande l’influenza che esercita negli ambienti ecclesiastici il
-                    Dr. Rudolf.</hi></p>
-            <p><hi rend="mark" hand="#UR"><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") -->
-                    -->Se si riuscisse in primo luogo a tenere lontano questo signore
+            <hi rend="mark" hand="#UR"><p>D’altronde è grande l’influenza che esercita negli ambienti ecclesiastici il
+                    Dr. Rudolf.</p>
+            <p>Se si riuscisse in primo luogo a tenere lontano questo signore
                     dall’”Entourage” di Sua Eminenza il Card. Innitzer e ad eliminar<subst>
-                        <del rend="strikethrough"
-                            ><!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->o</del>
-                        <add>n</add>
+                        <del rend="overwritten"
+                            >o</del>
+                        <add rend="overwritten">n</add>
                     </subst>e l’influenza, sarebbe evitato in parte il pericolo del “Neuland” e for<subst>
-                        <del rend="strikethrough"
-                            ><!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->es</del>
-                        <add>se</add>
+                        <del rend="overweritten"
+                            >es</del>
+                        <add rend="overwritten">se</add>
                     </subst> sarebbe del tutto scong</hi>giurato.</p>
             <p>La definitiva eliminazione non si potrebbe però ottenere che per mezzo di una
                 proibizione di massima.</p>
