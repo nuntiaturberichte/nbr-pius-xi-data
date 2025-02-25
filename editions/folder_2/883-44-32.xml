@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Alois Hudal an<!-- ZE: Elementinhalt -->, Rom 05.10.1933</title>
+                <title>Note von Mons. Hudal, Rom 05.10.1933</title>
                 <author>
                     <persName ref="https://d-nb.info/gnd/118554239">Alois Hudal</persName>
                 </author>
@@ -48,24 +48,19 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <msDesc>
-                    <!-- ZE: @status -->
+                <msDesc status="Reinschrift">
                     <msIdentifier>
-                        <repository><!-- ZE: Elementinhalt --></repository>
+                        <repository>AA.EE.SS., Periodo IV, Austria Ungheria</repository>
                         <idno type="archive">Pos. 883, Fasc. 44, Fol. 32 - 33</idno>
                         <!-- ZE: recto/verso? -->
                         <idno type="institutional" subtype="internal"
-                            ><!-- ZE: Elementinhalt --></idno>
-                        <idno type="institutional" subtype="external"
-                            ><!-- ZE: Elementinhalt --></idno>
+                            >2836/33</idno>
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <!-- ZÜ: Elementinhalt -->
                             <note type="keyword" resp="#martin.kroissenbrunner"
                                 >Nationalsozialismus</note>
                             <note type="keyword" resp="#martin.kroissenbrunner">Dollfuß</note>
-                            <note type="keyword" resp="#martin.kroissenbrunner">Hl. Stuhl</note>
                             <note type="keyword" resp="#martin.kroissenbrunner">Konkordat</note>
                             <note type="keyword" resp="#martin.kroissenbrunner">Katholische
                                 Aktion</note>
@@ -78,7 +73,7 @@
                     </msContents>
                     <physDesc>
                         <scriptDesc>
-                            <ab><!-- ZE: Elementinhalt --></ab>
+                            <ab>Maschinenschriftlich</ab>
                         </scriptDesc>
                     </physDesc>
                 </msDesc>
@@ -94,23 +89,18 @@
                     <date when="1933-10-05">05.10.1933</date>
                     <placeName>Rom</placeName>
                 </correspAction>
-                <correspAction type="received">
-                    <!-- ZE: Elementinhalt -->
-                </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
-    <text>
-        <!-- ZE: @type? -->
+    <text type="Bericht">
         <body>
             <opener>voto d. Mons. Hudal<lb/>
                 <seg type="subjectLine">OSSERVAZIONI.</seg>
             </opener>
             <p>Il promemoria degli Eccmi Vescovi Austriaci che descrive con ogni sincerità la
                 situazione attuale politica ed ecclesiastico – politic<subst>
-                    <del rend="strikethrough">o</del>
-                    <add rend="handwritten">a</add>
-                    <!-- ZÜ: Umsetzung ("handschriftlich korrigiert von [Buchstabe/n]") -->
+                    <del rend="overwritten">o</del>
+                    <add rend="handwritten" rend="overwritten">a</add>
                 </subst> in Austria, finisce con <hi rend="underline">2 domande,</hi>:</p>
             <list>
                 <item>I.) che la Santa Sede dia <hi rend="underline">direttive chiare per la
@@ -129,29 +119,25 @@
                 parlato uomini responsabili dello Stato in un modo talmente fermo nei principii
                 cattolici. Un cambiamento politico del Governo attuale, diciamo per elezione, in
                 favore del NS sarebbe un<subst>
-                    <del rend="strikethrough">e</del>
-                    <add rend="handwritten">a</add>
-                    <!-- ZÜ: Umsetzung ("handschriftlich korrigiert von [Buchstabe/n]") -->
+                    <del rend="overwritten">e</del>
+                    <add rend="handwritten" rend="overwritten">a</add>
                 </subst> SCONFITTA ENORME del Cattolicesimo in Austria. I partigiani del NS in
                 Austria sono nella maggioranza cattolici non più praticanti, apostati e dal
                 protestantismo infettati. La prima conseguenza di un Governo NS in Austria sarà che
                 si manderà via da tutte le posizioni nello Stato i fedeli accademici cattolici per
                 sostituirli con persone liberali. L’esempio come nella Rhenania e in Baviera
                     <sic>dapertutto</sic> si nominava solamente protestant<subst>
-                    <del rend="strikethrough">o</del>
-                    <add rend="handwritten">i</add>
-                    <!-- ZÜ: Umsetzung ("handschriftlich korrigiert von [Buchstabe/n]") -->
+                    <del rend="overwritten">o</del>
+                    <add rend="handwritten" rend="overwritten">i</add>
                 </subst> dove prima erano impiegati cattolici <hi rend="underline">è una lezione
                     troppo chiara anche per l’Austria</hi>. Le conseguenze trist<subst>
-                    <del rend="strikethrough">e</del>
-                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
-                    <add>i</add>
+                    <del rend="overwritten">e</del>
+                    <add rend="handwritten" rend="overwritten">i</add>
                 </subst> di un tale cambiamento politico in Austria sarebbero <sic>cosi</sic> forte,
                 chè anche in nessuna maniera potrebbero essere reparate, <del rend="strikethrough"
                     >-</del> se <add rend="handwritten">-</add> supponia<subst>
-                    <del rend="strikethrough">m</del>
-                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
-                    <add>m</add>
+                    <del rend="overwritten">n</del>
+                    <add rend="overwritten">m</add>
                 </subst>o questo caso – il partito NS in Austria <hi rend="underline"
                     >ratificasse</hi> o <hi rend="underline">migliorasse</hi> il Concordato
                 sottoscritto dal cancelliere Dollfuss. Mancherebbe sempre lo spirito ed il
@@ -160,21 +146,19 @@
                 popolo <sic>commune</sic> ed il clero sui veri ed ultimi scopi massonici e
                 anticattolici del NS. Il cattolicismo austriaco che come quello in Germania con
                 grandi sacrifici sempre più negli ultimi anni ha svil<subst>
-                    <del rend="strikethrough"><gap reason="strikethrough" unit="char" quantity="1"
+                    <del rend="overwritten"><gap reason="overwritten" unit="char" quantity="1"
                         /></del>
-                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
-                    <add>u</add>
+                    <add rend="handwritten">u</add>
                 </subst>ppato le sue organizzazioni, fra poco condurebbe solamente più una vita <hi
                     rend="underline">nella sagrestia senza contatto colla vita pubblica</hi>. Già
                 adesso i partigiani del NS hanno promosso una propaganda di apostasie dal
                 cattolicismo nelle diocesi di Gurk e Seccovia – che cosa faranno quando un giorno
                 avrebbero tutto l’istrumento</p>
-            <!-- ZB: untypischer Zeilenumbruch -> pb? -->
+		<note type="foliation" rend="typewritten">32</note>
             <p>dello Stato alla sua disposzione, appoggiati in queste tendenze antiromane per il
                     Protesta<add place="above" rend="handwritten">n</add>tismo della Germania<subst>
-                    <del rend="strikethrough">.</del>
-                    <add rend="handwritten">?</add>
-                    <!-- ZÜ: Umsetzung ("handschriftlich korrigiert von [Buchstabe/n]") -->
+                    <del rend="overwritte">.</del>
+                    <add rend="handwritten" rend="overwritten">?</add>
                 </subst></p>
             <p><sic>Cosi</sic> devono i Vescovi Austriaci con buona coscienza appoggiare con
                 fermezza e prudenza il Governo attuale senza però di immischiarsi personalmente
@@ -182,18 +166,18 @@
                 Sede approvasse la loro posizione.</p>
             <p>Al secondo:</p>
             <p><hi rend="underline" hand="#UR"
-                    ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") -->La lettera pastorale
+                    >La lettera pastorale
                     dell’Eccmo Vescovo di Linz</hi> è senza dubbio eccellente e classica nei
                 principii e nelle sue deduzioni <hi rend="underline">anche oggi</hi> nonostante che
                 intanto il NS ha preso il Governo in Germania. Non ha <hi rend="underline"
                     >niente</hi> perduto dal suo primitivo valore. <add
-                    rend="Akzent handschriftlich">E</add> parola di un vero Vescovo „qui cognoscit
+                    rend="Akzent handschriftlich">È</add> parola di un vero Vescovo „qui cognoscit
                 signa temporum“. E‘ <sic>cosi</sic> potrebbe benissimo servire come modello per una
                 lettera pastorale collettiva dell’Episcopato Austriaco che solamente dovrebbe avere
                 un altro titolo, per esempio = Nazione<add rend="handwritten">,</add> patriotismo e
                 la dottrina cristiana =, o „Roma e la nazione“ ecc; basterebbe di accentuare i
                 principii fondamentali <hi rend="underline" hand="#UR"
-                    ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") -->senza</hi> una
+                    >senza</hi> una
                 propria polemica contro il partito NS.</p>
             <p><hi rend="underline">Però ed adesso vengo al fondo di tutto</hi> – questa lettera
                 pastorale <hi rend="underline">presuppone</hi> assolutamente una <hi
@@ -213,15 +197,15 @@
                 prima adunanza del parlamento, ma i fondamenti spirituali del partito non hanno
                 subito nessun cambiamento, sono restati gli stessi come prima del mese di marzo ed
                 il partito (Governo) aspira di infiltrare tutta la gente colla sua idea per formare
-                    l’<hi rend="underline" hand="#UR"
-                    ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") -->uomo
+                    l’<hi rend="underline" hand="#UR">uomo
                     germanico</hi><add rend="handwritten">“</add> . Queste sono le riflessioni del
                 popolo che devono concuotere tutta l’autorità dei Vescovi se nello stesso momento in
                 Austria combattono il NS mentre in Germania oggi le organizzazioni cattoliche stesse
                 raccomandano una stretta collaborazione – è una contradizione che deve creare un
                 conflitto anche nelle anime dei cattolici fedeli in confronto all’autorità
                 ecclesiastica.</p>
-            <p><sic>Cosi</sic> nella mia coscienza mi sento costretto di proporre come <hi
+		<pb n="3">
+		<p><sic>Cosi</sic> nella mia coscienza mi sento costretto di proporre come <hi
                     rend="underline">indispensabile e come un sacro dovere che la Santa Sede
                     solennemente tanto presto che possibile condanni gli errori fondamentali del NS
                     prima che l’Episcopato pubblicasse una nuova lettera pastorale sul nazionalismo
@@ -237,7 +221,7 @@
                 prevalenza dello Stato ecc.</p>
             <p>Per condannare queste dottrine che sono il germe di tanti e tanti barbarismi e leggi
                 abominabili del NS in Germania <hi rend="underline" hand="#UR"
-                    ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") -->basta</hi> però di
+                    >basta</hi> però di
                 mettere sul indice dei libri proibiti il famoso libro di <hi rend="underline"
                     hand="author #UR"><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") -->
                     -->Rosenberg</hi> “Der Mythos des 20. Jahrhunderts”, München 1932, dal quale si
@@ -248,19 +232,17 @@
                 dell’umanità insegnante niente altro che un paganismo <sic>resciuscitato</sic>, una
                 idolatria dello Stato e un feticismo della razza (confer l’eccellente articolo
                 allegato del gi<subst>
-                    <del rend="strikethrough">r</del>
-                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
-                    <add>o</add>
-                </subst> rnale “Mattino” di Napoli). Il libro è inoltre pieno di calunnie contro i
+                    <del rend="overwritten">r</del>
+                    <add rend="overwritten">o</add>
+                </subst>rnale “Mattino” di Napoli). Il libro è inoltre pieno di calunnie contro i
                 Papi come se questi fossero sempre stati nemici dei tedeschi.</p>
             <p>Questo libro oggi in Germania è già diffuso in 8 edizioni fra poche settimane e viene
                 sempre più popolarizzato <hi rend="underline">essendo il fondamento per la
                     formazione spirituale della gioventù di Hitler</hi>. <hi rend="underline">Lo
                     scopo</hi> dell’autore Rosenberg è di formare <hi rend="underline">una nuova
                     religione cristiana libera dal vecchio testamento e essenzi<subst>
-                        <del rend="strikethrough">o</del>
-                        <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
-                        <add>a</add>
+                        <del rend="overwritten">o</del>
+                        <add rend="overwritten">a</add>
                     </subst>lmente germanico e antiromano</hi>. La conseguenza sarà che la prossima
                 generazione in Germania sarà educata con uno spirito nemico alla Santa Sede, pieno
                 di confusione religiosa, tanto più perché la gioventù cattolica sarà costretta di
@@ -271,7 +253,8 @@
                     mai</hi> qualcosa di serio, si trovano tutte queste idee anche nel libro che
                 Hitler stesso ha pubblicato “La mia lotta” solamente in quanto alla religione
                 cristiana lui sembra di essere un <sic>puo</sic> più giusto.</p>
-            <!-- ZB: untypischer Zeilenumbruch -> pb? -->
+            	<note type="foliation" rend="typewritten">33</note>
+		<pb n="4">
             <p>Il partito NS non ha fatto niente per rifiutare queste eresie di Rosenberg ma ha
                 nominato l’autore <hi rend="underline">come proprio ispiratore del programma
                     educativo del NS</hi>.</p>
@@ -279,9 +262,8 @@
                 dalla parte della Santa Sede chiaramento avanti tutto il mondo che con grande
                     <sic>sodisfazione</sic>
                 <sic>vedera</sic> che la s<subst>
-                    <del rend="strikethrough"><gap reason="strikethrough" unit="char" quantity="1"
+                    <del rend="overwritten"><gap reason="overwritten" unit="char" quantity="1"
                         /></del>
-                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                     <add>u</add>
                 </subst>prema autorità morale del mondo ha il <sic>corraggio</sic> di condannare
                 tutto che è contrario ai sani principii, mi pare che una nuova lettera pastorale
@@ -289,24 +271,21 @@
                     direttamente nociva per la religione cattolica in Austria</hi>. La confusione
                     <sic>crescera</sic> sempre più. Se dopo la condanna del libro per il <hi
                     rend="underline">Sant’Offizio</hi> e per u<subst>
-                    <del rend="strikethrough">a</del>
-                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
-                    <add>n</add>
+                    <del rend="overwritten">a</del>
+                    <add rend="overwritten">n</add>
                 </subst>a <hi rend="underline">solenne <sic>enunziazione</sic> del Santo Padre
                     eventualmente in occasione del prossimo Concistorio</hi> il partito NS non
                     <sic>cambiarà</sic> queste idee che lentamente <hi rend="underline"
                     >rovineranno</hi> tutta la gioventù c<subst>
-                    <del rend="strikethrough">t</del>
-                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
-                    <add>a</add>
+                    <del rend="overwritten">t</del>
+                    <add rend="overwritten">a</add>
                 </subst>ttolica in Germania e Austria, allora mi pare di essere venuto il momento
                 per <sic>comminciare</sic> una chiara separazione eventualmente con censure
                 ecclesiastiche fra i veri cattolici e quelli che nessuno può più salvare.</p>
             <p>Il NS nella sua sostanza non si p<subst>
-                    <del rend="strikethrough"><gap reason="strikethrough" unit="char" quantity="2"
+                    <del rend="overwritten"><gap reason="overwritten" unit="char" quantity="2"
                         /></del>
-                    <!-- ZÜ: Umsetzung ("Handschriftlich korrigiert von unleserlichen Buchstaben") -->
-                    <add rend="handwritten">uò</add>
+                    <add rend="handwritten" rend="overwritten">uò</add>
                 </subst> equiperare al fascismo in Italia. Il NS è <hi rend="underline"
                     >essenzialmente nato dal Protestantismo</hi> e <sic>restera</sic> quello che era
                 dall’inizio. Mentre in Italia poteva il Cattolicismo in molti luoghi avere una nuova
