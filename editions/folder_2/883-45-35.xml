@@ -6,8 +6,10 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title><!-- ZE: Elementinhalt --> an Dollfuß, Rom 5. Februar 1934</title>
-                <author><!-- ZE: Elementinhalt --></author>
+                <title> Bericht an Dollfuß, Rom 05.02.1934</title>
+                <author> 
+			<persName ref="https://d-nb.info/gnd/124439683">Rudolf Kohlruss</persName>
+		</author>
                 <respStmt>
                     <resp>TEI created</resp>
                     <persName ref="#martin.kroissenbrunner">Martin Kroissenbrunner</persName>
@@ -46,23 +48,18 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <msDesc>
-                    <!-- ZE: @status -->
+                <msDesc status="Abschrift">
                     <msIdentifier>
-                        <repository><!-- ZE: Elementinhalt --></repository>
+                        <repository>AA.EE.SS., Periodo IV, Austria Ungheria</repository>
                         <idno type="archive">Pos. 883, Fasc. 45, Fol. 35r - 38r</idno>
                         <idno type="institutional" subtype="internal"
-                            ><!-- ZE: Elementinhalt --></idno>
-                        <idno type="institutional" subtype="external"
-                            ><!-- ZE: Elementinhalt --></idno>
+                            >567/34</idno>
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <!-- ZÜ: Elementinhalt -->
                             <note type="keyword" resp="#martin.kroissenbrunner">Dollfuß</note>
                             <note type="keyword" resp="#martin.kroissenbrunner"
                                 >Nationalsozialismus</note>
-                            <note type="keyword" resp="#martin.kroissenbrunner">Hl. Stuhl</note>
                             <note type="keyword" resp="#martin.kroissenbrunner">Katholische
                                 Aktion</note>
                             <note type="keyword" resp="#martin.kroissenbrunner"
@@ -74,7 +71,7 @@
                     </msContents>
                     <physDesc>
                         <scriptDesc>
-                            <ab><!-- ZE: Elementinhalt --></ab>
+                            <ab>Maschinenschriftlich</ab>
                         </scriptDesc>
                     </physDesc>
                 </msDesc>
@@ -86,21 +83,18 @@
             </abstract>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName><!-- ZE: Elementinhalt --></persName>
+                    <persName>Rudolf Kohlruss</persName>
                     <date when="1934-02-05">05.02.1933</date>
                     <placeName>Rom</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <!-- ZÜ: Elementinhalt -->
                     <persName ref="https://d-nb.info/gnd/118526561">Engelbert Dollfuß</persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
-    <text>
-        <!-- ZE: @type? -->
+    <text type="Bericht">
         <body>
-            <!-- ZB: Umgang mit Tabstopps -->
             <opener><lb/>
                 <dateline>Rom, am <sic>S</sic>.Februar 1934.</dateline><lb/><add rend="handwritten"
                     ><lb/>Rapporto confidenziale<lb/> del Sig. ministro d‘Austria<lb/> al
@@ -120,9 +114,9 @@
                 des Klerus aus der Politik sei im Sinne der durch deutschen Verhältnisse
                 hervorgerufenen allgemeinen <sic>Neucinstellung</sic> der Kurie erfolgt, die, wie er
                 selbst aus entsprechenden Gesprächen zu entnehmen <sic>Genegenheit</sic> gehabt hab<subst>
-                    <del rend="strikethrough">r</del>
+                    <del rend="overwritten">r</del>
                     <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
-                    <add>e</add>
+                    <add rend="overwritten">e</add>
                 </subst>,der Fernhaltung des Klerus von der Politik und dem Wegfall des Zentrums und
                 der Zentrumspolitik nicht besonders nachtrauere.</p>
             <p>Man hätte den Eindruck haben müssen, das die eben, beregte Verfügung des
@@ -136,17 +130,17 @@
                 verdichteten, läge es nur in der selbstverständlichen Taktik traditioneller Vorsicht
                 der Kurie, wenn sich gewisse Zurückhaltungen bei ihr ergäben.</p>
             <p>Das Interesse meines Mitredners <sic>dreite</sic> sich um die Frage ob in der</p>
-            <!-- ZB: untypischer Zeilenumbruch -> pb? -->
+            <note type="foliation" rend="typewritten">35</note>
+	<pb n="2">
             <p>Haltung der Kurie Oesterreich gegenüber eine Aenderung bemerkbar sei, wobei ich den
                 Eindruck hatte, er selbst neige einer solchen Annahme zu.</p>
             <p>Hiezu nahm ich in nachstehendem Sinne Stellung:</p>
             <p>Ich erklärte zunächst eindeutig, dass die Verfügung <sic>betrenfend</sic> die
                 Zurückziehung des Klerus aus der Politik initiativ vom „<sic>osterreichischen</sic>
                 Episkopat ausgegangen ist, <subst>
-                    <del rend="strikethrough"><gap reason="strikethrough" unit="char" quantity="1"
+                    <del rend="overwritten"><gap reason="overwritten" unit="char" quantity="1"
                         /></del>
-                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
-                    <add>w</add>
+                    <add rend="overwritten">w</add>
                 </subst>eil der Kurs der gegenwärtigen Regierung eine genügende Gewähr für die
                 Sicherheit der kirchlichen Belange darstellt und daher jede aktive Stellungnahme von
                 Mitgliedern des Klerus gerade im Interesse der Regierung die Möglichkeit jedweder
@@ -165,9 +159,8 @@
                 meines persönlichen Erachtens aber ein sprechendes Indiz für das notorische ganz
                 allgemeine spezifische Wohlwollen der Kurie Oesterreich gegenüber, da sich ansonsten
                 der österreichische Episkopat wohl vorher an die Ku<subst>
-                    <del rend="strikethrough">e</del>
-                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
-                    <add>r</add>
+                    <del rend="overwritten">e</del>
+                    <add rend="overwritten">r</add>
                 </subst>ie <sic>gewennet</sic> haben würde.</p>
             <p>Ohne dass also der Heilige <sic>Suhl</sic>
                 <sic>sebst</sic> in <sic>irgend einem</sic> dieser Belange aus seiner
@@ -178,7 +171,8 @@
                 österreichischen Regierung zur Kirche <sic>naturgemäs</sic> auch gar nicht anders
                 sein.</p>
             <p>Entgegen der Neigung meines Mitredners, gewisse <sic>aufgetre ne</sic> Befür-</p>
-            <!-- ZB: untypischer Zeilenumbruch -> pb? -->
+		<note type="foliation" rend="typewritten">36</note>
+            <pb n="3">
             <p>chtungen und damit im Zusammenhang eingetretene Reserven des Heiligen Stuhles zu
                 vermuten; erklärte ich weiter, dass ich <sic>i</sic> der <sic>geshilderten</sic>
                 wohlwollendsten allgemeinen Einstellung der Kurie inzwischen auch durchaus keine
@@ -206,15 +200,15 @@
             <p>In diesem Zusammenhange erwähnte er das politische <sic>Geschich</sic> des Nuntius
                 von Spanien, Tedeschini, hinsichtlich dessen man überrascht gewesen sei, wie er
                 sofort nach dem Sturz der Monarchie bereits über relativ verzweigte <subst>
-                    <del rend="strikethrough">i</del>
-                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
-                    <add>u</add>
+                    <del rend="overwritten">i</del>
+                    <add rend="overwritten">u</add>
                 </subst>nd gute <sic>Kontacte</sic> zu den neuen <sic>Machthbern</sic> verfügte, und
                 er fragte mich, ob es nicht möglich sei, dass eventuell auch der
                     <sic>Apostolosche</sic> Nuntius in Wien solche Zusammenhänge besitze.</p>
             <p>Hiezu erklärte ich, dass ich den Herrn Apostolischen Nuntius in Wien zuletzt im
                 Oktober v.J. gesehen habe und dass ich auf Grund meiner per-</p>
-            <!-- ZB: untypischer Zeilenumbruch -> pb? -->
+		<note type="foliation" rend="typewritten">37</note>
+            <pb n="4">
             <p>sönlichen allgemeinen <sic>Eindrüche</sic> eine solche <sic>Moglichkeit</sic> für
                 ausgeschlossen halten musste; auch verfüge der Herr Apostolische Nuntius in Wien
                 nicht über die Kenntnis der deutschen Sprache, was seine Kontaktmöglichkeiten schon
@@ -223,14 +217,12 @@
                 erschöpft.</p>
             <p>Nebenbei bemerkte mein Mitredner noch im Gespräche über das Verhältnis zu
                 Deutschland, es sei zu hoffen, dass di<subst>
-                    <del rend="strikethrough">r</del>
-                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
-                    <add>e</add>
+                    <del rend="overwritten">r</del>
+                    <add rend="overwritten">e</add>
                 </subst> Streit-frage nicht bis zum Völkerbund gelange.</p>
             <p>Hiezu erwiderte ich, dass ich von dieser Frage dien<subst>
-                    <del rend="strikethrough">t</del>
-                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
-                    <add>s</add>
+                    <del rend="overwritten">t</del>
+                    <add rend="overwritten">s</add>
                 </subst>tlich abseits stehe dass ich jedoch persönlich keine andere Möglichkeit
                 sähe, als nunmehr den Völkerbund zu befassen.</p>
             <p>Ich empfände <sic>eies</sic> abgesehen vom Rechte vor allem als eine Pflicht, denn
@@ -241,13 +233,11 @@
                     <sic>Mandaten</sic>, die ihm diese Verpflichtung,<sic>,</sic> auferlegt haben,
                 zu treten.</p>
             <p>Darauf hat mi<subst>
-                    <del rend="strikethrough">e</del>
-                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
-                    <add>r</add>
+                    <del rend="overwritten">e</del>
+                    <add rend="overwritten">r</add>
                 </subst> mein Mitredner nichts ent<subst>
-                    <del rend="strikethrough">r</del>
-                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
-                    <add>g</add>
+                    <del rend="overwritten">r</del>
+                    <add rend="overwritten">g</add>
                 </subst>egnet.</p>
             <p>Von Interesse <sic>wre</sic> noch die von meinem Mitredner gelegentlich geäusserte
                 Ueberzeugung, dass es dem Regime in Deutschland mit der Absicht, zu einem vollen
@@ -258,6 +248,7 @@
                 Gesandten beim Königlich Italienischen Hofe.</p>
             <closer><salute>Genehmigen, Herrn Bundeskanzler, den Ausdruck meiner vollkommensten
                     Ergebenheit.</salute></closer>
+		<note type="foliation" rend="typewritten">38</note>
         </body>
     </text>
 </TEI>
