@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Theodor Kardinal Innitzer an <!-- ZE: Elementinhalt -->, Wien,
+                <title>Theodor Kardinal Innitzer im Namen des österreichischen Epsikopats, Wien,
                     29.09.1933</title>
                 <author>
                     <persName ref="https://d-nb.info/gnd/118555634">Theodor Innitzer</persName>
@@ -47,19 +47,15 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <msDesc>
-                    <!-- ZE: @status -->
+                <msDesc status="Reinschrift">
                     <msIdentifier>
-                        <repository><!-- ZE: Elementinhalt --></repository>
+                        <repository>AA.EE.SS, Periodo IV, Austria Ungheria</repository>
                         <idno type="archive">Pos. 883, Fasc. 44, Fol. 13r - 26r</idno>
                         <idno type="institutional" subtype="internal"
-                            ><!-- ZE: Elementinhalt --></idno>
-                        <idno type="institutional" subtype="external"
-                            ><!-- ZE: Elementinhalt --></idno>
+                            >2836/33</idno>
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <!-- ZÜ: Elementinhalt -->
                             <note type="keyword" resp="#martin.kroissenbrunner"
                                 >Nationalsozialismus</note>
                             <note type="keyword" resp="#martin.kroissenbrunner">Katholische
@@ -68,7 +64,6 @@
                                 anno</note>
                             <note type="keyword" resp="#martin.kroissenbrunner">Innitzer</note>
                             <note type="keyword" resp="#martin.kroissenbrunner">Gföllner</note>
-                            <note type="keyword" resp="#martin.kroissenbrunner">Hl. Stuhl</note>
                             <note type="keyword" resp="#martin.kroissenbrunner">Anschluss</note>
                             <note type="keyword" resp="#martin.kroissenbrunner"
                                 >Verfassungsreform</note>
@@ -76,7 +71,7 @@
                     </msContents>
                     <physDesc>
                         <scriptDesc>
-                            <ab><!-- ZE: Elementinhalt --></ab>
+                            <ab>Maschinenschriftlich</ab>
                         </scriptDesc>
                     </physDesc>
                 </msDesc>
@@ -92,16 +87,12 @@
                     <date when="1933-09-29">29.09.1933</date>
                     <placeName>Wien</placeName>
                 </correspAction>
-                <correspAction type="received">
-                    <!-- ZE: Elementinhalt -->
-                </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
-    <text>
-        <!-- ZE: @type? -->
+    <text type="Pro Memoria">
         <body>
-            <!-- ZB: Umgang mit Tabstopps -->
+            <pb n="1">
             <opener>INSERTO al N. 15.261/726.<lb/> Con allegata<lb/><seg type="subjectLine">Lettera
                     Pastorale del Vescovo di Linz</seg></opener>
             <p>Pro m e m o r i a.</p>
@@ -111,28 +102,28 @@
                 Ergebenheit gegen den Heiligen Apostolischen Stuhl darzulegen.</p>
             <div type="chapter" n="I">
                 <head>Grundsätzliche Stellungnahme.</head>
-                <p>J<!-- ZÜ: Im gesamten Dokument steht immer wieder J statt I -->n der
+                <p><sic>J</sic>n der
                     grundsätzlichen Auffassung über das Wesen, die Bestrebungen und Ziele des
                     Nationalsozialismus im <sic>allgemeinen</sic> schliesst sich der österreichische
                     Episkopat zunächst den <hi rend="underline" hand="#UR"
-                        ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") -->
-                        -->anfänglichen</hi> Kundgebungen des reichsdeutschen Gesamtepiskopates
-                    vollinhaltlich an, insoweit darin grundsätzlich zu den Jrrtümern des
+                        >anfänglichen</hi> Kundgebungen des reichsdeutschen Gesamtepiskopates
+                    vollinhaltlich an, insoweit darin grundsätzlich zu den <sic>J</sic>rrtümern des
                     Nationalsozialismus Stellung genommen wurde. Die österreichischen Bischöfe haben
                     sodann schon in einem gemeinsamen Hirtenschreiben vom 7. Februar 1932 vor dem
                     Nationalsozialismus eindringlich gewarnt, seine Hauptirrtümer angedeutet, seine
                     masslosen Übertreibungen hervorgehoben und auf die ernsten Folgen aufmerksam
                     gemacht, die mit seinem Siege verbunden wären.</p>
-                <p>Jnsbesondere aber steht der österreichische Episkopat einheitlich und geschlossen
+                <p><sic>J</sic>nsbesondere aber steht der österreichische Episkopat einheitlich und geschlossen
                     auf dem Standpunkt jener theoretischen Grundsätze und praktischen Folgerungen,
                     die im Hirtenbrief <hi rend="underline">„Über wahren und falschen
                         Nationalismus“</hi></p>
-                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
+                <note type="foliation" rend="typewritten">13</note>
+                <pb n="2">
                 <p>des Hochwürdigsten Herrn Bischofes Johannes Maria GFÖLLNER von Linz vom 21.
                     Jänner 1933 zum Ausdruck kommen; 3 Exemplare dieses Hirtenbriefes liegen hier
                     bei.</p>
                 <p><hi rend="underline" hand="#UR"
-                        ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") -->Die Hauptgedanken
+                        >Die Hauptgedanken
                         des Hirtenbriefes</hi> kommen in folgenden 4 Grundwahrheiten zum
                     Ausdruck:</p>
                 <list>
@@ -145,7 +136,7 @@
                         sondern übernational ist.</item>
                 </list>
                 <p>Über den Nationalsozialismus als <hi rend="underline" hand="#UR"
-                        ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") -->System</hi> fällt
+                        >System</hi> fällt
                     der Hirtenbrief das abschliessende Urteil: Der Nationalsozialismus krankt
                     innerlich an materialistischem Rassenwahn – an unchristlichen Nationalismus – an
                     nationalistischer Auffassung der Religion; sein religiöses Programm weisen wir
@@ -154,23 +145,23 @@
                     Moral gestellt hat.</p>
                 <p>Der österreichische Episkopat hält an den Grundsätzen dieses Hirtenbriefes auch
                     jetzt n<subst>
-                        <del rend="strikethrough">i</del>
-                        <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
-                        <add>o</add>
+                        <del rend="overwritten">i</del>
+                        <add rend="overwritten">o</add>
                     </subst>ch fest, obwohl es scheinen könnte, dass sie seit der politischen
                     Neuordnung in Deutschland und durch die <hi rend="underline">seitdem</hi>
                     erflossenen Kundgebungen des deutschen Episkopates teilweise desavouiert
                     wären.</p>
                 <p>Zunächst hat ja auch der deutsche Episkopat in seiner neuen Stellungnahme zu der
                     politischen Neugestaltung seine <hi rend="underline">grundsätzliche</hi>
-                    Verurteilung der <hi rend="underline">theoretischen Jrrtümer</hi></p>
-                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
+                    Verurteilung der <hi rend="underline">theoretischen <sic>J</sic>rrtümer</hi></p>
+                <note type="foliation" rend="typewritten">14</note>
+                <pb n="3">
                 <p>des Nationalsozialismus ausdrücklich aufrecht erhalten und in keiner Weise
                     abgeschwächt.</p>
                 <p>Sodann war in Deutschland die praktische Stellungnahme des Episkopates zur neuen
                     Regierung und obersten Staatsgewalt eine wesentlich andere als in
                     Österreich.</p>
-                <p>Jn D e u t s c h l a n d stand der Episkopat nicht mehr einer blossen politischen
+                <p><sic>J<sic>n D e u t s c h l a n d stand der Episkopat nicht mehr einer blossen politischen
                         <hi rend="underline">Partei</hi> gegenüber, sondern der <hi rend="underline"
                         >Regierung</hi> und <hi rend="underline">Staatsgewalt als solcher</hi>, die
                     allerdings aus der politischen nationalsozialistischen Partei hervorgegangen und
@@ -183,20 +174,20 @@
                 <p>Der deutsche Episkopat konnte dies um so leichter tun, als durch die amtliche
                     Erklärung des deutschen Reichskanzlers Hitler die Freiheit und Rechte der
                     katholischen Kirche ausdrücklich garantiert worden waren.</p>
-                <p>Jn Ö s t e r r e i c h dagegen lagen und liegen bis zur Stunde die Verhältnisse
+                <p><sic>J<sic>n Ö s t e r r e i c h dagegen lagen und liegen bis zur Stunde die Verhältnisse
                     wesentlich anders. Hier bildeten die Nationalsozialisten lediglich eine
                     politische <hi rend="underline">Partei</hi>, die gleich anderen politischen
                     Parteien nach politischer Machtstellung strebte und noch immer strebt.</p>
                 <p>Jn der <hi rend="underline">Regierung</hi> als solcher war jedoch die
                     nationalsozialistische Partei nicht vertreten, ja es wurde ihr durch die
                     gegenwärtige Regierung jedwede politische Betätigung von Amtswegen verboten, so <subst>
-                        <del><gap reason="overwritten" unit="char" quantity="1"/></del>
-                        <!-- ZÜ: @rend ("Korrigiert von ausleserlichem Buchstaben") -->
-                        <add>d</add>
+                        <del rend="overwritten"><gap reason="overwritten" unit="char" quantity="1"/></del>
+                        <add rend="overwritten">d</add>
                     </subst>ass für den österreichischen Episkopat die nationalsozialistische Partei
                     als solche</p>
-                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
-                <p>formell und amtlich nicht mehr in Betracht kommt.</p>
+                    <note type="foliation" rend="typewritten">15</note>
+                    <pb n="4">
+                    <p>formell und amtlich nicht mehr in Betracht kommt.</p>
                 <p>Während also der deutsche Episkopat einer nationalsozialistischen <hi
                         rend="underline">Regierung</hi> gegenüber steht, steht der österreichische
                     Episkopat weder einer nationalsozialistischen Partei und noch viel weniger einer
@@ -204,9 +195,8 @@
                     Nationalsozialismus gegenüber lediglich durch seine <hi rend="underline"
                         >grundsätzliche</hi> Einstellung im obigen Sinne geleitet ist.</p>
                 <p>Was insbesondere den Abschluss des reichsdeutschen Konkordate<subst>
-                        <del rend="strikethrough">n</del>
-                        <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
-                        <add>s</add>
+                        <del rend="overwritten">n</del>
+                        <add rend="overwritten">s</add>
                     </subst> anlangt, so vertritt selbstverständlich auch der österreichische
                     Episkopat den Standpunkt, dass dieses Konkordat nicht mir der
                     nationalsozialistischen <hi rend="underline">Partei</hi>, sondern mit der <hi
@@ -216,11 +206,10 @@
                     grundsätzliche Stellungnahme oder gar Anerkennung der nationalsozialistischen
                     Grundsätze und Bestrebungen bedeutet. Darum sieht sich auch der österreichische
                     Episkopat durch die p<subst>
-                        <del rend="strikethrough">l</del>
-                        <!-- ZÜ: @rend ("korrigiert durch [Buchstabe/n]") -->
-                        <add>o</add>
+                        <del rend="overwritten">l</del>
+                        <add rend="overwritten">o</add>
                     </subst>litische Neuordnung in Deutschland in seiner grundsätzlichen Ablehnung
-                    und Verurteilung der nationalsozialistischen Jrrtümer und Bestrebungen in keiner
+                    und Verurteilung der nationalsozialistischen <sic>J</sic>rrtümer und Bestrebungen in keiner
                     Weise behindert oder zu einer Neuorientierung veranlasst.</p>
             </div>
             <div type="chapter" n="II">
@@ -228,7 +217,8 @@
                 <p>Die politischen Ziele und Bestrebungen der nationalsozialistischen Partei in
                     Österreich waren von allem Anfange an gegen die politische Selbstständigkeit und
                     Unabhängigkeit</p>
-                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
+                <note type="foliation" rend="typewritten">16</note>
+                <pb n="5">
                 <p>Österreichs gerichtet. Das Hauptziel war von jeher, nach dem politischen
                     Schlagwort „Ein Volk- ein Reich“, die Angliederung Österreichs an Deutschland
                     und die Eingliederung in die gemeinsame Regierung, sobald und soweit es die
@@ -251,7 +241,8 @@
                     insbesondere aber legen auch kirchliche und religiöse Jnteressen eine solche
                     politische Unabhängigkeit nahe.</p>
                 <p>Österreich ist in seiner erdrückenden Mehrheit katholisch,</p>
-                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
+                <note type="foliation" rend="typewritten">18</note>
+                <pb n="6">
                 <p>die katholische Glaubensidee ist wenig von einer protestantischen Umwelt
                     beeinflusst, das katholische Glaubensleben entfaltet sich freier, zum
                     Unterschied von Deutschland, wo die geistige protestantische Umwelt und das
@@ -259,7 +250,7 @@
                     Glaubens und die volle ungehinderte Entfaltung des katholischen Glaubenslebens
                     und die volle ungehinderte Entfaltung des katholischen Glaubenslebens
                     beeinflussen und beeinträchtigen, teilweise sogar einem bedauerlichen religiösen
-                    Jinterkonfessionalismus und Jindifferentismus die Wege ebnen.</p>
+                    <sic>J</sic>nterkonfessionalismus und <sic>J</sic>ndifferentismus die Wege ebnen.</p>
                 <p>Sowohl geschichtlich als politisch ist Österreich mit dem Katholizismus viel
                     inniger verbunden und will dieser seiner geschichtlichen Tradition auch jetzt
                     treu bleiben umsomehr, als die gegenwärtige Regierung in jeder Hinsicht und
@@ -272,21 +263,20 @@
                     staatliche Verbot behindert und in den Hintergrund gedrängt, aber durchaus nicht
                     erloschen oder lahmgelegt. Eine ständige geheime und offene Einflussnahme,
                     Aufmunterung und Förderung seitens der nationalsozialistischen Partei <subst>
-                        <del rend="strikethrough">u</del>
-                        <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
-                        <add>i</add>
+                        <del rend="overwritten">u</del>
+                        <add rend="overwritten">i</add>
                     </subst>n Deutschland, ja offiziöser und offizieller Kreise dortselbst ermutigt
                     und treibt unterbrochen die hiesigen Nationalsozialisten an, ihre geheime,
                     staatsfeindliche</p>
-                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
+                <note type="foliation" rend="typewritten">19</note>
+                <pb n="7">
                 <p>und insbesondere österreichfeindliche Wühlarbeit mit dem ausgesprochenen Ziele
                     des Sturzes gegenwärtigen Regierung und der Erringung der politischen
                     Machtstellung nach dem Beispiele Deutschlands fortzusetzen und zu steigern. Kein
                     Mittel erscheint <sic>hiefür</sic> zu schlecht. Wenn auch staatlich verboten,
                     setzt dennoch die Partei im geheimen und unter verschiedenen Form<subst>
-                        <del rend="strikethrough">o</del>
-                        <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
-                        <add>e</add>
+                        <del rend="overwritten">a</del>
+                        <add rend="overwritten">e</add>
                     </subst>n und Namen ihre staatsfeindliche Betätigung fort. Namentlich Angehörige
                     der sog. intelligenten Kreise, Hochschul- und Mittelschulprofessoren, Lehrer,
                     Beamte, akademisch Gebildete suchen immer wieder ihre nationalsozialistischen
@@ -294,9 +284,8 @@
                     Bann zu ziehen, was ihnen leider vielfach gelungen ist. Sehr geschickt nützen
                     sie dabei <add place="above">auch</add> die Abneigung der einheimischen
                     Bevölkerung gegen das Judentum aus und betören das Volk durc<subst>
-                        <del rend="strikethrough">h</del>
-                        <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
-                        <add>h</add>
+                        <del rend="overwritten">h</del>
+                        <add rend="overwritten">h</add>
                     </subst> abenteuerliche Versprechungen wirtschaftlicher Natur.</p>
                 <p>Vielfach sind es die Anhänger des Liberalismus und eines übersteigerten deutschen
                     Nationalismus, die jetzt auf dem Umwege des Nationalsozialismus ihre
@@ -310,7 +299,8 @@
                 <p>Ausser den geistigen Propagandamitteln bedient sich aber der Nationalsozialismus
                     in Österreich auch ganz offen verschiedener Gewaltmittel. Eine fast ständige
                     Beunruhigung und</p>
-                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
+                <note type="foliation" rend="typewritten">20</note>
+                <pb n="8">
                 <p>Belästigung der friedlichen Bevölkerung erfolgt durch eigene sog. Klebe-Kolonnen,
                     die überall auf Wegen und Strassen, Gebäuden und selbst kirchlichen Bauten
                     hochverräterische und revolutionäre Propagandazettel aufkleben.</p>
@@ -335,15 +325,15 @@
                     organisierten Truppe, die immer wieder mit kriegerischen Überfällen auf das
                     österreichische Grenzgebiet droht.</p>
                 <p>Diese Drohungen werden auch von der österreichischen</p>
-                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
+                <note type="foliation" rend="typewritten">21</note>
+                <pb n="9">
                 <p>Regierung ernst genommen, weshalb namentlich in letzterer Zeit die Grenzgebiete
                     militärischen Schutz erhielten, um die Bevölkerung zu beruhigen und für alle
                     Fälle gerüstet zu sein.</p>
                 <p>Alle diese offenkundigen Tatsachen erweisen zur Genüge<del rend="strikethrough"
                         >,</del> den ausgesprochen staatsf<subst>
-                        <del rend="strikethrough">i</del>
-                        <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
-                        <add>e</add>
+                        <del rend="overwritten">i</del>
+                        <add rend="overwritten">e</add>
                     </subst>indlichen, revolutionären und geheimen freimaurerischen Charakter des
                     österreichischen Nationalsozialismus, der darum keine blosse parteipolitische
                     Bewegung nach dem Beispiel anderer <sic>politischen</sic> Parteien darstellt,
@@ -362,10 +352,10 @@
                     klärende Enunziation erliesse; darauf gestützt könnte dann der Episkopat
                     einerseits auch jene katholischen Kreise mit noch grösserem Nachdruck belehren
                     und warnen, die noch immer mit dem</p>
-                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
+                <note type="foliation" rend="typewritten">22</note>
+                <pb n="10">
                 <p><hi rend="mark" hand="#UR"
-                        ><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") -->
-                        -->Nationalsozialismus stark sympathisieren, anderseits könnte er eine
+                        >Nationalsozialismus stark sympathisieren, anderseits könnte er eine
                         weitere praktische Stellung einnehmen hinsichtlich des</hi>
                 </p>
             </div>
@@ -373,13 +363,11 @@
                 <head>Verhältnisses zur gegenwärtigen Regierung.</head>
                 <p/>
                 <p>Der Episkopat ist zunächst überzeu<subst>
-                        <del rend="strikethrough">h</del>
-                        <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
-                        <add>g</add>
+                        <del rend="overwritten">h</del>
+                        <add rend="overwritten">g</add>
                     </subst>t von der vollkommen legalen Stellung<subst>
-                        <del rend="strikethrough">s</del>
-                        <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
-                        <add>n</add>
+                        <del rend="overwritten">s</del>
+                        <add rend="overwritten">n</add>
                     </subst>ahme und korrekten Handlungsweise der jetzigen Staatsgewalt. Die
                     Ausschaltung des Parlaments vollzog sich im Rahmen der bestehenden Gesetze und
                     die darauf erfolgten Notverordnungen der Regierung wurden vom
@@ -389,8 +377,7 @@
                     Naturrecht gibt, das die Grundlage jedes positiven Rechtes bildet und das als
                     höchste Norm jeder Staatsautorität und gesetzlichen Tätigkeit de<subst>
                         <del rend="strikethrough">s</del>
-                        <add rend="handwritten">n</add>
-                        <!-- ZÜ: Umsetzung ("handschriftlich korrigiert von [Buchstabe/n]") -->
+                        <add rend="handwritten" place="above">n</add>
                     </subst> Satz aufstellt: salus populi suprema lex esto.</p>
                 <p>Wenn erfahrungsgemäss und nach dem Urteil wenigstens des pars sanior populi eine
                     Staatsverfassung und gesetzgeberische Körperschaft nicht mehr dem Wohle des
@@ -401,16 +388,15 @@
                     Pflicht der Staatsgewalt, die morschen Grandlagen durch die neue zu ersetzen und
                     eine dem wahren Wohle dienende Reform anzubahnen und in die Tat umsetzen.</p>
                 <p>Daran ist die Staatsgewalt auch nicht gehindert durch</p>
-                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
-                <p>den auf eine frühere Verfassung abgelegten Eid; erklärt doch auch der Codex J. C.
-                    Can. 1318, § 1, : „Jusjurandum promissorium sequitur naturam et conditiones
-                    actus cui adjicitur“, und Can 1319 : „Obligatio jurejurando promissorio inducta
-                    desinit….. 2o, sie res jurata substantialiter mutetur aut <hi rend="underline"
-                        hand="#UR"><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") -->
-                        -->mutatis adjunctis</hi>, fiat sive mal<subst>
-                        <del rend="strikethrough">s</del>
-                        <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
-                        <add>a</add>
+                <note type="foliation" rend="typewritten">23</note>
+                <pb n="11">
+                <p>den auf eine frühere Verfassung abgelegten Eid; erklärt doch auch der Codex <sic>J.</sic> C.
+                    Can. 1318, § 1, : „<sic>J</sic>us<sic>j</sic>urandum promissorium sequitur naturam et conditiones
+                    actus cui ad<sic>j<sic>icitur“, und Can 1319 : „Obligatio <sic>j</sic>ure<sic>j</sic>urando promissorio inducta
+                    desinit….. 2°, sie res jurata substantialiter mutetur aut <hi rend="underline"
+                        hand="#UR">mutatis adjunctis</hi>, fiat sive mal<subst>
+                        <del rend="overwritten">s</del>
+                        <add rend="overwritten">a</add>
                     </subst>sive omnino indifferens aut denique <hi rend="underline">majus bonum
                         impediat</hi>“.</p>
                 <p>Der österreichische Episkopat anerkennt daher nicht nur die vollkommen legale
@@ -429,15 +415,15 @@
                     Grundlage im Sinne und Geiste des Rundschreibens „Quadragesimo anno“ zu schaffen
                     und so die Jntentionen des Apostolischen Stuhles in vorbildlicher Weise und
                     erstmals zu verwirklichen. Auch die Heeresmacht wurde ganz</p>
-                <!-- ZB: untypischer Zeilenumbruch -> pb? -->
-                <p>im katholischen Geiste reorganisiert und durch Wiedereinführung des Kruzifixes in
+                    <note type="foliation" rend="typewritten">24</note>
+                    <pb n="12">
+                    <p>im katholischen Geiste reorganisiert und durch Wiedereinführung des Kruzifixes in
                     den K<subst>
-                        <del rend="strikethrough">s</del>
-                        <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
-                        <add>a</add>
+                        <del rend="overwritten">s</del>
+                        <add rend="overwritten">a</add>
                     </subst>sernen und Anbringung von Marienbildern an den Bändern militärischer
                     Fahnen der christliche Charakter offenkundig betont.</p>
-                <p>Jn hervorragender Weise hat sodann die Regierung ihre ausgesprochen katholische
+                <p><sic>J<sic>n hervorragender Weise hat sodann die Regierung ihre ausgesprochen katholische
                     Gesinnung betätigt und dokumentiert auf dem grossartigen Katholikentag in Wien.
                     Da der Heilige Apostolische Stuhl selber dies in offenkundigster und
                     auszeichnender Weise anerkannt und gewürdigt hat, erübrigt sich jede weitere
@@ -445,9 +431,8 @@
                 <p>Die bereits angekündigten und noch zu gewärtigenden Massnahmen der Regierung
                     lassen noch weitere beste Wirkungen besonders hinsichtlich Schul-und
                     Ehegesetzgebung im Geiste einer christlichen Staats-und Gesellsc<subst>
-                        <del rend="strikethrough">j</del>
-                        <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
-                        <add>h</add>
+                        <del rend="overwritten">j</del>
+                        <add rend="overwritten">h</add>
                     </subst>aftsreform erhoffen.</p>
                 <p>Der österreichische Episkopat hält es darum auch für angezeigt, im Anschlusse an
                     die erbetene Kundgebung des Heiligen Vaters über den Nationalsozialismus ein
@@ -459,12 +444,13 @@
                     kirchliche Jnteressen und um fundamentale staatsbürgerliche Pflichten, wie sie
                     der Heilige Stuhl selber so oft und so entschieden betont hat.</p>
             </div>
+                <note type="foliation" rend="typewritten">25</note>
+            <pb n="13">
             <div>
                 <p>Mit diesen Darlegungen glaubt der österreichische Episkopat, seiner ihm
                     aufgetragenen Pflicht bezüglich Kundgebung seiner Wohlmeinung entspr<subst>
-                        <del rend="strikethrough">i</del>
-                        <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
-                        <add>o</add>
+                        <del rend="overwwritten">i</del>
+                        <add rend="overwritten">o</add>
                     </subst>chen zu haben, und unterwirft sich in demütigster und bereitwilligster
                     Weise allen weiteren Weisungen des Heiligen Apostolischen Stuhles.</p>
             </div>
@@ -472,6 +458,7 @@
                 <signed rend="handwritten">+ Theod. Kard. Innitzer</signed><lb/>Theodor Kardinal
                 Innitzer<lb/>Erzbischof von Wien,<lb/>im Namen des österreichischen Episkopates
                 <lb/>Wien, am 29. September 1933 </closer>
+            <note type="foliation" rend="typewritten">26</note>
         </body>
     </text>
 </TEI>
