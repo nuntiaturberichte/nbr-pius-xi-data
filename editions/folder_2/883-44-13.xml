@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="K-POS_883_fasz_44_13r-26r">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="A_883_44_13">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -74,6 +74,14 @@
                         </scriptDesc>
                     </physDesc>
                 </msDesc>
+                <listRelation>
+                    <relation name="isAttachmentOf" active="#A_883_44_13" passive="#A_000">
+                        <!-- xml:id des Briefs in @passive -->
+                        <desc>Diese Beilage gehört zum Brief mit dem Archivkürzel
+                            <!-- Archivkürzel eintragen --></desc>
+                    </relation>
+                </listRelation>
+                <!-- im Brief dann: 1. TEI@xml:id="A_000", 2. listRelation einfügen mit <relation name="hasAttachment" active="#A_000" passive="#A_883_44_13" -->
             </sourceDesc>
         </fileDesc>
         <profileDesc>
