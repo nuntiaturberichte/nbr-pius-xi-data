@@ -67,7 +67,7 @@
                     </msContents>
                     <physDesc>
                         <scriptDesc>
-                            <ab>Maschinenschriftlich</ab>
+                            <ab>maschinenschriftlich</ab>
                         </scriptDesc>
                     </physDesc>
                 </msDesc>
@@ -172,9 +172,8 @@
                     <del rend="overwritten">vase</del>
                     <add rend="overwritten">xxxx</add>
                 </subst> base Dio e la sua fede<add place="above" rend="handwritten"><gap
-                        unit="words" quantity="1"/></add>. Non si vuole più ammessa nella vita
-                pubblica l’influenza salutare della Chiesa e così tramontano per sempre
-                    <sic>duei</sic> du<subst>
+                        reason="illegible"/></add>. Non si vuole più ammessa nella vita pubblica
+                l’influenza salutare della Chiesa e così tramontano per sempre <sic>duei</sic> du<subst>
                     <del rend="overwritten">a</del>
                     <add rend="overwritten">e</add>
                 </subst> astri che dovrebbero illuminare tutta la vita civile cioè la carità e la
@@ -205,7 +204,6 @@
                     <add rend="overwritten">a</add>
                 </subst> solennemente dat<subst>
                     <del rend="overwritten">e</del>
-                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                     <add rend="overwritten">a</add>
                 </subst> non <subst>
                     <del rend="overwritten">sono</del>

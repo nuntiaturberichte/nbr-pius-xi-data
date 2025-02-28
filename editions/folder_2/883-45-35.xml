@@ -70,7 +70,7 @@
                     </msContents>
                     <physDesc>
                         <scriptDesc>
-                            <ab>Maschinenschriftlich</ab>
+                            <ab>maschinenschriftlich</ab>
                         </scriptDesc>
                     </physDesc>
                 </msDesc>
@@ -114,7 +114,6 @@
                 hervorgerufenen allgemeinen <sic>Neucinstellung</sic> der Kurie erfolgt, die, wie er
                 selbst aus entsprechenden Gesprächen zu entnehmen <sic>Genegenheit</sic> gehabt hab<subst>
                     <del rend="overwritten">r</del>
-                    <!-- ZÜ: @rend ("korrigiert von [Buchstabe/n]") -->
                     <add rend="overwritten">e</add>
                 </subst>,der Fernhaltung des Klerus von der Politik und dem Wegfall des Zentrums und
                 der Zentrumspolitik nicht besonders nachtrauere.</p>

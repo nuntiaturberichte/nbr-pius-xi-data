@@ -6,8 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Johannes Maria Gföllner an Theodor Kardinal Innitzer, Linz,
-                    18.07.1936</title>
+                <title>Johannes Maria Gföllner an Theodor Kardinal Innitzer, Linz 18.07.1936</title>
                 <author>
                     <persName ref="https://d-nb.info/gnd/129176222">Johannes Gföllner</persName>
                 </author>
@@ -71,7 +70,7 @@
                     </msContents>
                     <physDesc>
                         <scriptDesc>
-                            <ab>Handschriftlich</ab>
+                            <ab>handschriftlich</ab>
                         </scriptDesc>
                     </physDesc>
                 </msDesc>

@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Theodor Kardinal Innitzer im Namen des österreichischen Epsikopats, Wien,
+                <title>Theodor Kardinal Innitzer im Namen des österreichischen Epsikopats, Wien
                     29.09.1933</title>
                 <author>
                     <persName ref="https://d-nb.info/gnd/118555634">Theodor Innitzer</persName>
@@ -70,7 +70,7 @@
                     </msContents>
                     <physDesc>
                         <scriptDesc>
-                            <ab>Maschinenschriftlich</ab>
+                            <ab>maschinenschriftlich</ab>
                         </scriptDesc>
                     </physDesc>
                 </msDesc>

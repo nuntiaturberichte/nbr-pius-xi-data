@@ -56,7 +56,6 @@
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <!-- ZÜ: Elementinhalt -->
                             <note type="keyword" resp="#martin.kroissenbrunner">Dollfuß</note>
                             <note type="keyword" resp="#martin.kroissenbrunner">Schuschnigg</note>
                             <note type="keyword" resp="#martin.kroissenbrunner">Bürgerkrieg</note>
@@ -71,7 +70,7 @@
                     </msContents>
                     <physDesc>
                         <scriptDesc>
-                            <ab>Maschinenschriftlich</ab>
+                            <ab>maschinenschriftlich</ab>
                         </scriptDesc>
                     </physDesc>
                 </msDesc>
