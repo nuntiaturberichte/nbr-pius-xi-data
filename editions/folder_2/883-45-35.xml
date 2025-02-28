@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> Bericht an Dollfuß, Rom 05.02.1934</title>
+                <title>Bericht an Dollfuß, Rom 05.02.1934</title>
                 <author>
                     <persName ref="https://d-nb.info/gnd/124439683">Rudolf Kohlruss</persName>
                 </author>
@@ -83,7 +83,7 @@
             <correspDesc>
                 <correspAction type="sent">
                     <persName>Rudolf Kohlruss</persName>
-                    <date when="1934-02-05">05.02.1933</date>
+                    <date when="1934-02-05">05.02.1934</date>
                     <placeName>Rom</placeName>
                 </correspAction>
                 <correspAction type="received">
