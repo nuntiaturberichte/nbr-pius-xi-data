@@ -48,8 +48,7 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <msDesc>
-                   <msDesc status="Reinschrift">
+                <msDesc status="Reinschrift">
                     <msIdentifier>
                         <repository>AA.EE.SS., Periodo IV, Austria Ungheria</repository>
                         <idno type="archive">Pos. 881, Fasc. 42, Fol. 104–107</idno>
@@ -67,8 +66,7 @@
                             <note type="keyword" resp="#martin.kroissenbrunner">Katholische
                                 Aktion</note>
                             <note type="keyword" resp="#martin.kroissenbrunner">Soziale Frage</note>
-                            <note type="keyword" resp="#martin.kroissenbrunner"
-                                >Februarkämpfe</note>
+                            <note type="keyword" resp="#martin.kroissenbrunner">Februarkämpfe</note>
                         </msItem>
                     </msContents>
                     <physDesc>
@@ -99,7 +97,7 @@
         <body>
             <opener>
                 <pb n="1"/>
-		    <salute>Heiliger Vater!</salute>
+                <salute>Heiliger Vater!</salute>
             </opener>
             <p>Einige wenige Tage in der ewigen Stadt komme ich mit grosser Freude der Aufforderung
                 nach, Eurer Heiligkeit, einen Bericht zu geben über die religiöse Seite der
@@ -124,12 +122,12 @@
                 erwähnten Aufgabe berief.</p>
             <p>Die geistige und religiöse Lage der österreichischen Arbeiterschaft ist seit dem
                 Heldenkampfe, den ein Teil der Sozialdemokraten im Februar führte und seit der
-                Niederwerfung dieses Aufstandes durch die Staatsmacht,<note
-                  type="foliation" rend="typewritten">104</note>
-		<pb n="2"/>vielfach eine trostlose. Die
-                Menschen haben ihre Partei und ihre Organisation, die für sie eine Art
-                Religionsersatz war, über Nacht verloren und sind in gewissem Sinne führerlos und
-                auch schutzlos. Die Verbitterung ist grenzenlos, weil sie durch das Gefühl <subst>
+                Niederwerfung dieses Aufstandes durch die Staatsmacht,<note type="foliation"
+                    rend="typewritten">104</note>
+                <pb n="2"/>vielfach eine trostlose. Die Menschen haben ihre Partei und ihre
+                Organisation, die für sie eine Art Religionsersatz war, über Nacht verloren und sind
+                in gewissem Sinne führerlos und auch schutzlos. Die Verbitterung ist grenzenlos,
+                weil sie durch das Gefühl <subst>
                     <del rend="strikethrough">elittettenen</del>
                     <add>erlittenen</add>
                 </subst> Unrechtes getragen wird. In dieser geistigen Lage ist es aussichtslos, die
@@ -158,9 +156,10 @@
                 Ungerechtigkeiten gegen Unschuldige zur Folge hatte u. noch immer hat, werden alle
                 Mängel des gegenwärtigen Regimes nicht etwa bloss den konkreten Menschen, die es
                 bilden, in die Schuhe geschoben, sondern von der Arbeitermasse als Ausdruck
-                christlichen Geistes empfunden.</p><note
-                  type="foliation" rend="typewritten">105</note>
-            <pb n="3"/><p>In klarer Erkenntnis der ungeheureren Schwierigkeit dieser Lage gerade von Standpunkt
+                christlichen Geistes empfunden.</p>
+            <note type="foliation" rend="typewritten">105</note>
+            <pb n="3"/>
+            <p>In klarer Erkenntnis der ungeheureren Schwierigkeit dieser Lage gerade von Standpunkt
                 des Christentums und ohne selbst an der Herbeiführung dieser Lage beteiligt gewesen
                 zu sein, habe ich mich dennoch bedingungslos dem Aufbauwerk der österreichischen
                 Regierung zur Verfügung gestellt, weil in dieser nicht nur für Oesterreich, sondern
@@ -188,9 +187,10 @@
             <p>Wie die Dinge heute in Oesterreich liegen, ist die „Aktion Winter“, die nicht aus
                 Unbescheidenheit, sondern infolge der Schöpfung und Leitung durch mich diesen Namen
                 hat, nicht nur die einzige bis an die halten marxistischen Kernschichten der
-                österreichischen Arbeiterschaft vordringende</p><note
-                  type="foliation" rend="typewritten">106</note>
-             <pb n="4"/><p>politische <sic>Phanlanx</sic>, die die Sozialdemokraten zum Staate führen kann,
+                österreichischen Arbeiterschaft vordringende</p>
+            <note type="foliation" rend="typewritten">106</note>
+            <pb n="4"/>
+            <p>politische <sic>Phanlanx</sic>, die die Sozialdemokraten zum Staate führen kann,
                 sondern darüber hinaus eines der hauptsächlichsten Mittel, durch die auch auf
                 religiösem Gebiete die österreichische Arbeiterschaft allmählich aufgelockert und
                 neuen Ideen zu geführt werden kann. Wir suchen zwar in unserer politischen Aktion
@@ -219,7 +219,7 @@
             <closer>
                 <signed rend="handwritten">Dr. Ernst Karl Winter</signed>
             </closer>
-		<note type="foliation" rend="typewritten">107</note>
+            <note type="foliation" rend="typewritten">107</note>
         </body>
     </text>
 </TEI>
