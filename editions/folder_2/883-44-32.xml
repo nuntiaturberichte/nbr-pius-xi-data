@@ -53,8 +53,7 @@
                         <repository>AA.EE.SS., Periodo IV, Austria Ungheria</repository>
                         <idno type="archive">Pos. 883, Fasc. 44, Fol. 32 - 33</idno>
                         <!-- ZE: recto/verso? -->
-                        <idno type="institutional" subtype="internal"
-                            >2836/33</idno>
+                        <idno type="institutional" subtype="internal">2836/33</idno>
                     </msIdentifier>
                     <msContents>
                         <msItem>
@@ -100,7 +99,7 @@
             <p>Il promemoria degli Eccmi Vescovi Austriaci che descrive con ogni sincerità la
                 situazione attuale politica ed ecclesiastico – politic<subst>
                     <del rend="overwritten">o</del>
-                    <add rend="handwritten" rend="overwritten">a</add>
+                    <add rend="handwritten overwritten">a</add>
                 </subst> in Austria, finisce con <hi rend="underline">2 domande,</hi>:</p>
             <list>
                 <item>I.) che la Santa Sede dia <hi rend="underline">direttive chiare per la
@@ -120,7 +119,7 @@
                 cattolici. Un cambiamento politico del Governo attuale, diciamo per elezione, in
                 favore del NS sarebbe un<subst>
                     <del rend="overwritten">e</del>
-                    <add rend="handwritten" rend="overwritten">a</add>
+                    <add rend="handwritten overwritten">a</add>
                 </subst> SCONFITTA ENORME del Cattolicesimo in Austria. I partigiani del NS in
                 Austria sono nella maggioranza cattolici non più praticanti, apostati e dal
                 protestantismo infettati. La prima conseguenza di un Governo NS in Austria sarà che
@@ -128,11 +127,11 @@
                 sostituirli con persone liberali. L’esempio come nella Rhenania e in Baviera
                     <sic>dapertutto</sic> si nominava solamente protestant<subst>
                     <del rend="overwritten">o</del>
-                    <add rend="handwritten" rend="overwritten">i</add>
+                    <add rend="handwritten overwritten">i</add>
                 </subst> dove prima erano impiegati cattolici <hi rend="underline">è una lezione
                     troppo chiara anche per l’Austria</hi>. Le conseguenze trist<subst>
                     <del rend="overwritten">e</del>
-                    <add rend="handwritten" rend="overwritten">i</add>
+                    <add rend="handwritten overwritten">i</add>
                 </subst> di un tale cambiamento politico in Austria sarebbero <sic>cosi</sic> forte,
                 chè anche in nessuna maniera potrebbero essere reparate, <del rend="strikethrough"
                     >-</del> se <add rend="handwritten">-</add> supponia<subst>
@@ -154,31 +153,28 @@
                 adesso i partigiani del NS hanno promosso una propaganda di apostasie dal
                 cattolicismo nelle diocesi di Gurk e Seccovia – che cosa faranno quando un giorno
                 avrebbero tutto l’istrumento</p>
-		<note type="foliation" rend="typewritten">32</note>
+            <note type="foliation" rend="typewritten">32</note>
             <p>dello Stato alla sua disposzione, appoggiati in queste tendenze antiromane per il
                     Protesta<add place="above" rend="handwritten">n</add>tismo della Germania<subst>
                     <del rend="overwritte">.</del>
-                    <add rend="handwritten" rend="overwritten">?</add>
+                    <add rend="handwritten overwritten">?</add>
                 </subst></p>
             <p><sic>Cosi</sic> devono i Vescovi Austriaci con buona coscienza appoggiare con
                 fermezza e prudenza il Governo attuale senza però di immischiarsi personalmente
                 nella politica. In questo atteggiamento aspettano con ottime ragioni che la Santa
                 Sede approvasse la loro posizione.</p>
             <p>Al secondo:</p>
-            <p><hi rend="underline" hand="#UR"
-                    >La lettera pastorale
-                    dell’Eccmo Vescovo di Linz</hi> è senza dubbio eccellente e classica nei
-                principii e nelle sue deduzioni <hi rend="underline">anche oggi</hi> nonostante che
-                intanto il NS ha preso il Governo in Germania. Non ha <hi rend="underline"
-                    >niente</hi> perduto dal suo primitivo valore. <add
-                    rend="Akzent handschriftlich">È</add> parola di un vero Vescovo „qui cognoscit
-                signa temporum“. E‘ <sic>cosi</sic> potrebbe benissimo servire come modello per una
-                lettera pastorale collettiva dell’Episcopato Austriaco che solamente dovrebbe avere
-                un altro titolo, per esempio = Nazione<add rend="handwritten">,</add> patriotismo e
-                la dottrina cristiana =, o „Roma e la nazione“ ecc; basterebbe di accentuare i
-                principii fondamentali <hi rend="underline" hand="#UR"
-                    >senza</hi> una
-                propria polemica contro il partito NS.</p>
+            <p><hi rend="underline" hand="#UR">La lettera pastorale dell’Eccmo Vescovo di Linz</hi>
+                è senza dubbio eccellente e classica nei principii e nelle sue deduzioni <hi
+                    rend="underline">anche oggi</hi> nonostante che intanto il NS ha preso il
+                Governo in Germania. Non ha <hi rend="underline">niente</hi> perduto dal suo
+                primitivo valore. <add rend="Akzent handschriftlich">È</add> parola di un vero
+                Vescovo „qui cognoscit signa temporum“. E‘ <sic>cosi</sic> potrebbe benissimo
+                servire come modello per una lettera pastorale collettiva dell’Episcopato Austriaco
+                che solamente dovrebbe avere un altro titolo, per esempio = Nazione<add
+                    rend="handwritten">,</add> patriotismo e la dottrina cristiana =, o „Roma e la
+                nazione“ ecc; basterebbe di accentuare i principii fondamentali <hi rend="underline"
+                    hand="#UR">senza</hi> una propria polemica contro il partito NS.</p>
             <p><hi rend="underline">Però ed adesso vengo al fondo di tutto</hi> – questa lettera
                 pastorale <hi rend="underline">presuppone</hi> assolutamente una <hi
                     rend="underline">altra</hi> cosa che l’Episcopato Austriaco con buone ragioni
@@ -197,15 +193,14 @@
                 prima adunanza del parlamento, ma i fondamenti spirituali del partito non hanno
                 subito nessun cambiamento, sono restati gli stessi come prima del mese di marzo ed
                 il partito (Governo) aspira di infiltrare tutta la gente colla sua idea per formare
-                    l’<hi rend="underline" hand="#UR">uomo
-                    germanico</hi><add rend="handwritten">“</add> . Queste sono le riflessioni del
-                popolo che devono concuotere tutta l’autorità dei Vescovi se nello stesso momento in
-                Austria combattono il NS mentre in Germania oggi le organizzazioni cattoliche stesse
-                raccomandano una stretta collaborazione – è una contradizione che deve creare un
-                conflitto anche nelle anime dei cattolici fedeli in confronto all’autorità
-                ecclesiastica.</p>
-		<pb n="3">
-		<p><sic>Cosi</sic> nella mia coscienza mi sento costretto di proporre come <hi
+                    l’<hi rend="underline" hand="#UR">uomo germanico</hi><add rend="handwritten"
+                    >“</add> . Queste sono le riflessioni del popolo che devono concuotere tutta
+                l’autorità dei Vescovi se nello stesso momento in Austria combattono il NS mentre in
+                Germania oggi le organizzazioni cattoliche stesse raccomandano una stretta
+                collaborazione – è una contradizione che deve creare un conflitto anche nelle anime
+                dei cattolici fedeli in confronto all’autorità ecclesiastica.</p>
+            <pb n="3"/>
+            <p><sic>Cosi</sic> nella mia coscienza mi sento costretto di proporre come <hi
                     rend="underline">indispensabile e come un sacro dovere che la Santa Sede
                     solennemente tanto presto che possibile condanni gli errori fondamentali del NS
                     prima che l’Episcopato pubblicasse una nuova lettera pastorale sul nazionalismo
@@ -220,8 +215,7 @@
                 dottrina che la religione cristiana fu falsificata per il giudaismo ecc, l’assoluta
                 prevalenza dello Stato ecc.</p>
             <p>Per condannare queste dottrine che sono il germe di tanti e tanti barbarismi e leggi
-                abominabili del NS in Germania <hi rend="underline" hand="#UR"
-                    >basta</hi> però di
+                abominabili del NS in Germania <hi rend="underline" hand="#UR">basta</hi> però di
                 mettere sul indice dei libri proibiti il famoso libro di <hi rend="underline"
                     hand="author #UR"><!-- ZÜ: @hand ("vom Leser unterstrichen/markiert") -->
                     -->Rosenberg</hi> “Der Mythos des 20. Jahrhunderts”, München 1932, dal quale si
@@ -253,8 +247,8 @@
                     mai</hi> qualcosa di serio, si trovano tutte queste idee anche nel libro che
                 Hitler stesso ha pubblicato “La mia lotta” solamente in quanto alla religione
                 cristiana lui sembra di essere un <sic>puo</sic> più giusto.</p>
-            	<note type="foliation" rend="typewritten">33</note>
-		<pb n="4">
+            <note type="foliation" rend="typewritten">33</note>
+            <pb n="4"/>
             <p>Il partito NS non ha fatto niente per rifiutare queste eresie di Rosenberg ma ha
                 nominato l’autore <hi rend="underline">come proprio ispiratore del programma
                     educativo del NS</hi>.</p>
@@ -285,7 +279,7 @@
             <p>Il NS nella sua sostanza non si p<subst>
                     <del rend="overwritten"><gap reason="overwritten" unit="char" quantity="2"
                         /></del>
-                    <add rend="handwritten" rend="overwritten">uò</add>
+                    <add rend="handwritten overwritten">uò</add>
                 </subst> equiperare al fascismo in Italia. Il NS è <hi rend="underline"
                     >essenzialmente nato dal Protestantismo</hi> e <sic>restera</sic> quello che era
                 dall’inizio. Mentre in Italia poteva il Cattolicismo in molti luoghi avere una nuova

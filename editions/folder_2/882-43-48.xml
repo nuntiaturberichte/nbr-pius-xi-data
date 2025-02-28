@@ -50,8 +50,7 @@
                     <msIdentifier>
                         <repository>AA.EE.SS, Periodo IV, Austria Ungheria</repository>
                         <idno type="archive">Pos. 882, Fasc. 43, Fol. 48r - 54r</idno>
-                        <idno type="institutional" subtype="internal"
-                            >2896/36</idno>
+                        <idno type="institutional" subtype="internal">2896/36</idno>
                     </msIdentifier>
                     <msContents>
                         <msItem>
@@ -77,8 +76,6 @@
             <abstract>
                 <p><!-- ZE: Elementinhalt --></p>
             </abstract>
-            <correspDesc>
-            </correspDesc>
         </profileDesc>
     </teiHeader>
     <text type="Übersetzung">
@@ -103,12 +100,12 @@
                 insegnanti dei sacerdoti, dei medici, dei giuristi). </p>
             <p>L’anno della fondazione è il 1921. I veri dirigenti ecclesiastici sono due
                 sacerdoti:</p>
-            <p>Dr. teol. Carlo <hi rend="underline" hand="#UR"
-                >Rudolf</hi>, nato nel <hi rend="underline" hand="#UR">18<subst>
-                    <del>7</del>
-                    <add place="above">8</add>
-                </subst>6</hi>, ordinato sacerdote nel 1912; (dal 1914 al 1922……. nel seminario di
-                Vienna), dal 1919 in cura d’anime all’accademia e dal 1922 curato del duomo di S.
+            <p>Dr. teol. Carlo <hi rend="underline" hand="#UR">Rudolf</hi>, nato nel <hi
+                    rend="underline" hand="#UR">18<subst>
+                        <del>7</del>
+                        <add place="above">8</add>
+                    </subst>6</hi>, ordinato sacerdote nel 1912; (dal 1914 al 1922……. nel seminario
+                di Vienna), dal 1919 in cura d’anime all’accademia e dal 1922 curato del duomo di S.
                 Stefano.</p>
             <p>Egli è fondatore e direttore del segretariato viennese degli studenti, dell’istituto
                 viennese per la cura d’anime adatta al tempo presente, fondatore ed editore di
@@ -132,8 +129,8 @@
             <p>Sin dal tempo del Card. Piffl (morto nel 1932) ci furono difficoltà ecclesiastiche
                 col “Neuland”</p>
             <p>Un gruppo di aderenti al “Neuland” si presentò al cardina<subst>
-                    <del @rend="overwritten">e</del>
-                    <add @rend="overwritten">l</add>
+                    <del rend="overwritten">e</del>
+                    <add rend="overwritten">l</add>
                 </subst>e per fargli delle rimostranze e per <sic>d rgli </sic>dei suggerimenti:
                 furono congedati, però e venne loro risposto che dovevano imparare dapprima
                 l’umiltà.</p>
@@ -185,11 +182,9 @@
                 misura più ristretta.</p>
             <p>Non si può negare che un gran numero di persone ricche di nobili idealità, agisce
                 attivamente nel movimento “Neuland”; anche i tre sacerdoti suddetti sono, del resto,
-                    <hi rend="mark" hand="#UR">preti virtuosi e
-                    zelanti; il rev. <hi rend="underline" hand="#UR"
-                        >Pfliegler</hi> ,
-                    da quando è diventato docente universitario, si è un po' ritirato dal
-                    movimento.</hi></p>
+                    <hi rend="mark" hand="#UR">preti virtuosi e zelanti; il rev. <hi
+                        rend="underline" hand="#UR">Pfliegler</hi> , da quando è diventato docente
+                    universitario, si è un po' ritirato dal movimento.</hi></p>
             <p>La menzionata agilità si spiega dal carattere fondamentale del “Neuland”, che vuol
                 essere fondamentalmente un movimento dinamico che prende interesse a tutte le
                 correnti dei nostri tempi; alle quali in tanto esso aderisce, in quanto è
@@ -218,12 +213,14 @@
             <p>Gli aderenti al “Neuland” sottolineano poi il concetto dell’autoritarismo, venendo
                 così a mettere da parte l’”autorità” ecclesiastica, che sono disposti a seguire in
                 tanto, in quanto viene incontro alle loro idee e tendenze soggettive.</p>
-            <p><hi rend="mark" hand="#UR">Si sono addirittura spinti fino a questa dichiarazione: “se la chiesa dovesse
-                    una volta proclamare la mediazio</hi>ne di Maria per l’acquisto della grazia
-                quale dottrina della Chiesa, essi sarebbero costretti di rinnegarla”.</p>
-            <p><hi rend="mark" hand="#UR">Essi assumono, anzi, nei riguardi della devozione mariana un atteggiamento di
-                    ostilità, per non dire perfino di ripulsa, e precisamente per quanto concerne il
-                    santo rosario, che sembra loro troppo poco “cristocentrico”.</hi></p>
+            <p><hi rend="mark" hand="#UR">Si sono addirittura spinti fino a questa dichiarazione:
+                    “se la chiesa dovesse una volta proclamare la mediazio</hi>ne di Maria per
+                l’acquisto della grazia quale dottrina della Chiesa, essi sarebbero costretti di
+                rinnegarla”.</p>
+            <p><hi rend="mark" hand="#UR">Essi assumono, anzi, nei riguardi della devozione mariana
+                    un atteggiamento di ostilità, per non dire perfino di ripulsa, e precisamente
+                    per quanto concerne il santo rosario, che sembra loro troppo poco
+                    “cristocentrico”.</hi></p>
             <p>Nel movimento liturgico esagerato essi segnalano quasi unicamente l’”idea
                 cristicentrica” nella Messa e nelle pratiche di pietà, e non vogliono perciò
                 ammettere durante la Messa la recita del santo rosario.</p>
@@ -259,8 +256,9 @@
                 posti di maggior influenza, per esempio le cattedre di religione nelle scuole medie,
                 per ottenere le quali vengono favoriti dall’influente appoggio di un signore del
                 ministero, egli pure socio del “Neuland”.</p>
-            <p><hi rend="mark" hand="#UR">Veramente ora nel seminario diocesano gli alunni si conformano al divieto del
-                    “Neuland”, ma soltanto se vi sono costretti; tacitamente essi simpatizzano t<subst>
+            <p><hi rend="mark" hand="#UR">Veramente ora nel seminario diocesano gli alunni si
+                    conformano al divieto del “Neuland”, ma soltanto se vi sono costretti;
+                    tacitamente essi simpatizzano t<subst>
                         <del rend="overwritten">i</del>
                         <add rend="overwritten">u</add>
                     </subst>ttora con</hi> questa tendenza e sono decisi di aderirvi in seguito per
@@ -286,16 +284,14 @@
             <p>La S. Sede dovrebbe proibire direttamente in Austria tutto il movimento “Neuland” e
                 quanto prima tanto meglio altrimenti ne verrebbe col tempo un danno veramente
                 grave.</p>
-            <hi rend="mark" hand="#UR"><p>D’altronde è grande l’influenza che esercita negli ambienti ecclesiastici il
-                    Dr. Rudolf.</p>
-            <p>Se si riuscisse in primo luogo a tenere lontano questo signore
-                    dall’”Entourage” di Sua Eminenza il Card. Innitzer e ad eliminar<subst>
-                        <del rend="overwritten"
-                            >o</del>
+            <p><hi rend="mark" hand="#UR">D’altronde è grande l’influenza che esercita negli
+                    ambienti ecclesiastici il Dr. Rudolf.</hi></p>
+            <p><hi rend="mark" hand="#UR">Se si riuscisse in primo luogo a tenere lontano questo
+                    signore dall’”Entourage” di Sua Eminenza il Card. Innitzer e ad eliminar<subst>
+                        <del rend="overwritten">o</del>
                         <add rend="overwritten">n</add>
                     </subst>e l’influenza, sarebbe evitato in parte il pericolo del “Neuland” e for<subst>
-                        <del rend="overweritten"
-                            >es</del>
+                        <del rend="overweritten">es</del>
                         <add rend="overwritten">se</add>
                     </subst> sarebbe del tutto scong</hi>giurato.</p>
             <p>La definitiva eliminazione non si potrebbe però ottenere che per mezzo di una

@@ -77,29 +77,22 @@
             <abstract>
                 <p><!-- ZE: Elementinhalt --></p>
             </abstract>
-            <correspDesc>
-                <correspAction type="sent">
-                    <persName><!-- ZE: Elementinhalt --></persName>
-                    <date when="1934-03-13">13.03.1934</date>
-                </correspAction>
-                <correspAction type="received">
-                    <!-- ZE: Elementinhalt -->
-                </correspAction>
-            </correspDesc>
+            <creation>
+                <date when="1934-03-13">13.03.1934</date>
+            </creation>
         </profileDesc>
     </teiHeader>
     <text type="Archivsnotiz">
         <body>
-            <pb n="1">
-		<opener><add rend="handwritten">Appunto e <unclear>sparl</unclear><lb/> per un eventuale
+            <pb n="1"/>
+            <opener><add rend="handwritten">Appunto e <unclear>sparl</unclear><lb/> per un eventuale
                     articolo 13-3-34<lb/></add>
                 <add rend="handwritten" place="margin"><seg type="subjectLine">Anschluss</seg></add>
             </opener>
             <p>Le notizie dei gravi avvenimenti verificatesi in questi giorni in Austria hanno
                 diffuso nel mondo come un senso di sgomento.</p>
             <p>I politici potranno lamentare la fine dell’indipendenza di una Nazione, che a<del
-                    rend="strikethrough"
-                >l</del> riconoscimento dei compit<subst>
+                    rend="strikethrough">l</del> riconoscimento dei compit<subst>
                     <del>i</del>
                     <add rend="handwritten" place="above">enit</add>
                 </subst>, aveva una importante funzione da svolgere nel mondo secondo tradizioni
@@ -111,7 +104,7 @@
                 potuto farlo prevedere.</p>
             <p>Noi cattolici non possiamo non preoccupar<subst>
                     <del rend="overwritten">s</del>
-                    <add rend="handwritten" rend="overwritten">c</add>
+                    <add rend="handwritten overwritten">c</add>
                 </subst> i per una ragione molto superiore perché tocca più da vicino la vita dello
                 spirito di milioni di nostri fratelli in Cristo.</p>
             <p>Nessuno mai più nella Chiesa ha proclamato la libertà dei popoli e il diritto di una
@@ -123,15 +116,15 @@
             <p>Gli avvenimenti stupiscono. Quale Nazione poteva vantare una documentazione più larga
                 e solenne di garanzie internazionali<subst>
                     <del rend="overwritten">.</del>
-                    <add rend="handwritten" rend="overwritten">?</add>
+                    <add rend="handwritten overwritten">?</add>
                 </subst></p>
             <p>Trattati, dichiarazione collettive delle maggiori <sic>Pontezne</sic>, Protocolli
                 firmati e confermati, discorsi e articoli di grandi Statisti. Eppure tutto è stato
                 vano.</p>
             <p>Di fronte alla violenza questo castello di carta è crollato. I ragionamenti più
                 fondati e le assicurazioni più esplicite hanno</p>
-		    <note type="foliation" rend="typewritten">17</note>
-            <pb n="2">
+            <note type="foliation" rend="typewritten">17</note>
+            <pb n="2"/>
             <p>dovuto <subst>
                     <del rend="overwritten">v</del>
                     <add rend="overwritten">c</add>
@@ -156,8 +149,8 @@
                 qua si distrugge la produzione che è <sic>sovrabbondante</sic>: là migliaia di
                 persone muoiono di fame.</p>
             <p>Altrove lotte e interessi di partiti si sovrappongono al bene della Nazione.</p>
-		    <note type="foliation" rend="typewritten">18</note>
-            <pb n="3">
+            <note type="foliation" rend="typewritten">18</note>
+            <pb n="3"/>
             <p>In territori immensi è tolta qualsiasi libertà di coscienza, si uccidono, si
                 imprigionano persone soltanto perché credono in Dio e vogliono rimanere fedeli alla
                 loro religione.</p>
@@ -172,16 +165,16 @@
                 un’azione concreta, ma un giudizio concorde quando è palese la violazione del
                 diritto più elementare<subst>
                     <del rend="overwritten">.</del>
-                    <add rend="handwritten" rend="overwritten">?</add>
+                    <add rend="handwritten overwritten">?</add>
                 </subst></p>
             <p>Quale è la causa di tutto questo?</p>
             <p>Non si mette più a <subst>
                     <del rend="overwritten">vase</del>
                     <add rend="overwritten">xxxx</add>
-                </subst> base Dio e la sua fede<add place="above" rend="handwritten"><gap unit="words" quantity="1"
-                    /></add>.
-                Non si vuole più ammessa nella vita pubblica l’influenza salutare della Chiesa e
-                così tramontano per sempre <sic>duei</sic> du<subst>
+                </subst> base Dio e la sua fede<add place="above" rend="handwritten"><gap
+                        unit="words" quantity="1"/></add>. Non si vuole più ammessa nella vita
+                pubblica l’influenza salutare della Chiesa e così tramontano per sempre
+                    <sic>duei</sic> du<subst>
                     <del rend="overwritten">a</del>
                     <add rend="overwritten">e</add>
                 </subst> astri che dovrebbero illuminare tutta la vita civile cioè la carità e la
@@ -198,8 +191,8 @@
                     <del rend="overwritten">i</del>
                     <add rend="overwritten">u</add>
                 </subst>ò giungere che al trionfo della violenza.</p>
-		    <note type="foliation" rend="typewritten">19</note>
-		    <pb n="4">
+            <note type="foliation" rend="typewritten">19</note>
+            <pb n="4"/>
             <p>E quando <subst>
                     <del rend="strikethrough">tra</del>
                     <add place="above" rend="handwritten">per</add>

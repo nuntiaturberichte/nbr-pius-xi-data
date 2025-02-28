@@ -56,15 +56,14 @@
                     <msIdentifier>
                         <repository>AA.EE.SS., Periodo IV, Austria Ungheria</repository>
                         <idno type="archive">Pos. 883, Fasc. 44, Fol. 3r - 7r</idno>
-                        <idno type="institutional" subtype="internal"
-                            >2762/33</idno>
+                        <idno type="institutional" subtype="internal">2762/33</idno>
                     </msIdentifier>
                     <msContents>
                         <msItem>
                             <note type="keyword" resp="#martin.kroissenbrunner"
                                 >Nationalsozialismus</note>
                             <note type="keyword" resp="#martin.kroissenbrunner">Dollfuß</note>
-			    <note type="keyword" resp="#martin.kroissenbrunner"
+                            <note type="keyword" resp="#martin.kroissenbrunner"
                                 >Verfassungsreform</note>
                             <note type="keyword" resp="#martin.kroissenbrunner">Soziale Frage</note>
                             <note type="keyword" resp="#martin.kroissenbrunner">Katholische
@@ -104,7 +103,7 @@
         </profileDesc>
     </teiHeader>
     <text type="Brief">
-	    <body>
+        <body>
             <pb n="1"/>
             <opener><salute>Beatissime Papa,</salute></opener>
             <p>Infrascripti sacerdotes Austriaci audent Beatitudinem Tuam certiorem facere de
@@ -126,7 +125,7 @@
                 Moderatores quidem rei publicae putant, iuste sese in asseclas Socialismi Nationalis
                 invehere, quippe qui unionem reipublicae Austriacae cum Germania appetant sicque
                 perduellionis rei sint; </p>
-		<note type="foliation" rend="typewritten">3</note>
+            <note type="foliation" rend="typewritten">3</note>
             <pb n="2"/>
             <p>hoc vero nihil aliud est quam praetextus nuperrime arte inventus. Nam si studium
                 illud revera perduellio esset, plerique moderatores rei pubblicae (ut puta Seipel,
@@ -146,18 +145,19 @@
                 Quousque creverit apud nos pertubatio, demonstrant novissimae defectiones a fide a
                 mense Junio factae, quas retores rei publicae inde a die 16. Augusti consiliis mere
                 externis et politicis impedire conantur, ut patet ex additamento III. Rogamus Te,
-                Beatissime Papa, ut Antistites nostros de hac re sollicite
-                <subst><del rend="overwritten"><gap rend="overwritten" unit="char" quantity="9"/></del><add rend="overwritten">interroges</add></subst>;
-                videbis enim ex una parte defectionem inspiratam et propagatam ab atheistis
-                marxisticis paene cessasse, quippe <add place="above">qui</add> se sub regimine
-                hodierno tutos senti<subst>
+                Beatissime Papa, ut Antistites nostros de hac re sollicite <subst>
+                    <del rend="overwritten"><gap rend="overwritten" unit="char" quantity="9"/></del>
+                    <add rend="overwritten">interroges</add>
+                </subst>; videbis enim ex una parte defectionem inspiratam et propagatam ab
+                atheistis marxisticis paene cessasse, quippe <add place="above">qui</add> se sub
+                regimine hodierno tutos senti<subst>
                     <del rend="strikethrough">a</del>
                     <add place="above">u</add>
                 </subst>nt a periculo ex parte Socialismi Nationalis sibi imminente, ex alter<subst>
                     <del rend="strikethrough">o</del>
                     <add place="above">a</add>
                 </subst> vero parte crescentem numerum homininum cul-</p>
-		<note type="foliation" rend="typewritten">4</note>
+            <note type="foliation" rend="typewritten">4</note>
             <pb n="3"/>
             <p>torum et opulentorum inde a mense Junio ab Ecclesia defecisse. Tacemus de
                 defectionibus internis, quae propter legem latam die 16. Augusti externe perscribi
@@ -167,10 +167,9 @@
                 </subst>.</p>
             <p>Liquidum nobis est, hominos christianos parum fortes in fide persecutiones iniuste et
                 callide auctoritate religiosa palliatas perperam confundere cum vera Ecclesiae
-                sententia; Ecclesiae ipsi illas persecutiones adscribunt et
-                <add place="left">ex</add>asperati ab Ecclesia
-                deficiunt. Praeterea cum sciant, Te ipsum cum moderatoribus rei publicae Germaniae
-                concordatum iniisse et episcop<subst>
+                sententia; Ecclesiae ipsi illas persecutiones adscribunt et <add place="left"
+                    >ex</add>asperati ab Ecclesia deficiunt. Praeterea cum sciant, Te ipsum cum
+                moderatoribus rei publicae Germaniae concordatum iniisse et episcop<subst>
                     <del rend="overwritten">us</del>
                     <add rend="overwritten">os</add>
                 </subst> Germaniae applaudentes renovationi nationali, fideles ad iuvandam novam
@@ -192,7 +191,7 @@
                 perpetrata sint.</p>
             <p>Utut dolemus de paucis his et singolaribus criminibus, multo peior tamen nobis
                 vi-</p>
-	<note type="foliation" rend="typewritten">5</note>
+            <note type="foliation" rend="typewritten">5</note>
             <pb n="4"/>
             <p>detur abusus jurisjurandi religiosi, ausus a rectoribus rei publicae ante hos tres
                 menses: Jurisjurandi nempe, quo omnes officio publico fungentes (magistratus,
@@ -214,14 +213,13 @@
                 possidere. Quae duo principia pulchre a Cardinale Bourne quoad asseclas socialismi
                 anglici (quem tamen cum socialismo marxistico aliqualiter cohaerere constat)
                 vindicata sunt (Osservatore Romano die 2. Julii 1932).</p>
-		<note type="foliation" rend="typewritten">6</note>
+            <note type="foliation" rend="typewritten">6</note>
             <pb n="5"/>
             <p>Putant igitur infrascripti sacerdotes neglectis his duobus principiis salutem
                 animarum apud nos gravissimum damnum passuram, immo iam passam esse. Orare iterum
                 instantissime rogamus Beatitudinem Tuam, ut rem modo tractatam investigare velis,
                 ita ut verum statum patriae nostrae comperias, afflictae libertati catholicae
-                subvenias et tot periclitantibus fidelium animabus succu<hi rend="macron"
-                >r</hi>as.
+                subvenias et tot periclitantibus fidelium animabus succu<hi rend="macron">r</hi>as.
                 Nomina nostra, quaesumus, rectoribus rei publicae ne detegantur.</p>
             <closer><salute>Commendant se Beatitudini Tuae cum amore et fiducia filiali</salute><lb/>
                 <salute>Humillimi filii Tui</salute><lb/> Graecii, 22. mense Septembris 1933<lb/> P.
@@ -229,7 +227,7 @@
                 Simon Pirchegger, presb. saecularis dioecesis Seccoviensis<lb/> Vordernberg, 22.
                 Septr. 1933<lb/> Franz Mandl, parochus.<lb/> Graecii 25. Sept. 1933<lb/> Sac. D.
                 Joh. Ude<lb/> Prof. In Universitate Graecensi.</closer>
-		<note type="foliation" rend="typewritten">7</note>
+            <note type="foliation" rend="typewritten">7</note>
         </body>
     </text>
 </TEI>

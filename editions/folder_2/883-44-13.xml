@@ -51,8 +51,7 @@
                     <msIdentifier>
                         <repository>AA.EE.SS, Periodo IV, Austria Ungheria</repository>
                         <idno type="archive">Pos. 883, Fasc. 44, Fol. 13r - 26r</idno>
-                        <idno type="institutional" subtype="internal"
-                            >2836/33</idno>
+                        <idno type="institutional" subtype="internal">2836/33</idno>
                     </msIdentifier>
                     <msContents>
                         <msItem>
@@ -90,9 +89,9 @@
             </correspDesc>
         </profileDesc>
     </teiHeader>
-    <text type="Pro Memoria">
+    <text type="Pro_Memoria">
         <body>
-            <pb n="1">
+            <pb n="1"/>
             <opener>INSERTO al N. 15.261/726.<lb/> Con allegata<lb/><seg type="subjectLine">Lettera
                     Pastorale del Vescovo di Linz</seg></opener>
             <p>Pro m e m o r i a.</p>
@@ -102,10 +101,9 @@
                 Ergebenheit gegen den Heiligen Apostolischen Stuhl darzulegen.</p>
             <div type="chapter" n="I">
                 <head>Grundsätzliche Stellungnahme.</head>
-                <p><sic>J</sic>n der
-                    grundsätzlichen Auffassung über das Wesen, die Bestrebungen und Ziele des
-                    Nationalsozialismus im <sic>allgemeinen</sic> schliesst sich der österreichische
-                    Episkopat zunächst den <hi rend="underline" hand="#UR"
+                <p><sic>J</sic>n der grundsätzlichen Auffassung über das Wesen, die Bestrebungen und
+                    Ziele des Nationalsozialismus im <sic>allgemeinen</sic> schliesst sich der
+                    österreichische Episkopat zunächst den <hi rend="underline" hand="#UR"
                         >anfänglichen</hi> Kundgebungen des reichsdeutschen Gesamtepiskopates
                     vollinhaltlich an, insoweit darin grundsätzlich zu den <sic>J</sic>rrtümern des
                     Nationalsozialismus Stellung genommen wurde. Die österreichischen Bischöfe haben
@@ -113,19 +111,17 @@
                     Nationalsozialismus eindringlich gewarnt, seine Hauptirrtümer angedeutet, seine
                     masslosen Übertreibungen hervorgehoben und auf die ernsten Folgen aufmerksam
                     gemacht, die mit seinem Siege verbunden wären.</p>
-                <p><sic>J</sic>nsbesondere aber steht der österreichische Episkopat einheitlich und geschlossen
-                    auf dem Standpunkt jener theoretischen Grundsätze und praktischen Folgerungen,
-                    die im Hirtenbrief <hi rend="underline">„Über wahren und falschen
+                <p><sic>J</sic>nsbesondere aber steht der österreichische Episkopat einheitlich und
+                    geschlossen auf dem Standpunkt jener theoretischen Grundsätze und praktischen
+                    Folgerungen, die im Hirtenbrief <hi rend="underline">„Über wahren und falschen
                         Nationalismus“</hi></p>
                 <note type="foliation" rend="typewritten">13</note>
-                <pb n="2">
+                <pb n="2"/>
                 <p>des Hochwürdigsten Herrn Bischofes Johannes Maria GFÖLLNER von Linz vom 21.
                     Jänner 1933 zum Ausdruck kommen; 3 Exemplare dieses Hirtenbriefes liegen hier
                     bei.</p>
-                <p><hi rend="underline" hand="#UR"
-                        >Die Hauptgedanken
-                        des Hirtenbriefes</hi> kommen in folgenden 4 Grundwahrheiten zum
-                    Ausdruck:</p>
+                <p><hi rend="underline" hand="#UR">Die Hauptgedanken des Hirtenbriefes</hi> kommen
+                    in folgenden 4 Grundwahrheiten zum Ausdruck:</p>
                 <list>
                     <item>1.) Die Menschheit ist eine einheitliche Familie.</item>
                     <item>2.) Der wahre christliche Nationalismus ist von Gott gewollt und wird von
@@ -135,9 +131,8 @@
                     <item>4.) Über allem Nationalismus steht die Religion, die nicht national,
                         sondern übernational ist.</item>
                 </list>
-                <p>Über den Nationalsozialismus als <hi rend="underline" hand="#UR"
-                        >System</hi> fällt
-                    der Hirtenbrief das abschliessende Urteil: Der Nationalsozialismus krankt
+                <p>Über den Nationalsozialismus als <hi rend="underline" hand="#UR">System</hi>
+                    fällt der Hirtenbrief das abschliessende Urteil: Der Nationalsozialismus krankt
                     innerlich an materialistischem Rassenwahn – an unchristlichen Nationalismus – an
                     nationalistischer Auffassung der Religion; sein religiöses Programm weisen wir
                     darum zurück, umso mehr als neuestens der Nationalsozialismus in Deutschland
@@ -155,17 +150,18 @@
                     politischen Neugestaltung seine <hi rend="underline">grundsätzliche</hi>
                     Verurteilung der <hi rend="underline">theoretischen <sic>J</sic>rrtümer</hi></p>
                 <note type="foliation" rend="typewritten">14</note>
-                <pb n="3">
+                <pb n="3"/>
                 <p>des Nationalsozialismus ausdrücklich aufrecht erhalten und in keiner Weise
                     abgeschwächt.</p>
                 <p>Sodann war in Deutschland die praktische Stellungnahme des Episkopates zur neuen
                     Regierung und obersten Staatsgewalt eine wesentlich andere als in
                     Österreich.</p>
-                <p><sic>J<sic>n D e u t s c h l a n d stand der Episkopat nicht mehr einer blossen politischen
-                        <hi rend="underline">Partei</hi> gegenüber, sondern der <hi rend="underline"
-                        >Regierung</hi> und <hi rend="underline">Staatsgewalt als solcher</hi>, die
-                    allerdings aus der politischen nationalsozialistischen Partei hervorgegangen und
-                    ausschliesslich von ihr repräsentiert war. Einer legalen staatlichen Obrig<subst>
+                <p><sic>J</sic>n D e u t s c h l a n d stand der Episkopat nicht mehr einer blossen
+                    politischen <hi rend="underline">Partei</hi> gegenüber, sondern der <hi
+                        rend="underline">Regierung</hi> und <hi rend="underline">Staatsgewalt als
+                        solcher</hi>, die allerdings aus der politischen nationalsozialistischen
+                    Partei hervorgegangen und ausschliesslich von ihr repräsentiert war. Einer
+                    legalen staatlichen Obrig<subst>
                         <del rend="overwritten">j</del>
                         <add rend="overwritten">k</add>
                     </subst>eit gegenüber konnte und musste auch der Episkopat jene amtliche
@@ -174,20 +170,21 @@
                 <p>Der deutsche Episkopat konnte dies um so leichter tun, als durch die amtliche
                     Erklärung des deutschen Reichskanzlers Hitler die Freiheit und Rechte der
                     katholischen Kirche ausdrücklich garantiert worden waren.</p>
-                <p><sic>J<sic>n Ö s t e r r e i c h dagegen lagen und liegen bis zur Stunde die Verhältnisse
-                    wesentlich anders. Hier bildeten die Nationalsozialisten lediglich eine
-                    politische <hi rend="underline">Partei</hi>, die gleich anderen politischen
+                <p><sic>J</sic>n Ö s t e r r e i c h dagegen lagen und liegen bis zur Stunde die
+                    Verhältnisse wesentlich anders. Hier bildeten die Nationalsozialisten lediglich
+                    eine politische <hi rend="underline">Partei</hi>, die gleich anderen politischen
                     Parteien nach politischer Machtstellung strebte und noch immer strebt.</p>
                 <p>Jn der <hi rend="underline">Regierung</hi> als solcher war jedoch die
                     nationalsozialistische Partei nicht vertreten, ja es wurde ihr durch die
                     gegenwärtige Regierung jedwede politische Betätigung von Amtswegen verboten, so <subst>
-                        <del rend="overwritten"><gap reason="overwritten" unit="char" quantity="1"/></del>
+                        <del rend="overwritten"><gap reason="overwritten" unit="char" quantity="1"
+                            /></del>
                         <add rend="overwritten">d</add>
                     </subst>ass für den österreichischen Episkopat die nationalsozialistische Partei
                     als solche</p>
-                    <note type="foliation" rend="typewritten">15</note>
-                    <pb n="4">
-                    <p>formell und amtlich nicht mehr in Betracht kommt.</p>
+                <note type="foliation" rend="typewritten">15</note>
+                <pb n="4"/>
+                <p>formell und amtlich nicht mehr in Betracht kommt.</p>
                 <p>Während also der deutsche Episkopat einer nationalsozialistischen <hi
                         rend="underline">Regierung</hi> gegenüber steht, steht der österreichische
                     Episkopat weder einer nationalsozialistischen Partei und noch viel weniger einer
@@ -209,8 +206,9 @@
                         <del rend="overwritten">l</del>
                         <add rend="overwritten">o</add>
                     </subst>litische Neuordnung in Deutschland in seiner grundsätzlichen Ablehnung
-                    und Verurteilung der nationalsozialistischen <sic>J</sic>rrtümer und Bestrebungen in keiner
-                    Weise behindert oder zu einer Neuorientierung veranlasst.</p>
+                    und Verurteilung der nationalsozialistischen <sic>J</sic>rrtümer und
+                    Bestrebungen in keiner Weise behindert oder zu einer Neuorientierung
+                    veranlasst.</p>
             </div>
             <div type="chapter" n="II">
                 <head>Die politische Situation des Nationalsozialismus in Österreich.</head>
@@ -218,7 +216,7 @@
                     Österreich waren von allem Anfange an gegen die politische Selbstständigkeit und
                     Unabhängigkeit</p>
                 <note type="foliation" rend="typewritten">16</note>
-                <pb n="5">
+                <pb n="5"/>
                 <p>Österreichs gerichtet. Das Hauptziel war von jeher, nach dem politischen
                     Schlagwort „Ein Volk- ein Reich“, die Angliederung Österreichs an Deutschland
                     und die Eingliederung in die gemeinsame Regierung, sobald und soweit es die
@@ -242,7 +240,7 @@
                     politische Unabhängigkeit nahe.</p>
                 <p>Österreich ist in seiner erdrückenden Mehrheit katholisch,</p>
                 <note type="foliation" rend="typewritten">18</note>
-                <pb n="6">
+                <pb n="6"/>
                 <p>die katholische Glaubensidee ist wenig von einer protestantischen Umwelt
                     beeinflusst, das katholische Glaubensleben entfaltet sich freier, zum
                     Unterschied von Deutschland, wo die geistige protestantische Umwelt und das
@@ -250,7 +248,8 @@
                     Glaubens und die volle ungehinderte Entfaltung des katholischen Glaubenslebens
                     und die volle ungehinderte Entfaltung des katholischen Glaubenslebens
                     beeinflussen und beeinträchtigen, teilweise sogar einem bedauerlichen religiösen
-                    <sic>J</sic>nterkonfessionalismus und <sic>J</sic>ndifferentismus die Wege ebnen.</p>
+                        <sic>J</sic>nterkonfessionalismus und <sic>J</sic>ndifferentismus die Wege
+                    ebnen.</p>
                 <p>Sowohl geschichtlich als politisch ist Österreich mit dem Katholizismus viel
                     inniger verbunden und will dieser seiner geschichtlichen Tradition auch jetzt
                     treu bleiben umsomehr, als die gegenwärtige Regierung in jeder Hinsicht und
@@ -269,7 +268,7 @@
                     und treibt unterbrochen die hiesigen Nationalsozialisten an, ihre geheime,
                     staatsfeindliche</p>
                 <note type="foliation" rend="typewritten">19</note>
-                <pb n="7">
+                <pb n="7"/>
                 <p>und insbesondere österreichfeindliche Wühlarbeit mit dem ausgesprochenen Ziele
                     des Sturzes gegenwärtigen Regierung und der Erringung der politischen
                     Machtstellung nach dem Beispiele Deutschlands fortzusetzen und zu steigern. Kein
@@ -300,7 +299,7 @@
                     in Österreich auch ganz offen verschiedener Gewaltmittel. Eine fast ständige
                     Beunruhigung und</p>
                 <note type="foliation" rend="typewritten">20</note>
-                <pb n="8">
+                <pb n="8"/>
                 <p>Belästigung der friedlichen Bevölkerung erfolgt durch eigene sog. Klebe-Kolonnen,
                     die überall auf Wegen und Strassen, Gebäuden und selbst kirchlichen Bauten
                     hochverräterische und revolutionäre Propagandazettel aufkleben.</p>
@@ -326,7 +325,7 @@
                     österreichische Grenzgebiet droht.</p>
                 <p>Diese Drohungen werden auch von der österreichischen</p>
                 <note type="foliation" rend="typewritten">21</note>
-                <pb n="9">
+                <pb n="9"/>
                 <p>Regierung ernst genommen, weshalb namentlich in letzterer Zeit die Grenzgebiete
                     militärischen Schutz erhielten, um die Bevölkerung zu beruhigen und für alle
                     Fälle gerüstet zu sein.</p>
@@ -353,10 +352,9 @@
                     einerseits auch jene katholischen Kreise mit noch grösserem Nachdruck belehren
                     und warnen, die noch immer mit dem</p>
                 <note type="foliation" rend="typewritten">22</note>
-                <pb n="10">
-                <p><hi rend="mark" hand="#UR"
-                        >Nationalsozialismus stark sympathisieren, anderseits könnte er eine
-                        weitere praktische Stellung einnehmen hinsichtlich des</hi>
+                <pb n="10"/>
+                <p><hi rend="mark" hand="#UR">Nationalsozialismus stark sympathisieren, anderseits
+                        könnte er eine weitere praktische Stellung einnehmen hinsichtlich des</hi>
                 </p>
             </div>
             <div type="chapter" n="III">
@@ -389,10 +387,11 @@
                     eine dem wahren Wohle dienende Reform anzubahnen und in die Tat umsetzen.</p>
                 <p>Daran ist die Staatsgewalt auch nicht gehindert durch</p>
                 <note type="foliation" rend="typewritten">23</note>
-                <pb n="11">
-                <p>den auf eine frühere Verfassung abgelegten Eid; erklärt doch auch der Codex <sic>J.</sic> C.
-                    Can. 1318, § 1, : „<sic>J</sic>us<sic>j</sic>urandum promissorium sequitur naturam et conditiones
-                    actus cui ad<sic>j<sic>icitur“, und Can 1319 : „Obligatio <sic>j</sic>ure<sic>j</sic>urando promissorio inducta
+                <pb n="11"/>
+                <p>den auf eine frühere Verfassung abgelegten Eid; erklärt doch auch der Codex
+                        <sic>J.</sic> C. Can. 1318, § 1, : „<sic>J</sic>us<sic>j</sic>urandum
+                    promissorium sequitur naturam et conditiones actus cui ad<sic>j</sic>icitur“,
+                    und Can 1319 : „Obligatio <sic>j</sic>ure<sic>j</sic>urando promissorio inducta
                     desinit….. 2°, sie res jurata substantialiter mutetur aut <hi rend="underline"
                         hand="#UR">mutatis adjunctis</hi>, fiat sive mal<subst>
                         <del rend="overwritten">s</del>
@@ -415,19 +414,19 @@
                     Grundlage im Sinne und Geiste des Rundschreibens „Quadragesimo anno“ zu schaffen
                     und so die Jntentionen des Apostolischen Stuhles in vorbildlicher Weise und
                     erstmals zu verwirklichen. Auch die Heeresmacht wurde ganz</p>
-                    <note type="foliation" rend="typewritten">24</note>
-                    <pb n="12">
-                    <p>im katholischen Geiste reorganisiert und durch Wiedereinführung des Kruzifixes in
+                <note type="foliation" rend="typewritten">24</note>
+                <pb n="12"/>
+                <p>im katholischen Geiste reorganisiert und durch Wiedereinführung des Kruzifixes in
                     den K<subst>
                         <del rend="overwritten">s</del>
                         <add rend="overwritten">a</add>
                     </subst>sernen und Anbringung von Marienbildern an den Bändern militärischer
                     Fahnen der christliche Charakter offenkundig betont.</p>
-                <p><sic>J<sic>n hervorragender Weise hat sodann die Regierung ihre ausgesprochen katholische
-                    Gesinnung betätigt und dokumentiert auf dem grossartigen Katholikentag in Wien.
-                    Da der Heilige Apostolische Stuhl selber dies in offenkundigster und
-                    auszeichnender Weise anerkannt und gewürdigt hat, erübrigt sich jede weitere
-                    Bemerkung.</p>
+                <p><sic>J</sic>n hervorragender Weise hat sodann die Regierung ihre ausgesprochen
+                    katholische Gesinnung betätigt und dokumentiert auf dem grossartigen
+                    Katholikentag in Wien. Da der Heilige Apostolische Stuhl selber dies in
+                    offenkundigster und auszeichnender Weise anerkannt und gewürdigt hat, erübrigt
+                    sich jede weitere Bemerkung.</p>
                 <p>Die bereits angekündigten und noch zu gewärtigenden Massnahmen der Regierung
                     lassen noch weitere beste Wirkungen besonders hinsichtlich Schul-und
                     Ehegesetzgebung im Geiste einer christlichen Staats-und Gesellsc<subst>
@@ -444,8 +443,8 @@
                     kirchliche Jnteressen und um fundamentale staatsbürgerliche Pflichten, wie sie
                     der Heilige Stuhl selber so oft und so entschieden betont hat.</p>
             </div>
-                <note type="foliation" rend="typewritten">25</note>
-            <pb n="13">
+            <note type="foliation" rend="typewritten">25</note>
+            <pb n="13"/>
             <div>
                 <p>Mit diesen Darlegungen glaubt der österreichische Episkopat, seiner ihm
                     aufgetragenen Pflicht bezüglich Kundgebung seiner Wohlmeinung entspr<subst>

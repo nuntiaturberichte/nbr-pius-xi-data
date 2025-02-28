@@ -7,9 +7,9 @@
         <fileDesc>
             <titleStmt>
                 <title> Bericht an Dollfuß, Rom 05.02.1934</title>
-                <author> 
-			<persName ref="https://d-nb.info/gnd/124439683">Rudolf Kohlruss</persName>
-		</author>
+                <author>
+                    <persName ref="https://d-nb.info/gnd/124439683">Rudolf Kohlruss</persName>
+                </author>
                 <respStmt>
                     <resp>TEI created</resp>
                     <persName ref="#martin.kroissenbrunner">Martin Kroissenbrunner</persName>
@@ -52,8 +52,7 @@
                     <msIdentifier>
                         <repository>AA.EE.SS., Periodo IV, Austria Ungheria</repository>
                         <idno type="archive">Pos. 883, Fasc. 45, Fol. 35r - 38r</idno>
-                        <idno type="institutional" subtype="internal"
-                            >567/34</idno>
+                        <idno type="institutional" subtype="internal">567/34</idno>
                     </msIdentifier>
                     <msContents>
                         <msItem>
@@ -131,7 +130,7 @@
                 der Kurie, wenn sich gewisse Zurückhaltungen bei ihr ergäben.</p>
             <p>Das Interesse meines Mitredners <sic>dreite</sic> sich um die Frage ob in der</p>
             <note type="foliation" rend="typewritten">35</note>
-	<pb n="2">
+            <pb n="2"/>
             <p>Haltung der Kurie Oesterreich gegenüber eine Aenderung bemerkbar sei, wobei ich den
                 Eindruck hatte, er selbst neige einer solchen Annahme zu.</p>
             <p>Hiezu nahm ich in nachstehendem Sinne Stellung:</p>
@@ -171,8 +170,8 @@
                 österreichischen Regierung zur Kirche <sic>naturgemäs</sic> auch gar nicht anders
                 sein.</p>
             <p>Entgegen der Neigung meines Mitredners, gewisse <sic>aufgetre ne</sic> Befür-</p>
-		<note type="foliation" rend="typewritten">36</note>
-            <pb n="3">
+            <note type="foliation" rend="typewritten">36</note>
+            <pb n="3"/>
             <p>chtungen und damit im Zusammenhang eingetretene Reserven des Heiligen Stuhles zu
                 vermuten; erklärte ich weiter, dass ich <sic>i</sic> der <sic>geshilderten</sic>
                 wohlwollendsten allgemeinen Einstellung der Kurie inzwischen auch durchaus keine
@@ -207,8 +206,8 @@
                     <sic>Apostolosche</sic> Nuntius in Wien solche Zusammenhänge besitze.</p>
             <p>Hiezu erklärte ich, dass ich den Herrn Apostolischen Nuntius in Wien zuletzt im
                 Oktober v.J. gesehen habe und dass ich auf Grund meiner per-</p>
-		<note type="foliation" rend="typewritten">37</note>
-            <pb n="4">
+            <note type="foliation" rend="typewritten">37</note>
+            <pb n="4"/>
             <p>sönlichen allgemeinen <sic>Eindrüche</sic> eine solche <sic>Moglichkeit</sic> für
                 ausgeschlossen halten musste; auch verfüge der Herr Apostolische Nuntius in Wien
                 nicht über die Kenntnis der deutschen Sprache, was seine Kontaktmöglichkeiten schon
@@ -248,7 +247,7 @@
                 Gesandten beim Königlich Italienischen Hofe.</p>
             <closer><salute>Genehmigen, Herrn Bundeskanzler, den Ausdruck meiner vollkommensten
                     Ergebenheit.</salute></closer>
-		<note type="foliation" rend="typewritten">38</note>
+            <note type="foliation" rend="typewritten">38</note>
         </body>
     </text>
 </TEI>
