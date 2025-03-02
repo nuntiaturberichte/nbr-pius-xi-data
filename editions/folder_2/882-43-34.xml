@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Johannes Maria Gföllner an Theodor Kardinal Innitzer, Linz 18.07.1936</title>
+                <title>Johannes Maria Gföllner an Eugenio Pacelli, Linz 18.07.1936</title>
                 <author>
                     <persName ref="https://d-nb.info/gnd/129176222">Johannes Gföllner</persName>
                 </author>
@@ -92,7 +92,7 @@
                     <placeName>Linz</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118555634">Theodor Innitzer</persName>
+                    <persName ref="https://d-nb.info/gnd/118594753">Eugenio Pacelli</persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
