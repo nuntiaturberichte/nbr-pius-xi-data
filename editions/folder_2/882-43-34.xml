@@ -83,7 +83,32 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p><!-- ZE: Elementinhalt --></p>
+                <p>Bischof Johannes Maria Gföllner schreibt an den Kardinalstaatssekretär des Vatikans,
+			um über die katholische Jugendbewegung „Neuland“ in Österreich zu berichten und 
+			seine kritische Einschätzung darzulegen. Er skizziert zunächst die historische 
+			Entwicklung der Bewegung, die aus dem christlich-deutschen Studentenbund hervorging 
+			und seit 1921 in Wien tätig ist. Die geistlichen Leiter der Bewegung, insbesondere 
+			Dr. Karl Rudolf und Dr. Michael Pfliegler, hätten sich um die katholische Jugendarbeit 
+			verdient gemacht, doch ihre theologische Haltung und die Struktur der Bewegung seien 
+			zunehmend problematisch.</p>
+		    <p>Bischof Gföllner verweist auf kirchliche Spannungen mit „Neuland“, die bereits unter 
+			    Kardinal Piffl bestanden und sich unter Kardinal Innitzer fortsetzten. Insbesondere 
+			    die kritische Haltung der Bewegung gegenüber kirchlicher Autorität, die reservierte 
+			    Einstellung zur Marienverehrung sowie eine übertriebene liturgische Betonung der 
+			    „christozentrischen Idee“ hätten innerhalb der Wiener Theologischen Fakultät und 
+			    im Klerus große Skepsis hervorgerufen. Auch eine von Kardinal Innitzer zunächst 
+			    verfügte Suspension wurde später wieder aufgehoben, was zu weiteren Konflikten 
+			    innerhalb des Wiener Klerus führte.</p>
+		    <p>Der Bischof hebt hervor, dass „Neuland“ durch seine subjektivistische Orientierung 
+			    und Betonung des „Führertums“ eine Gefahr für die kirchliche Einheit darstelle. 
+			    Er kritisiert zudem die Tendenz der Bewegung, sich als intellektuelle Elite zu sehen 
+			    und einflussreiche Positionen innerhalb des kirchlichen Bildungswesens zu besetzen. 
+			    Schließlich spricht er sich für ein direktes Verbot der Bewegung durch den Heiligen Stuhl
+			    aus, da er eine zunehmende Abspaltung vom kirchlichen Lehramt und eine Gefährdung 
+			    der Einheit der Kirche befürchtet.</p>
+		    <p>Abschließend warnt Bischof Gföllner vor dem Einfluss von Dr. Karl Rudolf auf Kardinal Innitzer 
+			    und drängt darauf, dass Rom direkt interveniert, um die weitere Ausbreitung von „Neuland“ 
+			    in Österreich zu verhindern.</p>
             </abstract>
             <correspDesc>
                 <correspAction type="sent">
@@ -96,6 +121,9 @@
                 </correspAction>
             </correspDesc>
         </profileDesc>
+	<revisionDesc>
+         <change who="#bernhard.kronegger">Added abstract, foliation, pbs</change>
+      	</revisionDesc>
     </teiHeader>
     <text type="Brief">
         <body>
