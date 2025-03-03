@@ -65,6 +65,11 @@
                         </msItem>
                     </msContents>
                     <physDesc>
+                        <objectDesc>
+			                <layoutDesc>
+				                <ab>einseitig beschrieben</ab>
+			                </layoutDesc>
+			            </objectDesc>
                         <scriptDesc>
                             <ab>maschinenschriftlich</ab>
                         </scriptDesc>
@@ -74,9 +79,27 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p><!-- ZE: Elementinhalt --></p>
+                <p>Bei diesem Dokument handelt es sich um eine Übersetzung des Briefes „Johannes Maria Gföllner 
+                    an Eugenio Pacelli, Linz 18.07.1936“ ins Italienische.</p>
+                <p>Die Übersetzung bleibt im Kern sehr nahe am deutschen Original. Dennoch ist eine leichte Tendenz 
+                    erkennbar, gewisse Kritikpunkte durch die Übersetzung zu verstärken und die Gefahr schwerer und 
+                    dringlicher darzustellen als im Original. </p>
+                <p>So spricht Gföllner etwa von der Gefahr „einer ausgesprochen unkirchlichen Richtung“, während der 
+                    Übersetzer daraus die Gefahr einer „accentuata tendenza antiecclesiastica“ also eine "ausgesprochen 
+                    anti-kirchliche Tendenz" macht. Bezüglich der Marienverehrung spricht Gföllner über eine „reservierte, 
+                    um nicht zu sagen eine ablehnende Haltung“, während der Übersetzer daraus ein „atteggiamento di 
+                    ostilità, per non dire perfino di ripulsa“, also eine „feindselige, 
+                    um nicht zu sagen sogar abstoßende Haltung“ macht. 
+                    Gföllner lässt maßgebende Kreise sagen „Neuland sei augenblicklich die einzige innerkirchliche Gefahr“, 
+                    während der Übersetzer dies intensiviert, indem er übersetzt diese Kreise hätten gesagt 
+                    „‘Neuland‘ è attualmente l’unico pericolo 
+                    che minacci in Austria la Chiesa dall’interno“ also „Neuland ist die einzige Gefahr die aktuell in 
+                    Österreich die Kirche von innen bedroht“.</p>
             </abstract>
         </profileDesc>
+        <revisionDesc>
+         <change who="#bernhard.kronegger">Added abstract, foliation, pbs</change>
+        </revisionDesc>
     </teiHeader>
     <text type="Übersetzung">
         <body>
