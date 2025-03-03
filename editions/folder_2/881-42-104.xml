@@ -52,7 +52,6 @@
                     <msIdentifier>
                         <repository>AA.EE.SS., Periodo IV, Austria Ungheria</repository>
                         <idno type="archive">Pos. 881, Fasc. 42, Fol. 104–107</idno>
-                        <!-- ZE: recto/verso? -->
                     </msIdentifier>
                     <msContents>
                         <msItem>
@@ -69,6 +68,11 @@
                         </msItem>
                     </msContents>
                     <physDesc>
+			<objectDesc>
+			    <layoutDesc>
+				<ab>einseitig beschrieben</ab>
+			    </layoutDesc>
+			</objectDesc>
                         <scriptDesc>
                             <ab>maschinenschriftlich</ab>
                         </scriptDesc>
@@ -78,7 +82,25 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p><!-- ZE: Elementinhalt --></p>
+                <p>Dr. Ernst Karl Winter, Dritter Vizebürgermeister Wiens, berichtet in einem Schreiben 
+			an den Papst über seine politische und religiöse Mission in Österreich. 
+			Nach der Februarkämpfen 1934 wurde er von Bundeskanzler Dollfuß beauftragt, 
+			die Annäherung der ehemaligen sozialdemokratischen Arbeiterschaft an das neue Regime zu fördern. 
+			Er beschreibt die geistige und religiöse Orientierungslosigkeit 
+			dieser Schicht nach dem politischen Umbruch und betont die Schwierigkeit, 
+			sie kurzfristig für den autoritären Staat zu gewinnen. 
+			Seine „Aktion Winter“ verfolgt daher das Ziel, durch eine Eliteorganisation die geistigen Führungskräfte 
+			der Arbeiterschaft für den neuen Staat zu gewinnen.</p>
+		<p>Er reflektiert die historische Entwicklung der antikirchlichen Haltung der Arbeiterschaft, 
+			die er auf die enge Verbindung zwischen Kirche und Christlichsozialer Partei zurückführt. 
+			Er bezeichnet es als Fehler, die Kompromissbereitschaft der Sozialdemokratie 
+			im Jahr 1933 nicht zu nutzen. 
+			Nach der gewaltsamen Niederschlagung des sozialdemokratischen Widerstandes im Februar 1934 sei es nun umso schwieriger, 
+			das Vertrauen der Arbeiterschaft zurückzugewinnen.</p>
+		<p>Winter hebt hervor, dass seine Arbeit von der obersten Staatsführung gedeckt sei, 
+			er jedoch sowohl von sozialdemokratischen Kreisen als auch von Teilen des konservativen Lagers Kritik erfahre. 
+			Er schildert seine enge Zusammenarbeit mit katholischen Geistlichen in der Arbeiterseelsorge und die Errichtung kleiner 
+			Seelsorgestationen in Arbeitervierteln als Teil der politischen Strategie zur Integration der Arbeiterschaft.</p>
             </abstract>
             <correspDesc>
                 <correspAction type="sent">
@@ -91,6 +113,9 @@
                 </correspAction>
             </correspDesc>
         </profileDesc>
+	<revisionDesc>
+         <change who="#bernhard.kronegger">Added abstract, foliation, pbs</change>
+      </revisionDesc>
     </teiHeader>
     <text type="Brief">
         <body>
