@@ -66,9 +66,14 @@
                   </msItem>
                </msContents>
                <physDesc>
-                  <scriptDesc>
+		<objectDesc>
+			    <layoutDesc>
+				<ab>gemischt beschrieben</ab>
+			    </layoutDesc>
+		</objectDesc>
+                <scriptDesc>
                      <ab>maschinenschriftlich</ab>
-                  </scriptDesc>
+                </scriptDesc>
                </physDesc>
             </msDesc>
          </sourceDesc>
