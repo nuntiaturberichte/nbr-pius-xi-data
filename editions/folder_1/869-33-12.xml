@@ -70,9 +70,14 @@
                   </msItem>
                </msContents>
                <physDesc>
-                  <scriptDesc>
-                     <ab>handwritten</ab>
-                  </scriptDesc>
+		       <objectDesc>
+			    <layoutDesc>
+				<ab>einseitig beschrieben</ab>
+			    </layoutDesc>
+			</objectDesc>
+                  	<scriptDesc>
+                     		<ab>handwritten</ab>
+                  	</scriptDesc>
                </physDesc>
             </msDesc>
          </sourceDesc>
