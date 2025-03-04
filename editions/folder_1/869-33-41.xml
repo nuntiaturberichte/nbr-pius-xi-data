@@ -7,7 +7,9 @@
       <fileDesc>
          <titleStmt>
             <title>Giuseppe Pizzardo an Augustin Bea, Vatikanstadt 06.08.1935</title>
-            <author>Giuseppe Pizzardo</author>
+            <author>
+		    <persName ref="https://d-nb.info/gnd/1110822049">Giuseppe Pizzardo</persName>
+	    </author>
             <respStmt>
                <resp>TEI tempalte prepared by</resp>
                <persName ref="#daniel.schopper">Daniel Schopper</persName>
@@ -68,9 +70,14 @@
                   </msItem>
                </msContents>
                <physDesc>
-                  <scriptDesc>
-                     <ab>handwritten</ab>
-                  </scriptDesc>
+		       <objectDesc>
+			    <layoutDesc>
+				<ab>einseitig beschrieben</ab>
+			    </layoutDesc>
+			</objectDesc>
+                  	<scriptDesc>
+                     		<ab>handwritten</ab>
+                  	</scriptDesc>
                </physDesc>
             </msDesc>
          </sourceDesc>
