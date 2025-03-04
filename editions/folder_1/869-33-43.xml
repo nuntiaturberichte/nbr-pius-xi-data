@@ -58,7 +58,7 @@
             <msDesc status="Reinschrift">
                <msIdentifier>
                   <repository>AA.EE.SS., Periodo IV, Austria Ungheria</repository>
-                  <idno type="archive">Pos. 869, Fasc. 33, Fol. 43r-45</idno>
+                  <idno type="archive">Pos. 869, Fasc. 33, Fol. 43r - 45r</idno>
                   <idno type="institution" subtype="internal">2385/32</idno>
                </msIdentifier>
                <msContents>
@@ -68,9 +68,14 @@
                   </msItem>
                </msContents>
                <physDesc>
-                  <scriptDesc>
-                     <ab>handwritten</ab>
-                  </scriptDesc>
+		       <objectDesc>
+			    <layoutDesc>
+				<ab>beidseitig beschrieben</ab>
+			    </layoutDesc>
+			</objectDesc>
+                  	<scriptDesc>
+                     		<ab>handwritten</ab>
+                  	</scriptDesc>
                </physDesc>
             </msDesc>
          </sourceDesc>
