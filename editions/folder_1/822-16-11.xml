@@ -76,6 +76,11 @@
                         </msItem>
                     </msContents>
                     <physDesc>
+			<objectDesc>
+			    <layoutDesc>
+				<ab>einseitig beschrieben</ab>
+			    </layoutDesc>
+			</objectDesc>
                         <scriptDesc>
                             <ab>maschinenschriftlich</ab>
                         </scriptDesc>
