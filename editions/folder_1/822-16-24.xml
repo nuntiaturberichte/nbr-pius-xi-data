@@ -72,14 +72,14 @@
                   </msItem>
                </msContents>
                <physDesc>
-		<objectDesc>
-			    <layoutDesc>
-				<ab>beidseitig beschrieben</ab>
-			    </layoutDesc>
-		</objectDesc>
-		<scriptDesc>
-                  <ab>maschinenschriftlich</ab>
-		<scriptDesc>
+                  <objectDesc>
+                     <layoutDesc>
+                        <ab>beidseitig beschrieben</ab>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <ab>maschinenschriftlich</ab>
+                  </scriptDesc>
                </physDesc>
             </msDesc>
          </sourceDesc>
