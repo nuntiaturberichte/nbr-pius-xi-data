@@ -62,7 +62,7 @@
                 <msDesc status="Reinschrift">
                     <msIdentifier>
                         <repository>AA.EE.SS, Periodo IV, Austria Ungheria</repository>
-                        <idno type="archive"> Pos. 822, Fasc. 16, fol. 11r – 15r</idno>
+                        <idno type="archive"> Pos. 822, Fasc. 16, Fol. 11r - 15r</idno>
                         <idno type="institutional" subtype="internal"> Beilage 2 zu 4255/36</idno>
                         <!-- Unterkategorie für Beilage einfügen? Link auf Dokument einfügen wenn aufzufinden  -->
                     </msIdentifier>
@@ -89,6 +89,11 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
+            <handNotes>
+                <handNote xml:id="author" scribe="Author">
+                    <p>Hand des Autors</p>
+                </handNote>
+            </handNotes>
             <abstract>
                 <p>Kardinal Innitzer antwortet auf einen Bericht über die Organisation „Neuland“.
                     Dabei entkräftet er Punkt für Punkt die im Bericht erhobenen Vorwürfe gegenüber
@@ -337,10 +342,10 @@
                 <item> Ad 19. Der Gebrauch, die Messe nach Meßbüchern (Schott u.a.) mitzubeten,
                     herrscht bei vielen Gläubigen und geht auf die eucharistische Bewegung Pius X.
                     zurück, der besonders das eine Wort sagte, daß man nicht <hi rend="underline"
-                        hand="author">in der</hi> Messe, sondern <hi rend="underline" hand="author"
-                        >die</hi> Messe beten solle. Nur daraus ist zu verstehen, daß man nicht
-                    gerne den Rosenkranz während der hl. Messe betet; darin stimmen aber mit den
-                    Neuländern viele andere Außenstehende überein. </item>
+                        hand="#author">in der</hi> Messe, sondern <hi rend="underline"
+                        hand="#author">die</hi> Messe beten solle. Nur daraus ist zu verstehen, daß
+                    man nicht gerne den Rosenkranz während der hl. Messe betet; darin stimmen aber
+                    mit den Neuländern viele andere Außenstehende überein. </item>
                 <item>
                     <p>Ad 20. Die von Klosterneuburg ausgehende liturgische Bewegung hat in meiner
                         Diözese und darüber hinaus sehr viel Gutes geschaffen. Die Zahl der

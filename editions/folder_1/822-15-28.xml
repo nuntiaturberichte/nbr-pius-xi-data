@@ -51,7 +51,7 @@
             <msDesc status="Reinschrift">
                <msIdentifier>
                   <repository>AA.EE.SS, Periodo IV, Austria Ungheria</repository>
-                  <idno type="archive">Pos. 822, Fasc. 15, Fol. 28r+v – 29r+v</idno>
+                  <idno type="archive">Pos. 822, Fasc. 15, Fol. 28r+v - 29r+v</idno>
                   <idno type="institutional" subtype="internal">3765/35</idno>
                   <idno type="institutional" subtype="external">17.167/875</idno>
                </msIdentifier>
@@ -79,6 +79,11 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
+         <handNotes>
+            <handNote xml:id="UR" scribe="UnknownReader">
+               <p>Hand eines unbekannten Rezipienten der bestimmte Passagen markiert hat</p>
+            </handNote>
+         </handNotes>
          <abstract>
             <p>Nuntius Sibilia nimmt Bezug auf das Schreiben <rs type="document"
                   ref="nbr:doc3765_35">N. 3394/35 vom 01.10.1935</rs> und weist darauf hin, dass die

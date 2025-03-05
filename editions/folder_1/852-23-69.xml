@@ -60,7 +60,7 @@
             <msDesc status="Reinschrift">
                <msIdentifier>
                   <repository>AA.EE.SS., Periodo IV, Austria Ungheria</repository>
-                  <idno type="archive">Pos. 852, Fasc. 23, Fol. 69r+v – 70r+v</idno>
+                  <idno type="archive">Pos. 852, Fasc. 23, Fol. 69r+v - 70r+v</idno>
                   <idno type="institutional" subtype="internal">2139/29</idno>
                   <idno type="institutional" subtype="external">11235/407</idno>
                </msIdentifier>
@@ -86,6 +86,11 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
+         <handNotes>
+            <handNote xml:id="ES" scribe="EnricoSibilia">
+               <p>Hand des Autors, Enrico Sibilia</p>
+            </handNote>
+         </handNotes>
          <abstract>
             <p>Der Nuntius berichtet, dass es seit einigen Wochen in der Presse sehr ungenaue
                Nachrichten über die innenpolitische Situation in Österreich gebe. Diese würden die
@@ -175,10 +180,11 @@
             intraprendersi dai buoni contro la tirannia socialista; circa il parere di Mgr. Seipel
             sull’opportunità di doversi usare coi socialisti altri mezzi.</p>
          <p>Le speranze che il partito cristiano-sociale aveva fon<note type="foliation"
-               rend="typewritten">69</note><pb n="2" break="no" type="sh"/>date sull’energia del
-            nuovo Cancelliere von Streeruwitz, come vi è stato assicurato, sono restate deluse:
-            poiché egli invece di mostrare i denti ai socialisti, ha procurato di accarezzarli, e
-            far loro eccessive concessioni economiche.</p>
+               rend="typewritten">69</note><pb n="2" break="no" type="sh"
+            /><!-- pb@n="3" fehlt -->date sull’energia del nuovo Cancelliere von Streeruwitz, come
+            vi è stato assicurato, sono restate deluse: poiché egli invece di mostrare i denti ai
+            socialisti, ha procurato di accarezzarli, e far loro eccessive concessioni
+            economiche.</p>
          <p>Tale condotta dello Streeruwitz non solo gli ha talmente alienato le simpatie dei buoni
             e dell’intero partito cristiano-sociale, da far prevedere facilmente le sue dimissioni
             più o meno prossime; ma ancora è stat<add rend="overwritten">a</add> di potente impulso
