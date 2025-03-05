@@ -66,11 +66,11 @@
                         </msItem>
                     </msContents>
                     <physDesc>
-			<objectDesc>
-			    <layoutDesc>
-				<ab>einseitig beschrieben</ab>
-			    </layoutDesc>
-			</objectDesc>
+                        <objectDesc>
+                            <layoutDesc>
+                                <ab>einseitig beschrieben</ab>
+                            </layoutDesc>
+                        </objectDesc>
                         <scriptDesc>
                             <ab>maschinenschriftlich</ab>
                         </scriptDesc>
@@ -80,34 +80,47 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p>Das wohl fehlerhaft datierte Dokument, vermutlich verfasst am 13. März 1938, reflektiert 
-			die politischen und moralischen Konsequenzen des Anschlusses Österreichs an das Deutsche Reich. 
-			Der Text drückt Bestürzung über die Ereignisse aus und betont, dass die Annexion nicht nur ein politischer, 
-			sondern vor allem ein spiritueller Einschnitt sei, der Millionen katholische Gläubige betreffe.</p>
-		<p>Der Verfasser hebt hervor, dass die internationale Gemeinschaft Garantien für die österreichische Unabhängigkeit 
-			gegeben habe – durch Verträge, diplomatische Erklärungen und unterschriebene und ratifizierte Protokolle –, 
-			dieses Kartenhaus jedoch angesichts der Gewalt eingestürzt sei. Die Ereignisse hätten gezeigt, dass selbst 
-			wohlbegründete rechtliche und politische Argumente vor der brutalen Macht des Faktischen nicht standhielten.</p>
-		<p>Es wird auf die Widersprüche in der Rhetorik der Nationalsozialisten hingewiesen: Während Freiheit, Gleichheit und Gerechtigkeit 
-			propagiert würden, würden gleichzeitig Bischöfe und Politiker inhaftiert, die lediglich ihrem Glauben und Vaterland gedient hätten. 
-			Unter dem Vorwand der Demokratie werde mit Einschüchterung, militärischer Präsenz und Repression gearbeitet. Trotz der 
-			offiziellen Verkündung von Wohlstand und Ordnung seien die ersten Folgen der Annexion Verhaftungen und politische Verfolgung.</p>
-		<p>Der Text sieht im Anschluss ein Symptom einer globalen Krise, in der Gewalt und Tyrannei die internationalen Beziehungen dominieren. 
-			Auf der einen Seite würde Produktion vernichtet und tausende müssten an Hunger sterben, wohl eine Referenz auf den Holodomor, 
-			auf der anderen Seite würden Parteiinteressen über das Wohl der Nation gestellt. Die Menschen werden sich in einer demokratischen 
-			und einer autoritären Schlachtreihe gegenübergestellt. Der Verlust der christlichen Werte – insbesondere der Gerechtigkeit und der Nächstenliebe, 
-			wie sie in der Enzyklika Quadragesimo anno betont werden – wird als zentrale Ursache für diese Entwicklungen betrachtet. 
-			Ohne Gerechtigkeit herrsche Unterdrückung, ohne Nächstenliebe nur Hass.</p>
-		<p>Abschließend warnt der Text, dass das Prinzip der Machtpolitik, das in der internationalen Arena zunehmend vorherrsche, 
-			das Ende der Ehrlichkeit und Redlichkeit in der Diplomatie sowie den Triumph der Barbarei über die Zivilisation bedeuten würde.</p>
+                <p>Das wohl fehlerhaft datierte Dokument, vermutlich verfasst am 13. März 1938,
+                    reflektiert die politischen und moralischen Konsequenzen des Anschlusses
+                    Österreichs an das Deutsche Reich. Der Text drückt Bestürzung über die
+                    Ereignisse aus und betont, dass die Annexion nicht nur ein politischer, sondern
+                    vor allem ein spiritueller Einschnitt sei, der Millionen katholische Gläubige
+                    betreffe.</p>
+                <p>Der Verfasser hebt hervor, dass die internationale Gemeinschaft Garantien für die
+                    österreichische Unabhängigkeit gegeben habe – durch Verträge, diplomatische
+                    Erklärungen und unterschriebene und ratifizierte Protokolle –, dieses Kartenhaus
+                    jedoch angesichts der Gewalt eingestürzt sei. Die Ereignisse hätten gezeigt,
+                    dass selbst wohlbegründete rechtliche und politische Argumente vor der brutalen
+                    Macht des Faktischen nicht standhielten.</p>
+                <p>Es wird auf die Widersprüche in der Rhetorik der Nationalsozialisten hingewiesen:
+                    Während Freiheit, Gleichheit und Gerechtigkeit propagiert würden, würden
+                    gleichzeitig Bischöfe und Politiker inhaftiert, die lediglich ihrem Glauben und
+                    Vaterland gedient hätten. Unter dem Vorwand der Demokratie werde mit
+                    Einschüchterung, militärischer Präsenz und Repression gearbeitet. Trotz der
+                    offiziellen Verkündung von Wohlstand und Ordnung seien die ersten Folgen der
+                    Annexion Verhaftungen und politische Verfolgung.</p>
+                <p>Der Text sieht im Anschluss ein Symptom einer globalen Krise, in der Gewalt und
+                    Tyrannei die internationalen Beziehungen dominieren. Auf der einen Seite würde
+                    Produktion vernichtet und tausende müssten an Hunger sterben, wohl eine Referenz
+                    auf den Holodomor, auf der anderen Seite würden Parteiinteressen über das Wohl
+                    der Nation gestellt. Die Menschen werden sich in einer demokratischen und einer
+                    autoritären Schlachtreihe gegenübergestellt. Der Verlust der christlichen Werte
+                    – insbesondere der Gerechtigkeit und der Nächstenliebe, wie sie in der Enzyklika
+                    Quadragesimo anno betont werden – wird als zentrale Ursache für diese
+                    Entwicklungen betrachtet. Ohne Gerechtigkeit herrsche Unterdrückung, ohne
+                    Nächstenliebe nur Hass.</p>
+                <p>Abschließend warnt der Text, dass das Prinzip der Machtpolitik, das in der
+                    internationalen Arena zunehmend vorherrsche, das Ende der Ehrlichkeit und
+                    Redlichkeit in der Diplomatie sowie den Triumph der Barbarei über die
+                    Zivilisation bedeuten würde.</p>
             </abstract>
             <creation>
                 <date when="1934-03-13">13.03.1934</date>
             </creation>
         </profileDesc>
-	<revisionDesc>
-         <change who="#bernhard.kronegger">Added abstract, foliation, pbs</change>
-      	</revisionDesc>
+        <revisionDesc>
+            <change who="#bernhard.kronegger">Added abstract, foliation, pbs</change>
+        </revisionDesc>
     </teiHeader>
     <text type="Archivsnotiz">
         <body>

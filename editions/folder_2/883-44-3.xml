@@ -73,11 +73,11 @@
                         </msItem>
                     </msContents>
                     <physDesc>
-			<objectDesc>
-			    <layoutDesc>
-				<ab>einseitig beschrieben</ab>
-			    </layoutDesc>
-			</objectDesc>
+                        <objectDesc>
+                            <layoutDesc>
+                                <ab>einseitig beschrieben</ab>
+                            </layoutDesc>
+                        </objectDesc>
                         <scriptDesc>
                             <ab>handschriftlich</ab>
                         </scriptDesc>
@@ -87,35 +87,39 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p>In diesem Schreiben wenden sich vier österreichische Priester – P. Bonifaz Wienand, 
-			Dr. Simon Pirchegger, Franz Mandl und Dr. Johannes Ude – an Papst Pius XI., 
-			um ihn über die religiöse und politische Situation in Österreich zu informieren. 
-			Sie beklagen die Diskriminierung nationalsozialistischer Katholiken, die von der 
-			Regierung und der katholischen Presse als „schlechte Christen“ diffamiert würden. 
-			Viele seien aufgrund ihrer politischen Überzeugungen vom Sakramentenempfang 
-			ausgeschlossen. Die Verfasser argumentieren, dass der Nationalsozialismus in 
-			Österreich nicht gegen Glauben und Moral verstoße, sondern vielmehr eine geistige 
-			und sittliche Erneuerung anstrebe und gegen Liberalismus, Materialismus und 
-			Bolschewismus kämpfe.</p>
-		    <p>Die Priester kritisieren, dass die katholische Kirche in Deutschland den Nationalsozialismus
-			    nicht in gleicher Weise verurteile, sondern mit der neuen Regierung kooperiere. 
-			    Diese widersprüchliche Haltung führe unter den Gläubigen zu Verwirrung und Glaubenszweifeln. 
-			    Sie warnen vor einer zunehmenden Entfremdung von der Kirche, da viele Katholiken die 
-			    Verfolgung von Nationalsozialisten als kirchlich legitimiert wahrnehmen und sich infolgedessen 
-			    vom Glauben abwenden.</p>
-		    <p>Weiterhin prangern sie den Missbrauch religiöser Argumente durch die österreichische Regierung an, 
-			    die das Nationalsozialismusverbot mit dem Schutz des katholischen Glaubens begründe. 
-			    Sie verweisen darauf, dass viele führende österreichische Politiker in der Vergangenheit 
-			    selbst eine Annäherung an Deutschland befürwortet hätten und daher das jetzige Vorgehen 
-			    gegen Nationalsozialisten heuchlerisch sei.</p>
-		    <p>Ein besonders harter Vorwurf richtet sich gegen den im August 1933 eingeführten Loyalitätseid 
-			    für Beamte, Lehrer und Professoren, der von allen öffentlichen Bediensteten verlangte, 
-			    sich explizit von politischen Bewegungen mit überstaatlichen Zielen – insbesondere 
-			    dem Nationalsozialismus – zu distanzieren.</p>
-		    <p>Abschließend bitten die Priester den Papst, sich mit den österreichischen Bischöfen über 
-			    die Situation zu beraten und Maßnahmen zu ergreifen, um die „verletzte katholische Freiheit“ 
-			    wiederherzustellen. Sie warnen, dass die Missachtung grundlegender kirchlicher Prinzipien 
-			    die Seelen vieler Gläubiger in Österreich ernsthaft gefährde.</p>
+                <p>In diesem Schreiben wenden sich vier österreichische Priester – P. Bonifaz
+                    Wienand, Dr. Simon Pirchegger, Franz Mandl und Dr. Johannes Ude – an Papst Pius
+                    XI., um ihn über die religiöse und politische Situation in Österreich zu
+                    informieren. Sie beklagen die Diskriminierung nationalsozialistischer
+                    Katholiken, die von der Regierung und der katholischen Presse als „schlechte
+                    Christen“ diffamiert würden. Viele seien aufgrund ihrer politischen
+                    Überzeugungen vom Sakramentenempfang ausgeschlossen. Die Verfasser
+                    argumentieren, dass der Nationalsozialismus in Österreich nicht gegen Glauben
+                    und Moral verstoße, sondern vielmehr eine geistige und sittliche Erneuerung
+                    anstrebe und gegen Liberalismus, Materialismus und Bolschewismus kämpfe.</p>
+                <p>Die Priester kritisieren, dass die katholische Kirche in Deutschland den
+                    Nationalsozialismus nicht in gleicher Weise verurteile, sondern mit der neuen
+                    Regierung kooperiere. Diese widersprüchliche Haltung führe unter den Gläubigen
+                    zu Verwirrung und Glaubenszweifeln. Sie warnen vor einer zunehmenden Entfremdung
+                    von der Kirche, da viele Katholiken die Verfolgung von Nationalsozialisten als
+                    kirchlich legitimiert wahrnehmen und sich infolgedessen vom Glauben
+                    abwenden.</p>
+                <p>Weiterhin prangern sie den Missbrauch religiöser Argumente durch die
+                    österreichische Regierung an, die das Nationalsozialismusverbot mit dem Schutz
+                    des katholischen Glaubens begründe. Sie verweisen darauf, dass viele führende
+                    österreichische Politiker in der Vergangenheit selbst eine Annäherung an
+                    Deutschland befürwortet hätten und daher das jetzige Vorgehen gegen
+                    Nationalsozialisten heuchlerisch sei.</p>
+                <p>Ein besonders harter Vorwurf richtet sich gegen den im August 1933 eingeführten
+                    Loyalitätseid für Beamte, Lehrer und Professoren, der von allen öffentlichen
+                    Bediensteten verlangte, sich explizit von politischen Bewegungen mit
+                    überstaatlichen Zielen – insbesondere dem Nationalsozialismus – zu
+                    distanzieren.</p>
+                <p>Abschließend bitten die Priester den Papst, sich mit den österreichischen
+                    Bischöfen über die Situation zu beraten und Maßnahmen zu ergreifen, um die
+                    „verletzte katholische Freiheit“ wiederherzustellen. Sie warnen, dass die
+                    Missachtung grundlegender kirchlicher Prinzipien die Seelen vieler Gläubiger in
+                    Österreich ernsthaft gefährde.</p>
             </abstract>
             <correspDesc>
                 <correspAction type="sent">
@@ -134,9 +138,9 @@
                 </correspAction>
             </correspDesc>
         </profileDesc>
-	<revisionDesc>
-         <change who="#bernhard.kronegger">Added abstract, foliation, pbs</change>
-      	</revisionDesc>
+        <revisionDesc>
+            <change who="#bernhard.kronegger">Added abstract, foliation, pbs</change>
+        </revisionDesc>
     </teiHeader>
     <text type="Brief">
         <body>

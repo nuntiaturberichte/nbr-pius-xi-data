@@ -33,25 +33,24 @@
                      vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
                      kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                     an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
-                     einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
-                     wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
-                     werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
-                     unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
-                     Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
-                     Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                     die Lizenz erlaubt.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
+                     Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
+                     nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
+                     oder Ihre Nutzung besonders. Keine weiteren Einschränkungen – Sie dürfen keine
+                     zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
                   <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
-                     des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
-                     durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
-                     keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
-                     verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
-                     jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
-                     Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                     Nutzung des Materials entsprechend beschränken.</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
+                     Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
+                     Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
+                     möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
+                     brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
+                     Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
+                     beschränken.</p>
                </licence>
             </availability>
          </publicationStmt>
@@ -84,12 +83,14 @@
       </fileDesc>
       <profileDesc>
          <abstract>
-            <p>Adam Hefter bittet Fidelis von Stotzingen im Vatikan zu intervenieren, um zu verhindern, dass Hefter als neuer Erzbischof von Wien ausgewählt wird. 
-               Hefter habe entsprechende Gerüchte vernommen, fühle sich aber wegen gesundheitlicher Probleme nicht in der Lage das Amt auszuüben.</p>
+            <p>Adam Hefter bittet Fidelis von Stotzingen im Vatikan zu intervenieren, um zu
+               verhindern, dass Hefter als neuer Erzbischof von Wien ausgewählt wird. Hefter habe
+               entsprechende Gerüchte vernommen, fühle sich aber wegen gesundheitlicher Probleme
+               nicht in der Lage das Amt auszuüben.</p>
          </abstract>
          <correspDesc>
             <correspAction type="sent">
-               <persName>Adam Hefter</persName>
+               <persName ref="https://d-nb.info/gnd/141311770">Adam Hefter</persName>
                <date when="1932-06-24">24.06.1932</date>
                <placeName>Wien</placeName>
             </correspAction>
@@ -105,33 +106,52 @@
          <opener>
             <dateline>Wien, 24.6.32</dateline>
             <salute>Hochwürdigster Herr Abt!</salute></opener>
-         <p>Danke herzlich für das gütige Schreiben aus Rom. Ich war am 20. d. M. in St. Paul, habe aber von der Convictsangelegenheit absichtlich nichts erwähnt. 
-            Danke sehr für Ihre Stellungnahme. Aktuell wird die Sache werden, wenn das Priesterseminar fertig ist und die finanzielle Lage der Diözese geklärt ist; 
-            das hängt auch zusammen mit der ganzen wirtschaftlichen Lage; ist hierin Klärung eingetreten, was wohl kaum mehr ein Jahr dauern kann, 
-            dann ist auch der Zeitpunkt gekommen für Verwirklichung des Projektes.</p>
+         <p>Danke herzlich für das gütige Schreiben aus Rom. Ich war am 20. d. M. in St. Paul, habe
+            aber von der Convictsangelegenheit absichtlich nichts erwähnt. Danke sehr für Ihre
+            Stellungnahme. Aktuell wird die Sache werden, wenn das Priesterseminar fertig ist und
+            die finanzielle Lage der Diözese geklärt ist; das hängt auch zusammen mit der ganzen
+            wirtschaftlichen Lage; ist hierin Klärung eingetreten, was wohl kaum mehr ein Jahr
+            dauern kann, dann ist auch der Zeitpunkt gekommen für Verwirklichung des Projektes.</p>
          <p>H.H. Prälat waren so gütig,</p>
          <note type="foliation" rend="typewritten">32</note>
          <pb n="2"/>
          <p>die Gründe, die mir eine Resignation nahelegen, zu würdigen.</p>
-         <p>Nun habe ich leider gelegentlich meiner jetzigen Anwesenheit in Wien in Angelegenheit des Priesterseminarbaues die Wahrnehmung machen müssen, 
-            daß die Gerüchte, die meine Person in Zusammenhang mit der Besetzung des erzb. Stuhles von Wien bringen, <add place="above">trotzdem</add>  sich immer mehr verdichten und ich habe Grund anzunehmen, 
-            daß in Rom von ernstzunehmender Seite diesbezügliche Anregungen gemacht wurden.</p>
-         <p>Da würde ich Sie, Hochw. Herr Abt, dringend bitten, geeigneten Ortes Aufklärungen zu geben, falls sich Ge-</p>
+         <p>Nun habe ich leider gelegentlich meiner jetzigen Anwesenheit in Wien in Angelegenheit
+            des Priesterseminarbaues die Wahrnehmung machen müssen, daß die Gerüchte, die meine
+            Person in Zusammenhang mit der Besetzung des erzb. Stuhles von Wien bringen, <add
+               place="above">trotzdem</add> sich immer mehr verdichten und ich habe Grund
+            anzunehmen, daß in Rom von ernstzunehmender Seite diesbezügliche Anregungen gemacht
+            wurden.</p>
+         <p>Da würde ich Sie, Hochw. Herr Abt, dringend bitten, geeigneten Ortes Aufklärungen zu
+            geben, falls sich Ge-</p>
          <pb n="3"/>
-         <p>legenheit dazu bi<subst><del rend="strikethrough">t</del><add rend="overwritten">e</add></subst>ten sollen.</p>
-         <p>Ich bin heute ein zermürbter Mann; abgesehen von meinem Gallen- u. Gedärmleiden ist meine Nervosität eine so gesteigerte, 
-            daß schon die Repräsentationspflichten die in Wien ja unverhältnismäßig größer sind als in Klagenfurt, mich meines Erachtens aufreiben würden, 
-            ganz abgesehen von den überaus schwierigen, großen Aufgaben in Wien, die ich nur allzu gut kenne.</p>
+         <p>legenheit dazu bi<subst>
+               <del rend="strikethrough">t</del>
+               <add rend="overwritten">e</add>
+            </subst>ten sollen.</p>
+         <p>Ich bin heute ein zermürbter Mann; abgesehen von meinem Gallen- u. Gedärmleiden ist
+            meine Nervosität eine so gesteigerte, daß schon die Repräsentationspflichten die in Wien
+            ja unverhältnismäßig größer sind als in Klagenfurt, mich meines Erachtens aufreiben
+            würden, ganz abgesehen von den überaus schwierigen, großen Aufgaben in Wien, die ich nur
+            allzu gut kenne.</p>
          <p>Wien erfordert meines Erachtens eine jüngere, frische, unverbrauchte Kraft.</p>
          <p>Was nutzt es, wenn ein Befehl ergehen würde, dass ich gehorchen müßte?</p>
-         <p>Ich mache Ihnen diese vertraulichen Mitteilungen und meine, daß Sie in Ihrer bewährten klugen Art schon einen Weg finden werden, mich zu unterstützen, ne sors in me cadat.</p>
+         <p>Ich mache Ihnen diese vertraulichen Mitteilungen und meine, daß Sie in Ihrer bewährten
+            klugen Art schon einen Weg finden werden, mich zu unterstützen, ne sors in me cadat.</p>
          <note type="foliation" rend="typewritten">33</note>
-         <pb n="3"/>
-         <p>Indem ich Ihnen, <unclear>nun</unclear> gute Fahrt, viel Erfolg u. glückliche Heimkehr aus Brasilien wünsche zeichne ich mit herzlichen Grüßen an den <choice><abbr>G.G.</abbr><expan>Galliam Germaniamque</expan></choice> Primas u. Ihre Paters in Trier als</p>
+         <pb n="4"/>
+         <p>Indem ich Ihnen, <unclear>nun</unclear> gute Fahrt, viel Erfolg u. glückliche Heimkehr
+            aus Brasilien wünsche zeichne ich mit herzlichen Grüßen an den <choice>
+               <abbr>G.G.</abbr>
+               <expan>Galliam Germaniamque</expan>
+            </choice> Primas u. Ihre Paters in Trier als</p>
          <closer>
             <lb/><salute>Ihr dankbar ergebener</salute>
             <lb/><signed rend="handwritten">+Adam Hefter</signed>
-            <lb/><choice><abbr>F.B.</abbr><expan>Fürstbischof</expan></choice>
+            <lb/><choice>
+               <abbr>F.B.</abbr>
+               <expan>Fürstbischof</expan>
+            </choice>
          </closer>
       </body>
    </text>

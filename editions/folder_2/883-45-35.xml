@@ -69,11 +69,11 @@
                         </msItem>
                     </msContents>
                     <physDesc>
-			<objectDesc>
-			    <layoutDesc>
-				<ab>einseitig beschrieben</ab>
-			    </layoutDesc>
-			</objectDesc>
+                        <objectDesc>
+                            <layoutDesc>
+                                <ab>einseitig beschrieben</ab>
+                            </layoutDesc>
+                        </objectDesc>
                         <scriptDesc>
                             <ab>maschinenschriftlich</ab>
                         </scriptDesc>
@@ -83,35 +83,38 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p>Der österreichische Gesandte beim Heiligen Stuhl berichtet Bundeskanzler Engelbert Dollfuß 
-			über ein Gespräch mit dem britischen Gesandten Sir Robert Clive. Clive erkundigte sich 
-			nach der Haltung des Vatikans gegenüber Österreich und ob es in dieser Haltung jüngst 
-			Änderungen gegeben habe. Insbesondere zeigte er Interesse daran, ob die Zurückziehung 
-			des Klerus aus der Politik, die der österreichische Episkopat verfügt hatte, auf eine 
-			generelle Neubewertung der Kurie zurückzuführen sei, die sich – ähnlich wie in 
-			Deutschland – für eine Entpolitisierung des Klerus und die Aufgabe des Zentrums 
-			entschieden habe.</p>
-		<p>Der Gesandte betont in seiner Antwort, dass diese Maßnahme vom österreichischen Episkopat 
-			selbst ausgegangen sei und keine direkte Einflussnahme des Heiligen Stuhls bestanden 
-			habe. Auch der Hirtenbrief des Episkopats sei ein eigenständiger, spontaner Akt der 
-			Bischöfe gewesen. Dies beweise vielmehr das Wohlwollen der Kurie gegenüber der 
-			österreichischen Regierung, da der Episkopat ansonsten wohl eine Rücksprache mit 
-			dem Heiligen Stuhl gesucht hätte.</p>
-		<p>Clive deutete an, dass sich angesichts der wachsenden nationalsozialistischen Bewegung 
-			in Österreich eine taktische Zurückhaltung des Vatikans erklären ließe. Der Gesandte 
-			widersprach Spekulationen über eine mögliche Änderung der vatikanischen Haltung und 
-			verwies auf die konstante Berichterstattung des Osservatore Romano in Bezug auf Österreich. 
-			Er äußerte zudem die Ansicht, dass Berichte über eine breite nationalsozialistische 
-			Bewegung in Österreich übertrieben seien und eine kleine, aber laute Minderheit den 
-			Eindruck einer großen Massenbewegung erwecke.</p>
-		<p>Im weiteren Gespräch thematisierte Clive die vatikanische Diplomatie, insbesondere die Fähigkeit 
-			von päpstlichen Nuntien, Kontakte zu verschiedenen politischen Strömungen zu pflegen. 
-			Der österreichische Gesandte verwies jedoch darauf, dass der Apostolische Nuntius in Wien 
-			über unzureichenden Deutschkenntnissen verfüge um solche Kontakte aufzubauen.</p>
-		<p>Am Ende des Gesprächs kam Clive auf die Spannungen zwischen Österreich und Deutschland zu sprechen 
-			und äußerte die Hoffnung, dass die Streitfragen nicht vor den Völkerbund gelangen würden. 
-			Der Gesandte hielt es jedoch für unvermeidlich, den Völkerbund in die Konflikte einzubeziehen, 
-			da Österreich zur Wahrung seiner Unabhängigkeit verpflichtet sei.</p>
+                <p>Der österreichische Gesandte beim Heiligen Stuhl berichtet Bundeskanzler
+                    Engelbert Dollfuß über ein Gespräch mit dem britischen Gesandten Sir Robert
+                    Clive. Clive erkundigte sich nach der Haltung des Vatikans gegenüber Österreich
+                    und ob es in dieser Haltung jüngst Änderungen gegeben habe. Insbesondere zeigte
+                    er Interesse daran, ob die Zurückziehung des Klerus aus der Politik, die der
+                    österreichische Episkopat verfügt hatte, auf eine generelle Neubewertung der
+                    Kurie zurückzuführen sei, die sich – ähnlich wie in Deutschland – für eine
+                    Entpolitisierung des Klerus und die Aufgabe des Zentrums entschieden habe.</p>
+                <p>Der Gesandte betont in seiner Antwort, dass diese Maßnahme vom österreichischen
+                    Episkopat selbst ausgegangen sei und keine direkte Einflussnahme des Heiligen
+                    Stuhls bestanden habe. Auch der Hirtenbrief des Episkopats sei ein
+                    eigenständiger, spontaner Akt der Bischöfe gewesen. Dies beweise vielmehr das
+                    Wohlwollen der Kurie gegenüber der österreichischen Regierung, da der Episkopat
+                    ansonsten wohl eine Rücksprache mit dem Heiligen Stuhl gesucht hätte.</p>
+                <p>Clive deutete an, dass sich angesichts der wachsenden nationalsozialistischen
+                    Bewegung in Österreich eine taktische Zurückhaltung des Vatikans erklären ließe.
+                    Der Gesandte widersprach Spekulationen über eine mögliche Änderung der
+                    vatikanischen Haltung und verwies auf die konstante Berichterstattung des
+                    Osservatore Romano in Bezug auf Österreich. Er äußerte zudem die Ansicht, dass
+                    Berichte über eine breite nationalsozialistische Bewegung in Österreich
+                    übertrieben seien und eine kleine, aber laute Minderheit den Eindruck einer
+                    großen Massenbewegung erwecke.</p>
+                <p>Im weiteren Gespräch thematisierte Clive die vatikanische Diplomatie,
+                    insbesondere die Fähigkeit von päpstlichen Nuntien, Kontakte zu verschiedenen
+                    politischen Strömungen zu pflegen. Der österreichische Gesandte verwies jedoch
+                    darauf, dass der Apostolische Nuntius in Wien über unzureichenden
+                    Deutschkenntnissen verfüge um solche Kontakte aufzubauen.</p>
+                <p>Am Ende des Gesprächs kam Clive auf die Spannungen zwischen Österreich und
+                    Deutschland zu sprechen und äußerte die Hoffnung, dass die Streitfragen nicht
+                    vor den Völkerbund gelangen würden. Der Gesandte hielt es jedoch für
+                    unvermeidlich, den Völkerbund in die Konflikte einzubeziehen, da Österreich zur
+                    Wahrung seiner Unabhängigkeit verpflichtet sei.</p>
             </abstract>
             <correspDesc>
                 <correspAction type="sent">
@@ -124,9 +127,9 @@
                 </correspAction>
             </correspDesc>
         </profileDesc>
-	<revisionDesc>
-         <change who="#bernhard.kronegger">Added abstract, foliation, pbs</change>
-      	</revisionDesc>
+        <revisionDesc>
+            <change who="#bernhard.kronegger">Added abstract, foliation, pbs</change>
+        </revisionDesc>
     </teiHeader>
     <text type="Bericht">
         <body>

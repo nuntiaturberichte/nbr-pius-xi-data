@@ -70,11 +70,11 @@
                         </msItem>
                     </msContents>
                     <physDesc>
-			<objectDesc>
-			    <layoutDesc>
-				<ab>beidseitig beschrieben</ab>
-			    </layoutDesc>
-			</objectDesc>
+                        <objectDesc>
+                            <layoutDesc>
+                                <ab>beidseitig beschrieben</ab>
+                            </layoutDesc>
+                        </objectDesc>
                         <scriptDesc>
                             <ab>maschinenschriftlich</ab>
                         </scriptDesc>
@@ -84,32 +84,36 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p>Bischof Alois Hudal nimmt zum Memorandum der österreichischen Bischöfe bezüglich 
-			der politischen und kirchlichen Lage in Österreich und des Nationalsozialismus Stellung. 
-			Er unterstützt die gegenwärtige Haltung des Episkopats zur Regierung von Bundeskanzler 
-			Engelbert Dollfuß und betont die Notwendigkeit eines entschiedenen Widerstands gegen den 
-			Nationalsozialismus, den er als existenzielle Bedrohung für das katholische Leben in 
-			Österreich betrachtet. Hudal warnt davor, dass ein nationalsozialistisches Regime die 
-			katholische Elite aus öffentlichen Ämtern verdrängen und den Katholizismus aus der 
-			Öffentlichkeit in die Sakristei zurückdrängen würde.</p>
-		<p>Hudal betont das unter den Gläubigen durch den Abschluss des Reichskonkordats 1933 Verwirrung 
-			 entstanden sei, da es den Eindruck erwecke, dass die Kirche in Deutschland mit dem 
-			 NS-Regime kooperiere, während die österreichische Kirche es bekämpfe. Dies stelle einen 
-			 Widerspruch dar, der die Glaubwürdigkeit des Episkopats untergrabe. Hudal fordert daher 
-			 eine unmissverständliche, feierliche Verurteilung der Grundirrtümer des Nationalsozialismus 
-			 durch den Hl. Stuhl, insbesondere den Rassismus, die behauptete Überlegenheit der arischen 
-			 Rasse, die Nationalisierung der Religion, die antisemitische Ideologie und die Ablehnung 
-			 des Alten Testaments.</p>
-		<p>Als konkreten Schritt empfiehlt er Alfred Rosenbergs Werk „Der Mythus des 20. Jahrhunderts“ 
-			auf den Index zu setzen, da es als ideologische Grundlage des Nationalsozialismus diene 
-			und in Hitlerjugend-Organisationen zur Indoktrinierung genutzt werde. Er warnt, dass das 
-			NS-Regime langfristig eine antirömische, neogermanische Staatsreligion etablieren wolle 
-			und daher keine langfristige Koexistenz mit der katholischen Kirche möglich sei.</p>
-		<p>Abschließend spricht sich Hudal nochmals für eine klare Verurteilung dieser Irrtümer durch 
-			den Hl. Stuhl aus, und fordert gegebenenfalls auch kirchliche Zensurmaßnahmen gegen 
-			katholische Anhänger des Nationalsozialismus zu verhängen. Er betont, dass der 
-			Nationalsozialismus trotz äußerer Ähnlichkeiten mit dem italienischen Faschismus 
-			im Kern eine protestantisch geprägte Ideologie sei, die in ihrem Wesen nach antikatholisch wäre.</p>
+                <p>Bischof Alois Hudal nimmt zum Memorandum der österreichischen Bischöfe bezüglich
+                    der politischen und kirchlichen Lage in Österreich und des Nationalsozialismus
+                    Stellung. Er unterstützt die gegenwärtige Haltung des Episkopats zur Regierung
+                    von Bundeskanzler Engelbert Dollfuß und betont die Notwendigkeit eines
+                    entschiedenen Widerstands gegen den Nationalsozialismus, den er als
+                    existenzielle Bedrohung für das katholische Leben in Österreich betrachtet.
+                    Hudal warnt davor, dass ein nationalsozialistisches Regime die katholische Elite
+                    aus öffentlichen Ämtern verdrängen und den Katholizismus aus der Öffentlichkeit
+                    in die Sakristei zurückdrängen würde.</p>
+                <p>Hudal betont das unter den Gläubigen durch den Abschluss des Reichskonkordats
+                    1933 Verwirrung entstanden sei, da es den Eindruck erwecke, dass die Kirche in
+                    Deutschland mit dem NS-Regime kooperiere, während die österreichische Kirche es
+                    bekämpfe. Dies stelle einen Widerspruch dar, der die Glaubwürdigkeit des
+                    Episkopats untergrabe. Hudal fordert daher eine unmissverständliche, feierliche
+                    Verurteilung der Grundirrtümer des Nationalsozialismus durch den Hl. Stuhl,
+                    insbesondere den Rassismus, die behauptete Überlegenheit der arischen Rasse, die
+                    Nationalisierung der Religion, die antisemitische Ideologie und die Ablehnung
+                    des Alten Testaments.</p>
+                <p>Als konkreten Schritt empfiehlt er Alfred Rosenbergs Werk „Der Mythus des 20.
+                    Jahrhunderts“ auf den Index zu setzen, da es als ideologische Grundlage des
+                    Nationalsozialismus diene und in Hitlerjugend-Organisationen zur Indoktrinierung
+                    genutzt werde. Er warnt, dass das NS-Regime langfristig eine antirömische,
+                    neogermanische Staatsreligion etablieren wolle und daher keine langfristige
+                    Koexistenz mit der katholischen Kirche möglich sei.</p>
+                <p>Abschließend spricht sich Hudal nochmals für eine klare Verurteilung dieser
+                    Irrtümer durch den Hl. Stuhl aus, und fordert gegebenenfalls auch kirchliche
+                    Zensurmaßnahmen gegen katholische Anhänger des Nationalsozialismus zu verhängen.
+                    Er betont, dass der Nationalsozialismus trotz äußerer Ähnlichkeiten mit dem
+                    italienischen Faschismus im Kern eine protestantisch geprägte Ideologie sei, die
+                    in ihrem Wesen nach antikatholisch wäre.</p>
             </abstract>
             <correspDesc>
                 <correspAction type="sent">
@@ -119,9 +123,9 @@
                 </correspAction>
             </correspDesc>
         </profileDesc>
-	<revisionDesc>
-         <change who="#bernhard.kronegger">Added abstract, foliation, pbs</change>
-      	</revisionDesc>
+        <revisionDesc>
+            <change who="#bernhard.kronegger">Added abstract, foliation, pbs</change>
+        </revisionDesc>
     </teiHeader>
     <text type="Bericht">
         <body>

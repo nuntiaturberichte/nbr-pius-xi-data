@@ -70,10 +70,10 @@
                     </msContents>
                     <physDesc>
                         <objectDesc>
-			                <layoutDesc>
-				                <ab>einseitig beschrieben</ab>
-			                </layoutDesc>
-			            </objectDesc>
+                            <layoutDesc>
+                                <ab>einseitig beschrieben</ab>
+                            </layoutDesc>
+                        </objectDesc>
                         <scriptDesc>
                             <ab>maschinenschriftlich</ab>
                         </scriptDesc>
@@ -91,32 +91,39 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p>Theodor Innitzer legt dem Heiligen Stuhl im Namen des österreichischen Episkopats 
-                    eine Stellungnahme zum Nationalsozialismus vor. Das Dokument unterstreicht die 
-                    fortwährende Ablehnung der nationalsozialistischen Ideologie durch die österreichische 
-                    Bischofskonferenz und verweist auf frühere Verurteilungen, insbesondere durch das 
-                    gemeinsame Hirtenschreiben vom 7. Februar 1932 sowie den Hirtenbrief von Bischof 
-                    Johannes Maria Gföllner vom 21. Jänner 1933. Die Bischöfe betonen vier Grundprinzipien: 
-                    die Einheit der Menschheit, einen gottgewollten christlichen Nationalismus, 
-                    die Unterscheidung von Staat und Nation und die Übernationalität der Religion.</p>
-                <p>Die österreichischen Bischöfe sehen im Nationalsozialismus einen materialistischen Rassenwahn, 
-                    und eine unchristliche Form des Nationalismus. Im Gegensatz zur Situation in Deutschland, 
-                    wo der Episkopat mit einer nationalsozialistischen Regierung interagieren müsse, 
-                    bleibe der Nationalsozialismus in Österreich eine verbotene Partei ohne staatliche Legitimität. 
-                    Die Bischöfe betonen daher, dass sie in ihrer Ablehnung der nationalsozialistischen Irrtümer 
-                    keine Revision ihrer Haltung vornehmen.</p>
-                <p>Das Dokument schildert zudem die staatsfeindlichen Aktivitäten der Nationalsozialisten in Österreich, 
-                    darunter illegale Propaganda, subversive Strukturen und gewaltsame Aktionen wie Bombenanschläge und Attentate. 
-                    Die Bewegung wird als Bedrohung der staatlichen Ordnung und der politischen Unabhängigkeit Österreichs angesehen. 
-                    Insbesondere heben die Bischöfe hervor, dass der Nationalsozialismus nicht nur eine politische Herausforderung, 
-                    sondern auch eine Gefahr für die katholische Glaubenstreue darstelle.</p>
-                <p>Die Erklärung stellt sich ausdrücklich hinter die Regierung des sogenannten Ständestaates, die katholisch geprägt 
-                    sei und im Sinne der Soziallehre der Enzyklika „Quadragesimo anno“ handeln würde. Die Bischöfe begrüßen die 
-                    Maßnahmen der Regierung, die eine christliche Gesellschaftsordnung fördern, darunter Reformen im Schul- und 
-                    Ehewesen sowie die Reorganisation des Heeres im katholischen Geist.</p>
-                <p>Abschließend erbitten die Bischöfe eine klare lehramtliche Stellungnahme des Heiligen Stuhls über den 
-                    Nationalsozialismus und kündigen ein gemeinsames Hirtenwort an, das die Gläubigen zur Treue gegenüber 
-                    der bestehenden Staatsordnung ermahnen soll.</p>
+                <p>Theodor Innitzer legt dem Heiligen Stuhl im Namen des österreichischen Episkopats
+                    eine Stellungnahme zum Nationalsozialismus vor. Das Dokument unterstreicht die
+                    fortwährende Ablehnung der nationalsozialistischen Ideologie durch die
+                    österreichische Bischofskonferenz und verweist auf frühere Verurteilungen,
+                    insbesondere durch das gemeinsame Hirtenschreiben vom 7. Februar 1932 sowie den
+                    Hirtenbrief von Bischof Johannes Maria Gföllner vom 21. Jänner 1933. Die
+                    Bischöfe betonen vier Grundprinzipien: die Einheit der Menschheit, einen
+                    gottgewollten christlichen Nationalismus, die Unterscheidung von Staat und
+                    Nation und die Übernationalität der Religion.</p>
+                <p>Die österreichischen Bischöfe sehen im Nationalsozialismus einen
+                    materialistischen Rassenwahn, und eine unchristliche Form des Nationalismus. Im
+                    Gegensatz zur Situation in Deutschland, wo der Episkopat mit einer
+                    nationalsozialistischen Regierung interagieren müsse, bleibe der
+                    Nationalsozialismus in Österreich eine verbotene Partei ohne staatliche
+                    Legitimität. Die Bischöfe betonen daher, dass sie in ihrer Ablehnung der
+                    nationalsozialistischen Irrtümer keine Revision ihrer Haltung vornehmen.</p>
+                <p>Das Dokument schildert zudem die staatsfeindlichen Aktivitäten der
+                    Nationalsozialisten in Österreich, darunter illegale Propaganda, subversive
+                    Strukturen und gewaltsame Aktionen wie Bombenanschläge und Attentate. Die
+                    Bewegung wird als Bedrohung der staatlichen Ordnung und der politischen
+                    Unabhängigkeit Österreichs angesehen. Insbesondere heben die Bischöfe hervor,
+                    dass der Nationalsozialismus nicht nur eine politische Herausforderung, sondern
+                    auch eine Gefahr für die katholische Glaubenstreue darstelle.</p>
+                <p>Die Erklärung stellt sich ausdrücklich hinter die Regierung des sogenannten
+                    Ständestaates, die katholisch geprägt sei und im Sinne der Soziallehre der
+                    Enzyklika „Quadragesimo anno“ handeln würde. Die Bischöfe begrüßen die Maßnahmen
+                    der Regierung, die eine christliche Gesellschaftsordnung fördern, darunter
+                    Reformen im Schul- und Ehewesen sowie die Reorganisation des Heeres im
+                    katholischen Geist.</p>
+                <p>Abschließend erbitten die Bischöfe eine klare lehramtliche Stellungnahme des
+                    Heiligen Stuhls über den Nationalsozialismus und kündigen ein gemeinsames
+                    Hirtenwort an, das die Gläubigen zur Treue gegenüber der bestehenden
+                    Staatsordnung ermahnen soll.</p>
             </abstract>
             <correspDesc>
                 <correspAction type="sent">
@@ -127,7 +134,7 @@
             </correspDesc>
         </profileDesc>
         <revisionDesc>
-         <change who="#bernhard.kronegger">Added abstract, foliation, pbs</change>
+            <change who="#bernhard.kronegger">Added abstract, foliation, pbs</change>
         </revisionDesc>
     </teiHeader>
     <text type="Pro_Memoria">
