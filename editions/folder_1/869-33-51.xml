@@ -7,7 +7,7 @@
       <fileDesc>
          <titleStmt>
             <title>Enrico Sibilia an Eugenio Pacelli, Wien 28.08.1932</title>
-            <author>Enrico Sibilia</author>
+            <author><persName ref="http://d-nb.info/gnd/1013145208">Enrico Sibilia</persName></author>
             <respStmt>
                <resp>TEI tempalte prepared by</resp>
                <persName ref="#daniel.schopper">Daniel Schopper</persName>

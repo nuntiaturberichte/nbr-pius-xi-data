@@ -7,7 +7,8 @@
       <fileDesc>
          <titleStmt>
             <title>Mgr. Segretario an Johannes Gföllner, Vatikanstadt 06.08.1932</title>
-            <author cert="high">Giuseppe Pizzardo</author>
+            <author cert="high"><persName ref="http://d-nb.info/gnd/1110822049">Giuseppe Pizzardo</persName>
+            </author>
             <respStmt>
                <resp>TEI tempalte prepared by</resp>
                <persName ref="#daniel.schopper">Daniel Schopper</persName>

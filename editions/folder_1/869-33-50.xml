@@ -7,7 +7,8 @@
       <fileDesc>
          <titleStmt>
             <title>Giuseppe Pizzardo, Vatikan 21.08.1932</title>
-            <author>Giuseppe Pizzardo</author>
+            <author><persName ref="http://d-nb.info/gnd/1110822049">Giuseppe Pizzardo</persName>
+            </author>
             <respStmt>
                <resp>TEI tempalte prepared by</resp>
                <persName ref="#daniel.schopper">Daniel Schopper</persName>

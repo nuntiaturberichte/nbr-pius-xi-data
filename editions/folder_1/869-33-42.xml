@@ -7,7 +7,8 @@
       <fileDesc>
          <titleStmt>
             <title>Augustin Bea an Giuseppe Pizzardo, Pullach bei München 12.08.1932</title>
-            <author>Augustin Bea</author>
+            <author><persName ref="https://d-nb.info/gnd/118654144">Augustin Bea</persName>
+            </author>
             <respStmt>
                <resp>TEI tempalte prepared by</resp>
                <persName ref="#daniel.schopper">Daniel Schopper</persName>

@@ -7,7 +7,8 @@
       <fileDesc>
          <titleStmt>
             <title>Johannes Maria Gföllner an Giuseppe Pizzardo, Linz 14.08.1932</title>
-            <author>Johannes Maria Gföllner</author>
+            <author><persName ref="https://d-nb.info/gnd/129176222">Johannes Gföllner</persName>
+            </author>
             <respStmt>
                <resp>TEI tempalte prepared by</resp>
                <persName ref="#daniel.schopper">Daniel Schopper</persName>
