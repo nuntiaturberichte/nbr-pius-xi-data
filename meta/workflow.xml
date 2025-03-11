@@ -45,104 +45,78 @@
     <text>
         <body>
             <div>
-                <p>Als Projekt des ÖHI Rom entstand die digitale Edition in erster Linie in
+                <p>Als Projekt des ÖHI Rom entstand die digitale Edition der Nuntiatur Pius XI. in
                     Zusammenarbeit mit dem Auftraggeber Andreas Gottsmann (ÖHI Rom), Bernhard
                     Kronegger (Universität Passau) sowie Martin Kroißenbrunner, der als externer
                     Mitarbeiter beteiligt war. Die Kommunikation erfolgte durch E-Mail und
                     Videokonferenzen.</p>
+                <p>Das zu digitalisierende Material beschränkt sich auf fünf Mappen. Pro Mappe wurde
+                    derselbe Workflow angewandt: Transkription, Kollationierung, TEI-Kodierung und
+                    schließlich Internetstellung. Im Folgenden wird genauer darauf eingegangen.</p>
                 <p>Da die Erstellung digitaler Editionen einem ständigen Wandel unterliegt, der mit
                     häufigen Anpassungen der Arbeitsmittel einhergeht, werden immer wieder kleine
                     Änderungen vorgenommen, ohne dass diese anders als durch die Benutzung selbst
                     dokumentiert werden. Eine Darstellung des Arbeitsablaufs kann daher nur eine
                     Momentaufnahme sein, auch wenn wir bemüht sind, sie aktuell zu halten und auch
                     Veränderungen im Zeitverlauf zu dokumentieren.</p>
-                <p>Das zu digitalisierende Material beschränkt sich auf fünf Mappen. Pro Mappe wurde
-                    derselbe Workflow angewandt: Transkription, Kollationierung, TEI-Kodierung und
-                    schließlich Internetstellung. Im folgenden wird genauer auf diese
-                    Arbeitsschritte eingegangen.</p>
-                <p>(ev. Tabelle, die Arbeitsschritte und daran beteiligte Personen)</p>
             </div>
             <div type="1">
                 <head type="1">1. Transkription</head>
                 <p>Der erste Schritt war die Umwandlung des Ausgangsmaterials in computerlesbaren
-                    Text. [Wie wurde Mappe 1 und 2 transkribiert? Fand eine Korrektur statt?]. Am
-                    Ende dieses Schrittes standen die korrigierten Transkriptionen für den nächsten
-                    Schritt, der Kollation, bereit.</p>
-                <p>Für die Transkription der [Mappe 3] wurde<ref target="https://transkribus.eu"
-                        >Transkribus</ref> eingesetzt. Transkribus ist eine in Innsbruck entwickelte
-                    Plattform zur automatischen Texterkennung. Nach dem Hochladen der Faksimiles
-                    wurde wie folgt vorgegangen:</p>
-                <list type="ordered">
-                    <item>###Layout der Seiten erfassen: Ziel dieses Schrittes war es, einerseits
-                        die Grundlinien bzw. »baselines« der Zeilen und andererseits die
-                        Seitenelemente (Seitenzahlen, Überschriften, Absätze, …) mittels »text
-                        regions« zu erfassen. Ersteres dient als Ausgangsbasis für die automatische
-                        Texterkennung, Letzteres zur Strukturierung der Transkription. Mehrere von
-                        Transkribus zur Verfügung gestellte Layout-Analyse-Engines wurden getestet
-                        und die geeignetste eingesetzt. Das Ergebnis wurde anschließend überprüft
-                        und gegebenenfalls korrigiert.</item>
-                    <item>###Textbereiche annotieren: Ziel dieses Schrittes war es, die Textregionen
-                        zu benennen. Die untenstehende Tabelle zeigt, welche Bezeichnungen verwendet
-                        wurden. P2PaLA ist ein Layout-Analysewerkzeug, das Strukturtypen auf
-                        Regionsebene und Grundlinien einer Seite auf der Basis von vortrainierten
-                        Modellen erkennt und diesen Schritt erheblich erleichterte. Auch hier wurde
-                        das Ergebnis kontrolliert und gegebenenfalls korrigiert.</item>
-                    <item>###Texterkennung: Die Erstellung einer Transkription des Faksimiles war
-                        das Ziel dieses Schrittes. Da die von Transkribus zur Verfügung gestellten
-                        Modelle nicht mit Hochstellungen umgehen konnten, wurden eigene Modelle
-                        trainiert. Dazu wurden etwa 75 Seiten eigenhändig transkribiert. Die Modelle
-                        lieferten Transkriptionen mit durchschnittlich 1-2 Fehlern pro Seite. Diese
-                        wurden dankenswerterweise von Frau <ref target="https://sabine-kofler.com/"
-                            >Sabine Kofler</ref> korrigiert.</item>
-                </list>
-                <p>###Die Bände 1-3 wurden als PAGE XML-Dateien exportiert. Dabei wurden pro Band
-                    Dateien generiert für die Einleitung und jenen Abschnitt, der die Briefe
-                    beinhaltet.</p>
+                    Text. Dabei wurde mit Handschrift anders umgegangen als mit Maschinenschrift. Da
+                    pro Handschrift zu wenig Traninigsmaterial vorlag, wurde manuell transkribiert.
+                    Maschinenschrift konnte halbautomatisch transkribiert werden. Dafür scannte man
+                    die Mappen zuerst mit einem hochauflösenden Buchscanner. Danach wurden die
+                    Bilddateien auf <ref target="https://transkribus.eu">Transkribus</ref> geladen,
+                    wo ein <ref
+                        target="https://readcoop.eu/de/modelle/transkribus-print-multi-language-dutch-german-english-finnish-french-swedish-etc/"
+                        >vortrainiertes Texterkennungsmodell</ref> angewandt wurde. Danach fand eine
+                    manuelle Kontrolle statt. Nach dem Export standen die korrigierten
+                    Transkriptionen in docx-Format für die Kollation bereit. Zusätzliche Hinweise
+                    für die TEI-Kodierung (z. B. Entfernungen und Einfügungen) wurden als Kommentare
+                    in den Word Dokumenten vermerkt.</p>
             </div>
             <div type="1">
-                <head type="1">#2. Kollationierung</head>
-                <p>Bei der Kollation Zunächst wird festgelegt, welche Textzeugen in den Vergleich
-                    einbezogen werden sollen. Dazu gehört die Entscheidung, ob es eine
-                    Leithandschrift oder Referenzfassung gibt, an der sich der Vergleich orientiert.
-                    Meistens wird eine früheste oder maßgebliche Version als Basis herangezogen.</p>
-                <p>Der eigentliche Vergleich erfolgt dann zeilen- oder wortweise. Dabei werden alle
-                    Abweichungen zwischen den Textfassungen erfasst. Solche Unterschiede können
-                    orthografischer Natur sein, lexikalische Varianten betreffen oder sich in der
-                    Syntax widerspiegeln. Auch Auslassungen oder spätere Ergänzungen sind relevant.
-                    Diese Varianten werden entweder manuell dokumentiert oder mit Hilfe digitaler
-                    Tools wie CollateX oder Juxta ermittelt, die große Textmengen effizient
-                    vergleichen können.</p>
-                <p>Schließlich erfolgt die Bewertung der Varianten. Hier stellt sich die Frage,
-                    welche Version als ursprünglicher oder maßgeblicher angesehen wird. Dazu kann
-                    eine stemmatische Analyse herangezogen werden, wenn eine Rekonstruktion der
-                    Überlieferungsgeschichte erforderlich ist. Auch eine texthistorische
-                    Einschätzung kann entscheidend sein, insbesondere wenn es sich um spätere
-                    Korrekturen oder bewusste Änderungen durch den Autor handelt. In manchen Fällen
-                    reflektieren verschiedene Fassungen auch unterschiedliche redaktionelle
-                    Intentionen, sodass eine redaktionskritische Betrachtung notwendig wird. Das
-                    Ergebnis der Kollation fließt in die Erstellung des finalen Textes und in den
-                    textkritischen Apparat ein, der dem Leser die Varianten systematisch
-                    erschließt.</p>
+                <head type="1">2. Kollationierung</head>
+                <p>Nach der Transkription erfolgte die Kollationierung, also der Vergleich und die
+                    Zusammenführung der unterschiedlichen Textvarianten. Ziel war es, Abweichungen
+                    zwischen den Texten systematisch zu erfassen und zu dokumentieren.</p>
+                <p>[Dafür wurden die transkribierten Texte in ein digitales Kollationierungswerkzeug
+                    importiert, das einen direkten Vergleich der Varianten ermöglichte. Neben der
+                    automatisierten Texterkennung kamen auch manuelle Prüfungen zum Einsatz, um
+                    sicherzustellen, dass keine inhaltlichen oder formalen Abweichungen übersehen
+                    wurden. Die Unterschiede wurden annotiert und in einer kritischen Edition
+                    zusammengeführt. Besondere Herausforderungen stellten dabei beschädigte oder
+                    schwer lesbare Stellen dar, die mithilfe historischer und
+                    sprachwissenschaftlicher Analysen rekonstruiert wurden.]</p>
             </div>
-
             <div type="1">
                 <head type="1">3. TEI-Kodierung</head>
-                <p>###</p>
+                <p>Die TEI-Kodierung diente der strukturierten Erfassung und Auszeichnung der
+                    transkribierten und kollationierten Texte in einem standardisierten XML-Format.
+                    Grundlage für die Kodierung bildeten die kommentierten Word-Dokumente. Zunächst
+                    wurde eine TEI-Vorlage erstellt, die alle relevanten Struktur- und
+                    Metadateninformationen berücksichtigte.</p>
+                <p>Danach wurden die entsprechenden Inhalte systematisch in das TEI-Format
+                    übertragen. Dies geschah sowohl manuell als auch halbautomatisch mithilfe eines
+                    Python-Skriptes, das die <code>&lt;correspContext&gt;</code>-Elemente
+                    generierte, die für die Navigation innerhalb der digitalen Edition notwendig
+                    waren.</p>
             </div>
-
             <div type="1">
                 <head type="1">4. Internetstellung</head>
                 <p>Nach der Erstellung der <ref
-                        target="https://github.com/nuntiaturberichte/nbr-pius-xi-data/tree/default/TEI/editions"
-                        >XML/TEI-Dateien</ref>, die auf dieser Website darstellt werden, wurden <ref
-                        target="https://github.com/nuntiaturberichte/nbr-pius-xi-static/tree/main/xslt"
-                        >XSLT-Dateien</ref> erzeugt, um mittels <code>ant</code>-Befehl und einer
+                        target="https://github.com/nuntiaturberichte/nbr-pius-xi-data/tree/default/editions"
+                        >XML/TEI-Dateien</ref>, die auf dieser Website dargestellt werden, wurden
                         <ref
-                        target="https://github.com/nuntiaturberichte/nbr-pius-xi-static/tree/main/build.xml"
-                        >build.xml-Datei</ref> HTML-Seiten zu generieren. Diese Vorgangsweise
-                    basiert auf dem Static Site Generator <ref
+                        target="https://github.com/nuntiaturberichte/nbr-pius-xi-static/tree/main/xslt"
+                        >XSLT-Dateien</ref> erzeugt. Um die Transformation und weitere notwendige
+                    Schritte für die Funktionalität der Webapplikation sowie das Deployment auf
+                    GitHub Pages zu automatisieren, wurde GitHub Actions eingesetzt. Diese
+                    Vorgangsweise basiert auf dem Static Site Generator <ref
                         target="https://github.com/acdh-oeaw/dse-static-cookiecutter"
-                        >DSE-Static-Cookiecutter</ref>.</p>
+                        >DSE-Static-Cookiecutter</ref>. Neue Änderungen an den TEI- oder XSL-Dateien
+                    können dadurch unkompliziert in die Webapplikation integriert werden.</p>
             </div>
         </body>
     </text>
