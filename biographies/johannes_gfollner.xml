@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kurzbiographie von Johannes Maria Gföllner</title>
+                <respStmt>
+                    <resp>Kurzbiograhie verfasst von</resp>
+                    <persName ref="https://d-nb.info/gnd/1221965530">Bernhard Kronegger</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI erstellt von</resp>
+                    <persName>Martin Kroissenbrunner</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Ekkart Sauser, "Gföllner, Johannes Ev. Maria," in
+                    Biographisch-Bibliographisches Kirchenlexikon, ed. Friedrich Wilhelm Bautz
+                    (Herzberg: Verlag Trautgott Bautz, 1998), 1031-1033</bibl>
+                <bibl>"Gföllner Johannes Maria," in Österreichisches Biographisches Lexikon
+                    1815–1950, Band I, ed. Österreichische Akademie der Wissenschaften (Wien: Verlag
+                    der Österreichischen Akademie der Wissenschaften, 1993), 436</bibl>
+                <bibl>Rudolf Zinnhobler, "Johannes Maria Gföllner," in Christen im Widerstand gegen
+                    das Dritte Reich, ed. Joël Pottier and Peter André Bloch (Burg-Verlag, 1988),
+                    124-138</bibl>
+                <bibl>Maximilian Liebmann, "NS-Kirche: Bischof Gföllner verhält sich anders,"
+                    Theologisch-Praktische Quartalschrift 130 (1982): 125-131</bibl>
+                <bibl>Karin Stögner, "Gföllner, Johannes Evangelist Maria," in Handbuch des
+                    Antisemitismus: Judenfeindschaft in Geschichte und Gegenwart, ed. Wolfgang Benz
+                    (de Gruyter, 2009), 282</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Johannes Maria Gföllner</head>
+                <div type="table">
+                    <table>
+                        <row>
+                            <cell>Vorname</cell>
+                            <cell>Johannes Evangelist Maria</cell>
+                        </row>
+                        <row>
+                            <cell>Nachname</cell>
+                            <cell>Gföllner</cell>
+                        </row>
+                        <row>
+                            <cell>Geburtsdatum</cell>
+                            <cell>17.12.1867</cell>
+                        </row>
+                        <row>
+                            <cell>Sterbedatum</cell>
+                            <cell>03.06.1941</cell>
+                        </row>
+                        <row>
+                            <cell>Geburtsort</cell>
+                            <cell>Waizenkirchen, Oberösterreich</cell>
+                        </row>
+                        <row>
+                            <cell>Tätigkeit/Beruf</cell>
+                            <cell>Bischof von Linz</cell>
+                        </row>
+                        <row>
+                            <cell>Bildung</cell>
+                            <cell>1879 Knabenseminar Freinberg, Linz; 1887-1894 Collegium Germanicum
+                                et Hungaricum, Rom; Promotion in Theologie und Philosophie an der
+                                Päpstlichen Universität Gregoriana</cell>
+                        </row>
+                        <row>
+                            <cell>Positionen</cell>
+                            <cell>1897 Religionsprofessor, Gymnasium Petrinum Linz; 1909 Lehrstuhl
+                                für Pastoraltheologie, Theologische Diözesanlehranstalt Linz; 1915
+                                Bischof von Linz</cell>
+                        </row>
+                        <row>
+                            <cell>Publikationen</cell>
+                            <cell>Predigten, Hirtenbriefe, Schriften zur katholischen
+                                Theologie</cell>
+                        </row>
+                        <row>
+                            <cell>Bedeutende Ereignisse</cell>
+                            <cell>21.12.1933 Hirtenbrief gegen den Nationalsozialismus; 1936
+                                öffentliche Kritik an Alois Hudals „Grundlagen des
+                                Nationalsozialismus“; 1938 Weigerung, ein Abkommen mit dem NS-Regime
+                                ohne Zustimmung Roms zu unterzeichnen</cell>
+                        </row>
+                        <row>
+                            <cell>Einflüsse</cell>
+                            <cell>Eng mit dem Kaiserhaus verbunden; konservative theologische
+                                Prägung</cell>
+                        </row>
+                        <row>
+                            <cell>Auszeichnungen</cell>
+                            <cell>Keine spezifischen Ehrungen bekannt</cell>
+                        </row>
+                    </table>
+                </div>
+                <div type="text">
+                    <p><hi rend="bold">Johannes Evangelist Maria Gföllner</hi> (*17.12.1867 †
+                        03.06.1941): <hi rend="bold">Bischof von Linz</hi>, geboren in
+                        Waizenkirchen/Oberösterreich, trat 1879 in das <hi rend="italic"
+                            >Knabenseminar auf dem Freinberg in Linz</hi> ein, studierte
+                        anschließend von 1887-94 in Rom am <hi rend="italic">Collegium Germanicum et
+                            Hungaricum</hi> und promovierte sich an der <hi rend="italic"
+                            >Päpstlichen Universität Gregoriana</hi> zum <hi rend="bold">Dr. theol.
+                            et phil.</hi> Zwischen 1894 und 1896 war er <hi rend="italic">Erzieher
+                            in der Familie des Erzherzogs Karl Stephan</hi>, G. blieb auch nach dem
+                        Ende der Monarchie dem Kaiserhaus eng verbunden. Ab 1897 war er <hi
+                            rend="bold">Religionsprofessor</hi> am <hi rend="italic">bischöflichen
+                            Gymnasium Petrinum Linz</hi>. Er wurde 1909 auf den Lehrstuhl der
+                        Pastoraltheologie an der <hi rend="italic">Theologischen Diözesanlehranstalt
+                            Linz</hi> berufen und 1915 zum Bischof von Linz ernannt.</p>
+                    <p>G. zählte zu den <hi rend="bold">konservativen</hi> Bischöfen der
+                        Zwischenkriegszeit und lehnte insbesondere die Liturgische Bewegung ab. G.
+                        sympathisierte mit dem sog. <hi rend="bold">„Ständestaat“</hi> und war ein
+                            <hi rend="bold">entschiedener Gegner des Nationalsozialismus</hi> den er
+                        bereits in seinem Hirtenbrief von 1933 als mit dem katholischen Glauben
+                        unvereinbar verurteilte. Obwohl er den nationalsozialistischen Rassenhass
+                        und Antisemitismus ablehnte, finden sich in seinem Denken jedoch auch <hi
+                            rend="bold">antijudaistische Denkmuster</hi>, so attestierte er dem
+                        Judentum einen schädlichen Einfluss auf das moderne Kulturleben. Der
+                        gemeinsame <hi rend="italic">Hirtenbrief der österreichischen Bischöfe vom
+                            21.12.1933</hi>, der sich gegen den Nationalsozialismus ausspricht,
+                        trägt die Handschrift Gföllners. Als 1936 das Buch <hi rend="italic"
+                            >„Grundlagen des Nationalsozialismus“</hi> von Anima-Rektor <hi
+                            rend="bold">Alois Hudal</hi> erschien, in dem Hudal von einer
+                        Vereinbarkeit von Christentum und Nationalsozialismus schrieb, widersprach
+                        Gföllner dieser Einstellung erneut von der Kanzel herab. Den gemeinsamen
+                        Aufruf der österreichischen Bischöfe bei der Abstimmung zum Anschluss mit
+                        „Ja“ zu stimmen unterzeichnete Gföllner zwar nur widerwillig, er ließ diese
+                        jedoch auch in seinem Bistum von der Kanzel verkündigen. Seine Unterschrift
+                        unter ein bereits von <hi rend="bold">Kardinal Innitzer</hi>, <hi
+                            rend="bold">Erzbischof Waitz</hi> und <hi rend="bold">Bischof
+                            Hefter</hi> unterschriebenes Abkommen zwischen dem <hi rend="italic"
+                            >österreichischen Episkopat</hi> und dem <hi rend="italic"
+                            >NS-Regime</hi> verweigerte er jedoch mit Verweis auf die nötige
+                        Zustimmung Roms.</p>
+                    <p>Im Folgenden beschränkte G. sich auf <hi rend="bold">passiven Widerstand
+                            gegen den Nationalsozialismus</hi> und wurde nur dort aktiv, wo er die
+                        Interessen der Kirche beeinträchtigt sah. Kurz vor seinem Tod konnte er mit
+                        der <hi rend="bold">Ernennung von Josef Fließer zum Generalvikar</hi> seine
+                        Nachfolge im Bistum in seinem Sinne sichern.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

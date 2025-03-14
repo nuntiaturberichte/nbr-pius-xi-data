@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kurzbiographie von Theodor Innitzer</title>
+                <respStmt>
+                    <resp>Kurzbiograhie verfasst von</resp>
+                    <persName ref="https://d-nb.info/gnd/1221965530">Bernhard Kronegger</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI erstellt von</resp>
+                    <persName>Martin Kroissenbrunner</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Viktor Reimann, Innitzer: Kardinal zwischen Hitler und Rom, (Wien: Amalthea,
+                    1988)</bibl>
+                <bibl>Maximilian Liebmann, Theodor Innitzer und der Anschluss: Österreichs Kirche
+                    1938, Grazer Beiträge zur Theologie-Geschichte und kirchlichen Zeit-Geschichte
+                    vol. 3, (Graz: Styria, 1988)</bibl>
+                <bibl>Rainer Witt, "Innitzer, Theodor," in Biographisch-Bibliographisches
+                    Kirchenlexikon, ed. Friedrich Wilhelm Bautz (Herzberg: Verlag Traugott Bautz,
+                    1990), 1277-1279</bibl>
+                <bibl>Maximilian Liebmann, "Innitzer, Theodor," in Die Bischöfe der
+                    deutschsprachigen Länder, 1785/1803 bis 1945: ein biographisches Lexikon, ed.
+                    Erwin Gatz (Berlin: Duncker &amp; Humblot, 1983)</bibl>
+                <bibl>Franz Groiß and Franz Loidl, Insultation Kardinal Innitzers durch
+                    Radikal-Nationalsozialisten anfangs Juli 1939, Wiener Katholische Akademie:
+                    Miscellanea vol. 6, (1976)</bibl>
+                <bibl>Ludger Born and Lothar Groppe, Die erzbischöfliche Hilfsstelle für
+                    nichtarische Katholiken in Wienibid. vol. 64, (1978)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Theodor Innitzer</head>
+                <div type="table">
+                    <table>
+                        <row>
+                            <cell>Vorname</cell>
+                            <cell>Theodor</cell>
+                        </row>
+                        <row>
+                            <cell>Nachname</cell>
+                            <cell>Innitzer</cell>
+                        </row>
+                        <row>
+                            <cell>Geburtsdatum</cell>
+                            <cell>25.12.1875</cell>
+                        </row>
+                        <row>
+                            <cell>Sterbedatum</cell>
+                            <cell>09.10.1955</cell>
+                        </row>
+                        <row>
+                            <cell>Geburtsort</cell>
+                            <cell>Neugeschrei-Weipert/Vejprty</cell>
+                        </row>
+                        <row>
+                            <cell>Tätigkeit/Beruf</cell>
+                            <cell>Erzbischof von Wien, Kardinal, Theologe, Politiker</cell>
+                        </row>
+                        <row>
+                            <cell>Bildung</cell>
+                            <cell>Gymnasium in Weipert; Priesterseminar Wien; Theologiestudium an
+                                der Universität Wien; 1906 Promotion zur Exegese des Kolosser- und
+                                Epheserbriefes; 1908 Habilitation („Johannes der Täufer nach der Hl.
+                                Schrift und der Tradition“)</cell>
+                        </row>
+                        <row>
+                            <cell>Positionen</cell>
+                            <cell>Kaplan in Preßburg; 1906 Promotion in Theologie; 1908
+                                Habilitation; 1911 Professor für Neutestamentliche Bibelwissenschaft
+                                an der Universität Wien; 1929-1930 Minister für Soziale Verwaltung;
+                                1932 Erzbischof von Wien; 1933 Kardinal</cell>
+                        </row>
+                        <row>
+                            <cell>Publikationen</cell>
+                            <cell>Theologische Arbeiten zur Exegese; Schriften zur Sozial- und
+                                Kirchenpolitik</cell>
+                        </row>
+                        <row>
+                            <cell>Bedeutende Ereignisse</cell>
+                            <cell>1929 Ernennung zum Minister für Soziale Verwaltung; 1932 Ernennung
+                                zum Erzbischof von Wien; 1933 Kardinalserhebung; 1938 Unterzeichnung
+                                der „Feierlichen Erklärung“ zum Anschluss Österreichs an
+                                Deutschland; 1940 Gründung der „Erzbischöflichen Hilfsstelle für
+                                nichtarische Katholiken“</cell>
+                        </row>
+                        <row>
+                            <cell>Einflüsse</cell>
+                            <cell>Starke Prägung durch konservative katholische Sozialpolitik</cell>
+                        </row>
+                        <row>
+                            <cell>Auszeichnungen</cell>
+                            <cell>Kardinalswürde 1933</cell>
+                        </row>
+                    </table>
+                </div>
+                <div type="text">
+                    <p><hi rend="bold">Theodor Innitzer</hi> (*25.12.1875 †09.10.1955): <hi
+                            rend="bold">Erzbischof von Wien und Kardinal</hi>, geboren in <hi
+                            rend="bold">Neugeschrei-Weipert/Vejprty</hi>. Innitzer wuchs als Sohn
+                        eines Fabrikarbeiters in <hi rend="bold">ärmlichen Verhältnissen</hi> auf
+                        und konnte nur Dank Unterstützung des Dechanten von Weipert das Gymnasium
+                        besuchen, welches er 1898 mit der <hi rend="bold">Matura</hi> abschloss. Im
+                        selben Jahr trat er ins <hi rend="bold">Wiener Priesterseminar</hi> ein und
+                        studierte an der <hi rend="bold">Universität Wien Theologie</hi>. Nach vier
+                        Jahren schloss er sein Studium mit Bestnote ab. Nach seiner <hi rend="bold"
+                            >Priesterweihe</hi> absolvierte er seine Kaplanszeit in Preßburg, um
+                        danach als <hi rend="bold">Studienpräfekt</hi> in das Seminar zurückzukehren
+                        und sich an der Universität zum <hi rend="bold">Dr. theol.</hi> zu
+                        promovieren. Nach seiner Dissertation unter zur Exegese des Kolosser- und
+                        Epheserbriefes, welche er im Jahr 1906 abschloss, folgte 1908 nur zwei Jahre
+                        später seine <hi rend="bold">Habilitation</hi> unter dem Titel <hi
+                            rend="italic">„Johannes der Täufer nach der Hl. Schrift und der
+                            Tradition“</hi>. Im Jahr 1911 wurde er an der Universität Wien auf den
+                            <hi rend="bold">Lehrstuhl für Neutestamentliche Bibelwissenschaft</hi>
+                        berufen. In der Zwischenkriegszeit wurde Innitzer auch politisch tätig, als
+                        ihn 1929 Bundeskanzler Schober als <hi rend="bold">Minister für Soziale
+                            Verwaltung</hi> nominierte. Dieses Amt hatte er bis zum Sturz der
+                        Regierung Schober am 25.09.1930 inne. Am 19.9.1932 wurde Innitzer zum <hi
+                            rend="bold">Erzbischof von Wien</hi> erhoben und ein Jahr später, am
+                        13.3.1933, zum <hi rend="bold">Kardinal</hi> kreiert. Wie auch der Rest des
+                        österreichischen Episkopats stand Innitzer dem sog. <hi rend="bold"
+                            >„Ständestaat“</hi> sehr freundlich gegenüber. In dieser Zeit förderte
+                        er die Arbeit der <hi rend="bold">Caritas</hi> und <hi rend="bold"
+                            >Katholische Aktion</hi>, mit dem Ziel soziale und gesellschaftliche
+                        Konflikte zu entschärfen. Seine naiv-gutgläubige Hoffnung durch ein <hi
+                            rend="bold">vorauseilendes Arrangement mit den Nationalsozialisten</hi>
+                        die Lage der Kirche im gesamten Deutschen Reich zu verbessern rief
+                        weitreichende Kritik hervor. So unterzeichnete Innitzer mit der
+                        österreichischen Bischofskonferenz eine „Feierliche Erklärung“, in welcher
+                        der österreichische Episkopat die Verdienste der Nationalsozialisten im
+                        wirtschaftlichen und sozialen Bereich, sowie in der Abwehr des Bolschewismus
+                        würdigte und die Gläubigen dazu aufforderte bei der kommenden <hi
+                            rend="bold">Abstimmung für den Anschluss an Deutschland</hi> zu stimmen.
+                        Dies geschah nicht in Übereinstimmung mit dem Hl. Stuhl, Innitzer wurde
+                        daraufhin <hi rend="bold">nach Rom beordert</hi> und musste eine
+                        Klarstellung für den Osservatore Romano unterzeichnen, um den schlechten
+                        Eindruck, welchen die Erklärung im Ausland erzeugt hatte, zu berichtigen.
+                        Nachdem sich die Hoffnungen auf bessere Behandlung der Kirche durch das
+                        NS-Regime zerschlagen hatte ging Innitzer wieder auf Abstand zu den neuen
+                        Machthabern. In Antwort auf eine Predigt vor der katholischen Jugend Wiens
+                        Anfang Oktober 1938, nach welcher die begeisterten Jugendlichen sich vor dem
+                        Bischofspalais versammelt hatten und Innitzer mit abgewandelten
+                        Führer-Slogans („Wir wollen unseren Bischof sehen!“) zugejubelt hatten, ließ
+                        die NS-Führung das Bischofspalais von SA und HJ stürmen und verwüsten. Im
+                        Jahr 1940 gründete Innitzer die <hi rend="bold">„Erzbischöfliche Hilfsstelle
+                            für nichtarische Katholiken“</hi>, die zum Ziel hatte katholisch
+                        getaufte Juden materiell zu unterstützten und die später versuchte ihren
+                        Abtransport in die Vernichtungslager zu verhindern. Nach dem Krieg bestellte
+                        der Vatikan im Jahr 1950 Dr. <hi rend="bold">Franz Joachym</hi> als
+                        Koadjutor für das Erzbistum Wien, der in der Folge die Leitung der Diözese
+                        übernahm. Innitzer gehört ob seiner <hi rend="bold">Unterstützung des
+                            Dollfuß-Regimes</hi> und seiner nach dem deutschen Einmarsch <hi
+                            rend="bold">naiv-enthusiastischen Haltung gegenüber dem
+                            Nationalsozialismus</hi> zu den <hi rend="bold">umstrittensten Gestalten
+                            der österreichischen Kirchengeschichte</hi>.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

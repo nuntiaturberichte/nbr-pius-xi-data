@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kurzbiographie von Luigi Faidutti</title>
+                <respStmt>
+                    <resp>Kurzbiograhie verfasst von</resp>
+                    <persName ref="https://d-nb.info/gnd/1221965530">Bernhard Kronegger</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI erstellt von</resp>
+                    <persName>Martin Kroissenbrunner</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Adlgasser, Franz. Die Mitglieder der österreichischen Zentralparlamente
+                    1848-1918. Teilband I: A-L. Studien zur Geschichte der
+                    österreichisch-ungarischen Monarchie. Edited by Institut für Neuzeit- und
+                    Zeitgeschichtsforschung der Österreichischen Akademie der Wissenschaften. Vol.
+                    33, Wien: Verlag der österreichischen Akademie der Wissenschaften, 2014.</bibl>
+                <bibl>Caucig, Paolo. Attività sociale e politica di Luigi Faidutti (1861-1931).
+                    Udine, 1977</bibl>
+                <bibl>Cromaz, Gian Francesco. Lettere dalla Lituania. Mons. Luigi Faidutti
+                    diplomatico vaticano in Lituania (1924-1931). Cividale del Friuli, 1992</bibl>
+                <bibl>Freund, Fritz. Das österreichische Abgeordnetenhaus. Ein
+                    biographisch-statistisches Handbuch 1907-1913. Wien: Wiener Verlag, 1907</bibl>
+                <bibl>Medeot, Camillo. I cattolici del Friuli orientale nel primo dopoguerra.
+                    Gorizia, 1972</bibl>
+                <bibl>Santeusanio, Italo. I cattolici isontini nel XX secolo. Dalla fine
+                    dell'Ottocento al 1918. Vol. I, Gorizia, 1981</bibl>
+                <bibl>Tassin, Ferruccio. "Mons. Antonino Zecchini (1864-1935) e Mons. Luigi Faidutti
+                    (1861-1931): due diplomatici friulani nei paesi baltici." Studi Goriziani 86
+                    (1987): 93-109</bibl>
+                <bibl>https://www.dizionariobiograficodeifriulani.it/faidutti-luigi/<!-- in gültiges Format umwandeln? --></bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Luigi Faidutti</head>
+                <div type="table">
+                    <table>
+                        <row>
+                            <cell>Vorname</cell>
+                            <cell>Luigi</cell>
+                        </row>
+                        <row>
+                            <cell>Nachname</cell>
+                            <cell>Faidutti</cell>
+                        </row>
+                        <row>
+                            <cell>Geburtsdatum</cell>
+                            <cell>11.04.1861</cell>
+                        </row>
+                        <row>
+                            <cell>Sterbedatum</cell>
+                            <cell>18.12.1931</cell>
+                        </row>
+                        <row>
+                            <cell>Geburtsort</cell>
+                            <cell>Scrutto, Friaul</cell>
+                        </row>
+                        <row>
+                            <cell>Tätigkeit/Beruf</cell>
+                            <cell>Priester, Politiker, Diplomat</cell>
+                        </row>
+                        <row>
+                            <cell>Bildung</cell>
+                            <cell>Volksschule in Cividale del Friuli; bischöfliches Gymnasium in
+                                Udine; 1881-1884 Priesterseminar in Görz; 1885-1888 Höheres
+                                Priesterbildungsinstitut zum Hl. Augustin (Frintaneum), Wien; 1888
+                                Promotion in Theologie an der Universität Wien</cell>
+                        </row>
+                        <row>
+                            <cell>Positionen</cell>
+                            <cell>1884 Kaplan in San Rocco; 1888 Hauskaplan des Erzbischofs von
+                                Görz; 1900 Professor für Altes Testament am Priesterseminar; 1902
+                                Domprobst in Görz; 1906 Obmann der Unione Cattolica Popolare del
+                                Friuli; 1907-1918 Abgeordneter im Reichsrat; 1913-1918
+                                Landeshauptmann von Görz und Gradisca; 1924 Auditor der Nuntiatur in
+                                Kaunas; 1925 Apostolischer Visitator in Litauen</cell>
+                        </row>
+                        <row>
+                            <cell>Publikationen</cell>
+                            <cell>Reden und Schriften zur Sozialpolitik, Genossenschaftsbewegung und
+                                kirchlichen Diplomatie</cell>
+                        </row>
+                        <row>
+                            <cell>Bedeutende Ereignisse</cell>
+                            <cell>1906 Gründung der Unione Cattolica Popolare del Friuli; 1907 Wahl
+                                in den Reichsrat; 1913 Landeshauptmann von Görz und Gradisca; 1921
+                                Exil in Rom; 1925 Apostolische Visitation in Litauen; 1927 Abschluss
+                                des Konkordats mit Litauen</cell>
+                        </row>
+                        <row>
+                            <cell>Einflüsse</cell>
+                            <cell>Starke Bindung an katholisch-soziale Bewegungen; enge Verbindung
+                                zur friaulischen Volksgruppe</cell>
+                        </row>
+                        <row>
+                            <cell>Auszeichnungen</cell>
+                            <cell>Bedeutende Rolle in der katholischen Diplomatie; Beteiligung an
+                                der Erstellung des Konkordats mit Litauen</cell>
+                        </row>
+                    </table>
+                </div>
+                <div type="text">
+                    <p><hi rend="bold">Luigi Faidutti</hi> (*11.04.1861 †18.12.1931): <hi
+                            rend="bold">Priester und Politiker</hi>, geboren in <hi rend="bold"
+                            >Scrutto</hi>. Faidutti wuchs in Friaul als Sohn eines Gemeindesekretärs
+                        (später Steuereinnehmers; bzw. laut Fritz Freund eines Lehrers) auf. Nach
+                        der <hi rend="italic">Volksschule in Cividale del Friuli</hi> besuchte er
+                        das <hi rend="italic">bischöfliche Gymnasium in Udine</hi> an welches sich
+                        ein theologisches Vorbereitungsjahr für das Priesterseminar anschloss. Das
+                            <hi rend="bold">Priesterseminar</hi> besuchte er ab 1881 in Görz und
+                        schloss dieses 1884 ab. Die <hi rend="bold">Priesterweihe</hi> wurde ihm von
+                        Erzbischof von Görz <hi rend="bold">Luigi Mattia Zorn</hi> gespendet. Im
+                        Anschluss war er ein Jahr als <hi rend="bold">Kaplan in der Pfarrei San
+                            Rocco</hi> tätig. Danach konnte er seine Studien von 1885 bis 1888 im
+                            <hi rend="italic">höheren Priesterbildungsinstitut zum Hl. Augustin
+                            (Frintaneum) in Wien</hi> weiter vertiefen. Im Jahr 1888 promovierte er
+                        sich zum <hi rend="bold">Doktor der Theologie</hi> an der Universität Wien.
+                        Danach kehrte er nach Görz zurück um das Amt des <hi rend="bold">Hauskaplans
+                            des Erzbischofs</hi> und des <hi rend="bold">Spirituals am
+                            Priesterseminar</hi> zu übernehmen. Im Jahr 1900 wurde er zum <hi
+                            rend="bold">Professor für Altes Testament am Priesterseminar</hi>
+                        ernannt und 1902 zum <hi rend="bold">Domprobst</hi> in Görz. Faiduttis
+                        kirchliche Karriere erlitt 1905 eine Zäsur durch die <hi rend="bold"
+                            >Anschuldigung schwerer moralischer Vergehen</hi> durch eine Reihe von
+                        Klerikern. Zwar wurde er 1909 in einem kirchlichen Gerichtsverfahren von
+                        allen Vorwürfen freigesprochen, aber dennoch hatte er sich in der
+                        Zwischenzeit beruflich auf soziale und politische Aktivitäten fokussiert. Ab
+                        1906 war er der <hi rend="bold">Obmann der Unione Cattolica Popolare del
+                            Friuli</hi> und somit einer der führenden italienisch-katholischen
+                        Genossenschaftsfunktionäre seiner Region. Ab 1907 war er <hi rend="bold"
+                            >Mitglied im Club italiano popolare (Italienische Volkspartei)</hi> als
+                        Obmannstellvertreter, und hatte von 1902 bis 1918 ein <hi rend="bold">Mandat
+                            im Landtag von Görz und Gradisca</hi> inne. Er kandidierte erfolgreich
+                        bei der Reichsratswahl 1907 und konnte sein Mandat 1911 verteidigen. Von
+                        1913 bis 1918 war er <hi rend="bold">Landeshauptmann von Görz und
+                            Gradisca</hi>. Als Politiker engagierte er sich für die <hi rend="bold"
+                            >bäuerliche Bevölkerung</hi>, insbesondere durch den Aufbau von
+                        Genossenschaften und ländlichen Kreditanstalten. Er <hi rend="bold">lehnte
+                            den radikalen Nationalismus und italienischen Irredentismus ab</hi> und
+                        betonte stattdessen die <hi rend="bold">Eigenständigkeit der friaulischen
+                            Volksgruppe</hi>. Hierfür forcierte er die Zusammenarbeit von
+                        italienischen und slowenischen Katholiken im Friaul. Seine politische
+                        Karriere wurde durch den Ausgang des Ersten Weltkriegs beendet. Aufgrund
+                        seiner <hi rend="bold">pro-österreichischen Haltung</hi> wurde Faidutti von
+                        den italienischen Autoritäten als <hi rend="bold">Vaterlandsverräter</hi>
+                        betrachtet. Die italienischen Behörden untersagten seine Rückkehr nach Görz,
+                        weshalb er vorerst im <hi rend="bold">Wiener Exil</hi> verblieb. Erst 1921
+                        erhielt er die Erlaubnis von Wien nach Rom zu übersiedeln. Im Jahr 1924
+                        wechselte er in die päpstliche Diplomatie und wurde zum <hi rend="bold"
+                            >Auditor der Nuntiatur in Kaunas</hi> ernannt und führte im Jahr 1925
+                        eine <hi rend="bold">apostolische Visitation in Litauen</hi> durch. Im
+                        Rahmen dieser Tätigkeit trug er maßgeblichen Anteil am Abschluss des <hi
+                            rend="bold">Konkordats mit Litauen</hi> im Jahr 1927.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

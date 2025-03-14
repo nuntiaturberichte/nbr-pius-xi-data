@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kurzbiographie von Ludwig von Pastor</title>
+                <respStmt>
+                    <resp>Kurzbiograhie verfasst von</resp>
+                    <persName ref="https://d-nb.info/gnd/1221965530">Bernhard Kronegger</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI erstellt von</resp>
+                    <persName>Martin Kroissenbrunner</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Wilhelm Baum, "Pastor von Camperfelden Ludwig Frh.," in Österreichisches
+                    Biographisches Lexikon 1815–1950 Band VII, ed. Österreichische Akademie der
+                    Wissenschaften (Wien: Verlag der Österreichischen Akademie der Wissenschaften,
+                    1978), 338</bibl>
+                <bibl>Thomas Brechenmacher, "Pastor, Ludwig, Freiherr von Camperfelden," in
+                    Biographisch-Bibliographisches Kirchenlexikon, ed. Friedrich Wilhelm Bautz and
+                    Traugott Bautz (Herzberg: Bautz, 1993), 1588-1594</bibl>
+                <bibl>Ulrich von Hehl, "Pastor, Luwdig, Frh. von Camperfelden," in Deutsche
+                    biographische Enzyklopädie, ed. Walther Killy and Rudolf Vierhaus (München:
+                    Saur, 1998), 569-570</bibl>
+                <bibl>Andreas Gottsmann, "Ludwig von Pastor und Enrico Sibilia – Diplomatie im
+                    Dienste des katholischen Österreich," in Italien und Österreich im Mitteleuropa
+                    der Zwischenkriegszeit / Italia e Austria nella Mitteleuropa tra le due guerre
+                    mondiali, ed. Maddalena Guiotto / Helmut Wohnout (Wien: Böhlau, 2018),
+                    281-306</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Ludwig von Pastor</head>
+                <div type="table">
+                    <table>
+                        <row>
+                            <cell>Vorname</cell>
+                            <cell>Ludwig</cell>
+                        </row>
+                        <row>
+                            <cell>Nachname</cell>
+                            <cell>Pastor Freiherr von Camperfelden</cell>
+                        </row>
+                        <row>
+                            <cell>Geburtsdatum</cell>
+                            <cell>31.01.1854</cell>
+                        </row>
+                        <row>
+                            <cell>Sterbedatum</cell>
+                            <cell>29.09.1928</cell>
+                        </row>
+                        <row>
+                            <cell>Geburtsort</cell>
+                            <cell>Aachen</cell>
+                        </row>
+                        <row>
+                            <cell>Tätigkeit/Beruf</cell>
+                            <cell>Historiker, Diplomat</cell>
+                        </row>
+                        <row>
+                            <cell>Bildung</cell>
+                            <cell>Studium in Löwen, Bonn, Berlin und Wien; 1878 Promotion in Graz
+                                (Dr. phil.); 1880 Habilitation in Innsbruck</cell>
+                        </row>
+                        <row>
+                            <cell>Positionen</cell>
+                            <cell>1881 Privatdozent in Innsbruck; 1886 ao. Professor; 1887 o.
+                                Professor; 1901 Direktor des Österreichischen Historischen Instituts
+                                in Rom; 1920-1928 Österreichischer Gesandter am Heiligen
+                                Stuhl</cell>
+                        </row>
+                        <row>
+                            <cell>Publikationen</cell>
+                            <cell>"Geschichte der Päpste seit dem Ausgang des Mittelalters" (22
+                                Bände)</cell>
+                        </row>
+                        <row>
+                            <cell>Bedeutende Ereignisse</cell>
+                            <cell>1881 Berufung zum Privatdozenten in Innsbruck; 1901 Ernennung zum
+                                Direktor des Österreichischen Historischen Instituts in Rom; 1920
+                                Ernennung zum österreichischen Gesandten am Heiligen Stuhl</cell>
+                        </row>
+                        <row>
+                            <cell>Einflüsse</cell>
+                            <cell>Geschichtslehrer Johannes Janssen; katholische Bewegung; enge
+                                Beziehungen zum österreichischen Kaiserhaus</cell>
+                        </row>
+                        <row>
+                            <cell>Auszeichnungen</cell>
+                            <cell>Keine spezifischen Ehrungen bekannt</cell>
+                        </row>
+                    </table>
+                </div>
+                <div type="text">
+                    <p><hi rend="bold">Ludwig Pastor Freiherr von Camperfelden</hi> (*31.01.1854
+                        †29.09.1928): <hi rend="bold">Historiker und Diplomat</hi>, geboren in <hi
+                            rend="bold">Aachen</hi>. Pastor wuchs bis zum Tod seines Vaters 1864 in
+                        dessen <hi rend="bold">calvinistischen Glauben</hi> auf. Bald danach
+                        konvertierte er zum <hi rend="bold">katholischen Glauben</hi> seiner Mutter
+                        und wurde im <hi rend="bold">antipreußischen und großdeutschen</hi> Umfeld
+                        der Familien Schlosser und Brentano sozialisiert. Die <hi rend="bold"
+                            >kulturkämpferische und am österreichischen Kaiserhaus orientierte
+                            Mentalität</hi> des Umfelds prägt ihn nachhaltig. Sein <hi rend="bold"
+                            >historiographisches Interesse</hi> wurde früh von seinem
+                        Geschichtslehrer <hi rend="bold">Johannes Janssen</hi> gefördert, der ihn
+                        zuvor auch in Kontakt mit führenden Vertretern der katholischen Bewegung
+                        gebracht hatte. Gegen den Widerstand seiner Kaufmannsfamilie entschließt er
+                        sich den Beruf des <hi rend="bold">Historikers</hi> zu ergreifen. Er
+                        studierte zunächst in Löwen, Bonn, Berlin, und Wien, schloss schließlich
+                        1878 in Graz eine Promotion zum <hi rend="bold">Dr. phil.</hi> ab und wurde
+                        1880 <hi rend="bold">in Innsbruck habilitiert</hi>. Da eine Bestellung als
+                        Privatdozent in Innsbruck vorerst ausblieb, trat er vorrübergehend eine
+                        Stelle beim <hi rend="bold">Herder Verlag in Freiburg</hi> an. Seine
+                        Kontakte zum österreichischen Kaiserhaus ermöglichten es ihm 1881 seine
+                        Berufung als <hi rend="bold">Privatdozent</hi>, 1886 seine Ernennung zum <hi
+                            rend="bold">ao. Professor</hi> und schließlich 1887 zum <hi rend="bold"
+                            >o. Professor</hi> durchzusetzen. Bewerbungen in Wien, Freiburg und an
+                        Universitäten im Rheinland scheiterten an weltanschaulichen Widerständen und
+                        Zweifeln an seiner wissenschaftlichen Befähigung. Im Jahr 1901 wurde er zum
+                            <hi rend="bold">Direktor des Österreichischen Historischen Instituts in
+                            Rom</hi> bestellt. Dies ermöglichte ihm die intensive Quellenarbeit in
+                        den <hi rend="bold">vatikanischen Archiven</hi>, sowie in vielen anderen
+                        umliegenden italienischen Archiven, welche in seinem Hauptwerk der <hi
+                            rend="italic">„Geschichte der Päpste seit dem Ausgang des
+                            Mittelalters“</hi> mündete. In 22 (in der Neuauflage 16) Bänden widmet
+                        er sich darin einer quellenbasierten Darstellung des Papsttums im Zeitraum
+                        von 1305-1799. Dieses Werk bleibt ob seiner weiten, über die
+                        Diplomatiegeschichte hinausgehenden Perspektive, welche auch Kultur-,
+                        Geistes- und Sozialgeschichte berücksichtigt und seiner Fülle an großzügig
+                        zitierten Quellen von nachhaltiger Bedeutung. Problematisch ist jedoch die
+                            <hi rend="bold">apologetische Ausrichtung</hi> des Werkes und der <hi
+                            rend="bold">unkritische Umgang Pastors mit seinen Quellen</hi>. Dies
+                        brachte ihm auch Kritik seitens ihm nahestehender Kollegen ein. Ab 1920 war
+                        Pastor auch <hi rend="bold">österreichischer Gesandter am Heiligen
+                            Stuhl</hi>, eine Funktion, die er bis zu seinem Tod im Jahr 1928
+                        ausübte. In dieser Position kam ihm sein <hi rend="bold">dichtes Netzwerk an
+                            persönlichen Kontakten im Vatikan</hi> zugute. So verfügte er über gute
+                        Beziehungen zu Pius X. (1903-1914), Benedikt XV. (1915-1922) und besonders
+                        zum Kardinalstaatssekretär Pietro Gasparri (1914-1930). Pius XI. (1922-1939)
+                        kannte er persönlich aus dessen Zeit als Kardinalbibliothekar, weshalb sie
+                        auch ein gemeinsames Forschungsinteresse verband. Die Zeit seines Wirkens
+                        als österreichischer Gesandter am Heiligen Stuhl (1920-1928) kann daher als
+                        eine besonders intensive Periode der österreichisch-vatikanisch
+                        diplomatischen Beziehungen gelten.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

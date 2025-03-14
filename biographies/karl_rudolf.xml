@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kurzbiographie von Karl Rudolf</title>
+                <respStmt>
+                    <resp>Kurzbiograhie verfasst von</resp>
+                    <persName ref="https://d-nb.info/gnd/1221965530">Bernhard Kronegger</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI erstellt von</resp>
+                    <persName>Martin Kroissenbrunner</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Kapfhammer, Franz. Neuland. Erlebnis einer Jugendbewegung. Graz, 1987</bibl>
+                <bibl>N.N. "In memoriam Prälat Dr. Karl Rudolf." Der Seelsorger 34 (1964):
+                    507-515</bibl>
+                <bibl>Seewann, Gerhard. Österreichische Jugendbewegung 1900 bis 1938. Die Entstehung
+                    der deutschen Jugendbewegung in Österreich-Ungarn 1900 bis 1914 und die
+                    Fortsetzung in ihrem katholischen Zweig "Bund Neuland" von 1918 bis 1938. Vol.
+                    1, Frankfurt am Main, 1971</bibl>
+                <bibl>Weißensteiner, Johann. "Prälat Karl Rudolf. Ein Stürmer und Dränger in der
+                    Kirche (1886-1964)." In Faszinierende Gestalten der Kirche Österreichs, edited
+                    by Jan Mikrut. Wien, 2002</bibl>
+                <bibl>Weblinks: https://oecv.at/biolex Eintrag: KonsR. Präl. Domkap. Dr. Karl Rudolf
+                    <!-- umwandeln zu "Hartmann, Gerhard (2021): KonsR. Präl. Domkap. Dr. Karl Rudolf. Online verfügbar unter https://oecv.at/Biolex/Detail/10800436, zuletzt geprüft am 14.03.2025."? --></bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Karl Rudolf</head>
+                <div type="table">
+                    <table>
+                        <row>
+                            <cell>Vorname</cell>
+                            <cell>Karl</cell>
+                        </row>
+                        <row>
+                            <cell>Nachname</cell>
+                            <cell>Rudolf</cell>
+                        </row>
+                        <row>
+                            <cell>Geburtsdatum</cell>
+                            <cell>22.11.1886</cell>
+                        </row>
+                        <row>
+                            <cell>Sterbedatum</cell>
+                            <cell>21.08.1964</cell>
+                        </row>
+                        <row>
+                            <cell>Geburtsort</cell>
+                            <cell>Wien-Erdberg</cell>
+                        </row>
+                        <row>
+                            <cell>Tätigkeit/Beruf</cell>
+                            <cell>Priester, Akademikerseelsorger, Theologe</cell>
+                        </row>
+                        <row>
+                            <cell>Bildung</cell>
+                            <cell>k.k. Staatsgymnasium, Wien; 1908-1912 Priesterseminar Wien;
+                                Theologiestudium an der Universität Wien; Promotion in Theologie
+                                über „Die Geheime Offenbarung des Johannes“</cell>
+                        </row>
+                        <row>
+                            <cell>Positionen</cell>
+                            <cell>1912 Kaplan in Bruck an der Leitha; 1913 Studienpräfekt am
+                                Priesterseminar Wien; 1919 Akademikerseelsorger; 1922 Domkurat von
+                                St. Stephan; 1931 Leiter des Wiener Seelsorgeinstituts; 1941
+                                Mitglied des Wiener Domkapitels; 1954 Päpstlicher Hausprälat</cell>
+                        </row>
+                        <row>
+                            <cell>Publikationen</cell>
+                            <cell>Beiträge in der Zeitschrift „Der Seelsorger“; Veröffentlichungen
+                                zur liturgischen Bewegung und Pastoral</cell>
+                        </row>
+                        <row>
+                            <cell>Bedeutende Ereignisse</cell>
+                            <cell>1919 Gründung des „Christlich-deutschen Studentenbunds“ (Vorgänger
+                                von „Neuland“); 1921 Aufbau der Jugendbewegung „Neuland“; 1931
+                                Gründung des Wiener Seelsorgeinstituts; 1941 Gauverbot durch das
+                                NS-Regime; 1945 Umwandlung des Seelsorgeamts in das
+                                Pastoralamt</cell>
+                        </row>
+                        <row>
+                            <cell>Einflüsse</cell>
+                            <cell>Prof. Heinrich Swoboda (Pastoraltheologe und Pionier der
+                                Großstadtseelsorge)</cell>
+                        </row>
+                        <row>
+                            <cell>Auszeichnungen</cell>
+                            <cell>1954 Ernennung zum Päpstlichen Hausprälaten (Monsignore)</cell>
+                        </row>
+                    </table>
+                </div>
+                <div type="text">
+                    <p><hi rend="bold">Karl Rudolf</hi> (*22.11.1886, †21.08.1964) entstammte einer
+                        aus Böhmen zugezogenen Arbeiterfamilie aus <hi rend="bold"
+                        >Wien-Erdberg</hi>. Den Besuch des <hi rend="italic">k.k.
+                            Staatsgymnasiums</hi> im 3. Bezirk wurde ihm durch die Unterstützung von
+                        Freunden der Familie ermöglicht. In dieser Zeit trat er der <hi
+                            rend="italic">Marianischen Kongregation</hi> bei. Von 1908-1912 besuchte
+                        er das <hi rend="italic">Priesterseminar</hi> und studierte an der <hi
+                            rend="italic">Universität Wien</hi>, wo er von dem Pastoraltheologen <hi
+                            rend="bold">Prof. Heinrich Swoboda</hi>, einem Pionier der
+                        Großstadtseelsorge in seinem Denken nachhaltig geprägt wurde. Während des
+                        Studiums trat er der <hi rend="italic">CV Verbindung „Amelungia“</hi>
+                        bei.</p>
+                    <p>Nach seiner <hi rend="bold">Priesterweihe</hi> am 25.07.1912 wurde er <hi
+                            rend="bold">Kaplan in der Pfarrgemeinde Bruck an der Leitha</hi>.
+                        Bereits 1913 kehrte er als <hi rend="bold">Studienpräfekt</hi> an das <hi
+                            rend="italic">Wiener Priesterseminar</hi> zurück. Im selben Jahr
+                        gründete er in Wien das <hi rend="italic">„Sekretariat für soziale
+                            Studentenarbeit“</hi>. Zur gleichen Zeit promovierte er mit einer Arbeit
+                        über <hi rend="italic">„Die Geheime Offenbarung des Johannes“</hi> zum <hi
+                            rend="bold">Doktor der Theologie</hi>. Rudolf hatte sich in diesen
+                        Jahren insbesondere der Seelsorge für Schüler und Studenten zugewandt.
+                        Nachdem er 1918 seine Disseration abgeschlossen hatte, wurde er 1919 von <hi
+                            rend="bold">Kardinal Piffl</hi> zum <hi rend="bold">ersten
+                            hauptamtlichen Akademikerseelsorger in Wien</hi> ernannt. Im selben Jahr
+                        gründete er die Vorgängerorganisation von „Neuland“ – den <hi rend="italic"
+                            >„Christlich-deutschen Studentenbund“</hi> – mit dem dazugehörigen Organ
+                            <hi rend="italic">„Neue Jugend“</hi>, welches sich insbesondere in der
+                        Auseinandersetzung um die Beibehaltung des Religionsunterrichts in den
+                        Pflichtschulen engagierte. Gemeinsam mit <hi rend="bold">Michael
+                            Pfliegler</hi> war er ab 1921 hauptverantwortlich für den Aufbau der
+                        Jugendbewegung <hi rend="bold">„Neuland“</hi> sowie des dazugehörigen
+                        gleichnamigen Organs. Unter Rudolfs Einfluss entwickelte Neuland <hi
+                            rend="bold">progressive Ansätze</hi> in Liturgie und Pastoral und wurde
+                        zu einem der Hauptakteure der liturgischen Bewegung in Österreich. 1922
+                        wurde Rudolf zum <hi rend="bold">Domkurat von St. Stepahn</hi> berufen. Aus
+                        einem Kreis junger Wiener Priester, dem auch Rudolf angehörte, entwickelte
+                        sich die <hi rend="bold">Wiener Seelsorger-Tagung</hi>. Erstmals wurde sie
+                        am 27./28.12.1923 abgehalten, ab 1931 fand sie regelmäßig statt. Aus diesen
+                        Tagungen entwickelte sich <hi rend="italic">„Der Seelsorger“</hi> zuerst als
+                        Supplement des Wiener Diözesanblatts, später als eigenständige Zeitschrift.
+                        Ebenfalls im Jahr 1931 wurde das <hi rend="italic">Wiener
+                            Seelsorgeinstitut</hi> gegründet, in dem Rudolf als <hi rend="bold"
+                            >Kanzleileiter</hi> fungierte. Nach dem Verbot katholischer
+                        Organisationen nach dem Anschluss wurde das Seelsorgeinstitut zum
+                        Seelsorgeamt innerhalb des Erzbischöflichen Ordinariats und Rudolf wurde zu
+                        dessen Leiter bestellt. 1941 wurde Rudolf ins <hi rend="italic">Wiener
+                            Domkapitel</hi> berufen. 1941 wurde aufgrund seiner Tätigkeiten ein <hi
+                            rend="bold">Gaugebot</hi> ausgesprochen, weshalb er Wien nichtmehr
+                        verlassen durfte. Auch nach 1945 blieb Rudolf Leiter des Seelsorgeamtes, das
+                        jedoch in Pastoralamt umbenannt worden war. Er wurde ebenfalls <hi
+                            rend="bold">Leiter des überdiözesanen Pastoralinstituts</hi>, das als
+                        Nachfolger des Seelsorgeinstituts eingerichtet worden war. 1954 wurde er zum
+                            <hi rend="bold">Päpstlichen Hausprälaten</hi> (Monsignore) ernannt. Im
+                        September 1963 erlitt Rudolf einen Schlaganfall, von dem er sich nicht
+                        wieder vollständig erholen sollte und in dessen Folge er im August 1964
+                        verstarb.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

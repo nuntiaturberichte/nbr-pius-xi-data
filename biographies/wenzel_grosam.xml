@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kurzbiographie von Wenzel Grosam</title>
+                <respStmt>
+                    <resp>Kurzbiograhie verfasst von</resp>
+                    <persName ref="https://d-nb.info/gnd/1221965530">Bernhard Kronegger</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI erstellt von</resp>
+                    <persName>Martin Kroissenbrunner</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Würthinger, Monika. "Die Biogramme der Regentes und Spirituale des Linzer
+                    Priesterseminars von 1806 bis 2006." Neues Archiv für die Geschichte der Diözese
+                    Linz, no. 11 (2006): 37-47</bibl>
+                <bibl>Würthinger, Monika. "Wenzel Grosam (1877/1921/1942)." Neues Archiv für die
+                    Geschichte der Diözese Linz 6, no. 3 (1989/90): 399-403</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Wenzel Grosam</head>
+                <div type="table">
+                    <table>
+                        <row>
+                            <cell>Vorname</cell>
+                            <cell>Wenzel</cell>
+                        </row>
+                        <row>
+                            <cell>Nachname</cell>
+                            <cell>Grosam</cell>
+                        </row>
+                        <row>
+                            <cell>Geburtsdatum</cell>
+                            <cell>11.10.1877</cell>
+                        </row>
+                        <row>
+                            <cell>Sterbedatum</cell>
+                            <cell>29.07.1942</cell>
+                        </row>
+                        <row>
+                            <cell>Geburtsort</cell>
+                            <cell>Schweißing (Svojšín), Böhmen</cell>
+                        </row>
+                        <row>
+                            <cell>Tätigkeit/Beruf</cell>
+                            <cell>Priester, Theologe, Regens des Linzer Priesterseminars</cell>
+                        </row>
+                        <row>
+                            <cell>Bildung</cell>
+                            <cell>Volksschule in Urfahr; 1888-1896 Staatsgymnasium Linz; 1896
+                                Eintritt ins Priesterseminar der Diözese Linz; Theologiestudium am
+                                Collegium Germanicum et Hungaricum in Rom; 1903 Promotion zum Doktor
+                                der Theologie</cell>
+                        </row>
+                        <row>
+                            <cell>Positionen</cell>
+                            <cell>1903-1904 Stadtpfarrkooperator in Enns; 1904 Bischöflicher
+                                Ordinariatssekretär; 1911 Professor des Kirchenrechts an der
+                                theologischen Diözesanlehranstalt Linz; 1916-1942 Regens des Linzer
+                                Priesterseminars</cell>
+                        </row>
+                        <row>
+                            <cell>Publikationen</cell>
+                            <cell>Schriften zur Kirchenrechtswissenschaft</cell>
+                        </row>
+                        <row>
+                            <cell>Bedeutende Ereignisse</cell>
+                            <cell>1916 Ernennung zum Regens des Linzer Priesterseminars; 1940
+                                Umsetzung der von den NS-Stellen angeordneten Aussiedelung des
+                                Seminars nach Wilhering</cell>
+                        </row>
+                        <row>
+                            <cell>Einflüsse</cell>
+                            <cell>Starke Prägung durch das Collegium Germanicum et Hungaricum in
+                                Rom</cell>
+                        </row>
+                        <row>
+                            <cell>Auszeichnungen</cell>
+                            <cell>Keine spezifischen Ehrungen bekannt</cell>
+                        </row>
+                    </table>
+                </div>
+                <div type="text">
+                    <p><hi rend="bold">Wenzel Grosam</hi> wurde am 11. Oktober 1877 in <hi
+                            rend="bold">Schweißing</hi> (tschechisch: Svojšín) in Böhmen, geboren.
+                        Nach der <hi rend="italic">Volksschule in Urfahr</hi>, besuchte er von 1888
+                        bis 1896 das <hi rend="italic">Staatsgymnasium in Linz</hi>. Im Jahr 1896
+                        trat er in das <hi rend="bold">Priesterseminar</hi> der Diözese Linz ein und
+                        absolvierte dort zunächst ein Jahr seines <hi rend="bold"
+                            >Theologiestudiums</hi>. Während des Studiums wurde er an das <hi
+                            rend="italic">Collegium Germanicum et Hungaricum</hi> entsandt und
+                        schloss sein Studium in Rom im Jahr 1903 mit dem <hi rend="bold">Doktor der
+                            Theologie</hi> ab. Nach seiner Rückkehr nach Oberösterreich wurde er
+                        zunächst von 1903 bis 1904 <hi rend="bold">Stadtparrkooperator in Enns</hi>,
+                        bereits 1904 wurde er aber <hi rend="bold">Bischöflicher
+                            Ordinariatssekretär</hi>. Ab 1911 war er <hi rend="bold">Professor des
+                            Kirchenrechts</hi> an der theologischen Diözesanlehranstalt. Von 1916 an
+                        bis zu seinem Tod war er <hi rend="bold">Regens des Linzer
+                            Priesterseminars</hi>. Während des Zweiten Weltkrieges musste er die von
+                        den NS-Stellen angeordnete Aussiedelung des Seminars nach Wilhering
+                        umsetzen. Am 29. Juli 1942 starb er während eines Kuraufenthalts in Bach bei
+                        Schwanenstadt an einem plötzlich auftretenden Schlaganfall.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

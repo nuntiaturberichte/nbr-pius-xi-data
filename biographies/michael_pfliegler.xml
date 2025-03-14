@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kurzbiographie von Michael Pfliegler</title>
+                <respStmt>
+                    <resp>Kurzbiograhie verfasst von</resp>
+                    <persName ref="https://d-nb.info/gnd/1221965530">Bernhard Kronegger</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI erstellt von</resp>
+                    <persName>Martin Kroissenbrunner</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Kapfhammer, Franz. "Jugendbewegung und jungkatholischer Geist." In Seiner Zeit
+                    voraus. Michael Pfliegler, edited by Franz Kapfhammer, 47-94. Graz, 1973</bibl>
+                <bibl>Kapfhammer, Franz. "Leben und Werk – Selbstzeugnisse." In Seiner Zeit voraus.
+                    Michael Pfliegler, edited by Franz Kapfhammer, 11-46. Graz, 1973</bibl>
+                <bibl>Kapfhammer, Franz. "Michael Pfliegler." In Neue Österreichische Biographie,
+                    edited by Anton Bettelheim. Wien: Amalthea Verlag, 1977</bibl>
+                <bibl>Sauser, Ekkart. "Pfliegler, Michael." In Biographisch-Bibliographisches
+                    Kirchenlexikon, edited by Friedrich Wilhelm Bautz, 1168-1170. Nordhausen:
+                    Traugott Bautz, 2003</bibl>
+                <bibl>Seewann, Gerhard. Österreichische Jugendbewegung 1900 bis 1938. Die Entstehung
+                    der deutschen Jugendbewegung in Österreich-Ungarn 1900 bis 1914 und die
+                    Fortsetzung in ihrem katholischen Zweig "Bund Neuland" von 1918 bis 1938. Vol.
+                    1, Frankfurt am Main, 1971</bibl>
+                <bibl>Weiß, Otto. "Michael Pfliegler." In Katholische Theologie im
+                    Nationalsozialismus, edited by Dominik Burkard, 453-476. Würzburg, 2018</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Michael Pfliegler</head>
+                <div type="table">
+                    <table>
+                        <row>
+                            <cell>Vorname</cell>
+                            <cell>Michael</cell>
+                        </row>
+                        <row>
+                            <cell>Nachname</cell>
+                            <cell>Pfliegler</cell>
+                        </row>
+                        <row>
+                            <cell>Geburtsdatum</cell>
+                            <cell>26.01.1891</cell>
+                        </row>
+                        <row>
+                            <cell>Sterbedatum</cell>
+                            <cell>11.10.1972</cell>
+                        </row>
+                        <row>
+                            <cell>Geburtsort</cell>
+                            <cell>Guttenbrunn, Bezirk Mistelbach</cell>
+                        </row>
+                        <row>
+                            <cell>Tätigkeit/Beruf</cell>
+                            <cell>Priester, Theologe, Hochschullehrer</cell>
+                        </row>
+                        <row>
+                            <cell>Bildung</cell>
+                            <cell>Knabenseminar in Hollabrunn; Priesterseminar Wien;
+                                Theologiestudium an der Universität Wien; 1922 Promotion in
+                                Theologie; 1935 Habilitation in Pastoraltheologie und
+                                Katechetik</cell>
+                        </row>
+                        <row>
+                            <cell>Positionen</cell>
+                            <cell>1915-1919 Pfarrkooperator in Kirchberg am Wechsel; 1919
+                                Generalsekretär des Christlich-deutschen Studentenbunds in Wien;
+                                1924-1935 Religionslehrer am Bundesgymnasium Wien-Döbling; 1938
+                                Supplent des Lehrstuhls für Moraltheologie in Wien; 1946 Ordinarius
+                                für Pastoraltheologie an der Katholischen Fakultät der Universität
+                                Wien; Mehrfach Dekan der Fakultät (1948/49, 1953/54, 1959/60); 1961
+                                Emeritierung</cell>
+                        </row>
+                        <row>
+                            <cell>Publikationen</cell>
+                            <cell>Regelmäßige Veröffentlichungen in der Zeitschrift „Der
+                                Seelsorger“; Schriften zur Großstadtseelsorge, Pastoraltheologie und
+                                Religionspädagogik</cell>
+                        </row>
+                        <row>
+                            <cell>Bedeutende Ereignisse</cell>
+                            <cell>1921 Mitbegründer der Jugendbewegung „Neuland“; 1935 Habilitation
+                                unter Betreuung von Theodor Innitzer; 1946 Berufung zum Ordinarius
+                                für Pastoraltheologie; 1962-1965 Experte bei der liturgischen
+                                Vorbereitungskommission des Zweiten Vatikanischen Konzils</cell>
+                        </row>
+                        <row>
+                            <cell>Einflüsse</cell>
+                            <cell>Weihbischof Godfried Marschall (Förderer in frühen Jahren); Karl
+                                Rudolf (Einfluss auf akademische und seelsorgerische Laufbahn);
+                                Ignaz Seipel (Vermittlung der Promotionsstudien); Theodor Innitzer
+                                (Habilitationsbetreuer)</cell>
+                        </row>
+                        <row>
+                            <cell>Auszeichnungen</cell>
+                            <cell>Ernennung zum Experten des Zweiten Vatikanischen Konzils durch
+                                Papst Johannes XXIII.</cell>
+                        </row>
+                    </table>
+                </div>
+                <div type="text">
+                    <p><hi rend="bold">Michael Pfliegler</hi> (*26.01.1891 † 11.10.1972) wurde in
+                            <hi rend="bold">Guttenbrunn</hi> (Bezirk Mistelbach) als Sohn eines
+                        Maurers geboren. Dank der Vermittlung von Weihbischof Godfried Marschall
+                        wurde er ins <hi rend="italic">Knabenseminar in Hollabrunn</hi> aufgenommen,
+                        welches er im Jahr 1911 mit der <hi rend="bold">Matura</hi> abschloss.
+                        Anschließend trat er ins <hi rend="bold">Wiener Priesterseminar</hi> ein und
+                            <hi rend="bold">studierte in Wien Theologie</hi>. Im Jahr 1915 wurde er
+                            <hi rend="bold">zum Priester geweiht</hi> und wurde bis 1919 als <hi
+                            rend="bold">Pfarrkooperator</hi> in Kirchberg am Wechsel eingesetzt. Im
+                        Jahr 1919 wurde er auf Initiative von <hi rend="bold">Karl Rudolf</hi> nach
+                        Wien versetzt, um dort den <hi rend="bold">Christlich-deutschen
+                            Studentenbund als Generalsekretär</hi> zu betreuen. Auf sein Betreiben
+                        hin weitete sich der Aktionsradius des Studentenbundes auf die <hi
+                            rend="bold">Jugendarbeit</hi> hin aus, was maßgeblich für die spätere
+                        Gründung von <hi rend="bold">„Neuland“</hi> im Jahr 1921 war. Die
+                        Veröffentlichung eines Artikels zur Arbeiterseelsorge im
+                        Klerus-Korrespondenzblatt führte dazu, dass er auf Vermittlung von <hi
+                            rend="bold">Ignaz Seipel</hi>, damals Professor für Moraltheologie in
+                        Wien, ein <hi rend="bold">Promotionsstudium</hi> begann, welches er 1922
+                        abschloss. Ab 1924 war Pfliegler <hi rend="bold">Religionslehrer</hi> am
+                        Bundesgymnasium Wien-Döbling, eine Tätigkeit die er bis 1935 ausübte. Ab
+                        1925 veröffentlichte er regelmäßig in der von ihm mitbegründeten Zeitschrift
+                            <hi rend="italic">„Der Seelsorger“</hi> zur Großstadtseelsorge, wobei er
+                        sich insbesondere den Ausgegrenzten, den Obdachlosen und der notleidenden
+                        Arbeiterschaft zuwandte. Im Jahr 1935 <hi rend="bold">habilitierte</hi> er
+                        sich an der Universität Wien mit einer Arbeit zum Religionsunterricht in den
+                        Fächern Pastoraltheologie und Katechetik, wobei die Arbeit von Theodor
+                        Innitzer, zu diesem Zeitpunkt schon <hi rend="bold">Erzbischof von
+                        Wien</hi>, betreut worden war. Ab 1938 war er <hi rend="bold">Supplent des
+                            Lehrstuhls für Moraltheologie</hi> in Wien. Im Jahr 1946 wurde er zum
+                            <hi rend="bold">Ordinarius für Pastoraltheologie</hi> an der
+                        Katholischen Fakultät der Universität Wien berufen. Mehrfach amtierte er in
+                        Folge als <hi rend="bold">Dekan der Fakultät</hi> (1948/49, 1953/54,
+                        1959/60). Im Jahr 1961 emerierte Pfliegler im Alter von 70 Jahren. Sein
+                        theologisches Wirken wurde durch <hi rend="bold">Papst Johannes XXIII.</hi>
+                        gewürdigt, indem er als Experte in die <hi rend="bold">liturgische
+                            Vorbereitungskommission des Zweiten Vatikanischen Konzils</hi>
+                        (1962-1965) berufen wurde.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
