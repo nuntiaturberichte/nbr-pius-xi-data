@@ -63,6 +63,15 @@
                     Nationalsozialismus, edited by Dominik Burkard, 453-476. Würzburg, 2018</bibl>
             </sourceDesc>
         </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <listPerson>
+                    <person>
+                        <persName ref="https://d-nb.info/gnd/122386256">Michael Pfliegler</persName>
+                    </person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
     </teiHeader>
     <text>
         <body>

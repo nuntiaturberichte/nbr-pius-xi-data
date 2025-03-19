@@ -64,6 +64,15 @@
                     nichtarische Katholiken in Wienibid. vol. 64, (1978)</bibl>
             </sourceDesc>
         </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <listPerson>
+                    <person>
+                        <persName ref="https://d-nb.info/gnd/118555634">Theodor Innitzer</persName>
+                    </person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
     </teiHeader>
     <text>
         <body>

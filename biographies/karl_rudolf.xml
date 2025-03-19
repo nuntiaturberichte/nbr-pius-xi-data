@@ -60,6 +60,15 @@
                     <!-- umwandeln zu "Hartmann, Gerhard (2021): KonsR. Präl. Domkap. Dr. Karl Rudolf. Online verfügbar unter https://oecv.at/Biolex/Detail/10800436, zuletzt geprüft am 14.03.2025."? --></bibl>
             </sourceDesc>
         </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <listPerson>
+                    <person>
+                        <persName ref="https://d-nb.info/gnd/131944398">Karl Rudolf</persName>
+                    </person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
     </teiHeader>
     <text>
         <body>

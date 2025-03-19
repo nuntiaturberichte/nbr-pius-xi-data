@@ -62,6 +62,15 @@
                     (de Gruyter, 2009), 282</bibl>
             </sourceDesc>
         </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <listPerson>
+                    <person>
+                        <persName ref="https://d-nb.info/gnd/129176222">Johannes Gföllner</persName>
+                    </person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
     </teiHeader>
     <text>
         <body>
@@ -148,9 +157,9 @@
                         sympathisierte mit dem sog. <hi rend="bold">„Ständestaat“</hi> und war ein
                             <hi rend="bold">entschiedener Gegner des Nationalsozialismus</hi> den er
                         bereits in seinem Hirtenbrief von 1933 als mit dem katholischen Glauben
-                        unvereinbar verurteilte. Obwohl er den nationalsozialistischen
-                        Rassenhass und Antisemitismus ablehnte, finden sich in seinem Denken jedoch
-                        auch <hi rend="bold">antijudaistische Denkmuster</hi>, so attestierte er dem
+                        unvereinbar verurteilte. Obwohl er den nationalsozialistischen Rassenhass
+                        und Antisemitismus ablehnte, finden sich in seinem Denken jedoch auch <hi
+                            rend="bold">antijudaistische Denkmuster</hi>, so attestierte er dem
                         Judentum einen schädlichen Einfluss auf das moderne Kulturleben.<lb/>Der
                         gemeinsame <hi rend="italic">Hirtenbrief der österreichischen Bischöfe vom
                             21.12.1933</hi>, der sich gegen den Nationalsozialismus ausspricht,
