@@ -114,6 +114,16 @@
                   Enrico Sibilia, Wien 25.03.1923</ref>
             </correspContext>
          </correspDesc>
+         <particDesc>
+            <listPerson>
+               <person>
+                  <persName ref="https://d-nb.info/gnd/129176222">Johannes Gföllner</persName>
+               </person>
+               <person>
+                  <persName ref="https://d-nb.info/gnd/118555634">Theodor Innitzer</persName>
+               </person>
+            </listPerson>
+         </particDesc>
       </profileDesc>
    </teiHeader>
    <text type="Brief">

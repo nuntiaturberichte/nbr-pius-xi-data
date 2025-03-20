@@ -137,6 +137,16 @@
                     <placeName>Wien</placeName>
                 </correspAction>
             </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person>
+                        <persName ref="https://d-nb.info/gnd/129176222">Johannes Gföllner</persName>
+                    </person>
+                    <person>
+                        <persName ref="https://d-nb.info/gnd/118555634">Theodor Innitzer</persName>
+                    </person>
+                </listPerson>
+            </particDesc>
         </profileDesc>
         <revisionDesc>
             <change who="#bernhard.kronegger">Added abstract, foliation, pbs</change>

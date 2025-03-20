@@ -7,7 +7,8 @@
       <fileDesc>
          <titleStmt>
             <title>Mgr. Segretario an Johannes Gföllner, Vatikanstadt 06.08.1932</title>
-            <author cert="high"><persName ref="http://d-nb.info/gnd/1110822049">Giuseppe Pizzardo</persName>
+            <author cert="high"><persName ref="http://d-nb.info/gnd/1110822049">Giuseppe
+                  Pizzardo</persName>
             </author>
             <respStmt>
                <resp>TEI tempalte prepared by</resp>
@@ -107,6 +108,19 @@
                   Unbekannter Autor, Vatikanstadt 04.08.1932</ref>
             </correspContext>
          </correspDesc>
+         <particDesc>
+            <listPerson>
+               <person>
+                  <persName ref="https://d-nb.info/gnd/129176222">Johannes Gföllner</persName>
+               </person>
+               <person>
+                  <persName ref="https://d-nb.info/gnd/118555634">Theodor Innitzer</persName>
+               </person>
+               <person>
+                  <persName ref="https://d-nb.info/gnd/1238124429">Wenzel Grosam</persName>
+               </person>
+            </listPerson>
+         </particDesc>
       </profileDesc>
    </teiHeader>
    <text type="Brief">

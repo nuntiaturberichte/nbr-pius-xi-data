@@ -7,7 +7,8 @@
       <fileDesc>
          <titleStmt>
             <title>Enrico Sibilia an Eugenio Pacelli, Wien 22.09.1932</title>
-            <author><persName ref="http://d-nb.info/gnd/1013145208">Enrico Sibilia</persName></author>
+            <author><persName ref="http://d-nb.info/gnd/1013145208">Enrico
+               Sibilia</persName></author>
             <respStmt>
                <resp>TEI tempalte prepared by</resp>
                <persName ref="#daniel.schopper">Daniel Schopper</persName>
@@ -115,6 +116,13 @@
                   >869-33-51: Enrico Sibilia an Eugenio Pacelli, Wien 28.08.1932</ref>
             </correspContext>
          </correspDesc>
+         <particDesc>
+            <listPerson>
+               <person>
+                  <persName ref="https://d-nb.info/gnd/118555634">Theodor Innitzer</persName>
+               </person>
+            </listPerson>
+         </particDesc>
       </profileDesc>
    </teiHeader>
    <text type="Brief">

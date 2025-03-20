@@ -112,6 +112,13 @@
                   Wenzel Grosam an Enrico Sibilia, Linz 11.07.1932</ref>
             </correspContext>
          </correspDesc>
+         <particDesc>
+            <listPerson>
+               <person>
+                  <persName ref="https://d-nb.info/gnd/1238124429">Wenzel Grosam</persName>
+               </person>
+            </listPerson>
+         </particDesc>
       </profileDesc>
    </teiHeader>
    <text type="Brief">

@@ -103,6 +103,22 @@
                     Austria la Chiesa dall’interno“ also „Neuland ist die einzige Gefahr die aktuell
                     in Österreich die Kirche von innen bedroht“.</p>
             </abstract>
+            <particDesc>
+                <listPerson>
+                    <person>
+                        <persName ref="https://d-nb.info/gnd/129176222">Johannes Gföllner</persName>
+                    </person>
+                    <person>
+                        <persName ref="https://d-nb.info/gnd/131944398">Karl Rudolf</persName>
+                    </person>
+                    <person>
+                        <persName ref="https://d-nb.info/gnd/122386256">Michael Pfliegler</persName>
+                    </person>
+                    <person>
+                        <persName ref="https://d-nb.info/gnd/118555634">Theodor Innitzer</persName>
+                    </person>
+                </listPerson>
+            </particDesc>
         </profileDesc>
         <revisionDesc>
             <change who="#bernhard.kronegger">Added abstract, foliation, pbs</change>

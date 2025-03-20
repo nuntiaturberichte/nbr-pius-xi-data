@@ -144,6 +144,13 @@
                   Enrico Sibilia an Pietro Gasparri, Wien 20.09.1929</ref>
             </correspContext>
          </correspDesc>
+         <particDesc>
+            <listPerson>
+               <person>
+                  <persName ref="https://d-nb.info/gnd/118555634">Theodor Innitzer</persName>
+               </person>
+            </listPerson>
+         </particDesc>
       </profileDesc>
    </teiHeader>
    <text type="Brief">

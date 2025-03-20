@@ -215,6 +215,13 @@
                   Eugenio Pacelli an Enrico Sibilia, Vatikan 12.06.1933</ref>
             </correspContext>
          </correspDesc>
+         <particDesc>
+            <listPerson>
+               <person>
+                  <persName ref="https://d-nb.info/gnd/1067193782">Luigi Faidutti</persName>
+               </person>
+            </listPerson>
+         </particDesc>
       </profileDesc>
    </teiHeader>
    <text type="Bericht">

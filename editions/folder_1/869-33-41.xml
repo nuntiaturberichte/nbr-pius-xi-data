@@ -111,6 +111,13 @@
                   Augustin Bea an Giuseppe Pizzardo, Pullach bei München 12.08.1932</ref>
             </correspContext>
          </correspDesc>
+         <particDesc>
+            <listPerson>
+               <person>
+                  <persName ref="https://d-nb.info/gnd/118555634">Theodor Innitzer</persName>
+               </person>
+            </listPerson>
+         </particDesc>
       </profileDesc>
    </teiHeader>
    <text type="Brief">

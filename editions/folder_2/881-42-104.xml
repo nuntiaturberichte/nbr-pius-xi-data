@@ -115,6 +115,16 @@
                     <placeName>Vatikanstadt</placeName>
                 </correspAction>
             </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person>
+                        <persName ref="https://d-nb.info/gnd/131944398">Karl Rudolf</persName>
+                    </person>
+                    <person>
+                        <persName ref="https://d-nb.info/gnd/122386256">Michael Pfliegler</persName>
+                    </person>
+                </listPerson>
+            </particDesc>
         </profileDesc>
         <revisionDesc>
             <change who="#bernhard.kronegger">Added abstract, foliation, pbs</change>
