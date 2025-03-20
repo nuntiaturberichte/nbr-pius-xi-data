@@ -46,7 +46,7 @@
         <body>
             <div>
                 <p>Diese digitale Edition umfasst die Korrespondenz der Nuntiatur von Papst Pius XI.
-                    und bietet einen Einblick in die diplomatischen Beziehungen des Heiligen Stuhls
+                    und bietet einen Einblick in die diplomatischen Beziehungen zwischen dem Heiligen Stuhls und Österreich
                     während seines Pontifikats (1922-1939). Die Edition dokumentiert die
                     Kommunikation zwischen dem päpstlichen Nuntius und dem Vatikan sowie mit
                     staatlichen und kirchlichen Akteuren.</p>
@@ -137,7 +137,7 @@
                     </row>
                     <row n="2">
                         <cell>Dr. Bernhard Kronegger</cell>
-                        <cell>Kollation, Transkription, Edition</cell>
+                        <cell>Koordination, Transkription, Kollation, Erstellung TEI-Dokumente, Edition</cell>
                         <cell>2020-[2025]</cell>
                     </row>
                     <row n="2">
@@ -146,9 +146,9 @@
                         <cell>2025</cell>
                     </row>
                     <row n="3">
-                        <cell>Dame die Mappe 1 transkribiert hat</cell>
+                        <cell>Anna Grandicelli</cell>
                         <cell>Transkription</cell>
-                        <cell>???</cell>
+                        <cell>2020-2023</cell>
                     </row>
                     <row n="4">
                         <cell>Martin Kroißenbrunner B.Ed., M.A.</cell>
@@ -157,18 +157,18 @@
                     </row>
                     <row n="5">
                         <cell>Mag. Daniel Schopper</cell>
-                        <cell>Erstellung TEI-Vorlage</cell>
-                        <cell>???</cell>
+                        <cell>Erstellung TEI-Vorlage, Beratung</cell>
+                        <cell>2020</cell>
                     </row>
                     <row n="6">
                         <cell>Dr. Stephan Kurz</cell>
-                        <cell>Erstellung TEI-Vorlage</cell>
-                        <cell>???</cell>
+                        <cell>Erstellung TEI-Vorlage, Beratung</cell>
+                        <cell>2020-2023</cell>
                     </row>
                     <row n="3">
                         <cell>Mag. Dr. Peter Andorfer</cell>
-                        <cell>???</cell>
-                        <cell>???</cell>
+                        <cell>Beratung</cell>
+                        <cell>2022</cell>
                     </row>
                     <row n="3">
                         <cell>...</cell>
