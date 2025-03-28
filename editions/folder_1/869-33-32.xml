@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Adam Hefter an Fidelis von Stotzingen, Wien 24.06.1932</title>
+            <title>Adam Hefter an Laurentius Zeller, Wien 24.06.1932</title>
             <author><persName ref="https://d-nb.info/gnd/141311770">Adam Hefter</persName></author>
             <respStmt>
                <resp>TEI tempalte prepared by</resp>
@@ -64,7 +64,7 @@
                <msContents>
                   <msItem>
                      <note type="keyword" resp="#bernhard.kronegger">Bischofsernennung Wien</note>
-                     <note type="keyword" resp="#bernhard.kronegger">Fidelis von Stotzingen</note>
+                     <note type="keyword" resp="#bernhard.kronegger">Laurentius Zeller</note>
                      <note type="keyword" resp="#bernhard.kronegger">Adam Hefter</note>
                   </msItem>
                </msContents>
@@ -95,7 +95,7 @@
                <placeName>Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/117304840">Fidelis von Stotzingen</persName>
+               <persName ref="https://d-nb.info/gnd/116978171">Laurentius Zeller</persName>
             </correspAction>
          </correspDesc>
       </profileDesc>
