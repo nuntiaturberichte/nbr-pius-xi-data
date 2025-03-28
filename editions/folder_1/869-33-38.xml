@@ -6,9 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Unbekannter Autor, Vatikanstadt 04.08.1932</title>
-            <!-- Name des Autors eventuell am unteren Blatt abgeschnitten - nochmals im Archiv überprüfen, eventuell handelt es sich um Maurilio Silvani -->
-            <author><persName>Unbekannter Autor</persName></author>
+            <title>Maurilio Silvani, Vatikanstadt 04.08.1932</title>
+            <author><persName ref="https://d-nb.info/gnd/1131637720">Maurilio Silvani</persName></author>
             <respStmt>
                <resp>TEI tempalte prepared by</resp>
                <persName ref="#daniel.schopper">Daniel Schopper</persName>
