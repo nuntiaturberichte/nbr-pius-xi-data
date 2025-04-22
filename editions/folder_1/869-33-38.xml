@@ -7,7 +7,8 @@
       <fileDesc>
          <titleStmt>
             <title>Maurilio Silvani, Vatikanstadt 04.08.1932</title>
-            <author><persName ref="https://d-nb.info/gnd/1131637720">Maurilio Silvani</persName></author>
+            <author><persName ref="https://d-nb.info/gnd/1131637720">Maurilio
+               Silvani</persName></author>
             <respStmt>
                <resp>TEI tempalte prepared by</resp>
                <persName ref="#daniel.schopper">Daniel Schopper</persName>
@@ -96,10 +97,10 @@
          </creation>
          <correspDesc>
             <correspContext>
-               <ref subtype="previous_letter" type="withinCollection" target="869-33-37.xml"
-                  >869-33-37: Mgr. Segretario an Johannes Gföllner, Vatikanstadt 06.08.1932</ref>
-               <ref subtype="next_letter" type="withinCollection" target="869-33-41.xml">869-33-41:
-                  Giuseppe Pizzardo an Augustin Bea, Vatikanstadt 06.08.1935</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="869-33-37.xml">Mgr.
+                  Segretario an Johannes Gföllner, Vatikanstadt 06.08.1932</ref>
+               <ref subtype="next_letter" type="withinCollection" target="869-33-41.xml">Giuseppe
+                  Pizzardo an Augustin Bea, Vatikanstadt 06.08.1935</ref>
             </correspContext>
          </correspDesc>
          <particDesc>

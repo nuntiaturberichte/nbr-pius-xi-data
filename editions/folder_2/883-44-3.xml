@@ -136,6 +136,15 @@
                     <persName ref="https://d-nb.info/gnd/118594745">Pius XI.</persName>
                     <placeName>Vatikanstadt</placeName>
                 </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_7604">Bonifaz Wienand
+                        - Pius XI.</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="882-43-48.xml"
+                        >Relazione sul movimento "Neuland"</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="883-44-13.xml"
+                        >Theodor Kardinal Innitzer im Namen des österreichischen Epsikopats, Wien
+                        29.09.1933</ref>
+                </correspContext>
             </correspDesc>
         </profileDesc>
         <revisionDesc>

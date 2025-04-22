@@ -115,15 +115,14 @@
                <ref type="belongsToCorrespondence" target="correspondence_7212">Enrico Sibilia -
                   Eugenio Pacelli</ref>
                <ref subtype="previous_letter" type="withinCorrespondence"
-                  source="correspondence_7212" target="869-33-35.xml">869-33-35: Eugenio Pacelli an
-                  Enrico Sibilia, Vatikanstadt 27.07.1932</ref>
+                  source="correspondence_7212" target="869-33-35.xml">Eugenio Pacelli an Enrico
+                  Sibilia, Vatikanstadt 27.07.1932</ref>
                <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_7212"
-                  target="869-33-51.xml">869-33-51: Enrico Sibilia an Eugenio Pacelli, Wien
-                  28.08.1932</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="869-33-35.xml"
-                  >869-33-35: Eugenio Pacelli an Enrico Sibilia, Vatikanstadt 27.07.1932</ref>
-               <ref subtype="next_letter" type="withinCollection" target="869-33-37.xml">869-33-37:
-                  Mgr. Segretario an Johannes Gföllner, Vatikanstadt 06.08.1932</ref>
+                  target="869-33-51.xml">Enrico Sibilia an Eugenio Pacelli, Wien 28.08.1932</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="869-33-35.xml">Eugenio
+                  Pacelli an Enrico Sibilia, Vatikanstadt 27.07.1932</ref>
+               <ref subtype="next_letter" type="withinCollection" target="869-33-37.xml">Mgr.
+                  Segretario an Johannes Gföllner, Vatikanstadt 06.08.1932</ref>
             </correspContext>
          </correspDesc>
          <particDesc>

@@ -117,6 +117,12 @@
             <creation>
                 <date when="1934-03-13">13.03.1934</date>
             </creation>
+            <correspDesc>
+                <correspContext>
+                    <ref subtype="previous_letter" type="withinCollection" target="883-45-35.xml"
+                        >Bericht an Dollfuß, Rom 05.02.1934</ref>
+                </correspContext>
+            </correspDesc>
         </profileDesc>
         <revisionDesc>
             <change who="#bernhard.kronegger">Added abstract, foliation, pbs</change>

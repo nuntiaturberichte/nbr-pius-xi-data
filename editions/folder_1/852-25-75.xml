@@ -133,15 +133,14 @@
                <ref type="belongsToCorrespondence" target="correspondence_7212">Enrico Sibilia -
                   Eugenio Pacelli</ref>
                <ref subtype="previous_letter" type="withinCorrespondence"
-                  source="correspondence_7212" target="852-25-47.xml">852-25-47: Enrico Sibilia an
-                  Eugenio Pacelli, Wien 05.12.1931</ref>
+                  source="correspondence_7212" target="852-25-47.xml">Enrico Sibilia an Eugenio
+                  Pacelli, Wien 05.12.1931</ref>
                <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_7212"
-                  target="852-25-78.xml">852-25-78: Enrico Sibilia an Eugenio Pacelli, Wien
-                  09.05.1933</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="852-25-47.xml"
-                  >852-25-47: Enrico Sibilia an Eugenio Pacelli, Wien 05.12.1931</ref>
-               <ref subtype="next_letter" type="withinCollection" target="852-25-78.xml">852-25-78:
-                  Enrico Sibilia an Eugenio Pacelli, Wien 09.05.1933</ref>
+                  target="852-25-78.xml">Enrico Sibilia an Eugenio Pacelli, Wien 09.05.1933</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="852-25-47.xml">Enrico
+                  Sibilia an Eugenio Pacelli, Wien 05.12.1931</ref>
+               <ref subtype="next_letter" type="withinCollection" target="852-25-78.xml">Enrico
+                  Sibilia an Eugenio Pacelli, Wien 09.05.1933</ref>
             </correspContext>
          </correspDesc>
       </profileDesc>

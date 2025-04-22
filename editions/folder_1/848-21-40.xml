@@ -102,12 +102,11 @@
                <ref type="belongsToCorrespondence" target="correspondence_7212">Enrico Sibilia -
                   Eugenio Pacelli</ref>
                <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_7212"
-                  target="848-21-41.xml">848-21-41: Enrico Sibilia an Eugenio Pacelli, Wien
-                  23.06.1933</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="848-20-71.xml"
-                  >848-20-71: Luigi Faidutti, Kaunas, 06.08.1929</ref>
-               <ref subtype="next_letter" type="withinCollection" target="848-21-41.xml">848-21-41:
-                  Enrico Sibilia an Eugenio Pacelli, Wien 23.06.1933</ref>
+                  target="848-21-41.xml">Enrico Sibilia an Eugenio Pacelli, Wien 23.06.1933</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="848-20-71.xml">Luigi
+                  Faidutti, Kaunas, 06.08.1929</ref>
+               <ref subtype="next_letter" type="withinCollection" target="848-21-41.xml">Enrico
+                  Sibilia an Eugenio Pacelli, Wien 23.06.1933</ref>
             </correspContext>
          </correspDesc>
       </profileDesc>

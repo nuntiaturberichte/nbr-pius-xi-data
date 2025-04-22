@@ -102,10 +102,13 @@
             <correspContext>
                <ref type="belongsToCorrespondence" target="correspondence_3460">Giuseppe Pizzardo -
                   Johannes Gföllner</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="869-33-36.xml"
-                  >869-33-36: Enrico Sibilia an Eugenio Pacelli, Wien 02.08.1932</ref>
-               <ref subtype="next_letter" type="withinCollection" target="869-33-38.xml">869-33-38:
-                  Unbekannter Autor, Vatikanstadt 04.08.1932</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_3460"
+                  target="869-33-46.xml">Johannes Maria Gföllner an Giuseppe Pizzardo, Linz
+                  14.08.1932</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="869-33-36.xml">Enrico
+                  Sibilia an Eugenio Pacelli, Wien 02.08.1932</ref>
+               <ref subtype="next_letter" type="withinCollection" target="869-33-38.xml">Maurilio
+                  Silvani, Vatikanstadt 04.08.1932</ref>
             </correspContext>
          </correspDesc>
          <particDesc>

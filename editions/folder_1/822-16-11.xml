@@ -117,9 +117,9 @@
                     <ref type="belongsToCorrespondence" target="correspondence_5093">Eugenio Pacelli
                         - Theodor Innitzer</ref>
                     <ref subtype="previous_letter" type="withinCollection" target="822-15-28.xml"
-                        >822-15-28: Enrico Sibilia an Giuseppe Pizzardo, Wien 25.10.1935</ref>
-                    <ref subtype="next_letter" type="withinCollection" target="822-16-24.xml"
-                        >822-16-24: Luigi Punzolo an Giuseppe Pizzardo, Wien, 21.11.1936</ref>
+                        >Enrico Sibilia an Giuseppe Pizzardo, Wien 25.10.1935</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="822-16-24.xml">Luigi
+                        Punzolo an Giuseppe Pizzardo, Wien, 21.11.1936</ref>
                 </correspContext>
             </correspDesc>
             <particDesc>

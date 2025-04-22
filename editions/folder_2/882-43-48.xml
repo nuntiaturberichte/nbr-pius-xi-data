@@ -119,6 +119,15 @@
                     </person>
                 </listPerson>
             </particDesc>
+            <correspDesc>
+                <correspContext>
+                    <ref subtype="previous_letter" type="withinCollection" target="882-43-34.xml"
+                        >Johannes Maria Gföllner an Eugenio Pacelli, Linz 18.07.1936</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="883-44-3.xml"
+                        >Österreichische Geistliche an Pius XI., Graz-Vordernberg-Seckau
+                        25.09.1933</ref>
+                </correspContext>
+            </correspDesc>
         </profileDesc>
         <revisionDesc>
             <change who="#bernhard.kronegger">Added abstract, foliation, pbs</change>

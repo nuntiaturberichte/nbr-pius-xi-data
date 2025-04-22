@@ -209,10 +209,10 @@
             <correspContext>
                <ref type="belongsToCorrespondence" target="correspondence_6293">Luigi Faidutti -
                   Unbekannter Empfänger</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="848-20-49.xml"
-                  >848-20-49: Pietro Gasparri an Enrico Sibilia, Rom 31.03.1923</ref>
-               <ref subtype="next_letter" type="withinCollection" target="848-21-40.xml">848-21-40:
-                  Eugenio Pacelli an Enrico Sibilia, Vatikan 12.06.1933</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="848-20-49.xml">Pietro
+                  Gasparri an Enrico Sibilia, Rom 31.03.1923</ref>
+               <ref subtype="next_letter" type="withinCollection" target="848-21-40.xml">Eugenio
+                  Pacelli an Enrico Sibilia, Vatikan 12.06.1933</ref>
             </correspContext>
          </correspDesc>
          <particDesc>

@@ -125,6 +125,14 @@
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118526561">Engelbert Dollfuß</persName>
                 </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_8313">Engelbert
+                        Dollfuß - Rudolf Kohlruss</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="883-44-32.xml"
+                        >Note von Mons. Hudal, Rom 05.10.1933</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="886-48-17.xml"
+                        >Archivsnotiz, 13.03.1934</ref>
+                </correspContext>
             </correspDesc>
         </profileDesc>
         <revisionDesc>

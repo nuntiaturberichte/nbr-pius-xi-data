@@ -113,12 +113,12 @@
                <ref type="belongsToCorrespondence" target="correspondence_3602">Enrico Sibilia -
                   Pietro Gasparri</ref>
                <ref subtype="previous_letter" type="withinCorrespondence"
-                  source="correspondence_3602" target="852-23-73.xml">852-23-73: Enrico Sibilia an
-                  Pietro Gasparri, Wien 09.10.1929</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="852-23-73.xml"
-                  >852-23-73: Enrico Sibilia an Pietro Gasparri, Wien 09.10.1929</ref>
-               <ref subtype="next_letter" type="withinCollection" target="852-25-42.xml">852-25-42:
-                  Enrico Sibilia an Eugenio Pacelli, Wien 29.08.1931</ref>
+                  source="correspondence_3602" target="852-23-73.xml">Enrico Sibilia an Pietro
+                  Gasparri, Wien 09.10.1929</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="852-23-73.xml">Enrico
+                  Sibilia an Pietro Gasparri, Wien 09.10.1929</ref>
+               <ref subtype="next_letter" type="withinCollection" target="852-25-42.xml">Enrico
+                  Sibilia an Eugenio Pacelli, Wien 29.08.1931</ref>
             </correspContext>
          </correspDesc>
       </profileDesc>

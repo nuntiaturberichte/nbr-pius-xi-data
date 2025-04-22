@@ -120,6 +120,14 @@
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118594753">Eugenio Pacelli</persName>
                 </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="correspondence_2270">Eugenio Pacelli
+                        - Johannes Gföllner</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="881-42-104.xml"
+                        >Ernst Karl Winter an Pius XI, 13.11.1934</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="882-43-48.xml"
+                        >Relazione sul movimento "Neuland"</ref>
+                </correspContext>
             </correspDesc>
             <particDesc>
                 <listPerson>

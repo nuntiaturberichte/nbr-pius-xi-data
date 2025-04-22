@@ -120,10 +120,9 @@
                <ref type="belongsToCorrespondence" target="correspondence_1846">Augustin Bea - Pius
                   XI.</ref>
                <ref subtype="previous_letter" type="withinCollection" target="869-33-42.xml"
-                  >869-33-42: Augustin Bea an Giuseppe Pizzardo, Pullach bei München
-                  12.08.1932</ref>
-               <ref subtype="next_letter" type="withinCollection" target="869-33-46.xml">869-33-46:
-                  Johannes Maria Gföllner an Giuseppe Pizzardo, Linz 14.08.1932</ref>
+                  >Augustin Bea an Giuseppe Pizzardo, Pullach bei München 12.08.1932</ref>
+               <ref subtype="next_letter" type="withinCollection" target="869-33-46.xml">Johannes
+                  Maria Gföllner an Giuseppe Pizzardo, Linz 14.08.1932</ref>
             </correspContext>
          </correspDesc>
          <particDesc>

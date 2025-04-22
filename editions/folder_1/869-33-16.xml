@@ -128,10 +128,10 @@
             <correspContext>
                <ref type="belongsToCorrespondence" target="correspondence_4714">Pius XI. - Wenzel
                   Grosam</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="869-33-15.xml"
-                  >869-33-15: Enrico Sibilia an Eugenio Pacelli, Wien 20.07.1932</ref>
-               <ref subtype="next_letter" type="withinCollection" target="869-33-35.xml">869-33-35:
-                  Eugenio Pacelli an Enrico Sibilia, Vatikanstadt 27.07.1932</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="869-33-15.xml">Enrico
+                  Sibilia an Eugenio Pacelli, Wien 20.07.1932</ref>
+               <ref subtype="next_letter" type="withinCollection" target="869-33-32.xml">Adam Hefter
+                  an Laurentius Zeller, Wien 24.06.1932</ref>
             </correspContext>
          </correspDesc>
          <particDesc>

@@ -103,15 +103,14 @@
                <ref type="belongsToCorrespondence" target="correspondence_7212">Enrico Sibilia -
                   Eugenio Pacelli</ref>
                <ref subtype="previous_letter" type="withinCorrespondence"
-                  source="correspondence_7212" target="869-33-13.xml">869-33-13: Enrico Sibilia an
-                  Eugenio Pacelli, Wien 11.07.1932</ref>
+                  source="correspondence_7212" target="869-33-13.xml">Enrico Sibilia an Eugenio
+                  Pacelli, Wien 11.07.1932</ref>
                <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_7212"
-                  target="869-33-15.xml">869-33-15: Enrico Sibilia an Eugenio Pacelli, Wien
-                  20.07.1932</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="869-33-13.xml"
-                  >869-33-13: Enrico Sibilia an Eugenio Pacelli, Wien 11.07.1932</ref>
-               <ref subtype="next_letter" type="withinCollection" target="869-33-15.xml">869-33-15:
-                  Enrico Sibilia an Eugenio Pacelli, Wien 20.07.1932</ref>
+                  target="869-33-15.xml">Enrico Sibilia an Eugenio Pacelli, Wien 20.07.1932</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="869-33-13.xml">Enrico
+                  Sibilia an Eugenio Pacelli, Wien 11.07.1932</ref>
+               <ref subtype="next_letter" type="withinCollection" target="869-33-15.xml">Enrico
+                  Sibilia an Eugenio Pacelli, Wien 20.07.1932</ref>
             </correspContext>
          </correspDesc>
          <particDesc>

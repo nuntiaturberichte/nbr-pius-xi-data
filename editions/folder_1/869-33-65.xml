@@ -110,10 +110,12 @@
                <ref type="belongsToCorrespondence" target="correspondence_7212">Enrico Sibilia -
                   Eugenio Pacelli</ref>
                <ref subtype="previous_letter" type="withinCorrespondence"
-                  source="correspondence_7212" target="869-33-51.xml">869-33-51: Enrico Sibilia an
-                  Eugenio Pacelli, Wien 28.08.1932</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="869-33-51.xml"
-                  >869-33-51: Enrico Sibilia an Eugenio Pacelli, Wien 28.08.1932</ref>
+                  source="correspondence_7212" target="869-33-51.xml">Enrico Sibilia an Eugenio
+                  Pacelli, Wien 28.08.1932</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="869-33-51.xml">Enrico
+                  Sibilia an Eugenio Pacelli, Wien 28.08.1932</ref>
+               <ref subtype="next_letter" type="withinCollection" target="881-42-104.xml">Ernst Karl
+                  Winter an Pius XI, 13.11.1934</ref>
             </correspContext>
          </correspDesc>
          <particDesc>

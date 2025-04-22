@@ -105,15 +105,14 @@
                <ref type="belongsToCorrespondence" target="correspondence_7212">Enrico Sibilia -
                   Eugenio Pacelli</ref>
                <ref subtype="previous_letter" type="withinCorrespondence"
-                  source="correspondence_7212" target="869-33-36.xml">869-33-36: Enrico Sibilia an
-                  Eugenio Pacelli, Wien 02.08.1932</ref>
+                  source="correspondence_7212" target="869-33-36.xml">Enrico Sibilia an Eugenio
+                  Pacelli, Wien 02.08.1932</ref>
                <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_7212"
-                  target="869-33-65.xml">869-33-65: Enrico Sibilia an Eugenio Pacelli, Wien
-                  22.09.1932</ref>
+                  target="869-33-65.xml">Enrico Sibilia an Eugenio Pacelli, Wien 22.09.1932</ref>
                <ref subtype="previous_letter" type="withinCollection" target="869-33-50.xml"
-                  >869-33-50: Giuseppe Pizzardo, Vatikan 21.08.1932</ref>
-               <ref subtype="next_letter" type="withinCollection" target="869-33-65.xml">869-33-65:
-                  Enrico Sibilia an Eugenio Pacelli, Wien 22.09.1932</ref>
+                  >Giuseppe Pizzardo, Vatikan 21.08.1932</ref>
+               <ref subtype="next_letter" type="withinCollection" target="869-33-65.xml">Enrico
+                  Sibilia an Eugenio Pacelli, Wien 22.09.1932</ref>
             </correspContext>
          </correspDesc>
       </profileDesc>

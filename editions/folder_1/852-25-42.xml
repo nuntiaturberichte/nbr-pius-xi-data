@@ -119,15 +119,14 @@
                <ref type="belongsToCorrespondence" target="correspondence_7212">Enrico Sibilia -
                   Eugenio Pacelli</ref>
                <ref subtype="previous_letter" type="withinCorrespondence"
-                  source="correspondence_7212" target="848-21-41.xml">848-21-41: Enrico Sibilia an
-                  Eugenio Pacelli, Wien 23.06.1933</ref>
+                  source="correspondence_7212" target="848-21-41.xml">Enrico Sibilia an Eugenio
+                  Pacelli, Wien 23.06.1933</ref>
                <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_7212"
-                  target="852-25-43.xml">852-25-43: Eugenio Pacelli an Enrico Sibilia,
-                  01.09.1931</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="852-24-4.xml"
-                  >852-24-4: Enrico Sibilia an Pietro Gasparri, Wien 21.11.1929</ref>
-               <ref subtype="next_letter" type="withinCollection" target="852-25-43.xml">852-25-43:
-                  Eugenio Pacelli an Enrico Sibilia, 01.09.1931</ref>
+                  target="852-25-43.xml">Eugenio Pacelli an Enrico Sibilia, 01.09.1931</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="852-24-4.xml">Enrico
+                  Sibilia an Pietro Gasparri, Wien 21.11.1929</ref>
+               <ref subtype="next_letter" type="withinCollection" target="852-25-43.xml">Eugenio
+                  Pacelli an Enrico Sibilia, 01.09.1931</ref>
             </correspContext>
          </correspDesc>
       </profileDesc>

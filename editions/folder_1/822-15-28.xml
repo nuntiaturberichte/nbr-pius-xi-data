@@ -117,8 +117,8 @@
             <correspContext>
                <ref type="belongsToCorrespondence" target="correspondence_230">Enrico Sibilia -
                   Giuseppe Pizzardo</ref>
-               <ref subtype="next_letter" type="withinCollection" target="822-16-11.xml">822-16-11:
-                  Theodor Kardinal Innitzer, Ohne Ort und Datum</ref>
+               <ref subtype="next_letter" type="withinCollection" target="822-16-11.xml">Theodor
+                  Kardinal Innitzer, Ohne Ort und Datum</ref>
             </correspContext>
          </correspDesc>
       </profileDesc>

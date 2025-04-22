@@ -103,12 +103,12 @@
                <ref type="belongsToCorrespondence" target="correspondence_5533">Augustin Bea -
                   Giuseppe Pizzardo</ref>
                <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_5533"
-                  target="869-33-42.xml">869-33-42: Augustin Bea an Giuseppe Pizzardo, Pullach bei
-                  München 12.08.1932</ref>
+                  target="869-33-42.xml">Augustin Bea an Giuseppe Pizzardo, Pullach bei München
+                  12.08.1932</ref>
                <ref subtype="previous_letter" type="withinCollection" target="869-33-38.xml"
-                  >869-33-38: Unbekannter Autor, Vatikanstadt 04.08.1932</ref>
-               <ref subtype="next_letter" type="withinCollection" target="869-33-42.xml">869-33-42:
-                  Augustin Bea an Giuseppe Pizzardo, Pullach bei München 12.08.1932</ref>
+                  >Maurilio Silvani, Vatikanstadt 04.08.1932</ref>
+               <ref subtype="next_letter" type="withinCollection" target="869-33-42.xml">Augustin
+                  Bea an Giuseppe Pizzardo, Pullach bei München 12.08.1932</ref>
             </correspContext>
          </correspDesc>
          <particDesc>

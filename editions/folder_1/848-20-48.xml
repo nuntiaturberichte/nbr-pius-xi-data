@@ -115,15 +115,14 @@
                <ref type="belongsToCorrespondence" target="correspondence_3602">Enrico Sibilia -
                   Pietro Gasparri</ref>
                <ref subtype="previous_letter" type="withinCorrespondence"
-                  source="correspondence_3602" target="848-20-47.xml">848-20-47: Pietro Gasparri an
-                  Enrico Sibilia, Rom 26.03.1923</ref>
+                  source="correspondence_3602" target="848-20-47.xml">Pietro Gasparri an Enrico
+                  Sibilia, Rom 26.03.1923</ref>
                <ref subtype="next_letter" type="withinCorrespondence" source="correspondence_3602"
-                  target="848-20-49.xml">848-20-49: Pietro Gasparri an Enrico Sibilia, Rom
-                  31.03.1923</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="848-20-47.xml"
-                  >848-20-47: Pietro Gasparri an Enrico Sibilia, Rom 26.03.1923</ref>
-               <ref subtype="next_letter" type="withinCollection" target="848-20-49.xml">848-20-49:
-                  Pietro Gasparri an Enrico Sibilia, Rom 31.03.1923</ref>
+                  target="848-20-49.xml">Pietro Gasparri an Enrico Sibilia, Rom 31.03.1923</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="848-20-47.xml">Pietro
+                  Gasparri an Enrico Sibilia, Rom 26.03.1923</ref>
+               <ref subtype="next_letter" type="withinCollection" target="848-20-49.xml">Pietro
+                  Gasparri an Enrico Sibilia, Rom 31.03.1923</ref>
             </correspContext>
          </correspDesc>
          <particDesc>
