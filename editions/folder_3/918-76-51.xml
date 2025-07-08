@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><!-- Titel --></title>
+                <author>
+                    <persName><!-- Autor und DNB-Link --></persName>
+                </author>
+                <respStmt>
+                    <resp>TEI tempalte prepared by</resp>
+                    <persName ref="#martin.kroissenbrunner">Martin Kroissenbrunner</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>edited by</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>kollationieren</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <!-- msDesc@status -->
+                    <msIdentifier>
+                        <repository>AAEESS, Periodo IV, Austria Ungheria</repository>
+                        <idno type="archive">Pos. 918, Fasc. 76, Fol. 51r - 53r</idno>
+                        <idno type="institutional" subtype="internal"><!-- interne ID --></idno>
+                        <idno type="institutional" subtype="external"><!-- externe ID --></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <note type="keyword" resp="#bernhard.kronegger"
+                                ><!-- Schlagwort --></note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <layoutDesc>
+                                <ab>einseitig beschrieben</ab>
+                            </layoutDesc>
+                        </objectDesc>
+                        <scriptDesc>
+                            <ab>maschinenschriftlich</ab>
+                        </scriptDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote>
+                    <p><!-- Autorenhand --></p>
+                </handNote>
+            </handNotes>
+            <abstract>
+                <p><!-- Regest --></p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspContext/>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <ab type="archive-nr">918-76-51</ab>
+            <opener><dateline><lb/>Berna, 20 Novem. 1938</dateline></opener>
+            <p>Informazioni private da Monaco e da Vienna confermano che durante le rappresaglie
+                recenti contro gli ebrei per 'l'attentato von Rath si sono avute non solo in quelle
+                città ma in altri centri delle manifestazioni contro il Clero ed i cattolici e che
+                parecchi capi locali del partito ne hanno preso occasione per dichiarare nuovamente
+                che, dopo la soluzione radicale in corso del problema ebraico, verrà la volta della
+                Chiesa cattolica, alleata coll'ebraismo internazionale. Le dimostrazioni contro il
+                Cardinal Faulhaber non hanno avuto delle conseguenze gravi soltanto grazie alle
+                misure preventive di sorveglianza chieste ed ottenute dal Cardinale stesso
+                dall'Autorità governativa locale, contro il parere del <hi rend="underline"
+                    >Gauleiter</hi> Wagner, il quale avrebbe voluto dare una "lezione" al Cardinale
+                per la sua predica recente sui diritti dei cittadini cattolici. In generale però si
+                ritiene che nella lotta contro la Chiesa non saranno applicati gli stessi metodi
+                brutali ora impiegati contro gli elementi semiti.</p>
+            <p>Nelle Istruzioni impertite agli insegnanti nazionalsocialisti austriaci,che circolano
+                in fogli tirati al <hi rend="underline">cyclostile</hi> e pare che emanino
+                direttamente da Alfredo Rosenberg, incaricato della formazione nazionalsocialista
+                della nazione, si legge a questo riguardo: "E' vostro dovere di procedere con
+                estrema prudenza contro una Chiesa, la quale é essa stessa astuta e forte. Gli
+                allievi devono essere divezzati dall'influenza perniciosa del potere ecclesiastico.
+                Bisogna insegnare loro a poco a poco a mettere in ridicolo la vecchia e stupida
+                concezione di Cristo, che non é compati<edit>l</edit>ile colla vera concezione
+                germanica... Gli ebrei e la Chiesa sono i veri nemici dello Stato
+                nazionalsocialista. Gli insegnanti fedeli al partito devono cooperare perché ambedue
+                siano schiacciati." Le stesse idee ed i medesimi propositi vengono diffusi nelle
+                varie sezioni della "Gioventù Hitleriana" per mezzo di opuscoli, nei quali si
+                spiegano i principii fondamentali dell'ideologia razzista e neopagana, in
+                contrapposto con quelli del cristianesimo, al quale si rimprovera di aver corrotto
+                il vero carattere tedesco, specialmente la sua concezione della solidarietà di
+                razza, della fedeltà e dell'eroismo.</p>
+            <note type="later-nr">4925/38</note>
+            <note type="foliation">51</note>
+            <pb n="2"/>
+            <p>Si assicura che per le vie di Vienna i preti sono spesso esposti ad ogni genere
+                d'insulto. La scorsa settimana in molte scuole elementari i maestri hanno insegnato
+                ai fanciulli delle canzoni contro la Chiesa ed il Papa. Degli incaricati del partito
+                avrebbero poi visitate molte famiglie cattoliche presentando loro un documento da
+                firmare, nel quale é detto che essi non desiderano che i loro figli continuino a far
+                parte della religione cattolica e frequentino le classi di catechismo. Il movimento
+                per le dichiarazioni di uscita dalla Chiesa - le quali, secondo una disposizione
+                recentissima del Governatore dell'Austria, dottor Seiss-Inquart, hanno effetto
+                immediato - si propaga così lentamente ma in modo relativamente facile, perché é
+                favorito dalle pressioni insistenti sui funzionari e gli impiegati dello Stato,
+                dall'intimidazione diventata un sistema di governo e dalle preoccupazioni dei
+                genitori per lo avvenire materiale dei loro figli.</p>
+            <p>In tali condizioni la resistenza opposta dai cattolici austriaci é finora molto
+                incerta, sia per la debolezza stessa delle convinzioni cattoliche di molta parte del
+                laicato, che sotto l'antico Regime militava nelle file dell' Azione cattolica
+                soltanto nella speranza di migliorare la sua posizione materiale ed ottenere dei
+                posti governativi, sia perché una parte del Clero stesso - specialmente di quello
+                    <hi rend="underline">regolare</hi> - oltre ad essere non raramente moralmente
+                bacato, é propenso a far causa comune coi persecutori, criticando l’atteggiamento
+                più recente della Gerarchia. Le misure adottate dai Vescovi per intensificare
+                l’insegnamento catechistico e la formazione religiosa della gioventù, in
+                sostituzione di quella già data negli Istituti scolastici cattolici ora chiusi,
+                incontrano notevoli difficoltà, data l’insuffici<hi rend="underline">ente
+                    preparazione d</hi>el Clero<edit>!</edit> e delle famiglie, diversamente da
+                quanto é avvenuto nel vecchio territorio del R<hi rend="underline">eich.</hi> Le
+                prospettive per l’avvenire sono perciò alquanto fosche, tanto più se le correnti
+                radicali concentreranno l'attacco contro la Chiesa nell'Austria annessa, come sembra
+                che esse vogliano fare, credendola il punto della minor resistenza.</p>
+            <p style="includesPb">Circa la situazione religiosa nel territorio dei Sudeti,
+                recentemente annesso, pare che il Commissario speciale Henlein abbia ottenuto dagli
+                organi responsabili di poter procedere con molta prudenza e di realizzare la piena
+                equi- <note type="foliation">52</note>
+                <pb n="3"/> parazione delle condizioni, sia legali che scolastiche, con quelle del
+                    <hi rend="underline">Reich</hi> in tappe successive, per non sollevare la
+                reazione del Clero e della popolazione cattolica. Lo scioglimento volontario delle
+                organizzazioni e la chiusura delle scuole protestanti confessionali vengono però
+                interpretati in molti ambienti come una pressione su quelle cattoliche, dalle quali
+                si attenderebbe lo stesso gesto per rendere possibile quella piena <hi
+                    rend="underline">Gemeinschaft</hi> o communità tedesca, che il Regime vuole
+                realizzare dappertutto, considerandola come superiore ai vincoli religiosi.
+                Amministrativamente gran parte del territorio tedesco, già appartenente alla
+                Cecoslovacchia ed ora incorporato nel <hi rend="underline">Reich</hi>, <add
+                    place="above">che</add> dipende poi sia dalle varie provincie in cui é divisa
+                l'Austria <edit>x</edit> da quelle della Baviera - anche per quanto riguarda la
+                giurisdizione dei <hi rend="underline">Gauleiter</hi> o segretarii locali del
+                partito - sicché si ritiene che saranno presto estese anche in esso le condizioni
+                scolastiche e religiose già reg<add place="above">n</add>anti nella Marca Orientale
+                ed in Baviera. Per il momento non si vuol compromettere il risultato della elezione
+                plebiscitaria dei deputati sudetici al <hi rend="underline">Reichstag</hi>, che avrà
+                luogo il 4 Dicembre p.v.</p>
+            <note type="foliation">53</note>
+        </body>
+    </text>
+</TEI>

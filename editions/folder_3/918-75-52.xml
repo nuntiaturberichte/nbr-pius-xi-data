@@ -1,0 +1,221 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><!-- Titel --></title>
+                <author>
+                    <persName><!-- Autor und DNB-Link --></persName>
+                </author>
+                <respStmt>
+                    <resp>TEI tempalte prepared by</resp>
+                    <persName ref="#martin.kroissenbrunner">Martin Kroissenbrunner</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>edited by</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>kollationieren</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <!-- msDesc@status -->
+                    <msIdentifier>
+                        <repository>AAEESS, Periodo IV, Austria Ungheria</repository>
+                        <idno type="archive">Pos. 918, Fasc. 75, Fol. 52r+v - 54r</idno>
+                        <idno type="institutional" subtype="internal"><!-- interne ID --></idno>
+                        <idno type="institutional" subtype="external"><!-- externe ID --></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <note type="keyword" resp="#bernhard.kronegger"
+                                ><!-- Schlagwort --></note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <layoutDesc>
+                                <ab>beidseitig beschrieben</ab>
+                            </layoutDesc>
+                        </objectDesc>
+                        <scriptDesc>
+                            <ab>maschinenschriftlich</ab>
+                        </scriptDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote>
+                    <p><!-- Autorenhand --></p>
+                </handNote>
+            </handNotes>
+            <abstract>
+                <p><!-- Regest --></p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspContext/>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <ab type="archive-nr">918-75-52</ab>
+            <note type="later-nr">com. Ric.  con N 3966/38</note>
+            <note type="original-nr">No. 25.079.</note>
+            <note type="later-nr">18-X-38 detto al S.P.</note>
+            <opener><dateline><lb/>BERLINO W.35, 15 Ottobre 1938. <lb/>(Rauchstrasse,
+                21)</dateline></opener>
+            <seg type="subjectLine">Devastazione del Palazzo Arcivescovile di Vienna.</seg>
+            <add place="margin-left">discorso Bürckel</add>
+            <opener><lb/>A Sua Eminenza Reverendissima <lb/>Il Signor Cardinale EUGENIO PACELLI
+                <lb/>Segretario di Stato di Sua Santità <lb/>CITTÀ DEL VATICANO.</opener>
+            <opener><salute><lb/>Eminenza Reverendissima,</salute></opener>
+            <p>Mi faccio premura di inviare a Vostra Eminenza Reverendissima <edit>q</edit>ualche
+                altra notizia circa i luttuosi fatti di Vienna.</p>
+            <p>In questi giorni parecchi diplomatici sono venuti espressamente alla Nunziatura
+                Apostolica per manifestarmi le loro vive condoglianze per le offese
+                all'Eminentissimo Signor Cardinale Innitzer, Arcivescovo di Vienna, molto più che
+                parecchi avevano avuto anche informazioni dirette dai loro Consoli residenti in
+                Vienna. Espressero personalmente le loro condoglianze gli Ambasciatori d'Italia, di
+                Polonia, di Spagna, dell'Argentina e il Ministro del Portogallo.</p>
+            <p>Ho potuto così apprendere:</p>
+            <p style="includesPb">1° - Nel discorso tenuto nella Cattedrale di Santo Stefano venerdì
+                sera, giorno 7 corrente, ai 6000 giovani l'Eminentissimo Signor Cardinale Innitzer,
+                dopo aver elencato quanto era <note type="later-nr">3961/38</note>
+                <note type="foliation">52</note>
+                <pb n="2"/> stato tolto alla Gioventù Cattolica (organizzazione, bandiere, insegne,
+                ecc.), aveva anche enumerato quanto di buono ancora restava e, sottolineando il dono
+                della fede, aveva detto: "Cristo è il nostro duce!" - Il senso puramente religioso
+                della parola "<hi rend="underline">Duce</hi>" era più che evidente da tutte le
+                circostanze concomitanti, ma purtroppo si prestava all'interpretazione politica,
+                specialmente quando poco appresso la gioventù maschile la ripetè ad alta
+                    vo<edit>c</edit>e in piazza davanti al Palazzo Arcivescovile, scandendo a modo
+                dei nazzisti la frase: "Noi vogliamo vedere il nostro Cardinale!"</p>
+            <p>2. - Giovedì sera, giorno 13 corrente, il Commissario Signor Bürckel ha poi tenuto un
+                violento discorso sulla gran Piazzi degli Eroi; discorso, che è in diretta
+                opposizione con la frase dettami al Ministero degli Esteri di Berlino: "Nessuno del
+                Governo approva le devastazioni fatte all'Eminentissimo Signor Cardinale
+                    Arcivescovo"<edit>,</edit> ed in contradizione col communicato dell'Ufficio
+                Stampa Governativo, redatto <edit>"</edit>ad uso dell'estero<edit>"</edit>, col
+                quale si promette una rigorosa punizione giudiziaria dei colpevoli, rincarata da un
+                anno da passare in un campo di concentrazione, topo scontata la pena.</p>
+            <p>Il Commissario Signor Bürckel, il cui discorso non è apparso in nessun giornale, ha
+                parlato ad una folla di uditori comandati (S. A. - Hitler-Jugend - B. D. M.); io ho
+                potuto averne almeno qualche brano, oltre quelli apparsi nel giornale "<hi
+                    rend="underline">Le Temps</hi>", di Parigi; brani presi alla Radio da abili
+                stenografi.</p>
+            <p style="includesPb">Il Signor Bürckel ha iniziato il suo discorso, citando alcuni
+                brani di lettere sequestrate presso i destinatari e scritte dall'Eminentissimo
+                Signor Cardinale Innitzer; lette- <pb n="3"/> re per sè dignitose, ma che avevano
+                l'enorme torto<edit>!</edit> di essere state indirizzate a persone israelite. Così
+                in una di esse l'Eminentissimo Porporato dice: "Ciò che Ella mi scrive circa la
+                situazione nel Terzo Reich è ben triste. Quando mai si cambierà? To scriverei
+                volentieri più a lungo circa il Suo libro, ma devo essere riservato. Con i migliori
+                saluti." - In un'altra lettera pure a giudei, dopo aver ricordato le larghe
+                beneficenze da loro fatte in unione al Rabbino, l'Eminentissimo chiude: "Invoco la
+                benedizione di Dio su Lei e sulla Sua casa".</p>
+            <p>Queste frasi, accompagnate dai più banali commenti hanno servito subito ad eccitare
+                la folla; quella folle, che poi doveva apprendere che le devastazioni erano state
+                    <edit>"</edit>opera dei giudei e dei cecoslovacchi<edit>!"</edit></p>
+            <p>Il Commissario Signor Bürckel ha pure fatto uso di lettere indirizzate
+                dall'Eminentissimo Signor Cardinale allui stesso; lettere, in cui affiorano
+                alternativi giudizi circa Schuschnigg.</p>
+            <p>Più avanti il Signor Bürckel dice: "L'Arcivescovo di Salisburgo ha lasciato
+                comprendere con una certa ingenuità che in Roma non si era d’avviso di procedere
+                rapidamente nelle trattative col Gov<edit>e</edit>rno, poichè non si sapeva ancora
+                come sarebbero andate le cose in Cecoslovacchia! Dunque, aggiunse, una nuova
+                speculazione! Si sperava, fors'anche si pregava, perchè la Germania avesse
+                difficoltà di politica estera".</p>
+            <p style="includesPb">Poi l’oratore fa la cronaca dei luttuosi avvenimenti, chiama le
+                canzoni religiose cantate in Duomo: "<hi rend="underline">Schuschniggs¬</hi>
+                <hi rend="underline">lieder</hi>" ed accusa il Signor Cardinale di aver detto:
+                "Cristo è la nostra guida (Führer)", accusando anche il Cardinale di aver mancato di
+                riverenza al nome di Cristo. E topo aver de- <note type="foliation">53</note>
+                <pb n="4"/> fin<edit>i</edit>to la devastazione del palazzo una ben insignificante
+                cosa, allorquando il popolo intero si alza come un sol uomo per reagire contro le
+                gravi colpe dell'Azione Cattolica politica e del cattolicesimo politico, aggiunse:
+                "Il nazionalsocialismo non ha bisogno oramai di altre trattative. I rapporti fra
+                Chiesa e Stato sono definitivamente rotti". Tutto il discorso continuò, ponendo il
+                Signor Innitzer (come osa chiamarlo il Commissario Bürckel) nella luce di un
+                falsario, traditore della Germania, che agisce in combutta con la stazione- radio di
+                Strassburg, coi communisti francesi, coi giornali, co<edit>m</edit>e la "<hi
+                    rend="underline">Pravda</hi>" e "<hi rend="underline">L'Osservatore</hi>
+                <hi rend="underline">Romano</hi>"! "Io so, disse, chi ha partecipato alla
+                devastazione di venerdì: erano giudei e cecoslovacchi", e più sotto: "Matrimonio e
+                scuola sono cose che appartengono esclusivamente alla Stato!"</p>
+            <p>Con tutte queste manovre e menzogne anche buone persone arrischiano di prendere
+                queste dimostrazioni come una lezione ed un monito non del tutto immeritato da parte
+                del clero cattolico. Già fin dalla mattina del sabbato, giorno 8 corrente, il
+                giornale "<hi rend="underline">Völkischer</hi>
+                <hi rend="underline">Beobachter</hi>" di Vienna in preparazione alle devastazioni
+                della sera, aveva un articolo minaccioso contro il Cardinale. Mi si riferisce che
+                depo il discorso del Commissario Bürckel giovedì sera, giorno 13, una moltitudine di
+                parecchie migliaia di fanatici nazisti sfilò per la piazza della Cattedrale,
+                emettendo grida e portando cartelloni con minaccia di morte per tutto il clero.</p>
+            <p>Io non ho mancato di communicare subito all'Eminentissimo Signor Cardinale Innitzer
+                le espressioni di conforto del Santo padre e le condoglianze di Vostra Eminenza,
+                trasmessemi con i venerati Cifrati N. 34 e N. 35, rispettivamente del giorno 14 e
+                del giorno 15 corrente mese.</p>
+            <pb n="5"/>
+            <p>Mi valgo dell'occasione per presentare i sensi del mio profondissimo ossequio, coi
+                quali, chino al bacio della Sacra Porpora, ho l'alto onore di professarmi[.]</p>
+            <closer><salute><lb/>di Vostra Eminenza Reverendissima</salute></closer>
+            <closer><signed><lb/>devmo - umilmo - obbmo servo <lb/>+ Cesare Orsenigo
+                    <lb/>Arcivescovo di Tolemaide di L. <lb/>Nunzio Apostolico</signed></closer>
+            <note type="foliation">54</note>
+        </body>
+    </text>
+</TEI>

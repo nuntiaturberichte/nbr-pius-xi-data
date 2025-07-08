@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><!-- Titel --></title>
+                <author>
+                    <persName><!-- Autor und DNB-Link --></persName>
+                </author>
+                <respStmt>
+                    <resp>TEI tempalte prepared by</resp>
+                    <persName ref="#martin.kroissenbrunner">Martin Kroissenbrunner</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>edited by</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>kollationieren</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <!-- msDesc@status -->
+                    <msIdentifier>
+                        <repository>AAEESS, Periodo IV, Austria Ungheria</repository>
+                        <idno type="archive">Pos. 903, Fasc. 64, Fol. 51r+v - 52r+v</idno>
+                        <idno type="institutional" subtype="internal"><!-- interne ID --></idno>
+                        <idno type="institutional" subtype="external"><!-- externe ID --></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <note type="keyword" resp="#bernhard.kronegger"
+                                ><!-- Schlagwort --></note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <layoutDesc>
+                                <ab>beidseitig beschrieben</ab>
+                            </layoutDesc>
+                        </objectDesc>
+                        <scriptDesc>
+                            <ab>maschinenschriftlich</ab>
+                        </scriptDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote>
+                    <p><!-- Autorenhand --></p>
+                </handNote>
+            </handNotes>
+            <abstract>
+                <p><!-- Regest --></p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspContext/>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <ab type="archive-nr">903-64-51</ab>
+            <add place="margin-left">Spiega il contenuto e le finalità del suo libro</add>
+            <opener><dateline><lb/>Rom, am 11. November 1936.</dateline></opener>
+            <opener><salute><lb/>Euere Exzellenz,</salute></opener>
+            <p>in ehrfurchtsvollster Ergebung überreiche ich mein neuestes Buch "Die Grundlagen des
+                Nationalsozialismus" un<edit>d</edit> bitte, wenn es Euere Exzellenz für geeignet
+                befinden, auch ein Exemplar im Originaleinband Seiner Heiligkeit als Zeichen meiner
+                bedingungslosen treuen Ergebung gnädigst überreichen zu wollen.</p>
+            <p style="includesPb">Dieses Buch ist die Frucht einer Arbeit von 4 Jahren, 3 Theologen
+                und der Pressereferent Ministerialrat Dr. Frieberger der Österreichischen
+                Gesandtschaft in Rom haben es vor der Drucklegung überprüft, um jeder Möglichkeit
+                einer Falschauslegung einzelner Stellen vorzubeugen. Das Urteil war ganz einstimmig,
+                dass im Buche nichts enthalten ist, was kirchlich oder politisch ungeachtet der
+                überaus schwierigen Materie und Lage auch nur irgendwie Anlass zur Kritik geben
+                könnte. Der Grund, warum ich dieses Werk geschrieben habe, ist die ganz einfache
+                Tatsache, dass ich seit meiner Studentenzeit diese Bewegung, die nichts
+                Reichsdeutsches darstellt sondern auf dem Boden der alten Habsburger Monarchie
+                entstanden ist, bis in die Einzelheiten kennen gelernt habe in ihrer Gefährlichkeit
+                und propagandistischen Zugkraft. Dazu kamen <note type="later-nr">131/37</note>
+                <note type="foliation">51</note>
+                <pb n="2"/> für mich aus neuester Zeit Feststellungen, dass die Bewegung auch im
+                Ausland an Terrain gewinnt, in Italien (Gründung eines deutsch - italienischen <hi
+                    rend="underline">Jugendführerinstitutes</hi> in Rom und Berlin), in Spanien
+                (Beziehungen des General Franko zu Goebbels), in Belgien (Abhängigkeit des Führers
+                Degrelle vom Berliner Propagandaministerium), unter den Sudetendeutschen (hier sind
+                von 3 Millionen weit über die Hälfte im NS Lager, die religiöse Lage unter den
+                deutschen Katholiken ist dortselbst überaus ernst), in Holland und Österreich, wo
+                diese Kräfte allerdings<del rend="strikethrough">t</del> bis jetzt politisch
+                niedergehalten werden konnten.</p>
+            <p>Aus der ständigen Beobachtung dieser Verhältnisse ist in mir die Erkenntnis immer
+                klarer geworden, dass für die katholische Kirche Gefahren von unübersehbarer Grösse
+                in den nächsten Jahren erstehen müssen (eine <hi rend="underline">vollständige
+                    Laisierung</hi> des Staates mit der Zurückdrängung der Religion auf den engen
+                Raum der Kirche). wenn es nicht gelingt in erster Linie im <hi rend="underline"
+                    >Reich</hi> die Bewegung auf eine Bahn zu drängen, die das Weltanschauliche im
+                strengen Sinne den Konfessionen überlässt und für sich nur das <hi rend="underline"
+                    >politisch-soziale</hi> Gebiet etwa nach Art des <sic>Fascismus</sic>
+                reserviert. In diesem Sinne müssten allerdings auch die Staatsmänner Italiens und
+                Österreichs</p>
+            <!-- Laut Dokumentenauflistung in der Mappe endet hier 903-64-51, die Fortsetzung (903-64-52) wäre ein eigenes Dokument. Ich habe es nachfolgend eingefügt -->
+            <p type="continued">für eine kluge Einflussnahme bei Hitler gewonnen werden. Für diese
+                meine Auffassung sind ernste Kreise im deutschen Militär und auch innerhalb der
+                Partei zu haben, wie ich aus den Äusserungen alter Freunde weiss, so sehr der Kreis
+                um Rosenberg es ablehnt.</p>
+            <p>Mein Buch wollte nichts als schlichter Wegbereiter sein für eine <hi rend="underline"
+                    >solche</hi> Lösung, von deren Verwirklichung das Schicksal der Kirche im
+                deutschen Lebensraum besonders unter der heranwachsenden Jugend abhängt.</p>
+            <p>Euere Exzellenz sind als Kenner des schwierigen Charakters und der eigenartigen
+                geistigen Mentalität der Deutschen imstande, dieses menschliche Kraft fast
+                übersteigende Werk einer Verständigung dieser machtvollen Bewegung mit der heiligen
+                Kirche wie es einst Papst Leo XIII. mit seiner bahnbrechenden Enzyklika über den
+                Staat getan hat, zu verwirklichen. Die Gebete ungezählter Menschen gelten diesem
+                heiligen Werk, weil von ihm, wenn die NS Partei nicht im kommenden Krieg versinkt,
+                der weitere christliche Charakter Mitteleuropas abhängt.</p>
+            <p style="includesPb">In dieser Gesinnung überreiche ich dieses Werk mit der Bitte, ein
+                gütiger Kritiker sein zu wollen. Von den Kreisen <note type="foliation">52</note>
+                <pb n="2"/> der reichsdeutschen Emignanten, die von Wien, Holland und der Schweiz
+                aus in ihrer Presse zum Schaden der Gesamtkirche eine rein negative Haltung mit
+                einer Politik =des ressentiments= führen, kann das Heil nicht kommen. Von dieser
+                Seite habe auch ich für mein Werk, das mit den sogenannten =Brückenbauern= gar nicht
+                zu tuen hat, auch nichts zu erwarten als Verleumdung und Intrigen.</p>
+            <closer><salute><lb/>Im Kusse des Heiligen Ringes verbleibe ich als <lb/>
+                    <sic>Euerer</sic> Exzellenz <lb/>stets ergebener <lb/>+ Hudal <lb/>Rektor der
+                    Anima.</salute></closer>
+            <note type="later-nr">Austria 904</note>
+        </body>
+    </text>
+</TEI>

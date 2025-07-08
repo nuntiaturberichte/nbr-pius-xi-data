@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><!-- Titel --></title>
+                <author>
+                    <persName><!-- Autor und DNB-Link --></persName>
+                </author>
+                <respStmt>
+                    <resp>TEI tempalte prepared by</resp>
+                    <persName ref="#martin.kroissenbrunner">Martin Kroissenbrunner</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>edited by</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>kollationieren</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <!-- msDesc@status -->
+                    <msIdentifier>
+                        <repository>AAEESS, Periodo IV, Austria Ungheria</repository>
+                        <idno type="archive">Pos. 903, Fasc. 64, Fol 60r - 61r</idno>
+                        <idno type="institutional" subtype="internal"><!-- interne ID --></idno>
+                        <idno type="institutional" subtype="external"><!-- externe ID --></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <note type="keyword" resp="#bernhard.kronegger"
+                                ><!-- Schlagwort --></note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <layoutDesc>
+                                <ab>einseitig beschrieben</ab>
+                            </layoutDesc>
+                        </objectDesc>
+                        <scriptDesc>
+                            <ab>maschinenschriftlich</ab>
+                        </scriptDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote>
+                    <p><!-- Autorenhand --></p>
+                </handNote>
+            </handNotes>
+            <abstract>
+                <p><!-- Regest --></p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspContext/>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <ab type="archive-nr">903-64-60</ab>
+            <opener><dateline><lb/>Roma, il 30 Novembre 1936</dateline></opener>
+            <opener><salute><lb/>Eminenza Reverendissima,</salute></opener>
+            <p>mi permetto di consegnare le seguenti informazioni forse utili con 3 documenti
+                allegati come copìe</p>
+            <p>I.) Mentre gli emigranti del Reich, ebrei, massoni (conf. l'organo massonico di Praga
+                del Presidente Benesch = Prager Presse =) e i cattolici cosidetti = integrali =
+                vedono nel mio libro sui fondamenti del Nazismo un grave pericolo per la Chiesa
+                meritevole di una condanna formale specialmente i giornali = cattolici =
+                ["]Deutscher Weg", "Christlicher Ständestaat", "Luzerner Briefe" scrivano in una
+                maniera infame come mai prima i socialisti hanno scritto sui Vescovi - i CAPI
+                RESPONSABILI DEL PARTITO NAZZISTA (conf. allegato I, lettera del mio editore sulla
+                discussione avuta da lui a Berlino con uno dei più alti gerarchi!) <hi
+                    rend="underline">dicono, che la mia pubblica<add place="above">zione</add> è
+                    pericolosa per il Nazis</hi>
+                <hi rend="underline">mo</hi> volendo dividerlo in due parti con la teoria di un
+                Nazzismo cristiano. Perciò - nonostante il permesso <hi rend="underline"
+                    >scritto</hi> di Hitler - non permettono una discussione pubblica nei giornali e
+                riviste, essendo questo fatale per il movimento nazzista. Molto caratteristico è
+                anche l’articolo sulla mia persona nell'organo del movimento per una religione nuova
+                puramente germanica (conf. allegato II), nel quale si dice che il mio lavoro con la
+                = Tattica prudente = <hi rend="underline">crea un pericolo per il Nazzismo in
+                    fa</hi>
+                <hi rend="underline">vore della Chiesa Romana</hi>! Lo stesso parere ha anche il
+                Dottore Buhler. persona più importante nella Casa bruna di Monaco, il quale voleva
+                    <hi rend="underline">contro</hi> la volontà espressa di Hitler, che il mio libro
+                sia in Germania ufficialmente proibito - solamente l’intervento del Barone von
+                Neurath e del Ministero degli affari esteri di Berlino ha impedito un tale atto
+                dannoso per il prestigio del partito dopo che il Führer stesso ha lasciato
+                communicare <hi rend="underline">in iscritto per mezzo del Ministero degli affari
+                    esteri</hi> a me il = Nihil obstat = contro la vendita del libro nel Reich Tutto
+                questo mostra <hi rend="underline">le grandi difficoltà</hi> e <hi rend="underline"
+                    >dall'altra parte certamente anche</hi>
+                <hi rend="underline">l’importanza del mio libro</hi> il quale ha <hi
+                    rend="underline">messo il movimento in un gran</hi>
+                <hi rend="underline">imbarazzo</hi> specialmente dopo che Hitler ha dato una
+                risposta per me favorevole</p>
+            <note type="later-nr">142/37</note>
+            <note type="foliation">60</note>
+            <pb n="2"/>
+            <p>II.) Che <hi rend="underline">il moviment<edit>o</edit> razzista</hi> cerca con una
+                    <hi rend="underline">tattica silenziosa</hi> entrare <edit>anche</edit> nel
+                FASCIO ITALIANO, <hi rend="underline">mostra un progetto</hi> (conf. allegato III)
+                elaborato da un certo Gasteiner, ingegnere di Bolzano, giovane un può romantico e
+                sotto l’influsso delle idee di Rosenberg e Guenther (capo del Razzismo germanico).
+                Questo Gasteiner vive a Roma; un gerarco del Nazzismo (cattolico) mi ha procurato
+                una copia del progetto razzista elaborato da Gasteiner per il <hi rend="underline"
+                    >Ministero di educazione nazionale di Roma</hi> con il quale lui ha relazioni se
+                anche gli ufficiali lo neg<edit>a</edit>ranno. Nel progetto è specialmente di valore
+                l’articolo 36 - senza dubbio ispirato contro la mano morta in Italia -
+                originariamente l’articolo parlò già di una confiscazione del patrimonio
+                ecclesiastico in favore di famiglie di razza pura le quali dovrebbero essere
+                colonizzate su questo territorio confiscato. Fatto è che questo progetto, se anche
+                forse non sarà m<edit>a</edit>i completamente realizzato, poteva essere consegnato a
+                persone ufficiali ed importanti del Ministero - una prova che la relazione intima
+                politica fra Italia e il Reich è una buona occasione per importare certe tendenze
+                pericolose del Razzismo e dall'altra parte che un miglioramento fra il Nazzismo e la
+                religione è anche nell'eminente <hi rend="underline">interesse del¬</hi>
+                <hi rend="underline">l'Italia cattolica.</hi></p>
+            <p>III.) Nel bollettino segreto del movimento <hi rend="underline">nazzista
+                    illegale</hi> in Austria fu nei primi giorni di Novembre dato un ordine di <hi
+                    rend="underline">risuscitare un</hi>
+                <hi rend="underline">nuovo movimento di apostasie</hi> dalla Fede cattolica (Los von
+                Rombewegung) dal mese di Gennaio, se il Governo Austriaco non comminciasse
+                seriamente la pacificazione interna nello Stato invece di tolerare continue
+                denuncie, ve<edit>r</edit>azioni della polizia, impossibilità di carriera ecc. Io
+                non posso verificare se questi lamenti hanno un fondamento, solamento un fatto è,
+                che questo ordine <hi rend="underline">antiromano</hi> è <hi rend="underline"
+                    >significativo per la situazio¬</hi>
+                <hi rend="underline">ne</hi>!</p>
+            <closer><salute><lb/>Nel bacio della Sacra Porpora mi rassegno di <lb/>Vostra Eminenza
+                    <lb/>devotissimo servo <lb/>+ Hudal <lb/>Rettore di S. Maria dell'
+                    Anima</salute></closer>
+            <note type="foliation">61</note>
+        </body>
+    </text>
+</TEI>

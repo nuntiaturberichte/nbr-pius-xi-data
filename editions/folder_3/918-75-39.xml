@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><!-- Titel --></title>
+                <author>
+                    <persName><!-- Autor und DNB-Link --></persName>
+                </author>
+                <respStmt>
+                    <resp>TEI tempalte prepared by</resp>
+                    <persName ref="#martin.kroissenbrunner">Martin Kroissenbrunner</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>edited by</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>kollationieren</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <!-- msDesc@status -->
+                    <msIdentifier>
+                        <repository>AAEESS, Periodo IV, Austria Ungheria</repository>
+                        <idno type="archive">Pos. 918, Fasc. 75, Fol. 39r</idno>
+                        <idno type="institutional" subtype="internal"><!-- interne ID --></idno>
+                        <idno type="institutional" subtype="external"><!-- externe ID --></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <note type="keyword" resp="#bernhard.kronegger"
+                                ><!-- Schlagwort --></note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <layoutDesc>
+                                <ab>einseitig beschrieben</ab>
+                            </layoutDesc>
+                        </objectDesc>
+                        <scriptDesc>
+                            <ab>maschinenschriftlich</ab>
+                        </scriptDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote>
+                    <p><!-- Autorenhand --></p>
+                </handNote>
+            </handNotes>
+            <abstract>
+                <p><!-- Regest --></p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspContext/>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <ab type="archive-nr">918-75-39</ab>
+            <ab type="text@type">COPIA</ab>
+            <note type="original-nr">N. 1661/38.</note>
+            <opener><lb/>NONCIATURE APOSTOLIQUE <lb/>EN HONGRIE <lb/>Circa E.mo Cardinale
+                <lb/>Innitzer.</opener>
+            <opener><dateline><lb/>BUDAPEST 10 Ottobre 1938 <lb/>Disz-tér 5.</dateline></opener>
+            <closer><lb/>A Sua Eminenza Rev.ma <lb/>IL SIG. CARDINALE EUGENIO PACELLI
+                <lb/>Segretario di Stato di S. Santità <lb/>Città del <edit>V</edit>aticano</closer>
+            <opener><salute><lb/>Eminenza Reverendissima,</salute></opener>
+            <p>La notizia del sacrilego oltraggio fatto all'Eminentissimo Cardinale Arcivescovo di
+                Vienna i giornali di qui o non l’hanno data, ovvero solo brevemente, e attenuando di
+                molto la portata del doloroso accaduto. "L'Italia" invece, che mi è arrivata in
+                questo pomeriggio, ne riferisce abbastanza diffusamente: perciò la cosa - penso - è
+                a cognizione anche della Santa Sede.</p>
+            <p>Intanto <hi rend="underline">un tale</hi> cappellano Seredi, il quale mi ha
+                scongiurato non fare suo nome dato momento delicato per Ungheria mi ha consegnato il
+                qui acchiuso scritto, dove è riferita testualmente una conversazione telefonica
+                fatta, domenica scorsa, con un subalterno del suddetto <hi rend="underline"
+                    >tale</hi> da un conoscente prete ungherese che sta a Vienna il quale, a questo
+                scopo si era recato in un paesello sul confine dell 'Austria antica e
+                dell'Ungheria</p>
+            <closer><salute><lb/>Chinato al bacio della S. Porpora, con sensi
+                ........</salute></closer>
+            <closer><signed><lb/>F° SAC. UMBERTO KALDEWEY</signed></closer>
+            <note type="later-nr">1940/35</note>
+            <note type="foliation">39</note>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><!-- Titel --></title>
+                <author>
+                    <persName><!-- Autor und DNB-Link --></persName>
+                </author>
+                <respStmt>
+                    <resp>TEI tempalte prepared by</resp>
+                    <persName ref="#martin.kroissenbrunner">Martin Kroissenbrunner</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>edited by</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>kollationieren</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <!-- msDesc@status -->
+                    <msIdentifier>
+                        <repository>AAEESS, Periodo IV, Austria Ungheria</repository>
+                        <idno type="archive">Pos. 918, Fasc. 75, Fol. 56r+v - 57r</idno>
+                        <idno type="institutional" subtype="internal"><!-- interne ID --></idno>
+                        <idno type="institutional" subtype="external"><!-- externe ID --></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <note type="keyword" resp="#bernhard.kronegger"
+                                ><!-- Schlagwort --></note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <layoutDesc>
+                                <ab>beidseitig beschrieben</ab>
+                            </layoutDesc>
+                        </objectDesc>
+                        <scriptDesc>
+                            <ab>maschinenschriftlich</ab>
+                        </scriptDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote>
+                    <p><!-- Autorenhand --></p>
+                </handNote>
+            </handNotes>
+            <abstract>
+                <p><!-- Regest --></p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspContext/>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <ab type="archive-nr">918-75-56</ab>
+            <note type="later-nr">com. Ric. con disp. n. 4413/38</note>
+            <note type="original-nr">No. 25122</note>
+            <opener><dateline><lb/>BERLINO W. 35, 22 ottobre 1938 <lb/>(Rauchstrasse,
+                21)</dateline></opener>
+            <add place="margin-left">discorso Bürckel</add>
+            <opener><lb/>A Sua Eminenza Reverendissima <lb/>Il Signor Card. EUGENIO PACELLI
+                <lb/>Segretario di Stato di Sua Santità <lb/>CITTÀ DEL VATICANO <lb/>(Con 3
+                allegati)</opener>
+            <opener><salute><lb/>Eminenza Reverendissima,</salute></opener>
+            <p>Mi faccio premura di spedire a Vostra Eminenza Reverendissima qualche documento a
+                meglio illustrare i gravissimi fatti che si susseguono in Austria.</p>
+            <p>Ho potuto avere dal Rev.mo Segretario di Sua Eminenza il Cardinale Innitzer il testo
+                stenografato del discorso tenuto dallo stesso Eminentissimo Porporato il giorno 7
+                ottobre nella Cattedrale di Santo Stefano (Allegato A) non che il fascicolo a
+                stampa, che servì ai sei mila giovani per prender parte alla funzione religiosa.</p>
+            <p style="includesPb">Mi risulta che simili funzioni, con invito a tutta la gioventù
+                nella Cattedrale, non sono nuove in Vienna; già l’anno antecedente aveva avuto
+                luogo, non di sera <note type="later-nr">4386/38</note>
+                <note type="foliation">56</note>
+                <pb n="2"/> ma, di giorno, e dopo la funzione i giovani avevano anche potuto
+                marciare indisturbati lungo il Ring.</p>
+            <p>Ho avuto, da parte di Sacerdoti molto attendibili, serie informazioni circa il
+                contegno dei nazionalsocialisti. Gli avvisi affissi alle porte della Chiesa,
+                invitanti i cattolici a celebrare anche il matrimonio religioso, pena la negata
+                sepoltura ecclesiastica, vengono sistematicamente stracciati, e la propaganda poi
+                affinché - i fedeli dichiarino di uscire dalla Chiesa Cattolica ed i genitori
+                disdicano l'istruzione religiosa nella scuola per i propri figli é sempre più
+                intensa. I risultati sono però vari. In qualche villaggio nei dintorni di Innsbruck
+                si ebbe perfino il 50% di genitori che riconfermarono l’istruzione religiosa; in
+                Vienna si ebbe invece in qualche Parrocchia il 95% di genitori che riconfermarono la
+                richiesta dell'istruzione religiosa. Qualcuno commenta che questo plebiscito per il
+                catechismo fu come uno smacco per Bürckel, che pare avesse fatto ben altre
+                previsioni, e da ciò le sue ire furibonde e il tentativo di scristianizzare
+                l'Austria con la violenza. (Allegato B).</p>
+            <pb n="3"/>
+            <p>L’asserzione di imminenti amnistie o di restituzione di Seminari ai Vescovi che poi
+                ora sono negate come rappresaglie, non é accolta seriamente da nessuno: ormai si sa
+                quanto facilmente Bürckel promette e quanto poi regolarmente non mantiene.</p>
+            <p>Accludo anche il testo tedesco della Nota pubblicata dalla "Deutsche
+                diplomatisch-politische Korrespondenz", che fu diffuso fra i giornalisti, ma non
+                apparve nei giornali tedeschi; e che autorizza a ritenere il Governo corresponsabile
+                delle escandescenze di Bürckel. (Allegato C.)</p>
+            <p><edit>C</edit>hino al bacio della Sacra Porpora, ho l’onore di confermarmi con sensi
+                di profondissima venerazione</p>
+            <closer><salute><lb/>di Vostra Eminenza Reverendissima</salute></closer>
+            <closer><signed><lb/>devmo - umilmo - obbmo servo <lb/>+ Cesare Orsenigo
+                    <lb/>Arcivescovo di Tolemaide <lb/>Nunzio Apostolico</signed></closer>
+            <note type="foliation">57</note>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><!-- Titel --></title>
+                <author>
+                    <persName><!-- Autor und DNB-Link --></persName>
+                </author>
+                <respStmt>
+                    <resp>TEI tempalte prepared by</resp>
+                    <persName ref="#martin.kroissenbrunner">Martin Kroissenbrunner</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>edited by</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>kollationieren</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <!-- msDesc@status -->
+                    <msIdentifier>
+                        <repository>AAEESS, Periodo IV, Austria Ungheria</repository>
+                        <idno type="archive">Pos. 918, Fasc. 74, Fol. 65r</idno>
+                        <idno type="institutional" subtype="internal"><!-- interne ID --></idno>
+                        <idno type="institutional" subtype="external"><!-- externe ID --></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <note type="keyword" resp="#bernhard.kronegger"
+                                ><!-- Schlagwort --></note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <layoutDesc>
+                                <ab>einseitig beschrieben</ab>
+                            </layoutDesc>
+                        </objectDesc>
+                        <scriptDesc>
+                            <ab>maschinenschriftlich</ab>
+                        </scriptDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote>
+                    <p><!-- Autorenhand --></p>
+                </handNote>
+            </handNotes>
+            <abstract>
+                <p><!-- Regest --></p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspContext/>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <ab type="archive-nr">918-74-65</ab>
+            <ab type="unknown">(Beilage 4)</ab>
+            <ab type="text@type"><hi rend="underline">Abschrift</hi></ab>
+            <opener><lb/>O Oe. Landeshauptmannschaft <lb/>G/13 Z1 3053/1</opener>
+            <opener><dateline><lb/>Linz, am 1. August 1938</dateline></opener>
+            <seg type="subjectLine">Seelsorgetätigkeit für Krankenhauspfleglinge.</seg>
+            <opener><lb/>An alle <lb/>Oeffentl. und priv. Krankenanstalten <lb/>in <lb/>
+                <hi rend="underline">Oberoesterreich.</hi></opener>
+            <p>Um Unzukömmlichkeiten und eine <sic>Beeinträchtigugn</sic> des
+                ärz<edit>tl</edit>ichen Dienstes an den Krankenabteilungen zu vermeiden, wird
+                angeordnet, dass in <sic>Hinkuft</sic> der Seelsorgedienst am Krankenbette nur bei
+                solchen Pfleglingen zu versehen ist, die dies ausdrücklich gewünscht haben.</p>
+            <p>Die Direktionen (Leitungen) werden daher angewiesen, unter Berücksichtigung der<del
+                    rend="strikethrough">l</del> lokalen Verhältnisse der einzelnen Anstalten, eine
+                Regelung des Seelsorgedienstes dahingehend zu treffen, dass die diesbezüglichen
+                Wünsche der Pfleglinge <hi rend="underline">täglich</hi> durch das Pflegepersonal
+                entgegengenommen und von der Krankenabteilung schriftlich - unmittelba<edit>r</edit>
+                oder durch die Direktion - <hi rend="underline"><edit>z</edit>u einer festgesetzten
+                    Zeit</hi> dem Rektorat etc. übermittelt werden. Lediglich in besonderen Fällen-
+                plötzliche Verschlimmerung des Zustandes von Anstaltspfleglingen, dringende
+                Notwendigkeit der Vornahme schwerer Operationen oder Einlieferung Sterbender -
+                können Anforderungen auch zu einem anderen Zeitpunkte, und zwar nach Massgabe des
+                Urteiles des Abt. Assistenten oder des diensthabenden Arztes durchgeführt werden.
+                Die <sic>Anforderunen</sic> haben zu enthalten: Namen des Pfleglings, Krankenzimmer,
+                eventuell Bettnummer und geistliche<del rend="strikethrough">n</del>
+                    Funktio<edit>n</edit> deren Vornahme gewünscht wird.</p>
+            <p>Den Bediensteten aller Kategorien ist verboten, die Pfleglinge dsbz. in irgend einer
+                Richtung zu beeinflussen.</p>
+            <p>Die Ausü<edit>b</edit>ung des Seelsorgedienstes hat <hi rend="underline"
+                    >jederzeit</hi> nach Massgabe des ärztlichen Dienstes, also im Einvernehmen mit
+                der Krankenabteilung, Station u.s.w. zu erfolgen. So wird z. B. aus ärztlichen und
+                psychischen Gründen das Sakrament der letzten Oelung nicht
+                    in<edit>|</edit>einem<edit>|</edit>Raume, in dem sich noch andere Schwerkranke
+                befinden, zu spenden sein.</p>
+            <p>Hievon wird zufolge Runderlasses des Ministeriums für innere und
+                ku<edit>l</edit>turelle Angelegenheiten Zl. 53.632 vom 22. Juli 1938 mit der
+                Einladung die Mitteilung gemacht, die Direktionen, Abteilungen und
+                Krankenhausseelsorger vom Inhalte des Erlasses in Kenntnis zu setzen.</p>
+            <closer><lb/>Für den Landeshauptmann: I.A.:</closer>
+            <closer><signed><lb/>Dr. Reinhardt.</signed></closer>
+            <closer><lb/>Für die Richtigkeit <lb/>der Ausferti<edit>g</edit>ung: <lb/>Dr.
+                Anhauer</closer>
+            <note type="foliation">65</note>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,307 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><!-- Titel --></title>
+                <author>
+                    <persName><!-- Autor und DNB-Link --></persName>
+                </author>
+                <respStmt>
+                    <resp>TEI tempalte prepared by</resp>
+                    <persName ref="#martin.kroissenbrunner">Martin Kroissenbrunner</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>edited by</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>kollationieren</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <!-- msDesc@status -->
+                    <msIdentifier>
+                        <repository>AAEESS, Periodo IV, Austria Ungheria</repository>
+                        <idno type="archive">Pos. 899, Fasc. 60, Fol. 32r+v - 37r</idno>
+                        <idno type="institutional" subtype="internal"><!-- interne ID --></idno>
+                        <idno type="institutional" subtype="external"><!-- externe ID --></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <note type="keyword" resp="#bernhard.kronegger"
+                                ><!-- Schlagwort --></note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <layoutDesc>
+                                <ab>beidseitig beschrieben</ab>
+                            </layoutDesc>
+                        </objectDesc>
+                        <scriptDesc>
+                            <ab>maschinenschriftlich</ab>
+                        </scriptDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote>
+                    <p><!-- Autorenhand --></p>
+                </handNote>
+            </handNotes>
+            <abstract>
+                <p><!-- Regest --></p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspContext/>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <ab type="archive-nr">899-60-32</ab>
+            <note type="original-nr">N. 336/38</note>
+            <opener><dateline><lb/>VIENNA 24 marzo 1937</dateline></opener>
+            <seg type="subjectLine">Viaggio di Mons. Vescovo di Linz.</seg>
+            <add place="margin-right">1 Ap. 37</add>
+            <opener><lb/>A Sua Eminenza Rev.ma <lb/>II Sig. Card. EUGENIO PACELLLI <lb/>Segretario
+                di Stato di S. S. <lb/>CITTA' DEL VATICANO</opener>
+            <opener><salute><lb/>Eminenza Reverendissima,</salute></opener>
+            <p>Ieri mattina venne a visitarmi S. E. Mons. Vescovo di Linz, di ritorno dal suo
+                viaggio in Belgio. Egli era assai contento della visita fatta ad Otto di Absburgo, e
+                ritiene che sia stata di grande utilità, poiché, in tale circostanza, egli ha potuto
+                dare notizie più precise sulla situazione politica in Austria e moderare alquanto,
+                nel giovane Principe, il desiderio di entrare quì come Imperatore.</p>
+            <p>Il prelodato Monsignore si mostrò pieno di ammirazione per Otto di Absburgo: di buona
+                presenza, di modi cordialissimi al pari che dignitosi, di principi cattolici ben
+                fondati e di un criterio equilibrato. Naturalmente l'ardore degli anni giovanili e
+                l’amore all'Austria, osservava Mons. Gföllner, lo spingono alle volte a propositi un
+                pò affrettati; ma sa ascoltare er riflettere.</p>
+            <note type="later-nr">1116/37</note>
+            <note type="foliation">32</note>
+            <pb n="2"/>
+            <p>La visita ebbe luogo a Steenockerzeel, sabato scorso, e non domenica, come si era
+                stabilito; Mons. Vescovo ebbe un lungo colloquio il mattino sulle undici; fu
+                trattenuto a pranzo e, dopo il pranzo, vi fu una seconda conversazione, alla quale
+                assistette pure la Imperatrice Zita. Otto di Absburgo-cosi mi manifestò
+                Mons.Gföllner- non exa troppo soddisfatto dell'attuale Cancelliere Schuschnigg, non
+                perchè dubiti della sua lealtà, ma perché lo ritiene troppo indeciso, Il suo
+                carattere e la sua politica bene si addicono -osservava il Principe-al suo nome
+                "Schuschnigg", parola di origine slovena, che equivale a "incerto", "tentennante".
+                Questa indicisione é pregiudizievole: se si fosse avuta un'attitudine più risoluta,
+                la restaurazione Monarchica sarebbe state già un fatto compiuto, e sarebbe stata
+                accolta con generale contento. Alla morte di Dollfuss (é sempre il Principe Otto che
+                parla) si avevano 90 probabilità su cento di riuscita;oggi ve ne sono solamente 65;
+                e, continuando con simili tentennamenti e lasciando passare altro tempo, il numero
+                delle probabilità diventerà ancora minore. Bisogna adunque affrettare gli eventi,
+                decidersi a dare il passo definitivo.</p>
+            <pb n="3"/>
+            <p>Il Principe si dava conto della situazione politica interna come esterna: questa
+                naturalmente lo preoccupa maggiormente, poiché se é sicuro dei voti e delle simpatie
+                della maggiorenza del popolo austriaco, sa delle difficoltà che gli vengono dalle
+                Potenze straniere; tuttavia anche le condizioni della politica estera vanno
+                avviandosi verso una migliore intesa<edit>.</edit> La Nazione apertamente contraria
+                alla causa monarchica é la Germania per il suo programma di unione di tutti i
+                tedeschi in un solo Reich; e, con la Germania, la piccola Intesa e l'Ungheria. Però
+                la Germania, dinanzi ad un fatto compiuto, non inizierebbe certamente una guerra,
+                poiché sa di avere subito di fronte la Francia e, sopratutto, l’Inghilterra.</p>
+            <p>Qui domandai a Mons. Vescovo se il Principe Otto, nel fare questa affermazione, aveva
+                motivi plansibili che assicurino l’appoggio di queste due Potenze; e Mons. Gföllner
+                mi rispose che non ha al riguardo nessuna promessa formale, ma ritiene di potare
+                contare sulle simpatie di quelle due Nazioni, e, per forza di cose, in un loro
+                logico intervento se la Germania scatenasse una guerra.</p>
+            <p style="includesPb">Quanto alle Potenze della Piccola Intesa, Otto di Absburgo pensa
+                che vi siano già notevoli cambiamenti nelle loro rela- <note type="foliation"
+                    >33</note>
+                <pb n="4"/> zioni con l'Austria. La Cecoslovacchia, infatti, cerca adesso di
+                avvicinarsi all’Austria, per difendersi appunto dalle pretese della Germania, che
+                vorrebbe incorporare al Reich alcune regioni nelle quali la popolazione é
+                prevalentemente tedesca; la Rumania, dopo la uscita di Titulescu dalla vita
+                pubblica, appare più conciliante e queste orientazioni potrebbero influire sulla
+                Potenza, decisamente ostile, cioè la Jugoslavia.</p>
+            <p>Quanto, poi, alla politica interna e circa il modo di "dare il passo", Otto di
+                Absburgo dichiarò di essere contrario ad un plebiscito: per organizzarlo si richiede
+                molto denaro, e l’Austria non ne ha; di più con esso si verrebbero a mettere troppo
+                in evidenza, e, quindi, poi in grande disagio, gli avversari della Monarchia.
+                L’Imperatore dovrebbe subito considerarli come nemici, mentre egli deve entrare come
+                padre di tutti. E' cosa buona adunque evitare quelle forme di lotta o di procedura,
+                che possono mettere troppo in evidenza i dissensi, e ciò non per diminuirne
+                l’importanza, ma, resi meno evidenti, tentare di appianarli.</p>
+            <p>Queste furono le idee manifestate dal Principe Otto di Absburgo.</p>
+            <pb n="5"/>
+            <p>Mons. Vescovo di Linz gli fece notare che non riteneva ancora giunto il momento per
+                il passo definitivo, poiché l'atmosfera internazionale era poco sicura; e,
+                all'interno, troppo grandi le divisioni: che era necessario quindi unire prima
+                maggiormente gli animi, poiché si trattava non di fare un esperimento politico, ma
+                di dare un passo, che segnasse per l'Austria una tappa decisiva pel suo avvenire.
+                Gli osservò, inoltre, che non era possibile che l'Imperatore entri in Austria quasi
+                di sorpresa e come una imposizione ai sentimenti del popolo austriaco, e che,
+                perciò, gli sembrava assai conveniente un plebiscito il quale rispecchiasse la
+                volontà popolare.</p>
+            <p style="includesPb">Dopo uno scambio di idee il Principe Otto convenne nel parere
+                esposto da Mons. Vescovo; però insistette sulla necessità che il Governo Federale
+                faccia già qualche cosa di più positivo e di più efficace, come una via alla
+                restaurazione della Casa degli Absburgo. Per esempio, trasformare l’attuale forma
+                costituzionale in altra, simile a quella che esiste in Ungheria nominando un
+                Reggente, che potrebbe essere uno degli Areiduchi residenti a Vienna o lo stesso
+                Presidente Federale Miklas. Su questo punto la discussione si fece più ampia e
+                questa proposta parve accettabile al Vescovo di Linz. Aggiunse peraltro Mons. <note
+                    type="foliation">34</note>
+                <pb n="6"/> Gföllner che era opportuno intensificare la propaganda dell’idea
+                monarchica, farla penetrare nelle masse, magari tra gli stessi socialisti, poiché i
+                lavoratori e contadini dell'Austria rimangono sempre, in fondo, devoti alla
+                Monarchia. Togliere sopra tutto il monopolio dell'idea monarchica al così detto
+                Partito <hi rend="underline">legittimista</hi>, la cui azione é ritenuta dalla
+                maggior parte del popolo come troppo interessata. Questo Partito infatti é composto
+                quasi esclusivamente di membri dell’antica aristocrazia, che al tempo dell'Impero
+                godettero di privilegi e di grandi ricchezze: la loro attività politica, quindi, può
+                credersi rivolta a riacquistare i beni perduti, e il popolo, per una naturale
+                reazione, e sfiducia, non li segue.</p>
+            <p>Il Principe Otto fu d’accordo, osservando, tuttavia, che anche su questo punto,
+                relativo alla propaganda, il Governo Federale, e, in modo speciale, il Cancelliere
+                dovrebbero permettere una maggiore libertà di azione. Molti monarchici sono già
+                iscritti nel "Vaterländische Front", l’unico organismo politico permesso, ma ben
+                difficilmente si possono muovere: invece di trovare in esso un ambiente favorevole
+                alla espansione dell'idea monarchica, trovano piuttosto un cerchio che intralcia e
+                limita le loro attività.</p>
+            <p style="includesPb">Nella conversazione del pomeriggio, che durò una mez- <pb n="7"/>
+                z'ora, e alla quale, come ho detto, fu presente anche la Imperatrice Zita,
+                ritornarono le stesse idee. Si parlò anche dell’aiuto che all’opera della
+                restaurazione monarchica avrebbe potuto dare il Governo Italiano, ma tanto il
+                Principe quanto l’Imperatrice mostrarono al riguardo molta sfiducia, accresciuta
+                questa dall’ultimo stretto avvicinamento dell'Italia alla Germania. L'Imperatrice
+                affermò che non bisognava contare, purtroppo, sull'appoggio italiano</p>
+            <p>Mons. Vescovo di Linz pose fine al colloquio eccitando gli Augusti Personaggi alla
+                fiducia nella divina Provvidenza; e la sua parola, sempre profondamente religiosa,
+                fu accolta con conforto.</p>
+            <p style="includesPb">Mi aggiunse, poi, Mons. Vescovo che il Principe Otto é
+                minuziosamenté informató non solo delle diverse tendenze politiche dell'Austria, ma
+                anche di questioni che possono sembrare secondarie e sfuggire ad uno che vive fuori
+                della Nazione: informatissimo anche delle persone e dei piccoli screzi, che
+                purtroppo non mancano. Il Principe, a tal riguardo, avrebbe accennato alla non
+                sempre buona intesa tra il Cancelliere Schuschnigg e Sua Eminenza il Cardinale
+                Arcivescovo di Vienna; avrebbe anche lamentato che l'Arcivescovo non goda di quel
+                prestigio e di quella autorità che specialmente in questi mo- <note type="foliation"
+                    >35</note>
+                <pb n="8"/> menti sarebbe quì tanto necessaria; e, parlando delle associazioni
+                giovanili, non mostrò alcuna simpatia per la nota e tanto discussa associaz<hi
+                    rend="underline">ione "Neuland"</hi></p>
+            <add place="margin-left">Scheda</add>
+            <p>E' noto che Mons. Vescovo di Linz é decisamente contrario al „Neuland“; con un
+                decreto pubblicato nel Bollettino ufficiale dell'Azione Cattolica ha proibito che
+                venga istituita nella sua Diocesi; quindi non nascose la sua compiacenza nel notare
+                che il Principe Otto giudicava poco favorevolmente e con certa diffidenza questo
+                movimento giovanile</p>
+            <p>In sostanza nei colloqui suddetti si conchiuse: che per adesso sarebbe stata cosa
+                imprudente affrettare gli eventi; che si dovrebbe iniziare in Austria un movimento
+                monarchico più popolare; ottenere dal Cancelliere una maggiore libertà di movimento
+                nella propaganda, e una modificazione nella forma costituzionale, la quale preludi
+                alla restaurazione monarchica.</p>
+            <p style="includesPb">Questa ultima idea, come sopra ho detto, é sembrata a Mons.
+                Vescovo accettabile, ma non so come possa realizzarsi. Le difficoltà tra l'Austria e
+                la Germania, nonostante gli accordi dell'll luglio scorso e la recente visita del
+                Barone <pb n="9"/> von Neurath, sono sempre maggiori, come dirò in altro rispettoso
+                Rapporto. Per il momento mi limito a segnalare al riguardo due dati che furono
+                riferiti a Mons. Vescovo di Linz dallo stesso Cancelliere Schuschnigg, e che
+                dimostrano sempre meglio quanto sia delicato il problema della restaurazione degli
+                Absburgo. Nella conversazione che Mons. Gföllner, prima di intraprendere il viaggio
+                in Belgio, ebbe con il Cancelliere, questi gli disse che la Germania si opponeva al
+                richiamo degli Absburgo non solamente per motivi di politica generale, ma anche per
+                una particolare avversione per quella Casa Imperiale, ritenuta come Casa di razza
+                non tedesca. Ciò fu dichiarato dal Barone von Neurath nella sua recente visita a
+                Vienna. Lo Schuschnigg allora gli domandò se vi fossero state difficoltà per la
+                chiamata di un'altra Casa, e citò, come esempio, quella dei <hi rend="underline"
+                    >Wittels¬</hi>
+                <hi rend="underline">bach</hi>. Il Ministro degli Esteri Germanico avrebbe lasciato
+                intendere che, in tale caso, la cosa si sarebbe potuta prendere in considerazione.
+                (*)</p>
+            <add place="margin-left">Schede</add>
+            <p style="includesPb">Inoltre S.E. Schuschnigg, nello stesso colloquio con Mons. Vescovo
+                di Linz, gli manifestò che credeva vi fosse fra la Germania e la Iugoslavia, più che
+                una intesa, un patto bellico <add place="margin-bottom">(*) Secondo il Vescovo di
+                    Linz, invece, il Ministro v. Neurath ha detto testualmente che una chiamata dei
+                    Wittelsbach „incontrerebbe molte difficoltà; perché costituirebbe per il Reich
+                    Germanico un grave pericolo di perdere la Germania meridionale (Cippico)</add>
+                <note type="foliation">36</note>
+                <pb n="10"/> diretto appunto ad impedire il ritorno degli Absburgo. Questo era un
+                semplice sospetto che il Cancelliere aveva, non una notizia sicura che dava.</p>
+            <p>Egli quindi deve procedere con molta cautela, e una modificazione di governo, quale
+                era prospettata dal Principe Otto come via di transizione all'avvento
+                dell'Imperatore, potrebbe riuscire più pericolosa della stessa restaurazione
+                monarchica. Una reggenza, infatti, susciterebbe con eguale violenza la campagna
+                all'interno e all’estero dei nemici della Monarchia, e darebbe loro modo di
+                proseguirla con maggiore acrimonia, condotti dalla speranza di essere ancora in
+                tempo per impedire l'entrata dell'Imperatore: d'altra parte non si avrebbe nella
+                reggenza il prestigio, che una Monarchia sempre impone né la forza che essa può dare
+                ai suoi seguaci.</p>
+            <p>Chiesi a Mons. Vescovo se il viaggio in Belgio gli era stato suggerito dal Governo, e
+                mi rispose che no. Si decise a farlo di propria iniziativa, ottenendo, però, come
+                riferii nel mio precedente Rapporto, n. 263/32, in data del 10 marzo corrente, il
+                pieno consenso del Presidente Federale e del Cancelliere.</p>
+            <pb n="11"/>
+            <p>Avendomi, infine, domandato se ritenevo opportuno che inviasse a Vostra Eminenza una
+                relazione della sua visita ad Otto di Absburgo, gli risposi che avrebbe dovuto farlo
+                senz'altro e in modo ampio, poiché la relazione sarebbe stata accolta dall'Eminenza
+                Vostra con benevolenza somma.</p>
+            <p>Prostrato al bacio della Sacra Porpora, ho l'onore di confermarmi coi sensi della più
+                profonda venerazione</p>
+            <closer><salute><lb/>di Vostra Eminenza Rev.ma</salute></closer>
+            <closer><signed><lb/>dev.mo obbl.mo ed umil.mo servo <lb/>+ Gaetano Cicognani
+                    <lb/>Nunzio Apostolico</signed></closer>
+            <note type="foliation">37</note>
+        </body>
+    </text>
+</TEI>

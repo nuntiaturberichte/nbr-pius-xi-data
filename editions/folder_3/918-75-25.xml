@@ -1,0 +1,393 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><!-- Titel --></title>
+                <author>
+                    <persName><!-- Autor und DNB-Link --></persName>
+                </author>
+                <respStmt>
+                    <resp>TEI tempalte prepared by</resp>
+                    <persName ref="#martin.kroissenbrunner">Martin Kroissenbrunner</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>edited by</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>kollationieren</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <!-- msDesc@status -->
+                    <msIdentifier>
+                        <repository>AAEESS, Periodo IV, Austria Ungheria</repository>
+                        <idno type="archive">Pos. 918, Fasc. 75, Fol. 25r - 32r</idno>
+                        <idno type="institutional" subtype="internal"><!-- interne ID --></idno>
+                        <idno type="institutional" subtype="external"><!-- externe ID --></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <note type="keyword" resp="#bernhard.kronegger"
+                                ><!-- Schlagwort --></note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <layoutDesc>
+                                <ab>einseitig beschrieben</ab>
+                            </layoutDesc>
+                        </objectDesc>
+                        <scriptDesc>
+                            <ab>maschinenschriftlich</ab>
+                        </scriptDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote>
+                    <p><!-- Autorenhand --></p>
+                </handNote>
+            </handNotes>
+            <abstract>
+                <p><!-- Regest --></p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspContext/>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <ab type="archive-nr">918-75-25</ab>
+            <note type="later-nr">dal Mgr. Waitz 5-X-38</note>
+            <opener><salute><lb/>Heiliger Vater!</salute></opener>
+            <p>Die Verhältnisse in Oesterreich nehmen seit der Ablehnung der Besprechungen mit
+                Reichskomissar Bürkel, die in Aussicht genommen war, eine immer schärfere Wendung
+                ein. Es sind folgende Details zu berichten</p>
+            <p>1. An der Werbung zu der geplanten Besprechung, die am 7. September gehalten werden
+                sollte, nahm <edit>xxx</edit> neben Dr. Himmelreich, und Dr. Engelram, den
+                Vertretern Bürkels, merkwürdigerweise Erzabt Dr. Klotz, der frühere Erzabt von ST.
+                Peter in Salzburg teil, der trotz seiner Schwerhörigkeit glaubte der guten Sache
+                Dienste leisten zu können, aber ganz im Dienste der Partei stand. Bei einer
+                Besprechung in Kranichberg, dem Sommersitz des Kardinals von Wien, vernahm man dass
+                Dr[.] Himmelreich zu Erzabt Klotz sich äusserte[: "]Schade, dass Sie nicht
+                Erzbischof von Wien sind!["]</p>
+            <p>2. Als am 7. September der Sekretär des Kardinals Innitzer, Dr[.] Weinbacher, den
+                Absagebrief der Bischofskonferenz im Parlament überreichte, sagte ein Herr im
+                Vorzimmer in Gegenwart anderer Personen sp<edit>ä</edit>ttisch[: "]Wir lassen den
+                    Indian<edit>e</edit>rhäuptling Innitzer bestens grüssen.["]</p>
+            <p>3. Am Abend des 7. September war eine private Besprechung beim Reichskommissar
+                Bürkel, an welcher ausser Bürkel, der Reichsstatthalter Seiss Inquart, Dr[.]
+                Himmelreich ein Dr[.] Bart und Erzabt Klotz <sic>telnahm</sic>. Hiebei erklärte
+                Bürkel, er <edit>b</edit>edauere die Absage der Bischöfe, er hätte Bewilligungen
+                erteilen können, es wären die 6 Knabenseminare bewilligt worden etc. Dies teilte
+                    Erz<edit>a</edit>bt Klotz privat mit<sic>,</sic> Es wurde dort aber auch von der
+                Beschimpfung des Kardinals berichtet.</p>
+            <p>4. Bürkel richtete an den Kardinal und an den Fürsterzbischof und durch die beiden an
+                die übrigen Bischöfe ein Schreiben, worin er den Abbruch der Besprechungen
+                    be<edit>k</edit>lagt und von dem spricht, was er in Aussicht genommen habe,
+                wobei er dann freilich selbst bemerkte, dass er natürlich nichts hätte versprechen
+                können, was den eigentlichen Zielen des nationalsozialistischen Programmes nicht
+                vollends entspricht.</p>
+            <note type="later-nr">4041/38</note>
+            <note type="foliation">25</note>
+            <pb n="2"/>
+            <p>Darauf wurde erwidert,- in einem Schreiben des Kardinals- dass offenbar unrichtige
+                Mitteilungen erfolgt seien die beiden Unterhändler hätten anders ausgesagt als sie
+                hätten aussagen sollen. Bei der Unsicherheit der Versprechungen sei<del
+                    rend="strikethrough">en</del> alles Vertrauen geschwunden Zum Schlusse hiess
+                    <edit>xx</edit> es in dem Schreiben des Kardinals an Bürkel, er werde Kenntnis
+                haben von der Beschimpfung, die man ihm, dem Kardinal angetan habe - und dies von
+                Amtspersonen. Er, der Kardinal, tröste sich damit, dass er in Österreich ebenso
+                behandelt werde, wie der Heilige Vater in Deutschland</p>
+            <p>5. Nun setzte der schä<edit>f</edit>fste Zurs ein und dabei sind wir sicher noch
+                nicht an Ende der Verfolgung. Die volle Lossage vom Christentum im ganzen Schulwesen
+                tritt nun offen hervor. Als Symptom ein Ausspruch des offiziellen Leiters des
+                Schulwesens im xxx Lande Sal<edit>z</edit>burg, Landesrat Springenschmid in einer
+                öffentlichen Lehrerversammlung: ["]Ich hoffe, dass in wenigen Jahren die Eltern ihre
+                Kinder überhaupt nicht mehr taufen lassen werden. Ich selbst verwünsche den Tag, an
+                dem meine Eltern mich taufen liessen."</p>
+            <p>6. Die Agitation gegen den Religionsunterricht tritt soweit bereits in Erscheinung,
+                dass Kinder in der Schule dem Katecheten ins Gesicht sagen: ["]Christus war ja auch
+                nur ein Judenbengel!" Die Kindergärtnerinnen werden genauestens angewiesen, dass sie
+                vor den Kleinkindern ja nie ein Gebet sprechen, nie von Gott, nie von Christus oder
+                vom Christkind reden, wohl aber muss in jeder Stunde vom Führer gesprochen
+                werden.</p>
+            <p>7. Das Schulgebet ist bereits abgeschafft und durch nationalsozialistsche Sprüche
+                ersetzt, einzig vor der Religionsstunden darf <edit>(</edit>!!) noch gebetet
+                werden.</p>
+            <p>8. In einem Artikel "B<sic>R</sic>auchtum" werden den S. S. Leuten Weisungen gegeben,
+                wie sie mehr und mehr alles Religiöse aus ihrem Leben ausmerzen sollen. Statt Taufe
+                sollen sie reden von der Na<edit>me</edit>nsgebung, Hochzeitsfeier, Totenfeier
+                sollen gehalten werden ohne religiöse Gedanken.</p>
+            <p>9. In mehreren Bundesländern, so in Vorarlberg und Tirol, wurde den Lehrerinnen aus
+                den religiösen Orden offen erklärt, sobald sie aus ihrem Orden austreten, können sie
+                weiter ihren <sic>l</sic>ehrberuf ausüben.</p>
+            <p style="includesPb">Am verhe<sic>h</sic>rendsten wirkt sich die neue Richtung im
+                Schulwesen in Vora<sic>r</sic>lberg aus. Die blühendsten Anstalten sind zugrunde
+                    <note type="foliation">26</note>
+                <pb n="3"/> gerichtet. So die Stella matutina der Gesellschaft Jesu, die Anstalte
+                der Schulbrüder in Tilsis, St. Josef, das Juvenat der Kappuziner, das
+                    Institut<sic>y</sic>Marienberg der Dominikanerinnen, die Schulen des Klosters
+                Mehrerau, wo landwirtschaftliche Schule, Handelsschule, Gymnasium, blühende
+                Anstalten völlig zerstört wurden. Abt Cassian Heid ist darüber förmlich
+                zusammengebrochen, er ist jetzt in der Schweiz und hat keine Aussicht von dort
+                wieder zurückkehre<sic>r</sic>n zu können.</p>
+            <p>10. In Salzburg, wo das Knabenseminar Bor- romäum mit vollem Gymnasium förmlich
+                drangsaliert wird, das ganze Gebäude beschlagnahmt wurde, darf das Gymnasium nur
+                weitergeführt werden, wenn es mit der Missionsschule der Congregatio Verbi Divini in
+                Bischofshofen zusammengelegt wird. Doch auch dann ist das Recht der
+                    Öffentl<sic>u</sic>
+                <edit>ic</edit>hkkeit genommen.</p>
+            <p>11. In Tirol wurde den Patres Franziskanern das Gymnasium in Hall genommen, aber auch
+                das Kon<edit>vi</edit>kt Leopoldinum und sogar das Ordensjuvenat für den eigenen
+                    Ordensnachwuc<edit>h</edit>s. Nun wurde im Leopoldinum ein staatliches
+                    Kon<edit>v</edit>ikt eröffnet und die Patres Franziskaner waren gegen diese
+                Rechtlosigkeit und Willkür völlig machtlos. Um die ehemaligen Zöglinge des
+                Franziskanerkonviktes Leopoldinum zu zwingen in das neue staatliche Konvikt
+                einzutreten, wird ihnen die Fortführung ihrer Studien unmöglich gemacht, wenn sie
+                nicht in dieses nat<edit>i</edit>onalsozialistische Konvikt eintreten.</p>
+            <p>12. In Salzburg wurde den Patres Franziskanern das Franziskanerkloster gekündigt, es
+                kam zur gerichtlichen Verhandlung, die Patres wurden veru<edit>r</edit>teilt, das
+                Kloster zu räumen. Dagegen wurde rekurriert, doch bisher umsonst. In der letzten
+                Zeit ist es aus einem besonderen Anlass <sic>gelungendoch</sic> zu Verhandlungen zu
+                kommen und es ist Au<edit>s</edit>sicht, dass den Patres Franziskanern in ihrem
+                ehemaligen Kloster doch soviel Platz zugestanden wird, dass sie die Seelsorge
+                weiterführen können.</p>
+            <p>Aber die ganze Hetze ist tief be<edit>g</edit>rüblich, wenn es nicht wirklich
+                gelingt, ihnen doch einen Teil des Klosters zu erhalten, dann gibt es keine
+                Möglichkeit, sie ordentlich in Salzburg unterzubringen.</p>
+            <p style="includesPb">13. In Tirol wurde vor einigen Jahren das neue Knabenseminar
+                Paulinum errichtet in Schwaz im Unterinntal, unter grossen Opfern des braven
+                katholischen Volkes. Es war von 250 Schülern besucht. <note type="foliation"
+                    >27</note>
+                <pb n="4"/> Es nahm einen blühenden Aufschwung. Nun wurde es
+                an<edit>g</edit>efordert und nicht bloss die Schule, nein, auch das Konvikt soll ein
+                staatliches Institut umgewandelt werden. Man versucht es wenigstens das Konvikt zu
+                retten, doch bis jetzt ist noch gar keine bestimmte Aussicht hiefür.</p>
+            <p>Das ist immer das Vorgehen, erst kündigt man den Instituten an, sie können ihre
+                Tätigkeit doch nicht weiterführen, sie mögen ihr Gebäude vermieten, dann aber
+                    fo<edit>r</edit>dert die staatliche Behörde es einfach an ohne irgendwelche
+                Entschädigung unter Berufung auf ein neues wohl eigens zur Drangsalierung der Kirche
+                erlassenes Anforderungsgesetz vom 27. Juli dieses Jahres[.]</p>
+            <p>14. Der neue Kurs sei mit folgendem charakterisiert[:]</p>
+            <p>Nach dem Briefwechsel zwischen Bürkel und Kardinal Innitzer schienen die Beziehungen
+                völlig abgebrochen, doch in den letzten Tagen wurden neue Versuche
+                <edit>g</edit>emacht, zu einer Vereinbarung mit der Regierung zu bringen. Es besteht
+                die Absicht, dass Dr. Engelram, Dr. Himmelreich und ein höherer
+                <edit>g</edit>eistlicher einzeln die Bischöfe besuchen, um die Beziehungen wieder
+                anzuknüpfen. Wer dieser höhere Geistliche ist, wurde nicht gesagt, ob es der bereits
+                erwähnte Erzabt Klotz oder ein anderer ist, wurde bisher nicht ersichtlich.</p>
+            <p>Derzeit sind die verschiedensten Gerüchte in Umlauf, die sich seltsam ausnehmen und
+                vielleicht trotz ihrer Absonderlichkeit zur Beachtung nötigen<sic>,</sic> So kam das
+                Gerücht in Umlauf, der Kardinal v<edit>o</edit>n München sei kürzlich in Wien
+                gewesen, um die Absetzung des Kardinals Innitzer in die Wege zu leiten und als
+                Nachfolger sei der neue Probst von Klosterneuburg, Alipius Linda in Aussicht
+                genommen. Es wurde zugleich bemerkt, Probst Linda sei bei der Gestapo gewesen und
+                habe erklärt, er sei als Nachfolger des Kardinals Innitzer in Aussicht genommen.</p>
+            <p>Das alles berührt deshalb eigentümlich, weil in kürzlich erschienen Nummer der
+                    Mitt<sic>t</sic>eilungen der sattsam bekannten Arbeitsgemeinschaft für den
+                religiösen Frieden mitgeteilt wurde, das volksliturgische Apostolat in
+                Klosterneuburg habe sich dieser Arbeitsgemeinschaft angeschlossen. Wohl wurden von
+                diesem volksliturgischen Apos<edit>t</edit>olat dann Zettel versandt mit der
+                Mitteilung, dass diese Nachricht nur soweit richtig sei, als zwei
+                Mitgl<sic>ei</sic>der dieses volksliturgischen Apostolates sich der
+                Arbeitsgemeinschaft für den religiösen Frieden zur Verfügung gestellt haben, als
+                ganzes genommen habe es damit aber nichts zu tun. Jedenfalls ist diese
+                Richtigstellung recht wenig vertrauenerweckend.</p>
+            <note type="foliation">28</note>
+            <pb n="5"/>
+            <p>In der letzten Bischofskonferenz wurde beschlossen allen Priestern des Welt und
+                Ordensklerus die Zugehörigkeit zu dieser Arbeitsgemeinschaft für den religiösen
+                Frieden <edit>in</edit> zu <edit>v</edit>erbieten und dieses Verbot in allen
+                Diözesanverordnungsblättern zu veröffentlichen.</p>
+            <p>Ein neues eigenartiges <del rend="strikethrough">Vorghenec</del> Vorgehen ist
+                folgendes[:] In mehreren Diözesen ist es vorgekommen, vermutlich wird es in allen
+                Diözesen angestrebt, dass Priester, welche früher schon nationalsozialistisch
+                eingestellt waren und jetzt sich als Parteigenossen bezeichnen, von der Partei als
+                Mittelspersonen den bischöflichen Behörden gegenüber verwendet werden für
+                Verhandlungen beispielsweise über die Anstellung von hauptamtlichen Katecheten an
+                Volks- und Mittelschulen.</p>
+            <p>In Tirol hat ein solcher Priester der Administratur gemeldet,dass er von der
+                Regierung mit dieser Aufgabe betraut sei, doch hat begreiflicherweise die
+                Apostolische Administratur sich geweigert eine solche Bestellung, die eine völlige
+                Verkennung der kirchlich hierarchischen Prinzipien darstellt, anzuerkennen.</p>
+            <p>Auch in Salzburg wurde mir ein Priester genannt, mit dem die bischöfliche Behörde auf
+                Wunsch der Partei verhandeln solle.</p>
+            <p>15. Es ist notwendig über die Verhältnisse in Tirol speziell zu berichten, was die
+                Ernennung eines Apostolischen Administrators für Tirol und Vorarlberg betrifft. In
+                früheren Eingaben wurden bereits einige Persönlichkeiten na<edit>m</edit>haft
+                gemacht, die als Kandidaten in Frage kä<sic>e</sic>men. Es wurden genannt Provikar
+                Prälat Urban Draxl, Mons. Dr. Karl Lampert und Probst Dr[.] Josef Weingartner,
+                Stadtpfarrer in Innsbruck.</p>
+            <p style="includesPb">Von diesen hat Prälat Draxl unbestreitbar die grössten
+                    <sic>Verdienst</sic>. Er ist unermüdlich in der Arbeit, hat ein hervorragendes
+                Geschick für Verhandlungen mit den Behörden, die ja heute von ganz besonderer
+                Schwierigkeiten sind, kennt alle kirchlichen Verhältnisse in Tirol, ist mit dem
+                ganzen Klerus vertraut und hat in den letzten Zeiten eine ungeheure Arbeitsleistung
+                vollbracht. Ihn kann ich unmöglich bei Erstellung von Vorschlägen übergehen. Er ist
+                mir eine grosse Hilfe und gerade die letzten Zeiten haben mich der Auffassung
+                bestärkt, dass er in erster Linie in Betracht kommt bei Ersta<edit>t</edit>tung von
+                Vorschlägen. Er ist 64 Jahre alt, von robuster Gesundheit, 41 Jahre Priester
+                    <sic>un</sic> leitet als Provikar seit 17 Jahren die Geschäfte der Administratur
+                Innsbruck. Gerade in den jetzigen Verhältnissen ist er die allerbeste Arbeitskraft
+                für die Verwaltung der Administra<edit>ue</edit>r. Er hat für die beiden
+                Diözesanseminare überaus verdienstlich gewirkt, <note type="foliation">29</note>
+                <pb n="6"/> ist auch für das Priesterseminar in Brixen und für unsere Theologen an
+                diesem Seminar unermüdlich täti<edit>g</edit>. Seine Ernennung würde beim Klerus und
+                beim gläubigen Volk bestimmt sehr günstig aufgenommen werden, doch auch bei den
+                heutigen Regierungskreisen hat er sich in keiner Weise unmöglich gemacht. Bisher
+                nahm ich an, dass er wohl sich einer solchen Ernennung wird entziehen wollen, doch
+                ich bin überzeugt, dass er den kirchlichen Befehlen sich wird fügen. Sein Alter von
+                64 Jahren kann wohl kaum ein Hindernis sein, da er wie oben erwähnt sich bester
+                Gesundheit erfreut, und eben eines mitbringt was ein Priester mit 5 Priesterjahren
+                unmöglich haben kann[:] die reiche Erfahrung eine<edit>r</edit> langen Wirksamkeit
+                in verantwortungsvollster Stellung. Er ist gebürtiger Tiroler. Ich selbst bin mit 72
+                Jahren nach Salzburg <sic>zu</sic> Übernahme der Erzdiözese gekommen, so kann er
+                doch sehr wohl mit 64 Jahren eine wichtige Stellung übernehmen.</p>
+            <p>In zweiter Linie kommt Mons. Dr. Karl Lampert in Frage. Er wirkte nach der
+                Priesterweihe verdienstvoll in Dornb<del rend="strikethrough">r</del>irn in
+                Vorarlberg in der Seelsorge, war studienhalber fünf Jahre in Rom, ist im Jus
+                canonicum besonders bewandert, ist Advocatus Sacrae Romanae Rotae. In den letzten
+                Jahren hat er in der Leitung des kirchlichen Gerichtshofes der Administratur wie
+                auch als Prä<edit>d</edit>ident des katholischen Presseunternehmens Tyrolia
+                mühevolle, verdienstreiche Arbeit geleistet. Er ist ein guter Prediger und konnte,
+                wenn auch nicht Tiroler von Geburt sich doch in die Verhältnisse Tirols schon recht
+                gründlich einarbeiten Er ist von ungeheurer Arbeitskraft und über allem ein
+                tadelloser Priester, der die Achtung seiner Mitbrüder und des gläubigen Volkes
+                geniesst.</p>
+            <p>In dritter Linie kommt Prälat Dr[.] Josef Weingartner, Stadtpfarrer in Innsbruck in
+                Frage. An Begabung überragt er alle anderen bei weitem, ist Fachmann auf
+                verschiedenen Gebieten,<sic>,</sic> was er in Angriff nimmt führt er mit grosser
+                Energie durch, im politischen Leben hat er eine gewisse Selbständigkeit gehabt und
+                auch in den neuen Verhältnissen bewahrt, dadurch imponiert er vielen und der grosse
+                Umschwung der Verhältnisse hat seine Ansichten in vielen Belangen
+                    bedeutend<sic>e</sic> geklärt. Seine Ernennung würde von vielen begrüsst werden
+                vornehmlich wegen seiner entschiedenen Stellungnahme zu den neuen Verhältnissen</p>
+            <note type="foliation">30</note>
+            <pb n="7"/>
+            <p>Bei der letzten Darstellung wurde, weil der Name Dr[.] Rusch von mehreren genannt
+                    wurde<del rend="strikethrough">n</del>, über ihn Aufschluss gegeben und dies
+                ohne ihn hiefür zu empfehlen. Er ist erst 34 Jahre alt, seit 1933 Priester, da<del
+                    rend="strikethrough">s</del> er früher Bankbeamter war, nur ganz kurze Zeit war
+                er in der Seelsorge tätig. Seit zwei Jahren ist er Regens des provisorischen
+                Seminars in Innsbruck. Studierte mit besten Erfolgen Theologie am Canisianum in
+                Innsbruck.</p>
+            <p>In der letzten Zeit sind Eigenheiten an ihm hervorgetreten, die ihn nicht sehr
+                empfehlen. Was er in Angriff nimmt, sucht er stürmisch durchzuführen<sic>,</sic>.
+                Man hat den bestimmten Eindruck, dass er dabei manchmal unbedacht vorgeht, nicht
+                immer mit der nötigen Klugheit handelt.</p>
+            <p>Einiges sei besonders hervorgehoben: In einer Versammlung der Dekane von Tirol und
+                Vorarlberg, die vom Fürsterzbischof <sic>einbrufen</sic> worden war,
+                <edit>h</edit>at Dr. Rusch Äusserungen über das <edit>xxxxx</edit> Priesterseminar
+                in Brixen und über dessen Leitung getan, die der genügenden Begründung entbehren und
+                geradezu als Beleidigung des Brixner <sic>Pi<edit>e</edit>sterseminars</sic> wirken
+                mussten. Er erhob den <sic>Vorwurd</sic>, dass im dortigen Seminar
+                nationalsozialistische Betätigung der Alumnen geduldet werde[.] Das ist umso weniger
+                    berechtigt,<sic>,</sic> als die Seminarvorstehung jede politische Betätigung der
+                Theologen abwehrt und jeden, der irgendwie sich in dieser Hinsicht etwas zu schulden
+                kommen liess, augenblicklich entlässt. So muss ich als Fürsterzbischof gegen diesen
+                Vorwurf, dass das Brixner Seminar für meiner Theologen unzuverlässig sei,
+                entschieden Einspruch erheben.</p>
+            <p>Ein anderes Beispiel<sic>;</sic> Dr[.] Rusch hat sich erfolgreich in der
+                Jugendbewegung betätigt. Er hat aber dazu auch jüngere Priester, die noch gar nicht
+                in der Seelsorge tätig waren, herangezogen und verlangte, dass ihm die Herren zur
+                hauptamtlichen Jugendarbeit zur Verfügung gestellt werden. Man kam ihm so weit als
+                möglich entgegen. Umso mehr befremdete es, als dann, da man einen dieser Herren für
+                einen Kooperatorenposten benötigte, die Anstellung zum Kooperator, von Dr. Rusch der
+                geistlichen Behörde sehr verübelt wurde.</p>
+            <p style="includesPb">Schliesslich: Dr Rusch hat vor einigen Monaten sich nach Rom
+                    bege<del rend="strikethrough">n</del>ben, um in seiner Eigenschaft als Regens
+                des Priesterseminars die Seminarangelegenheit zu betreiben. Das geschah aber so
+                    eigen<sic>h</sic>mächtig, dass der Provikar, der die finanzielle Leitung des
+                Seminars über hat <note type="foliation">31</note>
+                <pb n="8"/> völlig übergangen wurde, was begreiflicherweise bei meinem Provikar
+                berechtigte Verstimmung hervorrief.</p>
+            <p>Das alles veranlasst mich, in ganz entschiedener Weise meine Stellung darzulegen.
+                Alle diese Angelegenheiten offenbaren, dass der genannte Herr es an Vorsicht,
+                Klugheit <edit>u</edit>nd Mässigung fehlen lässt, was ihn wirklich nicht zur
+                Übernahme eines so hohen Amtes, das in der heutigen Zeit so grosse Klugheit und
+                Erfahrung fordert empfielt[.]</p>
+            <p>Sollte seine Ernennung trotzdem erfolgen, so wäre wohl damit zu rechnen, dass der
+                verdienstvolle Provikar um seine Amtsenthebung bitten müsste. Wer aber soll dann die
+                Verhandlungen mit den Behörden leiten! Dr. Rusch selber halte ich dafür wahrhaftig
+                nicht geeignet. Zudem ist es noch sehr fraglich, ob ihn nicht die Partei und die
+                Tiroler Landesregierung als persons ingrata betrachten wird was sein Wirken von
+                vornherein erschweren würde. Auch der Umstand, dass er nicht Tiroler ist, würde in
+                dieser Zeit schmerzlich empfunden, zudem er ja auch wenig Gelegenheit hatte sich in
+                die Volksse<edit>l</edit>le der Tiroler hineinzuleben. E<edit>r</edit> hat derzeit
+                das provisorische Priesterseminar zu leiten, eine Aufgabe, die seine Kräfte voll in
+                Anspruch nimmt. Dafür wäre kaum ein Ersatz zu finden.</p>
+            <p>Es heisst: Afflictis non addatur afflictio! Dem braven Tiroler Volk ist in der
+                letzten Zeit so viel Schweres angetan worden dass man mit Recht erwarten kann, dass
+                ihm in der Ernennung des neuen Apostolischen Administrators nicht neue Betrübnis
+                zugefügt werde.</p>
+            <p>Es sei daher in aller Eindringlichkeit die Bitte vorgebracht dass diese Bedenken und
+                Erwägungen bei der Ernennung des apostolischen Administrators in Erwägung gezogen
+                werden. Als Fürsterzbischof erachte ich es als meine Pflicht, auf alle diese Momente
+                hinzuweisen, ich würde es nicht wagen, die Verantwortung zu übernehmen, dass ein
+                Priester mit fünf Priesterjahren zur ersten Stelle in der Administratur erhoben
+                würde. Es wäre ungewöhnlich und würde ganz bestimmt keine günstige Aufnahme in
+                Klerus und Volk finden.</p>
+            <p>Tirol hat gerade dadurch, dass diese kirchlichen Angelegen heiten erst nach dem
+                Umbruch geregelt werden müssen, sehr gelitten, darum sei nochmals gesagt: Afflictio
+                non addatur afflictis!</p>
+            <add place="margin-bottom">Nachtrag: Eingabe der Bischöfe an den Führer. - Denkschrift.
+                - Verhalten der Gefangenen</add>
+        </body>
+    </text>
+</TEI>

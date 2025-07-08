@@ -1,0 +1,231 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><!-- Titel --></title>
+                <author>
+                    <persName><!-- Autor und DNB-Link --></persName>
+                </author>
+                <respStmt>
+                    <resp>TEI tempalte prepared by</resp>
+                    <persName ref="#martin.kroissenbrunner">Martin Kroissenbrunner</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>edited by</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>kollationieren</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <!-- msDesc@status -->
+                    <msIdentifier>
+                        <repository>AAEESS, Periodo IV, Austria Ungheria</repository>
+                        <idno type="archive">Pos. 915, Fasc. 72, Fol. 28r+v - 29r</idno>
+                        <idno type="institutional" subtype="internal"><!-- interne ID --></idno>
+                        <idno type="institutional" subtype="external"><!-- externe ID --></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <note type="keyword" resp="#bernhard.kronegger"
+                                ><!-- Schlagwort --></note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <layoutDesc>
+                                <ab>beidseitig beschrieben</ab>
+                            </layoutDesc>
+                        </objectDesc>
+                        <scriptDesc>
+                            <ab>maschinenschriftlich</ab>
+                        </scriptDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote>
+                    <p><!-- Autorenhand --></p>
+                </handNote>
+            </handNotes>
+            <abstract>
+                <p><!-- Regest --></p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspContext/>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <ab type="archive-nr">915-72-28</ab>
+            <opener><salute><lb/>Eure Heiligkeit!</salute></opener>
+            <p style="includesPb">In höchster Not vergewaltigten Gewissen wende ich mich an Eure
+                Heiligkeit um Hilfe, in der festen Überzeugung, daß nach Gott nur noch beim Heiligen
+                Vater Recht und Gerechtigkeit zu finden ist.-Der Tatbestand ist folgender: Abt Dr.
+                Benedikt Reetz und sein Prior R. P. Norbert Aldenhoven haben sich bemüht in
+                Konferenzvorträgen Propagandareden für die be<edit>k</edit>annte Wahl am 10.IV.1938
+                zu halten. Die Ansprachen waren derart, daß sie mit unverkennbaren Druck auf das
+                Gewissen geführt wurden. Zuletzt verstieg sich R. P. Prior schon soweit, daß er den
+                Laienbrüdern plausibel machen wollte, bei der Abstimmung handle es sich nicht um
+                Religion, es sei keine Gewissensfrage und es sei selbstverständliche Pflicht eines
+                jeden Deutschen mit Ja zu stimmen. Der Herr Abt behauptete, unser Ja sei zugleich
+                ein Nein! In der dritten Konferenz las er d<edit>i</edit>e unverkennbare
+                Richtigstellung des Karditals Innitzer in „Osservatore Romano“ zwar vor, betonte
+                aber, wir stimmen trotzdem mit Ja ab. Er werde als Erster offen seinen Wahlzettel
+                abgeben und diejenigen, die mit Nein stimmen wollen, sollen auch offen stimmen und
+                er hoffe, daß alle soviel Charakter besitzen werden! Ist das nicht Verrat an den mit
+                Nein Stimmenden? Weiters erklärte der Abt: „Unser Prinzip ist Liturgie und
+                Gemeinschaftsgeist"! Wer nicht Ja stimmt, besitzt diesen Gemeinschaftsgeist nicht.
+                    <sic>"</sic>Hingegen wollte sofort, nachdem mein Zettel auflag, P. Leopold
+                Soukup, der Berater des Abtes, bei der politischen Behörde davon Anzeige machen. Wie
+                verlautet, wolle man auch die 4 Österreicher, die mit Nein gestimmt haben, bekannt
+                geben. Ist das auch liturgischer Gemeinschaftsgeist? Und dies alles, obschon man
+                sich schriftlich und mündlich dem Abte gegenüber gewehrt hatte. Die Abstimmung ist
+                nun einmal eine Gewissenssache; der Obere darf niemals von den
+                Unterge<edit>b</edit>enen eine Lüge und eine Heuchelei verlangen. Wenn unser Ja
+                nicht mehr Ja ist, was dann? Dann ist auch unsere Profeß eine Lüge! Dann ist das
+                Volo zugleich Non!-Infolgedessen ist besonders unter den Laienbrüdern eine große
+                Gewissensqual entstanden. Denn so einfache Menschen sind nicht selten sehr
+                geradlinig und dienen Gott in Aufrichtigkeit. Leider sind es aber bei uns meistens
+                geistig und religiös unmündige Menschen, die nicht klar unterscheiden können, wann
+                und wieweit etwas unter den Gehorsam fällt, wenn Gehorsam Pflicht,
+                    wann<edit>|</edit>Gehorsam Frevel sein kann. Da nun von allen Seiten das
+                Gewissen bedrängt wurde, ha<edit>tte</edit> ich mich entschlossen auf eigene
+                Verantwortung hin, beiliegenden Zettel zu verfassen. Eure Heiligkeit mögen selbst
+                    urt<edit>ei</edit>len, ob er irrige Grundsätze enthält! Ich behaupte immer,
+                Mittelmäßigkeit ist stets der größte Unsinn. Der totale Staat verlangt totales
+                Bekenntnis und Chr<edit>i</edit>stus ebenfalls!"Wer nicht mit mir ist<edit>,</edit>
+                ist wider mich“! Ein Ja-Nein gibt es nicht! Der Prior steht auf dem Standpunkt:
+                    <note type="later-nr">1567/88</note>
+                <note type="foliation">28</note>
+                <pb n="2"/> "Der Abt kann machen, was er will!" Dies glaube ich nicht. Der Abt darf
+                nur tun, was recht ist!-Ich wurde alsbald vor das Seniorat zitiert, dem der Herr Abt
+                selbst präsidierte. Der Herr Abt frug mich, mit welchem Recht ich diesen
+                beiliegenden Zette<edit>l</edit> verfaßt habe? Antwort: „Mit demselben Recht wie Sie
+                für die Wahl Propaganda machen. Und zwar so, daß Sie die Gewissen direkt
+                vergewaltigen. Dazu haben Sie kein Recht. Die höchste Instanz ist das persönliche
+                Gewissen, nicht der Abt oder sonstjemand. Nicht einmal der Papst, es sei denn er
+                spräche [»]ex cathedra[«]"—. Der Abt wurde mit noch nicht 30 Jahren Abt, war erst 2
+                Jahre Mönch. Der Herr Prior hat ihn statt zu erziehen, verdorben. Sein Grundsatz
+                ist: "Der Abt kann machen, was er will." Ich sagte dem Herrn Abt weiter: "Sie wollen
+                den ganzen Konvent zu einer Sünde zwingen? Jede Lüge ist Sünde. Sie handeln nur aus
+                Angst, Sie lassen sich aber nicht von Grundsätzen leiten. Entweder leben wir aus dem
+                Glauben und verwirklichen ihn unter allen Umständen im Leben oder wir fallen offen
+                ab. Aber 2 Herren können wir <sic>nict</sic> dienen, vielleicht Sie, aber nicht ich
+                Ich habe zu Ihnen jedes Vertrauen verloren. Die frommen Reden sind nicht echt es
+                fehlen die Taten. Sie wissen doch, daß der hl. Thomas von Aquin sagt: [»]Man dürfe
+                sich nicht durch die Furcht vom Bösen überwinden lassen[«]. Sie sind
+                    Dokt<edit>o</edit>r der Hl. Theologie und wissen das nicht.["] Hierauf der Abt:
+                "Ja, aber 6 Bischöfe haben das Ja befürwortet." Antwort: ["]Solange die Bischöfe in
+                Übereinstimmung mit der hl. Schrift, den Vätern, Konzilien, dem Kirchenrecht und dem
+                Hl. Vater lehren und handeln, folgen wir mit Freuden. In dieser Wahlangelegenheit
+                folge ich der Enzyklica des Heiligen Vaters [»]Mit brennender Sorge[«]. Diese ist
+                für mich allein ausschlaggebend.“ Über diese Enzykli<edit>c</edit>a äußerte sich P.
+                Leopold Soukup<sic>;</sic> “Die Enzyklica des Papstes [»]Mit brennender Sorge[«] sei
+                ein kirchenpolitischer Mißgriff!- Als das Abstimmungsergebnis am Ab<edit>en</edit>d
+                im Orte bekannt wurde, daß unter anderem eben auch 4 Klosterinsassen mit Nein
+                gestimmt hatten, wurde es von einzelnen Stimmen aus dem Volke mit "Pfuirufen"
+                quittiert. Der Abt, der von ferne sich das anschaute, sagte<edit>|</edit>am nächsten
+                Tag vor den Patres im Rekreationszimmer, daß er auch im <sic>s</sic>tillen über die
+                4 sein "Pfui" gesprochen habe. Also nach seinem Gewissen handeln ist "Pfui"! Und
+                außerdem verdächtigte der Herr Abt öffentlich diejenigen, die mit Nein gestimmt
+                haben, der Unehrlichkeit. Und wer sich nach Rom wende<edit>t</edit>, ist ein Judas!
+                Ein andermal sagte er, man wendet sich nicht wegen jedem "Dreck" nach Rom.! Vom
+                    Ex<edit>o</edit>rzismus, den Leo XIII. so sehr angeraten hat, sagte er, er
+                glaube nur daran, wenn er die Wirkung sehe.-Hier könnte ich noch eine große Anzahl
+                von Aussprüchen des Herrn Abtes anführen, die durchaus nicht ang<add place="above"
+                    >e</add>tan sind, das Ansehen Roms zu stützen.- Die Berater des Abtes sind
+                durchwegs Sc<edit>h</edit>meichl<edit>le</edit>r. Wehe dem, der sich erlaubt, ihm
+                ein ernstes Wort zu sagen. Und wir sollen so<edit>lc</edit>hen Oberen blindlings <pb
+                    n="3"/> vertrauen, die die höchste Autorität so deskreditieren. Dafür hat man
+                wahnsinnige Vorstellungen von der eigenen Autorität. Ich getraue mir ruhig zu sagen,
+                daß in der Beuronerkongregation ein ausgesprochener Abtskult herrscht. Darauf fußt
+                auch die ganze Liturgiebegeisterung der Herren Äbte. Wenn Eure Heiligkeit einmal die
+                lebenslängliche Amtsdauer der Äbte und die Pontifikalien abschafften, würde
+                    d<edit>e</edit>r Li- turgismus bei un<edit>d</edit> einen seiner tötlichsten
+                Schläge erhalten und zugleich würde eine<edit>r</edit> menschenunwürdigen
+                Menschenliebedienerei Einhalt geboten.-Eine eigene <edit>Q</edit>ual sind seine
+                Konferenzen. Nur zuoft tritt eine Oberflächlichkeit und ein Rationalismus an den
+                Tag, die den denkenden Menschen, auch wenn er<edit>|</edit>Laie ist, geradezu
+                verblüffen. Und außerdem hält er nicht, was er sagt. Wer nicht ganz fest im Glauben
+                ist und weiß, daß er nicht vom Menschen <sic>abhänhig</sic> ist, muß im Glauben in
+                unserem Hause geschwächt werden. So schreiend sind die Widersprüche! Die Visitation
+                unserer Abtei ist schon seit Jahresfrist überfällig. <edit>G</edit>estatten mir Eure
+                Heiligkeit, daß eine Visitation durch Nichtbenediktiner dringend notwendig wäre. Wir
+                wissen aus Erfahrung, daß die Äbte wohl alles anhören, aber nicht eingreifen, sobald
+                Klagen ge<edit>g</edit>en einen Abt vorliegen. Der Abtprimas sucht jeden Oberen zu
+                stützen, solange es geht.- Da ich als Laienbruder kein Recht habe bei der Visitation
+                gehört zu werden, so <sic>b</sic> bleibt mir nur noch die Zuflucht zum Hl. Vater als
+                den letzten und höchsten Hort der Gerechtigkeit. Da ich nun nach besten Wissen und
+                Gewissen zu handeln glaubte, werde ich <edit>u</edit>nd die übrigen Neinstimmer als
+                räudige Schafe behandelt und als unehrliche Menschen hingestellt.-Eure Heiligkeit
+                werden einsehen, daß unter solchen Umständen ein weiteres Verb<edit>lie</edit>ben im
+                Orden eine Unmöglichkeit ist. Die erste canon Mahnung mußte ich bereits
+                unterzeichnen. Da vorauszusehen ist, daß die <edit>V</edit>erhältnisse praktisch
+                sich nicht ändern werden und ich mich nicht entschließen kann für ein Haus zu
+                arbeiten, in dem Gewissen<add place="above">s</add>freiheit und der Kampf um
+                dieselbe gebrann<edit>t</edit>markt wird, bitte ich um die Erlaubnis in den
+                    Karme<edit>l</edit>iter-oder Karthäuserorden übertreten zu dürfen.</p>
+            <closer><salute><lb/>Es betet für Eure Heiligkeit <lb/>ununterbrochen</salute></closer>
+            <closer><signed><lb/>Br. Didacus Veit O.S.B.</signed></closer>
+            <closer><dateline><lb/>Seckau, den 13. April 1938. Abtei Seckau
+                Steiermark</dateline></closer>
+            <note type="foliation">29</note>
+        </body>
+    </text>
+</TEI>

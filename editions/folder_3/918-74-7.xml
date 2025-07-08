@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><!-- Titel --></title>
+                <author>
+                    <persName><!-- Autor und DNB-Link --></persName>
+                </author>
+                <respStmt>
+                    <resp>TEI tempalte prepared by</resp>
+                    <persName ref="#martin.kroissenbrunner">Martin Kroissenbrunner</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>edited by</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>kollationieren</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <!-- msDesc@status -->
+                    <msIdentifier>
+                        <repository>AAEESS, Periodo IV, Austria Ungheria</repository>
+                        <idno type="archive">Pos. 918, Fasc. 74, Fol. 7r - 8r</idno>
+                        <idno type="institutional" subtype="internal"><!-- interne ID --></idno>
+                        <idno type="institutional" subtype="external"><!-- externe ID --></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <note type="keyword" resp="#bernhard.kronegger"
+                                ><!-- Schlagwort --></note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <layoutDesc>
+                                <ab>einseitig beschrieben</ab>
+                            </layoutDesc>
+                        </objectDesc>
+                        <scriptDesc>
+                            <ab>maschinenschriftlich</ab>
+                        </scriptDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote>
+                    <p><!-- Autorenhand --></p>
+                </handNote>
+            </handNotes>
+            <abstract>
+                <p><!-- Regest --></p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspContext/>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <ab type="archive-nr">918-74-7</ab>
+            <seg type="subjectLine"><hi rend="underline">Vorschlag für die künftige Zusammenarbeit
+                    des deutschen Epis¬</hi>
+                <hi rend="underline">kopats der Fuldaer Konferenz.</hi></seg>
+            <p>Die Ereignisse der letzten Monate haben ersehen lassen, daß der Apparat der Fuldaer
+                Konferenz für eine schnelle Verständigung der hochwürdigsten Herren und für eine
+                Ausrichtung auf gemeinschaftliches Handeln zu schwerfällig ist. Dazu kommt, daß die
+                Fuldaer Konferenz in vollständiger Besetzung ein Ereignis darstellt, an das die
+                Öffentlichkeit Erwartungen knüpft, die in einzelnen Fällen nicht verwirklicht werden
+                können.</p>
+            <p>Ich erlaube mir daher, ehrerbietigst vorzuschlagen, eine Art engeren Ausschusses ins
+                Leben zu rufen. Dieser Ausschuß sollte meiner Ansicht nach vor allem von den
+                hochwürdigsten Herren Metropoliten (6) gebildet werden. Dazu käme ein bischöflicher
+                Vertreter jeder einzelnen Kirchenprovinz. Die bischöflichen Vertreter würden wohl
+                zweckmäßig von der betreffenden Kirchenprovinz gewählt, welche Wahl unschwer
+                schriftlich zu betätigen wäre. Das exemte Bistum Meissen könnte sich für diesen Fall
+                an eine Nachbar-Kirchenprovinz, etwa Breslau oder Paderborn, anschliessen.</p>
+            <p>Dieser Ausschuß böte folgende Vorteile:</p>
+            <p>Die Höchstzahl von zwölf Bischöfen bei einer Versammlung bietet die Möglichkeit einer
+                öfteren Einberufung.</p>
+            <p>Der Umstand, daß jede Kirchenprovinz zwei Vertreter stellt, würde eine solche
+                Versammlung auch möglich machen, wenn einer der Vertreter am Erscheinen verhindert
+                wäre.</p>
+            <p>Dieser Vertreterausschuß würde zweckmäßig <hi rend="underline">nicht</hi> in Fulda
+                zusammentreten aus folgenden zwei Gründen:</p>
+            <note type="foliation">7</note>
+            <pb n="2"/>
+            <p>1. Bei der heutigen Zeitlage erscheint es nicht möglich, daß dringend notwendige
+                Verständigungen der Bischöfe von den Alumnatsferien in Fulda abhängen.</p>
+            <p>2. Ein Zusammentreten an einem anderen Ort als Fulda würde der Versammlung eine
+                weniger offizielle und auffällige Note geben und dabei doch die nötige Verständigung
+                zwischen den Ordinarien gewährleisten.</p>
+            <p>Die Verständigung über Ergebnisse der Besprechungen könnte ohne Schwierigkeit der
+                betreffende Metropolit oder der von der Kirchenprovinz gewählte Vertreter für die
+                nicht anwesenden Bischöfe einer Kirchenprovinz übernehmen.</p>
+            <p>Zur Begründung meines Antrages möchte ich auch noch darauf hinweisen, daß im Zeitraum
+                1937/38 entgegen der Übung der letzten Jahre keine Bischofskonferenz im Januar,
+                sondern nur eine Bischofskonferenz im August stattgefunden hat. Diese Unterlassung
+                war nicht aus inneren Gründen notwendig oder auch nur erwünscht. Die Gründe für
+                diese Unterlassung lagen einerseits in der Schwerfälligkeit des Apparates,
+                andererseits in der besonderen Bedeutung einer <hi rend="underline"
+                >Plenar</hi>konferenz in Fulda, von der man in weiten Kreisen jedesmal
+                    <sic>ein</sic> richtunggebende Kundmachung erwartet, die aus mancherlei Gründen
+                nicht jedesmal erfolgen kann.</p>
+            <note type="foliation">8</note>
+        </body>
+    </text>
+</TEI>

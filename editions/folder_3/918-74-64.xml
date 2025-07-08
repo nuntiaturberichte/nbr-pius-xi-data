@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><!-- Titel --></title>
+                <author>
+                    <persName><!-- Autor und DNB-Link --></persName>
+                </author>
+                <respStmt>
+                    <resp>TEI tempalte prepared by</resp>
+                    <persName ref="#martin.kroissenbrunner">Martin Kroissenbrunner</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>edited by</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>kollationieren</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <!-- msDesc@status -->
+                    <msIdentifier>
+                        <repository>AAEESS, Periodo IV, Austria Ungheria</repository>
+                        <idno type="archive">Pos. 918, Fasc. 74, Fol. 64r+v</idno>
+                        <idno type="institutional" subtype="internal"><!-- interne ID --></idno>
+                        <idno type="institutional" subtype="external"><!-- externe ID --></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <note type="keyword" resp="#bernhard.kronegger"
+                                ><!-- Schlagwort --></note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <layoutDesc>
+                                <ab>beidseitig beschrieben</ab>
+                            </layoutDesc>
+                        </objectDesc>
+                        <scriptDesc>
+                            <ab>maschinenschriftlich</ab>
+                        </scriptDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote>
+                    <p><!-- Autorenhand --></p>
+                </handNote>
+            </handNotes>
+            <abstract>
+                <p><!-- Regest --></p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspContext/>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <ab type="archive-nr">918-74-64</ab>
+            <ab type="unknown">(Beilage 2)</ab>
+            <ab type="text@type"><hi rend="underline">Abschrift</hi></ab>
+            <seg type="subjectLine">Zur Frage der Theolog. Fakultät in Innsbruck</seg>
+            <p>Die Rückgabe der sta<edit>t</edit>tl. theolog. Fakultät dürfte so viel wie unmöglich
+                sein:</p>
+            <p>Denn Berlin hat die Aufhebung bereits als endgültig erklärt und als Grund angegeben:
+                Die Jesuiten können keine Fakultät haben. Der Staatskommissär Dr. Plattner vom
+                Unterrichtsministerium in Wien, der die Auflösung am 20. Juli verfügt hat, hat
+                    <edit>mi</edit>t Poststempel vom 5. August nun an das Provinzialat der
+                Gesellschaft Jesu folgendes Schreiben gerichtet:</p>
+            <p>"Ihrem Wunsche gemäss gestatte ich mir, Ihnen mitzuteilen, dass die Aufhebung der
+                theol. <edit>Fa</edit>k. an der <sic>I</sic>nvers. Innsbruck s<edit>i</edit>ch aus
+                Gründen der Angleichung des <sic>o</sic>sterr. Hoch<sic>h</sic>schulwesens an das
+                des Altreiches anlässlich der Rückgliederung der Ostmark als notwendig erwiesen.
+                Nach eingehender Ueberprüfung der Sachlage erschien diese Planungsmassnahme im
+                Rahmen des Neuaufbaues der Oesterr. Hochschulen erforderlich. <edit>I</edit>ch würde
+                es für <sic>wünscheswert</sic> halten, hiervon den Studierenden Kenntnis zu geben."
+                Die Meldung von der Auflösung ist bereits in den ausländischen Zeitungen
+                gebracht.</p>
+            <p>So ist es nicht mehr möglich die Sache rückgängig zu machen. Dass man damit auch gar
+                nicht mehr rechnet, geht schon daraus her <edit>v</edit>or, dass das
+                Fakultätsgebäude bereits umgebaut wird und dass man schon begonnen hat, die
+                Bibliotheksbestände der theol. Seminare auf verschiedene Universitätsinstitute
+                aufzuteilen.</p>
+            <p>Unter den gegenwärtigen Verhältnissen hat eine staatliche theolog. Fakultät auch
+                seine besonderen Schwierigkeiten. Die Professoren werden vom Staat ernannt u. der
+                Staat verlangt für die Theologieprofessoren die Einhaltung der gleichen Vorschriten,
+                wie sie für die Anstellung der Professoren der übrigen Fakultäten
+                    <edit>g</edit>e<edit>k</edit>ten: Der akademische Lehrer muss sich zunächst
+                habilitieren und ist dann Dr. habilitatus. Aber damit hat er noch nicht die venia
+                    legendi<edit>ä</edit> Um diese zu erlangen, muss er das Dozentenlager mitmachen,
+                dabei wird er auf seine Eignung als akad. Lehrer geprüft. Erst dann erhält er die
+                venia legendi und wird einer Universität zugeteilt. E<edit>s</edit>
+                    kann<edit>|</edit>also die Fakultät nicht nehmen, wen sie wünscht; sondern der
+                Staat bestimmt auch die Dozenten. <edit>[</edit>Ferner müssen die an einer
+                staatlichen Universität Studierenden, auch die Theologen, alle Leibesübungen der
+                Studierenden mitmachen, so das Turnen, Boxen. us<sic>u</sic>w.</p>
+            <p>Ueberdies sind die neuen Taxen, Inscriptionsgebühren usw. sehr hoch, so
+                    hoch,<sic>,</sic> dass weder die Diözese noch die Orden diese
+                f<edit>i</edit>nanzielle Belastung auf sich nehmen können. Sie betragen für den
+                einzelnen pro Jahr mehrere <edit>H</edit>undert Mark. Und den Theologen gewährt man
+                grundsätzlich keine Ermässigung.</p>
+            <p>Die günstigste und mit allen Kräften anzustrebende Lösung der Frage ist die sofortige
+                Errichtung des Diözesanseminares im Canisianum mit allen Rechten eine<edit>s</edit>
+                    staatlich<del rend="strikethrough">en</del> anerkannten Seminares. Damit wäre
+                folgendes gegeben:</p>
+            <p>1) Der Bischof ernennt die Professor<edit>e</edit>n -<sic>-</sic> so können die
+                Professoren der bisherigen <edit>t</edit>h<edit>e</edit>olog. Fakultät weiter
+                dozieren.</p>
+            <p>2) Finanziell ist alles in den Händen des Bischof<edit>e</edit>s und die Theologen
+                brauchen nicht die übergrossen Gebühren zu zahlen.</p>
+            <p style="includesPb">3<edit>)</edit> Die vom deutschen Konkordat für die Ausübung der
+                    <note type="foliation">64</note>
+                <pb n="2"/> Seelsorge verlangten Bedingungen (dass man 6 Semester an einer vom
+                Staate anerkannten Lehranstalt gehört hat) sind erfüllt.</p>
+            <p>4) Damit ist auch die Militärfreiheit verbunden.</p>
+            <p>5) Die einzelnen Orden <edit>xxxxx</edit> und Stifte können ihre Kleriker zu den
+                    Seminar<edit>V</edit>orlesungen schicken.</p>
+            <p>6) Mit dem Seminar lässt sich auch die facultas pontificis, die das Jesuitenkolleg
+                    er<edit>h</edit>ält<sic>,</sic> verbinden, da zwischen den Professor der
+                Facultas pontifici<edit>a</edit> und des Seminars eine Personalunion besteht und für
+                die Erlangung der päpstl. Grade nur erweiterte Vorlesungen zu halten sind. So können
+                auch die Ausländer weiter hin die Vorteile des Canisianums geniessen
+                    (Doktorat<edit>)</edit> u.s.w.)</p>
+            <p>Die Lösung der Frage ist sehr dringlich, da ja die auswärtigen Theologen möglichst
+                bald verständigt werden müssen. Es haben sich bereits viele Amerikaner neu
+                angemeldet un<edit>d</edit> diese müssen baldigst verständigt werden, da sie ja
+                schon anfangs <sic>Sep</sic> abzureisen beginnen. Da<edit>rum</edit> wäre die
+                umgehende Errichtung des Diözesanseminar<edit>e</edit>s eine wünschenswerte Tat.</p>
+        </body>
+    </text>
+</TEI>

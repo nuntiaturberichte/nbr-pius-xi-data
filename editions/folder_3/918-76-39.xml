@@ -1,0 +1,358 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><!-- Titel --></title>
+                <author>
+                    <persName><!-- Autor und DNB-Link --></persName>
+                </author>
+                <respStmt>
+                    <resp>TEI tempalte prepared by</resp>
+                    <persName ref="#martin.kroissenbrunner">Martin Kroissenbrunner</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>edited by</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>kollationieren</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <!-- msDesc@status -->
+                    <msIdentifier>
+                        <repository>AAEESS, Periodo IV, Austria Ungheria</repository>
+                        <idno type="archive">Pos. 918, Fasc. 76, Fol. 39r+v - 41r+v</idno>
+                        <idno type="institutional" subtype="internal"><!-- interne ID --></idno>
+                        <idno type="institutional" subtype="external"><!-- externe ID --></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <note type="keyword" resp="#bernhard.kronegger"
+                                ><!-- Schlagwort --></note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <layoutDesc>
+                                <ab>beidseitig beschrieben</ab>
+                            </layoutDesc>
+                        </objectDesc>
+                        <scriptDesc>
+                            <ab>maschinenschriftlich</ab>
+                        </scriptDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote>
+                    <p><!-- Autorenhand --></p>
+                </handNote>
+            </handNotes>
+            <abstract>
+                <p><!-- Regest --></p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspContext/>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <ab type="archive-nr">918-76-39</ab>
+            <opener><salute><lb/>Ew. Eminenz! <lb/>Hochwürdigster Herr
+                    Kardinal-Staatssekretär!</salute></opener>
+            <p>Es gibt außergewöhnliche Situationen, in denen es auch ein einfacher Gläubiger wagen
+                darf, sich an den Staatssekretär Sr. Heiligkeit zu wenden und von ihm Gehör zu
+                erbitten. Eine solche Situation scheint mir jetzt zu bestehen. Der dämonische
+                Terrorismus des nationalsozialistischen Regimes, der sich in Österreich noch weit
+                zügelloser austobt als seinerzeit in Deutschland, und die absolute Hilflosigkeit
+                jener Mächte, von denen man vergeblich eine einhaltgebietende lnitiative erwartet
+                hat, haben diese Situation geschaffen. Mehr denn je wenden sich daher die Augen der
+                ganzen gesitteten Welt der Cathedra Petri zu und erwarten von dort nicht allein das
+                erlösende Wort, sondern auch die befreiende Aktion, die den Bann der von Angst
+                gelähmten Menschheit bricht.</p>
+            <p style="includesPb">Mit tiefer Genugtuung wird - nicht allein von den Katholiken,
+                sondern von allen, die noch an die Ideen der Gerechtigkeit, Freiheit und
+                Menschenwürde glauben und deren kraftvolle Verteidigung gegenüber dem politischen
+                Satanismus unserer Tage für möglich halten, - jedes klare und entschiedene Wort
+                aufgenommen, das der Hl. Vater gegen die nationalsozialistischen Kirchenverfolger
+                ausspricht. Man begrü<edit>ß</edit>t es als Botschaft der höchsten moralischen
+                Autorität, die es hienieden gibt. An Botschaften dieser Art hat es der Vikar Christi
+                nicht fehlen lassen. Es waren indes bisher stets ausschließlich Kundgebungen gegen
+                den im engeren Sinn kirchenfeindlichen Terror des Nationalsozialismus, die aus der
+                Vatikanstadt in die Welt gesandt worden sind. Die solenne Kundgebung des
+                    Pontife<edit>x</edit> Maximus gegen den Barbarismus des nationalsozialistischen
+                Staatssystems und seine auf Lüge, Betrug, Niedertracht, Verfolgung und Ausrottung
+                aller anständigen Staatsbürger beruhende diabolische Wesenheit und Regierungspraxis
+                ist hingegen noch ausständig. Sie wird und muß endlich erlassen werden, wenn anders
+                die christliche Welt nicht zu der Auffassung gelangen soll, daß die hl. Kirche nur
+                ihre höchsten sakramentalen Amtsträger verteidige, die einfachen Mitglieder des
+                Corpus Christi Mysticum jedoch ebenso wie die Juden aus weltlichen, diplomatischen
+                Klugheitserwägungen mitleidlos ihrem Schicksal überlasse. Es wird von jedem
+                verstanden, daß der Hl. Stuhl in ganz besonderer Weise gegen Beleidigungen
+                protestiert, die einem Angehörigen des Hl. Kollegiums widerfahren, nicht aber ist es
+                    <del rend="strikethrough">aber</del> ohneweiters verständlich, warum der Hl.
+                Stuhl es gleichzeitig ge <edit>s</edit>chehen läßt, daß auserlesene katholische
+                Laienpersönlichkeiten, die eine Zierde der Kirche waren und sind, in den Kerkern und
+                Konzentrationslagern der Gestapo in bestialischer Weise zu Tode gemartert werden.
+                Nicht vielleicht die Ehre, wohl aber das Leben all der Hun- <note type="later-nr"
+                    >4246/38</note>
+                <note type="foliation">39</note>
+                <pb n="2"/> derte und Tausende edler, ja heiligmäßiger katholischer Männer, die
+                heute in dem geschändeten Österreich dem langsamen Vergiftungstod ausgesetzt sind,
+                muß vom Hl. Stuhl mindestens ebenso als eine die ganze <add place="above"
+                    >Angelegenheit</add> Kirche treffende<del rend="strikethrough">s</del>
+                <del rend="strikethrough">Leid</del> angesenen <edit>u</edit>nd erklärt werden wie
+                ehrenrührige Verunglimpfungen eines Kirchenfürsten, der sich übrigens den in
+                Österreich einbrechenden Barbarenhorden keineswegs so entgegengestellt hat wie einst
+                Papst Leo den Hunnen.</p>
+            <p>Meiner Überzeugung nach darf der Hl. Stuhl sich der ihm obliegenden Pflicht,
+                schützend vor alle Getauften und auch vor die Ungetauften hinzutreten,wenn eine vom
+                Teufel besessene politische Sekte sie entrechtet, verfolgt und zu Tode peinigt,
+                nicht entziehen. Es geht hier nicht um Politik, sondern um die primitivsten
+                Erfordernisse der Menschlichkeit. Die Kirche als Hüterin des Christentums muß auch
+                die erste Hüterin des Menschentums sein - und zwar <edit>a</edit>uch dann, wenn
+                dadurch die formellen Beziehungen zwischen dem Hl. Stuhl und jener Staatsregierung,
+                die jede Stunde eklatante Beweise ihrer Entmenschung und Besessenheit ablegt, noch
+                eine Verschlechterung erfahren sollten.</p>
+            <p style="includesPb">Hinsichtlich dessen, was seit dem "Umbruch" in Österreich an Akten
+                der Entm<edit>e</edit>nschung geschieht, gilt diese Verpflichtung der Kirche noch in
+                ganz spezifischer Weise. Folgende Gründe seien hierfür angeführt: 1.Es waren als
+                praktizierende Katholiken geltende Männer, die Österreich dem Nationalsozialismus in
+                die Hände spielten und damit ihre Glaubensbrüder ans Messer der Gestapo lieferten.
+                Ich nenne nur drei Namen, die diese Behauptung belegen: Dr. Seyß-Inquart, Dr.
+                Wilhelm Wolf und Univ. Prof. Dr. Oswald Menghin. Ohne das schmachvolle verräterische
+                Verhalten dieser Männer wäre Österreich zumindest keine so leichte Beute gewesen.
+                Die furchtbaren Sünden dieser und mancher anderer österreichischer Katholiken, die
+                als Spitzel und Denunzianten die niedrigsten Handlangerdienste für den
+                Nationalsozialismus leisteten, belasten in gewißer Beziehung das Gewissen der ganzen
+                streitenden Kirche und legen ihr die Pflicht der kollektiven Buße und Sühne und
+                damit auch die Pflicht auf, bis zur äußersten Grenze des Möglichen das grauenhafte
+                Unheil gutzumachen, das von ihren verirrten Söhnen angerichtet worden ist. 2. Der
+                österreichische Staat, der am 11. März d. J.durch den Nationalsozialismus vernichtet
+                wurde, ist der Erbe eines Reiches gewesen, das im großen und ganzen die ihm zuteil
+                gewordene Schirmvogtei über die Kirche gut und recht versehen hat, und er war in den
+                letzten Jahren einer der ganz wenigen Staaten, die sich in ihrer Verfassungsurkunde
+                feierlich zum Christentum bekannt haben. Die Kurie hat mit überraschender
+                Schnelligkeit das Verschwinden dieses Staates formell zur Kenntnis genommen, ohne
+                    f<edit>ü</edit>r diese Kenntnisnahme wenigstens <hi rend="underline">die</hi>
+                Bedingung zu stellen, daß den Repräsentanten und Verteidigern dieses christlichen
+                Staatswesens kein Haar gekrümmt werden dürfe. Daß eine solche <pb n="3"/> Bedingung
+                nicht gestellt wurde, war - wie die Ereignisse gelehrt haben - ein verhängnisvolles
+                Versäumnis, das g<edit>l</edit>eichfalls nach Gutmachung verlangt. 3. Die Opfer des
+                nationalsozialistischen Terrorismus in Österreich sind neben den Juden
+                ausschließlich mehr oder minder prominente katholische Persönlichkeiten, deren
+                einziges "Verschulden" darin besteht, daß sie der Kirche und dem Vaterland die Treue
+                gehalten haben. Es befinden sich unter ihnen wirklich vorbildliche milites Christi.
+                Ihr Anrecht auf ein entschiedenes Eingreifen der mater ecclesia zu ihren Gunsten ist
+                wohl unbestreitbar. Gewiß warten sie, ebenso wie der schon in Dachau gemordete
+                Hochschulprofessor Freiherr von Zessner-Spitzenberg, ein wahrhaft heiligmäßiger Mann
+                es tat, Tag für Tag darauf, daß ihre geistliche Mutter ebenso wagemutig für sie
+                eintrete, wie es ihre leibliche Mutter getan haben würde oder faktisch tat. Sollen
+                sie vergeblich darauf warten? 4. Die Treue der österreichischen Katholiken, die
+                allem antichristlichen Terror zum Trotz dem Cäsar beharrlich das Weihrauchopfer
+                verweigern, würde einer allzu schweren Belastungsprobe ausgesetzt, wenn in der Tat
+                von Seite der höchsten kirchlichen Autorität auch weiterhin nichts
+                    gesch<edit>ä</edit>he, um die katholischen "Schutzhäftlinge" zu befreien oder
+                doch wenigstens zu verhindern, daß katholische Persönlichkeiten wie <add
+                    place="above">ein</add> Kurt v. Schuschnigg, ein Richard Schmitz, ein Staatsrat
+                Dr. Funder, ein Gesandter a. D. Dr. Friedrich Ritter v. Wiesner, ein Hofrat Edmund
+                Weber, um nur einige wenige zu nennen, auf chemischem Wege zu Tode gemartert werden,
+                wie dies jetzt, zuverlässigen Berichten zufolge, beabsichtigt bezw. schon in Angriff
+                genommen ist. Der Satz "Nolite provocare ad iram filios vestros", den der
+                Völkerapostel formuliert hat, gilt wohl auch für die Mutter Kirche hinsichtlich der
+                von ihr geistlich gezeugten Kinder. Sie darf ihre getreuen Söhne nicht vor Probleme
+                stellen, die von ihnen nur in der Kraft ganz außerordentlichen Gnadenbeistandes ohne
+                schweren seelischen Schaden gelöst werden können. Das Schweigen der mater ecclesia
+                und des vicarius Christi angesichts des Martyriums der besten österreichischen
+                Katholiken müßte ein solches Problem für die Gepeinigten sowohl wie für jene sein,
+                die um diese beispiellose Peinigung wissen. Ich stehe nicht an, Eurer Eminenz zu
+                erklären, daß ich selbst aufs schwerste mit diesem Problem ringe und es als eine
+                besondere Gnade betrachte, daß ich um seinetwillen bisher noch keinen Augenblick
+                Zweifel gesetzt habe in die Makellosigkeit der Braut Christi. Gleichzeitig bekenne
+                ich, daß es mir unendlich schwer wird, in diesem Punkt als Apologet aufzutreten und
+                daß ich vollstes menschliches Verständnis für solche habe, die ob des Schweigens der
+                Kirche an ihr irre werden, weil sie sich sagen: "Qui tacet, consentire videtur!"</p>
+            <p style="includesPb">Ew. Eminenz werden bei Lektüre dieses Schreibens, das ich im
+                Gehorsam gegenüber der immer eindringlicher sich vernehmbar machenden Stimme meines
+                Gewissens verfaßt habe, sich gewiß <note type="foliation">40</note>
+                <pb n="4"/> sagen, es sei leicht, solche Forderungen an den Hl.Stuhl zu stellen,
+                aber schwer, ihnen zu entsprechen. Darüber bin ich mir vollkommen im Klaren. Und
+                deshalb möchte ich nicht versäumen, einige Andeutungen zu machen, in welcher Weise
+                meiner Ansicht nach der Hl. Stuhl eingreifen sollte. Der erste Versuch, der
+                vielleicht, ohne daß die Öffentlichkeit davon Kenntnis erhalten hat, ohnedies schon
+                unternommen wurde, wäre der einer Intervention beim italienischen Regierungschef,
+                der ja auch heute noch etwas darauf zu halten scheint, mit dem Hl. Stuhl in
+                freundschaftlichem Kontakt zu stehen. Es müßte doch wohl möglich sein, Exzellenz
+                Mussolini zu einer mit entsprechenden Argumenten unterstützten Demarche zugunsten
+                der prominenten katholischen Persönlichkeiten des seinerzeitigen österreichischen
+                Regimes bei der Berliner Regierung zu bestimmen. Und dies umso mehr, als Exzellenz
+                Mussolini in dieser Beziehung ja sehr offenkundige Verpflichtungen der
+                Ritterlichkeit hat, die ihn zu einer derartigen Vermittlung geradezu prädestinieren
+                - eine Tatsache, die er schon um seines Prestiges willen unmöglich gänzlich
+                übersehen kann. Bliebe ein solcher Interventionsversuch - sei es wegen mangelnder
+                Geneigtheit des italienischen Ministerpräsidenten, sei es wegen absoluter
+                Halsstarrigkeit Hitlers - erfolglos, so wäre die Öffentlichkeit über die vom Hl.
+                Stuhl unternommenen Bemühungen in geeigneter Form zu unterrichten und es wäre
+                gleichzeitig offiziell in ganz klaren Worten die Dämonie der nationalsozialistischen
+                Regierungspraxis, durch die sich das heutige Deutschland als ein "Magnum
+                Latrocinium" im Sinne des hl. Augustinus erweist, an den Pranger zu stellen. Die
+                letzte Handhabe, deren sich der Hl. Stuhl in der gegebenen Situation schließlich
+                doch bedienen müßte, wäre dann das persönliche Interdikt - zunächst über Hitler und
+                in weiterer Folge über alle verantwortlichen Funktionäre des nationalsozialistischen
+                Regimes, die infolge ihres formellen Beken<edit>n</edit>tnisses der Jurisdiktion der
+                Kirche unterstehen. Von praktischer Wertlosigkeit einer solchen Kirchenstrafe kann
+                ebenso wenig die Rede sein, wie der Gesichtspunkt, daß eine Verschärfung des
+                Kulturkampfes die wahrscheinliche Folge wäre, von der Anwendung derartiger Methoden
+                abhalten dürfte. Die ganze zivilisierte Welt wü<edit>r</edit>de aufatmen, wenn die
+                oberste kirchliche Autorität einen unmißverständlichen symbolischen Akt der
+                erwähnten Art setzte. Die neuen Sympathien, welche die Kirche damit gewänne, hätten
+                größeres religiös-moralisches und auch kirchenpolitisches Gewicht, als die
+                Steigerung der Feindschaft von Seite der nationalsozialistischen Diktatoren.
+                Vorallem aber: Der Wahrheit und der Gerechtigkeit muß Zeugnis <sic>gegegeben</sic>,
+                die Bosheit und Entmenschung muß bei Namen genannt und ihr Repräsentant vor aller
+                Welt gebrandmarkt werden, selbst wenn dafür ein hoher irdischer Preis zu zahlen
+                ist.</p>
+            <p style="includesPb">So sehr die Hauptsorge der Kirche auf die Errettung und Befreiung
+                der von den braunen Mordbanden gefangenen österreichischen Katholiken gerichtet sein
+                muß, gibt es auch noch ein <pb n="5"/> anderes Werk der Barmherzigkeit, das die
+                christliche Laienwelt von der Kirche erwartet: die Betreuung der katholischen
+                Emigranten! Ihre Zahl ist höher, als gemeinhin angenommen wird, und es befinden sich
+                auch unter ihnen ganz hervorragende Streiter des Gottesreiches auf Erden. Zwar
+                bestehen in den meisten Ländern, nach denen sich der Emigrantenstrom wandte,
+                katholische Flüchtlingskomitees, die schon viel segensreiche Arbeit geleistet haben,
+                aber es fehlt bislang eine überstaatliche Zusammenarbeit dieser Stellen und überdies
+                sehen die katholischen Flüchtlingskomitees ihre Bestimmung fast stets nur in der
+                Abhilfeleistung gegen die schlimmste augenblickliche Not, während die ebenso
+                    <edit>w</edit>ichtige Arbeits- und Erwerbsvermittlung für die Emigranten fast
+                völlig vernachlässigt <edit>w</edit>ird. Man gewinnt aus der Arbeitsweise der
+                katholischen Flüchtlingskomitees den Eindruck, daß sie ebenso wie die Behörden der
+                    <edit>A</edit>sylländer kein größeres Interesse haben als das, die Emigranten
+                möglichst rasch in ein anderes Land, wo für die Betreffenden der ganze Jammer von
+                neuem beginnt, abzuschieben. Eine wirkliche Hilfeleistung ist dies natürlich nicht,
+                sondern es ist caritative Kleinkrämerei. Die unerläßliche Voraussetzung wirksamer
+                und dauerhafter Hilfeleistung wäre meines Erachtens die Schaffung einer
+                internationalen katholischen Flüchtlingskommission, die unter der direkten Patronanz
+                des Hl. Stuhles stehen und sich in erster Linie um die Behebung der Paß- und
+                Aufenthaltsschwierigkeiten der Emigranten, um die Beschaffung von Arbeitsplätzen und
+                um die etwa notwendige Umschulung etc. bekümmern müßte. Wenn sich Se. Heiligkeit
+                entschließen könnte, allen diplomatisch-taktischen Bedenken zum Trotz eine
+                feierliche Kundgebung zugunsten der katholischen Emigranten zu erlassen und wenn
+                außerdem die kirchliche Diplomatie bei den Regierungen der Asylländer ihren Einfluß
+                geltend machte, würde die katholische Flüchtlingshilfe sogleich eine wesentliche
+                Erleichterung ihrer Arbeitstätigkeit erfahren. Heute ist es ja in der Tat so, daß
+                das Judentum hinsichtlich der politischen Flüchtlinge eine weit stärkere und
+                wirksamere internationale Solidarität bewährt als die katholische Weltkirche. Diesen
+                Zustand muß man als tief beklagenswert und blamabel bezeichnen.</p>
+            <p style="includesPb">Alle meine vorangegangenen Ausführungen - sowohl in Bezug auf den
+                antikatholischen Terror des Nationalsozialismus wie auch in Bezug auf das
+                weitgehende Versagen der katholischen Emigrantenfürsorge - stützen sich auf
+                persönliche Erfahrungen. Ich war einer der ersten "konfessionellen Missetäter", die
+                den braunen Horden in die Hände fielen und von ihnen - drei Monate lang - in
+                "Schutzhaft" genommen wurde<edit>n</edit>. z. Ich weiß, was "normale Schutzhaft"
+                bedeutet, und kann mir daher sehr gut vorstellen, welch bestialischen
+                <edit>W</edit>orturen die Schutzhäftlinge und Konzentrationslager-Insassen
+                besonderen Grades, d. h[.]<edit>:</edit> also die prominenten katholischen
+                Führerpersönlichkeiten des seinerzeitigen Österreich, unterworfen sind. Aus
+                12jähriger Tätigkeit als katholischer Publizist in Wien - ich war seit 1925
+                Redakteur der katholischen Wochenschrift "Schönere Zu- <pb n="6"/> kunft" - kenne
+                ich die meisten der katholischen Verräter sowohl wie der katholischen Opfer
+                persönlich. Ich weiß, welch erbärmliche Kreaturen die Erstgenannten und welch edle,
+                untadelige Männer die Letztge<edit>n</edit>annten sind. Da ich mich nun schon nahezu
+                vier Monate mit meiner Familie (drei unmündige Kinder) in der Emigration befinde,
+                habe ich auch den guten Willen der katholischen Flüchtlingsfürsorge ebenso wie ihre
+                Hilflosigkeit und mangelnde Initiativkraft so<edit>|</edit>weit kennengelernt, daß
+                ich darüber ein Urtei<edit>l</edit> abzugeben vermag. Gerade die ärmeren Katholiken
+                waren es, die sich der Emigranten erbarmten, während die reichen Katholiken keine
+                persönlichen Caritasverpflichtungen anerkennen wollten, sondern alles auf die
+                offizielle Für<edit>e</edit>orge ablasteten. Ich spüre es am eigenen Leibe, wie
+                wenig im großen und ganzen von einer katholischen Solidarität mit den um Heimat und
+                Existenz gekommenen Glaubensbrüdern die Rede sein kann, wie selten die oberen
+                Schichten der katholischen <sic>Gesellschft</sic> sich ihrer Verpflichtungen
+                gegenüber den katholischen Vorkämpfern,die um ihrer „konfessionellen“ Aktivität
+                willen alles verloren haben, bewußt sind. Man muß sich als Emigrant heute wie ein
+                Pestkranker, dem nur ganz wenige Samariter sich zu nahen wagen, fühlen und sich,
+                wenn man um Kirche und Vaterland einige Verdienste gesammelt zu haben glaubt die
+                Frage vorlegen, ob man dafür tatsächlich nur Mißachtung und Bestrafung als Lohn
+                empfangen soll.</p>
+            <p>Wenn ich Eurer Eminenz als dem berufensten Hierarchen der Kirche ein solch
+                umfangreiches Exposé zu unterbreiten mich erkühne, so nicht aus selbstsüchtigem
+                Interesse, sondern aus erbarmender Liebe mit den verfolgten, gepeinigten und um
+                Heimat und Brot gebrachten österreichischen Glaubensbrüder<del rend="strikethrough"
+                    >n</del>, auf die ich die Aufmerksamkeit und Fürsorge der Kirche lenken möchte.
+                Ich tue es ferner in der Überzeugung, daß ich meiner Kirche, an der ich mit ganzer
+                Liebe hänge, einen Dienst erweise, wenn ich ihr eine heiligernste Aufgabe zeige, die
+                ihr vom Heiland selbst gestellt scheint. Und endlich bestimmt mich noch die
+                Gewißheit, daß Eure Eminenz für die von mir entwickelten Gedankengänge einiges
+                Wohlwollen und Interesse bekunden werden, zu dieser Eingabe.</p>
+            <p>Nehmen Sie, hochwürdigster Herr Kardinal-Staatssekretär, dieses Schreiben so auf, wie
+                es gemeint ist, und unterlassen Sie bitte die Prüfung der von mir gemachten Angaben
+                und Vorschläge nicht.</p>
+            <p>Ich benütze die Gelegenheit, Ew. Eminenz die Versicherung meines Gehorsams und meiner
+                Ergebenheit gegenüber dem Hl. Stuhl s<edit>o</edit>wie meiner größten Hochachtung
+                und Verehrung für Ihre Person geziemend zum Ausdruck zu bringen.</p>
+            <closer><salute><lb/>Ew. Eminenz in Christo ergebener Ew. Eminenz in Christo
+                    ergebener</salute></closer>
+            <closer><signed><lb/>Dr. Alfred Missong <lb/>per Adr. Architekt A. Stöckli <lb/>Stans,
+                    Kt. Nidwalden, Schweiz Dr. Alfred Missanzper Adr. Architekt A. StöckliStans, Kt.
+                    Nidwalden, Schweiz</signed></closer>
+            <closer><dateline><lb/>Stans, 2. November 1938. Stans, 2. November
+                1938.</dateline></closer>
+            <note type="later-nr">Austria 918</note>
+        </body>
+    </text>
+</TEI>

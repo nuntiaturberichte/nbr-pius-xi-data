@@ -1,0 +1,520 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><!-- Titel --></title>
+                <author>
+                    <persName><!-- Autor und DNB-Link --></persName>
+                </author>
+                <respStmt>
+                    <resp>TEI tempalte prepared by</resp>
+                    <persName ref="#martin.kroissenbrunner">Martin Kroissenbrunner</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>edited by</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>kollationieren</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <!-- msDesc@status -->
+                    <msIdentifier>
+                        <repository>AAEESS, Periodo IV, Austria Ungheria</repository>
+                        <idno type="archive">Pos. 918, Fasc. 74, Fol. 9r - 25r</idno>
+                        <idno type="institutional" subtype="internal"><!-- interne ID --></idno>
+                        <idno type="institutional" subtype="external"><!-- externe ID --></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <note type="keyword" resp="#bernhard.kronegger"
+                                ><!-- Schlagwort --></note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <layoutDesc>
+                                <ab><!-- ??? --></ab>
+                            </layoutDesc>
+                        </objectDesc>
+                        <scriptDesc>
+                            <ab>gesetzt</ab>
+                        </scriptDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote>
+                    <p><!-- Autorenhand --></p>
+                </handNote>
+            </handNotes>
+            <abstract>
+                <p><!-- Regest --></p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspContext/>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <ab type="archive-nr">918-74-9</ab>
+            <p>12.4.30</p>
+            <head>Rapporto del 12 c. m. di S. E. Monsignor Gaetano Cicognani circa l'attitudine
+                dell'Episcopato austriaco di fronte al nuovo regime.</head>
+            <p>Alle notizie trasmesse da Vienna circa l'attitudine assunta dall'Episcopato Austriaco
+                di fronte al nuovo regime, credo opportuno aggiungere alcune altre che, nonostante
+                il mio buon volere, non potei fare conoscere a causa del violento e repentino
+                succedersi degli avvenimenti, e in modo speciale, per la difficoltà di corrispondere
+                con libertà e sicurezza con l'Eminenza Vostra Reverendissima. Il nuovo regime
+                instaurò subito in tutta l'Austria metodi di forza, controllando minuziosamente per
+                mezzo della sua polizia (la nota Gestapo commandata direttamente a Vienna dal Signor
+                Himler) ogni mezzo di communicazione; e la mia situazione divenne tanto più grave in
+                quanto che il nuovo governo dichiarò di non riconoscere più i diplomatici
+                accreditati presso il caduto Governo austriaco</p>
+            <p style="includesPb">Come obbi già occasione di accennare, la posizione presa dai
+                Vescovi dall'Austria e especialmente dal Cardinale Innitzer, sor- <note
+                    type="foliation">9</note>
+                <pb n="2"/> prese ed addolorò profondamente la grande maggioranza dei cattolici; nè
+                piacque nemmeno alla maggior parte dei nazional-socialisti, i quali credettero
+                vedere nella condotta dei Vescovi una manovra calcolatrice ed interessata. Erano
+                infatti noti i loro sentimenti politici: Monsignor Waitz, Arcivescovo di Salisburgo,
+                Monsignor Gfoellner, Vescovo di Linz, Mons. Pawlikowski, Vescovo di Graz, avevano
+                professato sempre un attaccamento alla casa di Absburgo; tutti poi (ad eccezione
+                forse di Mons. Hefter, Vescovo di Klagenfurt) erano strettamente uniti al governo di
+                Dollfuss e del Cancelliere Schuschnigg; e quando questi indisse, per certo con
+                precipitazione, il plebiscito per il 13 marzo, il Cardinale Innitzer radunò il
+                Clero, lo esortò ad avviare i fedeli per il sostenimento dell'Austria cristiana, e
+                disse pubblicamente che un cattolico non poteva essere nazional-socialista. Ciò mi
+                referì lo stesso Cardinale Arcivescovo immediatamentae dopo quella riunione.
+                Tuttavia, dato il suo carattere debole e la costante incertezza di criterio, i suoi
+                giudizi e le sue direttive hanno subito sempre modificazioni e cambiamenti Inoltre
+                si è detto e si dice con insistenza a Vienna che, quando egli era professore
+                all’Università, si era mostrato favorevole ad una unione con la Germania. non saprei
+                precisare il fondamento di queste voci, però è fuori di discussione che il Cardinale
+                Innitzer è stato in ogni momento il protettore deciso della associazione giovanile
+                    «Neuland<edit>.</edit> la quale ha fomentato sempre quella unione; e di ciò si è
+                lagnato con me, in due circostanze, lo stesso Cancelliere Schuschnigg. Il fondatore
+                del «Neuland», il Sac. Carlo Rudolf, è stato ed è uno dei più ascoltati consiglieri
+                del Cardinale; i sacerdoti «neuländer» sono stati sempre preferiti; e gli uomini e
+                l'ambiente del «Neuland» sono quelli che hanno maggiormente influito negli atti e
+                sulle decisioni prese in questi ultimi tempi dal Cardinale Arcivescovo di Venna.
+                Oltre il Rudolf, devo segnalare il Signor Wolf, l'effimero ministro degli Affari
+                Esteri nel Ministero formatosi la notte del venerdì undici marzo dopo la drammatica
+                rinunuzia del Cancelliere Schuschnigg. Il Signor Wolf cominciò da giovane a lavorare
+                nella Azione Cattolica, poi si iscrisse al «Neuland», però nello stesso tempo egli
+                era già iscritto al partito nazional-socialista; quale impiegato del Ministero della
+                P. I. teneva al corrente il Governo germanico di quanto avveniva in Austria, e in
+                premio di que- <note type="foliation">10</note>
+                <pb n="3"/> sta sua opera fu appunto nominato Ministro. Egli fu fra coloro che la
+                notte stessa di quel venerdì (11 marzo) consigliarono alla gioventù del «Neuland» di
+                passare subito a fare parte della gioventù hitleriana; egli collaborò per preparare
+                la visita del Cardinale al Cancelliere del Reich; e da allora non ha lasciato di
+                avere, quasi giornalmente, conversazioni con il Cardinale.</p>
+            <head>Il primo communicato di S. E. il Cardinale Innitzer</head>
+            <p style="includesPb">Questo fu deciso appena ventiquattro ore dopo la caduta del
+                Cancelliere Schuschnigg, il sabato sera, 12 marzo; e apparve la mattina della
+                domenica seguente nella Reichspost, la quale da giornale cattolico si trasformò
+                immediatamente e radicalmente in nazional-socialista. Ad ora tarda, di quel sabato,
+                Sua Eminenza mi fece dire, per telefono, da Mons. Tongelen che aveva deciso di
+                pubblicare un breve comunicato esortando i fedeli a dare grazie al Signore perchè i
+                gravi avvenimenti di quei giorni si erano svolti senza spargimento di sangue, a
+                pregare per il felice avvenire della Nazione; e ad ubbidire all'autorità costituite.
+                Osservai a Mons. Tongelen che simili questioni non si potevano discutere per
+                telefono, dato il controllo che la polizia esercitava specialmente con la Nunziatura
+                e le Legazioni diplomatiche; ma essendo già l'ora avanzata, lo pregai di fare sapere
+                a Sua Eminenza che, secondo il mio giudizio, il silenzio e l'attesa erano, in quei
+                momenti così difficili, la linea migliore di condotta; che consideravo il comunicato
+                inopportuno e prematura, tanto più che in esso vi era una frase (quella riguardante
+                il felice avvenire della Nazione) che richiamava il concetto e le parole pronunziate
+                il giorno prima dal Signor Seiss-Inquart nell'assumere la carica di Cancelliere nel
+                fugace ministero nazional-socialista austriaco. Raccomandai infine prudenza somma.
+                Per esser sicuro che la mia comunicazione era stata fatta, chiamai più tardi al
+                telefono Mons. Tongelen, il quale mi assicurò di averla trasmessa e di avere fatto
+                le insistenze da me indicate. La mattina topo la Reichspost, come ho detto,
+                riportava il comunicato; e alle ore nove del suddetto Monsignore mi manifestò che il
+                Cardinale Arcivescovo aveva preso in considerazione quanto gli avevo fatto sapere,
+                ma che, dopo maturo esame, aveva creduto opportuno pubblicare il comunicato anche
+                per so- <note type="foliation">11</note>
+                <pb n="4"/> stenere il giornale; e che, del resto, egli assumeva di ciò piena
+                responsabilità.</p>
+            <p>Certamente quel comunicato non conteneva nulla di grave, ma indicava già la tendenza
+                del Cardinale Innitzer verso quell’avvicinamento precipitato al nuovo regime, causa
+                di tante preoccupazioni. Da allora il Cardinale Innitzer mantenne colla Nunziatura
+                un riserbo il più assoluto; anzi, lo dico con pena, ma è questa la verità, fece di
+                tutto per tenerla all'oscuro sui progetti che d’accordo con i suoi consiglieri
+                stava, certamente con la migliore volontà, architettando. Devo osservare che in
+                Austria la Nunziatura più che amata era sopportata, e i pochi sacerdoti che la
+                frequentavano e prestavano qualche aiuto, erano guardati con diffidenza. Anche nelle
+                questioni di maggiore importanza, che involgevano o potevano involgere un intervento
+                diretto da parte della Santa Sede (cito al riguardo la questione della gioventù
+                cattolica, sorta un anno fa), i Vescovi preferivano decidere da soli, senza
+                consultare o almeno informare la Nunziatura. Ciò dico non in tono di lagnanza, ma
+                come semplice constatazione di fatto; piuttosto per scusare i Vescovi abituati a une
+                simile mentalità. Da parte mia mi studiai fin da principio di fare loro comprendere
+                che si doveva lavorare con mutuo intendimento, avendo un fine comune ma in fondo
+                quella diffidenza è sempre rimasta. Mi dicono che un simile stato d’animo esista in
+                qualche altra Nazione dell’antico impero austro-ugarico.</p>
+            <p>La diffidenza dell'Eminentissimo Cardinale Arcivescovo di Vienna poi divenne maggiore
+                quando, per le insinuazioni dei suoi consiglieri e per le mene di abili mestatori,
+                si persuase, in buona fede, che in quell'ora storica era a lui riservata una grande
+                missione: quella di riconciliare, in Austria, la Chiesa Cattolica con il
+                Nazional-Socialismo; e, per mezzo dell'Austria, portare la pace e la concordia a
+                tutta la Germania.</p>
+            <p style="includesPb">Prescindendo dai principi d'ordine dottrinario, chiamente fissati
+                nella Enciclica del Santo Padre letta un anno fa in tutte le chiese di Germania, e
+                pur volendo limitare i tentativi per una intesa nel terreno pratico, Sua Eminenza il
+                Cardinale Innitzer, sempre mal consigliato, immaginò di potere svolgere quella sua
+                missione indipendentemente dai Vescovi Germanici, e quel che è peggio, <note
+                    type="foliation">12</note>
+                <pb n="5"/> indipendentemente da Roma. Non perchè egli non senta affetto ed adesione
+                verso la Santa Sede, ma perchè gli fu detto e gli fu ripetuto in diverse
+                circostanze, ed egli se ne persuase facilmente, che tanto Roma come i Vescovi
+                Germanici erano troppo impegnati nella lotta contro il Nazional-Socialismo; che
+                avevano assunto posizioni troppo rigide, che difficilmente sarebbero riusciti ad
+                    abbandonare.<note type="footnote"><p>Per ciò che concerne l'attitudine della
+                        Santa Sede nella lotta contro il Nazional-Socialismo si osserva che essa,
+                        pur insistendo sempre con la dovuta fermezza sulle questioni di principio,
+                        non ha tralasciato occasione alcuna per addivenire al ristabilimento della
+                        pace religiosa in Germania, come del resto si può anche rilevare dal terzo
+                        (c) dei tre documenti seguenti:</p>
+                    <p>a) Rapporto del 17 marzo 1938 di S. E. Mons. Borgongini Duca
+                        all'Eminentissimo Sig. Cardinale Segretario di Stato di S. S.</p>
+                    <p>« Alle 18 di questa sera sono stato ricevuto dal Conte Ciano, Ministro degli
+                        Esteri, il quale mi ha pregato di far sapere subito al S. Padre una buona
+                        notizia, di cui può dare per il momento solo un accenno. Goering ha parlato
+                        all'Incaricato di Affari d'Italia a Berlino (che è cognato dello stesso
+                        Conte Ciano ed uomo di fiducia di S. E. Mussolini) e gli ha detto che le
+                        dichiarazioni dell'Arcivescovo Cardinale di Vienna hanno fatto nel Governo
+                        Tedesco ottima impressione e che il medesimo Governo pensa di cambiare
+                        indirizzo con la Chiesa ed ha l'intenzione di concedere una generale
+                        ammistia per i noti processi.</p>
+                    <p>Il Conte Ciano farà conoscere per mezzo dell'Ambasciatore Pignatti i dettagli
+                        del colloquio, appena li avrà.</p>
+                    <p>Infine mi ha confermato che il Governo Tedesco ha intenzione di liberare
+                        Schuschnigg, come ha assicurato S. E. Mussolini al P. Tacchi Venturi.</p>
+                    <p>Prego Vostra Eminenza di far conoscere al Santo Padre queste notizie date dal
+                        Conte Ciano».</p>
+                    <p>b) Estratto di Rapporto del Sig. Conte Magistrati, incaricato d'Affari d'Ita
+                            <edit>il</edit>a a. i. in Berlino, quale è stato rimesso il 19 marzo
+                        1938 all'Em̃o Sig. Cardinale Segretario di State da S. E. il Sig. Conte
+                        Pignatti, Ambasciatore d'Italia presso la Santa Sede, concernente il
+                        colloquio del Maresciallo Göring col Sig. Incaricato d'Affari d'Italia in
+                        Berlino di cui è parola nel sopra riportato Rapporto di Monsignor Borgongini
+                        Duca.</p>
+                    <p>«Situazione dei Cattolici. — Entrati a parlare di questo argomento, ho
+                        trovato il Maresciallo particolarmente ben disposto.</p>
+                    <p>Il problema dei Cattolici — ha cominciato a dire — cambia certamente ora
+                        fisonomia nel Reinch. Occorre non dimenticare che mentre gli Evangelici
+                        aumentano solamente di mezzo milione, i Cattolici numentano di cinque
+                        milioni e mezzo, e tutti veri e di profonda tradizione. Il Cancelliere
+                        Hitler vede benissimo tutto ciò ed è veramente propenso ad avviarsi su una
+                        strada che porti ad una pacificazione religiosa del Reich, sempre
+                        naturalmente a condizione, chiara e precisa, che Religione e Politica siano
+                        due cose nettamente distinte. Hitler guarda avanti e non dictro. Quello che
+                        è stato è stato. Quello che conta è l'avvenire. Ne sarà una prova una grande
+                        amnistia generale che il Cancelliere, con ogni probabilità concederà.</p>
+                    <p>Devo dirvi in proposito — e qui egli ha preso un aspetto grave e deciso — che
+                        si avvicina il momento della "definitiva e grande chance" del Vaticano per
+                        una netta chiarificazione con il Reich tedesco. Se il Vaticano anzichè
+                        piangere sulle</p> sorti di un 'Austria definitivamente sparita e tentare
+                    resistenze di carattere politico attraverso il Clero austriaco, prende invece la
+                    decisione di far comprendere che è bene che i Cattolici austriaci siano anche
+                    degli ottimi Tedeschi, cittadini del Reich, la chiarificazione non appare
+                    difficile. <p>Sappiamo benissimo che nel Clero austriaco, e specialmente tra gli
+                        alti Prelati, e cioè tra i Vescovi, vi sono nemici dichiarati del
+                        Nazional-socialismo. E bene che essi comprendano la nuova situazione. Anche
+                        qui noi non vogliamo martiri, ma evidentemente non siamo dispositi a
+                        transigere. Viceversa il secondo "appello" del Cardinale Innitzer appare
+                        buono.</p>
+                    <p>Del resto — ha aggiunto — da mesi non si svolge in Germania alcuna battuta
+                            ant<edit>n</edit>cattolco. Come voi sapete le nostre Magistrature
+                        avevano istruito numerosissimi processi a carico di membri di Ordini
+                        religiosi, accusati particolarmente di traffico di divise. Orbene il Fuhrer
+                        ha dato ordine di tutto sospendere. Certamente, e specie se il Vaticano non
+                        vorrà fare una crociata contro di noi in tema austriaco, da parte nostra
+                            null<edit>l</edit>a verrà fatto in senso anticattolico, anzi, data anche
+                        la nuova situazione del Reich alla quale ho sopra accennato, tutto fa
+                        prevedere il contrario. Non credo, però, ad ogni modo, almeno per ora, che
+                        si possa mai giungere alla possibilità di una visita di Hitler al
+                        Pontefice.</p>
+                    <p>Qui Goering mi ha parlato con una certa simpatia e deferenza della persona
+                        del Papa, che egli ebbe occasione di conoscere nella primavera del 1933. Nel
+                        ricordare i dettagli di detta conversazione, che ebbe particolarmente per
+                        tema il comunismo, Goering mi ha detto di avere avuto la vaga impressione
+                        che il Pontefice non faccia grande differenza tra Bolscevismo e
+                        Nazionalsocialismo!»</p>
+                    <p>c) Appunto consegnato al riguardo dal'Em̃o Sig. Cardinale Segeretario di
+                        Stato il 20 marzo u. s. a S. E. il Sig. Conte Pignatti, Ambasciatore
+                        d'Italia presso la Santa Sede.</p>
+                    <p>«La S. Sede — facendo le debite riserve su vari apprezamenti, a suo giudizio,
+                        infondati —, ha preso volentieri atto della comunicazione circa la asserita
+                        disposizione del Signor Cancelliere del Reich di addivenire al
+                        ristabilimento della pace religiosa in Germania.</p>
+                    <p>La S. Sede, pur non essendo insensibile alla intenzione di sospendere i
+                        processi, i quali hanno prodotto nella pubblica opinione effetti sfavorevoli
+                        anche nell'interesse del Reich, fa però notare che i punti fondamentali per
+                        raggiungere quel fine, anche da Essa vivamente desiderato, sono i seguenti:
+                        1° l'educazione della gioventù e libertà del ministro pastorale. 2°
+                        organizzazioni di Azione Cattolica. 3° cessazione della campagna
+                        anticattolica e diritto dei cattolici e difendersi pubblicamente, 4°
+                        risposta alle molte Note della S. Sede in materia concordataria, le quali
+                        sono rimaste senza riscontro; ovvero sollecita designazione di persona di
+                        mutua fiducia e di comune gradimento, incaricata di trattare.</p>
+                    <p>Si è grati al Maresciallo Göring per il suo interessamento in questa materia
+                        e si ricorda con piacere la sua visita in Vaticano».</p></note></p>
+            <note type="foliation">13</note>
+            <pb n="6"/>
+            <p style="includesPb">Gli fu detto inoltre, ed egli stesso lo ha ripetuto piò volte a
+                sua difesa, che le condizioni dell'Austria erano del tutto speciali, diverse da
+                quelle della Germania; e che, se Roma fosse stata bene informata sulla situazione
+                reale dell’Austria, avrebbe approvato l’attitudine da lui presa. Ripiego del tutto
+                vano, poichè nulla impediva a Sua Eminenza di illuminare direttamente Roma, se la
+                credeva male informata; non solo, ma fin dai primi giorni, e sopra <note
+                    type="foliation">14</note>
+                <pb n="7"/> tutto quando seppi delle dichiarazioni fatte e sottoscritte dai Vescovi,
+                io feci le più vive insistenze perchè Sua Eminenza si recasse immediatamente a Roma,
+                per spiegare quanto era successo e prendere quelle istruzioni e direttive che, in
+                quella gravissima circostanza, la Santa Sede avesse creduto opportuno di dare. Ma i
+                suoi consiglieri, che non lo hanno lasciato mai libero, e il governo germanico,
+                rappresentato in quei giorni dal Signor Bürckel, hanno fatto del tutto perchè il
+                Cardinale non avesse contatto alcuno con la Santa Sede, controllando le
+                conversazioni che aveva con il Rappresentante pontificio (nell’anticamera del
+                Cardinale stava sempre, sotto pretesto di difesa, un commissario di polizia);
+                paralizzando qualsiasi consiglio e suggerimento, adducendo come motivo che
+                nell´attuale momento non si trattava di questioni di ordine religioso e
+                internazionale, ma di manifestazioni semplicemente di tedeschi verso tedeschi, nelle
+                quali la Santa Sede non aveva nulla di che vedere</p>
+            <head>La visita del Cardinale Innitzer al Cancelliere del Reich</head>
+            <p style="includesPb">Questa fu preparata dai Signori Seiss-Inquart e Wolf, e intervenne
+                pur l'Ambasciatore von Papen, ritornato in quei giorni a Vienna. Questi, conoscendo
+                assai bene il carattere del Cardinale, ebbe cura, per potere meglio influire sul suo
+                animo, di fargli assumere per la circostanza, come segretario, il Reverendo Giovanni
+                Jauner, ex-ufficiale di cavalleria, sacerdote da pochi anni, amico di von Papen,
+                anzi conosciuto a Vienna come il "confessore di von Papen". Il Cardinale giunse,
+                all'Hotel Imperial, dove aveva preso alloggio il Cancelliere del Reich, accompagnato
+                dal suddetto sacerdote e fu ricevuto alla porta dell'Hotel da un ufficiale.
+                Nell'anticamera vi erano alcuni ministri e anche il von Papen, il quale accolse il
+                Cardinale con molti complimenti, rallegrandosi vivamente per questa visita ed
+                assicurandogli che essa segnava una tappa decisiva nelle relazioni fra la Chiesa e
+                lo Stato, e che sarebbe stata di grande profitto non solo per l'Austria, ma anche
+                per la Germania. Sua Eminenza fu subito ricevuto dal Cancelliere Hitler, il quale
+                disse a voce alta che voleva parlare da solo con il Cardinale: però non furono
+                completamente soli, come il Cardinale mi disse e come io riferii; alla conversazione
+                stava presente, sia pure <note type="foliation">15</note>
+                <pb n="8"/> in un angolo della camera, il confessore di von Papen, il sacerdote
+                Jauner. In un telegramma cifrato ho avuto già l’onore di riferire sul contenuto di
+                quella conversazione, come mi venne dettato dallo stesso Cardinale. Questi rimase
+                assai soddisfatto delle buone disposizioni manifestate dal Cancelliere e credette di
+                avere già raggiunta la tanto ansiata pacificazione. All'uscire dall'Hotel fu accolto
+                dalla popolazione con urla di disapprovazioni e con fischi, e con qualche atto più
+                villano, poichè il popolo credette notare nel Cardinale una incoerenza troppo
+                manifesta e un cambiamento troppo repentino; però egli, sempre amabile anche nei
+                momenti di maggiore contrarietà, accolse con bonaria rassegnazione quelle voci di
+                ostilità, e di filato fu a casa per redigere insieme al sacerdote Jauner alcune
+                dichiarazioni sulla udienza avuta con Hitler. Appena redatte, le mandò all'autorità
+                civile, perchè le facesse pubblicare nei giornali austriaci, ma la pubblicazione non
+                venue, e il Cardinale fu di ciò assai contrariato. Quelle dichiarazioni però furono
+                dattilografate in diversi esemplari, e vennero distribuite in una riunione indetta
+                da alcuni sacerdoti nazional-socialisti, alla quale presero parte circa duecento
+                membri del clero sia secolare come regolare. Non tutti per altro erano di sentimenti
+                nazisti. Vostra Eminenza conosce il contenuto di quelle dichiarazioni divise in
+                diversi punti. In esse il Cardinale Innitzer si rallegrava del nuovo ordine di cose;
+                faceva un elogio entusiasta del Cancelliere del Reich, e delineava già una intesa
+                circa il punto delicatissimo riguardante la formazione ed organizzazione della
+                gioventù.</p>
+            <p style="includesPb">Fra gli intervenuti alla riunione sopra indicata vi era un parroco
+                di Vienna (di cui mi sfugge il nome) di origine olandese, il quale telefonò al Tijd
+                di Amsterdam le dichiarazioni in parola. Queste, come è noto a Vostra Eminenza,
+                furono riprodotte da molti altri giornali, ma erano ignorate in Austria, non
+                solamente perchè non furono, come ho detto, pubblicate dalla polizia, ma perchè
+                furono trattenuti per alcuni giorni i giornali esteri che le riportavano. Quando
+                potei conoscerle attraverso il giornale Le Temps e, meglio ancora, in uno degli
+                esemplari dattilografati e diffusi fra il clero, mi affrettai a domandare alcune
+                spiegazioni a Sua Eminenza il Cardinale Arcivescovo. Come ebbi l’onore di riferire,
+                questi si indignò contro la stampa estera; negò di avere fatto <note
+                    type="foliation">16</note>
+                <pb n="9"/> simili dichiarazioni e le attribuì al sacerdote Jauner, il quale avrebbe
+                abusato o almeno non avrebbe riprodotto con fedeltà il pensiero del Cardinale. Solo
+                allora, dinanzi ai comunicati fatti dalla stampa estera, Sua Eminenza si avvide di
+                avere corso troppo, e sconfessò quel testo che egli stesso aveva dato alla polizia
+                per la pubblicazione, mostrandosi allora contrariato, perchè questa non era
+                avvenuta.</p>
+            <head>La riunione dei Vescovi del giorno 18 marzo</head>
+            <p>Il Cardinale Innitzer credette opportuno riunire i Vescovi perstudiare insieme i
+                problemi che il nuovo stato di cose aveva creato. Proposito per certo degno di
+                encomio, se fosse stato realizzato senza alcun altro fine occulto. Lo scopo infatti
+                della riunione fu propriamente quello di indurre i Vescovi a sottoscrivere una
+                adesione al nuovo regime e un manifesto di propaganda plebiscitaria Sua Eminenza li
+                invitò a venire a Vienna per mezzo di un telegramma, sì che l'autorità civile, che
+                controllava il telegrafo, venne a conoscenza della cosa. Di fatto il Signor Bürckel
+                si reco immediatamente dal Cardinale per sapere i motivi della riunione. Quali siano
+                stati i termini di questo colloquio non so; ma è certo che il giorno prima della
+                riunione — 17 marzo — il Bürckel mandò al Cardinale un testo di dichiarazione,
+                perchè lo presentasse il giorno seguente ai Vescovi e lo facesse firmare.</p>
+            <p style="includesPb">Possedendo il Cardinale il testo in antecedenza, avrebbe avuto
+                una, buona occasione per mettere subito al corrente la Nunziatura e i due o tre
+                Vescovi, ehe già erano giunti a Vienna. Si sarebbe avuto così tempo e modo di
+                conoscere la portata del testo della dichiarazione presentato dal Bürckel, di
+                apportarvi le modificazioni necessarie e, sopra tutto, di stabilire una linea di
+                condotta. Il Cardinale invece tenne il segreto più assoluto con tutti. I Vescovi
+                furono, al giorno seguente, assai sorpresi, quando si avvidero del motivo vero per
+                cui erano stati chiamati, e quando ascoltarono i termini della dichiarazione da
+                firmare. La sorpresa fu ancora maggiore quando, al poco tempo di essere riuniti,
+                videro entrare nella sala il rappresentante del Signor Bürckel, certo Sig. Klaus
+                Selzner, il quale prese posto in mezzo a loro, esigendo le firme. Il Signor Selzner,
+                abile in simili manovre, si diede subito conto dello stato <note type="foliation"
+                    >17</note>
+                <pb n="10"/> di animo dei Vescovi, tutti depressi ed abbatuti. Egli fece balenare
+                loro da un lato la speranza, anzi la sicurezza completa che si sarebbe evitata in
+                Austria la guerra religiosa, se avessero sottoscritto quella dichiarazione; mentre
+                la persecuzione si sarebbe scatenata senz'altro e sarebbero stati instaurati senza
+                indugio (fu questo il grande spauracchio) processi contro il clero, come in
+                Germania, se i Vescovi avessero rifiutato di sottoscrivere. Sapendo inoltre che per
+                simili decisioni è necessario non lasciare molto tempo per riflettere, il Signor
+                Selzner disse loro che voleva la risposta seduta stante. È davvero cosa sorprendente
+                che nessuno fra i Vescovi si opponesse a simili pretese e domandasse almeno un
+                giorno o due di tempo prima di dare una risposta definitiva. Essi, preoccupati della
+                minaccia di guerra religiosa, desiderosi di salvare ciò che ancora si poteva
+                salvare, illusi dalle speranze e dalle parole di fiducia che il Sig. Selzner loro
+                dava, combinarono un altro testo di dichiarazione; credettero di salvare il proprio
+                prestigio parlando semplicemente dei benefici che il nazional-socialismo aveva
+                apportato al popolo e della lotta che aveva mosso al bolscevismo, e firmarono
+                senz’altro, assicurando nello stesso tempo il Signor Selzner che quelle
+                dichiarazioni sarebbero state pubblicate nelle cattedrali la domenica 20 marzo, e
+                nelle parrocchie la domenica seguente. Il Selzner, mostrandosi non molto soddisfatto
+                delle modificazioni che i Vescovi avevano apportato al testo primitivo del Bürckel,
+                disse che avrebbe fatto conoscere subito il documento a Berlino, sperando che
+                sarebbe stato approvato; e gelosamente lo portò con sè, sapendo assai bene di quale
+                importanza sarebbe stato per il plebiscito. Fu questo l’errore gravissimo, e
+                purtroppo senza rimedio, dell’Episcopato austriaco, l’avere cioè consegnato quella
+                dichiarazione e quelle firme all'autorità civile senza prendere consiglio o almeno
+                tempo. Come infatti riprendere dal Bürckel quel documento? I Vescovi ritornarono
+                quello stesso giorno alle loro diocesi, ad eccezione di Mons. Pawlikowski e di Mons.
+                Waitz, e nessuno di essi si presentò alla Nunziatura. Il Cardinale pure non si
+                preoccupò nè punto nè poco di farmi conoscere quanto era successo; e le notizie le
+                ebbi in una visita che espressamente feci nel pomeriggio di quel giorno a Mons.
+                Pawlikowski. Questi mi disse in succinto quanto era passato nella riunione e mi fece
+                leggere il testo <note type="foliation">18</note>
+                <pb n="11"/> della dichiarazione. Non so dire l’impressione provata; alla serie di
+                osservazioni che in tono alquanto concitato feci al suddetto Monsignore, questi mi
+                rispondeva : «Non vi era nulla a fare, siamo dei vinti, coacti fuimus». Corsi subito
+                dal Cardinale Arcivescovo per fargli rilevare la gravità della cosa e lo pregai di
+                fare sospendere assolutamente la pubblicazione di quelle dichiarazioni. Il Cardinale
+                cercava di convincermi che si trattava di un atto politico, e che era necessario
+                farlo per non perdere tutto. Ottenni tuttavia che si mettesse d'accordo col Bürckel
+                e coi Vescovi, perchè la pubblicazione non venisse fatta la domenica 20 marzo.</p>
+            <p>Potei così informare la Eminenza Vostra e ricevere la opportuna indicazione, perchè a
+                quelle dichiarazioni fosse apposta almeno la clausola «salvi i diritti di Dio e
+                della Chiesa. Ebbi subito nuove conversazioni con il Cardinale, il quale mi rispose
+                che non si poteva dubitare che un Vescovo non intendesse salvi i diritti di Dio e
+                della Chiesa; quindi con Mons. Waitz, che si mostrò meglio disposto a riprendere le
+                trattative con il Bürckel. Sperai adunque che egli e il Cardinale Arcivescovo
+                avrebbero riparato, almeno in parte, all'errore commesso; e che nel trattare con il
+                suddetto Signor Bürckel si sarebbero attenuti alle indicazioni date loro in diversi
+                successivi colloqui. Vennero anche redatti in proposito tre progetti, e raccomandai
+                vivamente al Cardinale e all'Arcivescovo che, se fossero esclusi, trovassero
+                assolutamente modo di inserire la riserva relativa ai diritti di Dio e della Chiesa.
+                Il Bürckel finse di accogliere, in un primo tempo, uno dei progetti, poi continuando
+                a giuocare di astuzia, ne presentò egli stesso uno suo proprio, lodò le buone
+                disposizioni dell’Episcopato, ritornò a parlare di concordia e di armonia, e
+                senz'altro ottenne la firma del Cardinale e di Mons. Waitz per il suo progetto. Era
+                quello in cui afferma che la politica del governo nazional-socialista si basa sulle
+                parole di Nostro Signore : «Date a Dio ciò che è di Dio e a Cesare ciò che è di
+                Cesare». A fine poi di evitare nuove questioni e nuovi interventi, il Bürckel prese
+                subito opportuno accordi perchè le due dichiarazioni — quella firmata da tutti i
+                Vescovi e la recente, firmata dal Cardinale e dall’ Arcivescovo di Salisburgo —
+                fossero mandate senza ritardo a tutti i parroci di Austria.</p>
+            <p>L'Eminenza Vostra ha potuto rilevare dal memoriale scritto</p>
+            <note type="foliation">19</note>
+            <pb n="12"/>
+            <p>Padre Provinciale; e per San Pölten (diocesi poco distante da Vienna) feci chiamare
+                il Cancelliere della Curia.</p>
+            <p>Già ho accennato sopra che l'attitudine dell'Episcopato fu per i fedeli di grande
+                pena, dirò anzi (poichè la parola è stata pronunziata da persone prudenti ed
+                autorevoli) di scandalo: di ammirazione poi per tutti fu la riproduzione fotografica
+                delle dichiarazioni dei Vescovi; e ai due documenti (uno firmato da tutti i Vescovi
+                e il secondo firmato dal Cardinale e dall’ Arcivescovo di Salisburgo) precedette un
+                terzo, una lettera del Cardinale Innitzer al Bürckel, con il saluto hitleriano
+                aggiunto di suo pugno. Furono quelle ore de grande angoscia e di grande
+                umiliazione!</p>
+            <p>I Vescovi cominciarono a darsi conto dell’errore comesso: Monsignor Waitz inviò una
+                lettera riservata al clero, riproducendo in gran parte quanto aveva già esposto a
+                Vostra Eminenza, il che però non fu opportuno; più tardi redasse una pastorale,
+                nella quale trattava appunto dei diritti di Dio e della Chiesa. Non potei conoscere
+                il testo, ma questo sarà inviato senza dubbio dalla Nunziatura di Berlino, Mons.
+                Memelauer, Vescovo di San Pölten, si scusó affermando che i Vescovi avevano agito
+                con buona volontà, e per amore di concordia; Mons. Vescovo di Linz mi chiese una
+                udienza per giustificarsi, adducendo che la causa di tutto fu la precipitazione con
+                cui il Cardinale Innitzer aveva condotto la riunione del 28 marzo; e mi aggiunse di
+                fare conoscere a Vostra Eminenza che egli riteneva necessario la rinunzia del
+                Cardinale Arcivescovo di Vienna.</p>
+            <p>Intanto a sostenere alquanto l'onore dell'Episcopato austriaco concorse L'Osservatore
+                Romano, facendo rilevare in due numeri la riserva che i Vescovi avevano aggiunto
+                alle dichiarazioni da essi firmate; venne in seguito la nota ufficiale, la quale
+                lasciava ai Vescovi austriaci la responsabilità dello loro attitudine, nota che feci
+                conoscere subito al Cardinale Innitzer. Speravo che questa nota, così grave nella
+                sua serenita, avrebbe finalmente consigliato il silenzio più assoluto, ma purtroppo,
+                ancora una volta, non fu così. Proprio il giorno dopo i giornali austriaci portavano
+                a grandi caratteri la lettera del Cardinale Innitzer, il quale, polemizzando</p>
+            <p>Il testo di tale lettera, indirizzata il 31 marzo 1938 dall'Em̃o Sig. Cardinale
+                lnnitzer al Gauleiter Brückel e pubblicata dai giornali tedeschi ed austriaci il
+                #</p>
+            <note type="foliation">21</note>
+        </body>
+    </text>
+</TEI>

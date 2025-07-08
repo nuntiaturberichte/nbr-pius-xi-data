@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><!-- Titel --></title>
+                <author>
+                    <persName><!-- Autor und DNB-Link --></persName>
+                </author>
+                <respStmt>
+                    <resp>TEI tempalte prepared by</resp>
+                    <persName ref="#martin.kroissenbrunner">Martin Kroissenbrunner</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>edited by</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>kollationieren</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <!-- msDesc@status -->
+                    <msIdentifier>
+                        <repository>AAEESS, Periodo IV, Austria Ungheria</repository>
+                        <idno type="archive">Pos. 918, Fasc. 75, Fol. 49r+v - 50r+v</idno>
+                        <idno type="institutional" subtype="internal"><!-- interne ID --></idno>
+                        <idno type="institutional" subtype="external"><!-- externe ID --></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <note type="keyword" resp="#bernhard.kronegger"
+                                ><!-- Schlagwort --></note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <layoutDesc>
+                                <ab>beidseitig beschrieben</ab>
+                            </layoutDesc>
+                        </objectDesc>
+                        <scriptDesc>
+                            <ab>maschinenschriftlich</ab>
+                        </scriptDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote>
+                    <p><!-- Autorenhand --></p>
+                </handNote>
+            </handNotes>
+            <abstract>
+                <p><!-- Regest --></p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspContext/>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <ab type="archive-nr">918-75-49</ab>
+            <note type="original-nr">No. 25.041.</note>
+            <opener><dateline><lb/>BERLINO W.35, 12 Ottobre 1938. <lb/>(Rauchstrasse,
+                21)</dateline></opener>
+            <note type="later-nr">15-X-38 Ringraziare</note>
+            <opener><lb/>A Sua Eminenza Reverendissima <lb/>Il Signor Cardinale EUGENIO PACELLI
+                <lb/>Segretario di S<edit>t</edit>ato di Sua Santit<edit>à</edit>
+                <lb/>CITT<edit>À</edit> DEL VATICANO.</opener>
+            <opener><salute><lb/>Eminenza Reverendissima,</salute></opener>
+            <p>Facendo seguito al mio rispettoso Cifrato N. 298, del giorno 10 corrente, mi faccio
+                premura di aggiungere quanto segue.</p>
+            <p style="includesPb">La coincidenza del mio arrivo a Vienna all'indomani mattina delle
+                scene vandaliche, che devastarono il Palazzo dell'Eminentissimo Signor Cardinale
+                Innitzer, fu affatto casuale. La mia andata aveva per iscopo solo di parlare circa
+                un eventuale aiuto da prestarsi dall'Emi- <note type="later-nr">3941/38</note>
+                <note type="foliation">49</note>
+                <pb n="2"/> nentissimo Ordinario di Vienna nella cura d'anime nelle parrocchie
+                sudete confinanti<edit>e</edit> mom<edit>e</edit>ntanea<edit>m</edit>ente sprovviste
+                di sacerdoti.</p>
+            <p>L'Eminentissimo Signor Cardinale Innitzer, al quale telefonai verso le ore 11, per
+                chiedere un'udienza per il pomeriggio, mi rispose che preferiva venire egli stesso
+                verso le 15 al Palazzo della Nunziatura Apostolica e cos<edit>ì</edit> ebbi da lui
+                le prime notizie circa quanto era avvenuto.</p>
+            <p style="includesPb">Nonostante che l'ingresso al Palazzo Arcivescovile fosse vigilato
+                da poliziotti, io ho espresso subito il desiderio di fargli egualmente una visita di
+                omaggio e cos<edit>ì</edit> prender visione dei danni. L'Eminentissimo Cardinale fu
+                molto riconoscente di questa mia proposta ed infatti verso le 16 vi andai e mi fu
+                accordato subito dai poliziotti di guardia l’ingresso al palazzo; più tardi vi
+                tornai ancora, perchè mi avevano fatto sperare di potermi mostrare anche le stanze
+                sigillate dalla polizia; ciò, che poi non fu accordato per ragioni di procedura
+                giudiziaria. L'Eminentissimo mi consegnè poi una sua lettera, pregandomi di farla
+                pervenire al Signor Cancelliere Hitler. Ieri mattina, martedì, mi recai al Ministero
+                degli Es<edit>t</edit>eri e consegnai al Sottose- <pb n="3"/> gretario di Stato
+                Signor Dottor Woermann, es<edit>s</edit>endo ass<edit>e</edit>nte il Signor Ministro
+                degli Esteri, la lettera dell'Eminentissimo Signor Cardinale Innitzer. Il Signor
+                Sottosegretario di Stato mi chiese, se la lettera dell'Eminentissimo, che era
+                suggellata, era stata scritta dopo i fatti incresciosi avvenuti sabbato sera.
+                Risposi affermativamente, assicurando che essa si riferiva a questi incidenti
+                deplorevoli, che erano di tale gravità, che solo chi era stato sul posto ed aveva
+                visto la devastazione, come avevo fatto io domenica stessa, poteva rendersene conto.
+                Il Signor Sotto<edit>s</edit>egretario di Stato mi disse: "Vostra Eccellenza
+                certamente sa che nessuno di noi approva queste devastazioni". - Io risposi: "Prendo
+                volentieri nota di tutto questo, ma ora è necessario non solo disapprovare
+                l’avvenuto, ma prendere le dovute precauzioni, perchè nulla di simile si ripeta;
+                dalla rigorosità di queste precauzioni io potrò ancor meglio misurare la serietà di
+                questa disapprovazione."</p>
+            <p>Finora non ho avuto da Vienna nessuna altra ulteriore notizia.</p>
+            <p style="includesPb">Mi valgo frattanto ben volontieri dell'occasione, per presentare i
+                sensi del mio profondissimo <note type="foliation">50</note>
+                <pb n="4"/> ossequio, mentre, chino al bacio della Sacra Porpora, ho l’alto onore di
+                professarmi</p>
+            <closer><lb/>di Vostra Eminenza Rev<edit>e</edit>rendissima <lb/>devmo - umilmo - obbmo
+                servo <lb/>+ Cesare Orsenigo <lb/>Arcivescovo di Tolomaide di L. <lb/>Nunzio
+                Apostolico</closer>
+            <note type="later-nr">Austria 9/8</note>
+        </body>
+    </text>
+</TEI>

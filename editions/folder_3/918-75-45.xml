@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><!-- Titel --></title>
+                <author>
+                    <persName><!-- Autor und DNB-Link --></persName>
+                </author>
+                <respStmt>
+                    <resp>TEI tempalte prepared by</resp>
+                    <persName ref="#martin.kroissenbrunner">Martin Kroissenbrunner</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>edited by</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>kollationieren</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <!-- msDesc@status -->
+                    <msIdentifier>
+                        <repository>AAEESS, Periodo IV, Austria Ungheria</repository>
+                        <idno type="archive">Pos. 918, Fasc. 75, Fol. 45r - 47r</idno>
+                        <idno type="institutional" subtype="internal"><!-- interne ID --></idno>
+                        <idno type="institutional" subtype="external"><!-- externe ID --></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <note type="keyword" resp="#bernhard.kronegger"
+                                ><!-- Schlagwort --></note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <layoutDesc>
+                                <ab>einseitig beschrieben</ab>
+                            </layoutDesc>
+                        </objectDesc>
+                        <scriptDesc>
+                            <ab>maschinenschriftlich</ab>
+                        </scriptDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote>
+                    <p><!-- Autorenhand --></p>
+                </handNote>
+            </handNotes>
+            <abstract>
+                <p><!-- Regest --></p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspContext/>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <ab type="archive-nr">918-75-45</ab>
+            <note type="original-nr">No. 298</note>
+            <opener><dateline><lb/>Telegramma da Berlino <lb/>Ricevuto il 11 ottombre
+                    1938</dateline></opener>
+            <opener><lb/>Asecretis Cittavaticano</opener>
+            <p style="includesPb">A Vienna venerdì sera sette corrente Cardinale Arcivescovo ha
+                adunato tutta la gioventù cattolica maschile e femminile nella Cattedrale;
+                intervennero circa seimila (?) per una funzione religiosa con relativo discorso
+                dall'Eminentissimo: tutto si è svolto in un'atmosfera di ordine e pur<edit>e</edit>
+                    reli<edit>g</edit>iosità. Uscita dal tempio la gioventù, come è costume,
+                improvvisò una dimostrazione di riconoscenza e adesione cattolica al Cardinale; ma
+                gruppo Hitlerjugend e di ..... tentarono disturbare la pacifica dimostrazione.
+                Chiamata la polizia, tutto fu facilmente sedato. La sera seguente, sabato, un gruppo
+                di giovani, circa 50, dai 14 ai 25 anni di età, si presentarono in piazza della
+                Cattedrale, emettendo grida ostili alla religione, poi riuscirono a sfondare, dopo
+                venti minuti di faticoso lavoro, la porta laterale dell'Episcopio. Vi entrarono come
+                forsennati <note type="later-nr">3933/38</note>
+                <note type="foliation">45</note>
+                <pb n="2"/> a ... fino alla cappella ed alla stanza dell'Em.mo fracassando vetri,
+                porte, statue artistiche, oggetti di..., orologi; quadri di valore artistico e
+                asportarono una croce pettorale con catena, due anelli nonchè calotte berretti e
+                cappello e abito dell'Em.mo; che pare abbiano bruciato pubblicamente fra grida
+                invereconde. I reverendi ..... costretto l'Em.mo per forza a mettersi in stanza più
+                sicura, consumarono le sacre specie; ma poi raggiunti furono malmenati. Si tentò
+                anche di defenestrarne uno, che fortunatamente seppe resistere. Penetrarono pure
+                nella vicina canonica della Cattedrale, e sorpreso quivi un sacerdote, lo gettarono
+                dalla finestra: il<edit>i</edit> poveretto ora giace all'ospedale gravemente ferito,
+                dicesi con frattura delle ga<edit>m</edit>be.</p>
+            <p style="includesPb">Io giunsi a Vienna domenica a mezzogiorno, feci subito visita
+                all'Em.mo per presentargli le mie condoglianze e per prendere visone sul posto dello
+                scempio operato .... solamente alcune stanze, certamente le più rovinate, non mi
+                furono mostrate; la polizia si ###### dicendo che "distruzioni erano <note
+                    type="foliation">46</note>
+                <pb n="3"/> tali che dovevano prima essere viste da una commissione" Le stanze
+                infatti erano sotto suggello della polizia.</p>
+            <p>E' da notare che la polizia, la quale il venerdì sera era accorsa in due ........
+                nonostante dodici chiamate, a differenti posti. Perciò (?) il ritardo per se
+                inesplicabile della polizia .... è malamente interpretato da molti, è
+                    op<edit>i</edit>nione <edit>co</edit>mune che le dimostrazioni di sabato siano
+                state organizzate da alcuni elementi bolscevichi, membri della Hitlerjugend. Tutto
+                ieri l'Episcopio fu vigilato da un f<edit>ll</edit>to drappello di polizia, e nella
+                piazza sostava in pe<edit>t</edit>manenza una folla di viennesi che commentava
+                penosamente i fatti vandalici della sera anteriore. Una distinta persona diceva: è
+                la nuova educazione.</p>
+            <p>Il Cardinale ha informato di tutto il Cancelliere e ha inviato anche segretamente un
+                    Rapporto<del rend="strikethrough">a</del>al viciniore Cardinale di Ungheria,
+                    affino<edit>g</edit>è lo spedisse a Ro<edit>m</edit>a.</p>
+            <closer><lb/>Io lasciai Vienna la #te##a sera.</closer>
+            <closer><signed><lb/>Orsenigo.</signed></closer>
+            <note type="foliation">47</note>
+        </body>
+    </text>
+</TEI>

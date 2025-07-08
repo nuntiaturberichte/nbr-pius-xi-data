@@ -1,0 +1,274 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><!-- Titel --></title>
+                <author>
+                    <persName><!-- Autor und DNB-Link --></persName>
+                </author>
+                <respStmt>
+                    <resp>TEI tempalte prepared by</resp>
+                    <persName ref="#martin.kroissenbrunner">Martin Kroissenbrunner</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>edited by</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>kollationieren</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <!-- msDesc@status -->
+                    <msIdentifier>
+                        <repository>AAEESS, Periodo IV, Austria Ungheria</repository>
+                        <idno type="archive">Pos. 915, Fasc. 72, Fol. 33r+v - 36r+v</idno>
+                        <idno type="institutional" subtype="internal"><!-- interne ID --></idno>
+                        <idno type="institutional" subtype="external"><!-- externe ID --></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <note type="keyword" resp="#bernhard.kronegger"
+                                ><!-- Schlagwort --></note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <layoutDesc>
+                                <ab>beidseitig beschrieben</ab>
+                            </layoutDesc>
+                        </objectDesc>
+                        <scriptDesc>
+                            <ab>handschriftlich</ab>
+                        </scriptDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote>
+                    <p><!-- Autorenhand --></p>
+                </handNote>
+            </handNotes>
+            <abstract>
+                <p><!-- Regest --></p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspContext/>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <ab type="archive-nr">915-72-33</ab>
+            <opener><salute><lb/>Benedicite.</salute></opener>
+            <opener><dateline><lb/>Seckau Styriae die 20. Maii 1938</dateline></opener>
+            <opener><salute><lb/>Eminentia Vestra.</salute></opener>
+            <p>Ante omnia ut nobis ignoscat petimus qui hoc modo adeamus Eminentiam Vestram quam
+                potius s. Congregationem Regularium, optime enim novimus rem nostram tunc ad abbatem
+                primatem dirigi qui si quid aliquem abbatem male tangat, causam supprimit aut
+                debilitat. Si dico, nobis, id dico quia plures monache abbatiae nostrae idem atque
+                ego sentiunt.</p>
+            <p>Status autem quaestionis hic est. Diebus 14.-18 h. m. visitatio canonica apud nos
+                facta est a duobus abbatibus Raphaele praesède, Ildefouse assistente. Quae visitatio
+                prius quam intenta erat, habita est, quia ego subscriptus Fr. Bernardus litteris
+                praeséidem adii. Hae littera iustio ad Eminentiam Vestram directae erant, cum tamen
+                ultimo indicarem praestare antea nostros secundum constitutiones nostras visitatores
+                adire. Id nunc admodum dolec.</p>
+            <p>Recessus quem dicunt in fine visitationis scriptus legitur coram conventu atque
+                oretenus explicatur. Die 18. h. m. mane praeses hoc fecit. Omnia dicta mihi
+                stenographice notavi. Inter alia legit. Accusationes factus reicimus. Oretenus,
+                Quaedam accusationes non erant bene fundatae, ex levitate animi prodierunt. Postea
+                s. Tideles estote abbati. vestro, magnum in eo habetis exemplar?</p>
+            <note type="later-nr">1827/38</note>
+            <note type="foliation">33</note>
+            <pb n="2"/>
+            <p>Haec verba post tot graves incriminationes fundatas dicta non sunt nisi falsa
+                erroremque generant in iis qui foris sunt Ideo rogamus Eminentiam Vestra ut sibi
+                acta visitationis, non solum recessum transmitti iubeat. Praeses noster verodem
+                semel, año 1918/9, acta visitationis abbatiae Emantinae suppressit, ne abbas Albanus
+                deponeretur, qui depositus est, cum R. P. Josephus Romam profectus rem explicaverit
+                s. Congregationi Regularium. Si ergo acta deficiunt, parati sumus denuo facta dare.
+                Multo melius esset, ut aliquando alii quam statuti nostri visitatores nostra
+                monasteria visitarent, omnes sub iuxamenta ad vera dicenda obligarentur fratresque
+                laici et ipsi audirentur.</p>
+            <p>Ego ipse vocatus cum coram visitatoribus duobus consisterem die 15. h. m. hora 16<hi
+                    style="vertical-align: superscript;">3/4</hi>, praeside omnino tarito, abbas
+                Ildefonsus dixit se prorsus indignatum fuisse de ius litteris, quas ad Eminentiam
+                Vestram destinaverum, Scire deberem, me non posse sequi conscientiam meam sed solum
+                conscientia communitatis regulari debere (quam infinities, spiritum familiarem
+                praedicant nostri superiores.) Votum stabilitatis me ad hoc cogere. Me esse
+                individualistam atque jesuitas quemoduodum ego egerim agere posse, non vero
+                Benedictinos.</p>
+            <p style="includesPb">Quaterius res pateat, explico ansam illius nostri colloguii.
+                Quando die 10. Aprilis suffragia de annesione Austriae ad rempublicam Germanicam
+                danda erant, abbas noster summa vi morali nobis illata exegit, ut <pb n="3"/> in
+                catechesibus instrumitar quomodo se gerant. Alia est societas domestica, de qua idem
+                valet, idemque de republica. Numquam semper quemque licet sequi conscientiam
+                communitatis. Pessimus imo est error recentiorum civitatum quae volunt esse fontes
+                unicos iurium. Ecclesia hunc errorem semper refutavit</p>
+            <p style="includesPb">Axioma nos sequi debere in omnibus conscientiam communitatis usque
+                ad violationem iurium Dei eiusque Ecclesiae provocat, quin loquare de pessima morum
+                perversione quam generat. Etiam in nostris monasteriis sacrilegiis portam aperit
+                celebratur missa ab iis qui ientaculum sumpserunt, quam quam nulla necessitas adest.
+                Sicfit in abbatia B. Mariae ad lacum, ubi abbas Ildefonsus confessus est se suis
+                monactis non ieminis imperare ut celebrent quando inquinate plebs advenit die festo,
+                quae missam nondum audivit. Abbas noster die Animarum fidelium, qui non erat dies de
+                praecepto, post ientaculum celebravit Requiem Pontificale Abbas Ildefonsus in
+                visitatione dixi, se idem facturum fuisse in eodem casu. Apud nos año 1936 abbas in
+                prima missa Nativitatis Domini purificationem sumpsit, aliasque duas missas dixit,
+                cum eum nec R. P. prior neque alli qui rem viderant adomerent. Omnes qui easres
+                audierunt vehementer scandalizati sunt, cum multi alii sacerdotes parati essent
+                missam cantatam celebrare. En tropissimus liturgismus, missa pontificalis praevalet
+                legi <note type="foliation">34</note>
+                <pb n="4"/> ecclesiasticae. Aperte peccatur contra can. 858 c. et 2475, atque poena
+                contrahitur can. 2321. Ignorantia in hac re non excusat, nosse debent et sententias
+                theologiae moralis in ea materia v. gr. Arrequi. Quis vero audeat eiusmodi
+                communitatis conscientiam suam facere? Multi in nostris monasteriis id faciunt.
+                Phui!!! Duplex admittitur lex moralialia Benedictinorum, alia aliorum ordinum! In
+                rebus liturgicis vario modo obviant nostri superiores praescriptis Ecclesiae. Colunt
+                id quod Summus Pontifex noster haeresim recentissimam nominasse fertur, litur
+                gismum, cui in praesentiarum apud nos altera haeresis invicta est, nationalismus.
+                Eucharistiam fere semper in ora est, quomodo possunt eam ita criminose laedere?</p>
+            <p>Est ergo potius quidam "sport" liturgicus quam ex corde factus cultus Dei. Quivis
+                monachus qui secus quam hi liturgistae et asseclae conscientiae communitatis
+                sentiunt, quia conscientiam formant ex doctrina Ecclesiae et iure canonico, ab iis
+                pessimi vocantur monachi, quibus deest spiritus familiaris.</p>
+            <p style="includesPb">Mihi quidem regula morum non est nisi Revelatio divina et doctrina
+                Ecclesiae. Quando Summus Pontifex locutus est id pluris mihi valet omnibus abbatibus
+                et episcopis. Sic et declarationem constitutionum nostrarum I. ad c. 19. s. Regulae,
+                sequor, <pb n="5"/> quae docet: "Romani Pontifici fratres filiali prorsus amore
+                atque summa reverentia coniuncti usque ad mortem inserviant, ita ut eius eloquia,
+                desideria, studia, prosperitates in visceribus gerant.” Hoc est sentire cum
+                Ecclesia. Nolo revelare quomodo quidam patres nostri contra hunc spiritum
+                peccaverunt in visitatione revelavi.</p>
+            <p>Die 16. Mai petii a visitatoribus, ut scriptis mihi confirmarent, quae mihi dixerant
+                Negaverunt.</p>
+            <p>His meis litteris adicio paginam impressam, quam abbas noster discipulis licei nostri
+                domos misit, ubi expresse dicit, iuventutem Hitlerianam aeque ac scholam nostram
+                educere. En nova deceptio pessima parentum. Nonne Summus Pontifex clarissime eam
+                inventatem ut abominabilem reiecit? Debeo de hac re tacere propter spiritum
+                familiarem? R. P. Adalbertus, abbas depositus, qui apud nos degit, invenes nostrae
+                parochiae inventuti Hitlerianae adiunxit eisque traditur explicare Hitleri opus „Mea
+                Lueta“. Nos qui aliter sentimus, sumus mali monachi!</p>
+            <p style="includesPb">In recessu praeses dixit &amp; fugit lucem, qui male egit“. Cur
+                autem superiores nostri nolunt nos appellare ad auctoritates maiores. Est monachus
+                noster quidam, qui litteras habet et prioris et abbatis nostri quibus eum prohibent
+                adire aut praesidem aut Summum Ponti fixem. Fugiuntne lucem? Et ab hominibus
+                eiusmodi <note type="foliation">35</note>
+                <pb n="6"/> Die 31 Maii 1938 Nunniatur et transmittantur ad Roman Visitatoremn Ap.
+                Winctzer regulam debeo sumere conscientiae? Quod Deus bene vertat. Quaelibet fiducia
+                in tales superiores opus est cesset. Talis abbas nobis est "magnum exemplar". Omnia
+                mala nostrae congregationis fere fluunt ex illo axiomate exageratae potestatis
+                abbatum. Ubinam gentium est alia congregatio Benedictina in qua infra ultimos
+                viginti annos tot abbates depositi aut accusati sunt? Altera causa pernicici est
+                ille perversus modus vissitationum, cuius specimen est ultima nostra visitatio.</p>
+            <p>Ideo humillime enixeque Eminentium Vestra, peti- mus ut tandem aliquando ab hoc, quem
+                piuvi &amp; spiritu. facciliari, <add place="above">liberemur</add> ut abbas
+                Ildefonsus publice suos errores revocet, ut visitatoribus auctoritative ostendatur,
+                quomodo agere debeant. Indigemus his difficillimus temporibus monachis qui pleni
+                sint spiritu ss. Patris nostri Benedicti, qui libertatem conscientiarum in suas.
+                Regula satis innuit. Sic efficiuntur veri Dei viri qui Ecclesiae colamnae sint et
+                proximis.</p>
+            <p>Rogamus simul ut Emenentia Vestra et pro nostro monasterio et pro nostro agroto in
+                spiritu abbate oret, ut semenun tum in capite tum in membris.</p>
+            <closer><salute><lb/>Annulum sacrum exosculaus sum <lb/>Eminentiae Vestrae
+                    <lb/>devotissimus obedientissimusque servus</salute></closer>
+            <closer><signed><lb/>fr. Bernardus Herlk O.S.B. <lb/>Seccovii in
+                Styria.</signed></closer>
+            <note type="later-nr">Austria 916</note>
+            <pb n="7"/>
+            <p>omnes habitantes nostrum monasterium positiva vota ferrent. Texto in capitulo lecto,
+                quem S. Em. Card. Innitzer in Osservatore Romano bis pubblicaverat (6. IV.
+                germanice, 7. IV italice) quoque solemniter libertatem conscientiarum proclamaverat
+                abbas noster: „Nos nihilominus, inquit, omnes positiva suffragia dabimus. Ego aperte
+                votum dabo speroque vos omnes idem facturos esse.” Suffragiis expletis 7 ex nostris
+                negativa tulerant, de quibus abbas duobus fratribus laicis, postero die in
+                recreatione publice phui "effectiit, eiusmodi homines non debere habere locum in
+                communitate.” En pessima violatio conscientiarum, omnes enim norunt occupationem
+                Austriae iniustam fuisse, etsi eam abbas noster "legalem" appellat inque sermone suo
+                paschali coram fideli populo sine ullo respectu habito ad praesentes aliter
+                sentientes laudavit opusque Dei esse assereret. Peccata nunquam sunt Dei opera. Qui
+                post longum tempus revocavit, quamvis non libenter. Textus schedulae volationis is
+                erat ut Hitler eiusque asseclarum numero consentiremus. Nunquam hoc facere potui,
+                postquam Summus Pontifex noster sua nota Encyclica modum agendi gubernii Germanici
+                condemnavit. Die quodam postea frater laicus quidam coram abbate ad hanc encyclicam
+                appellavit, cui abbas respondit esse encyclicas quae continent haeresias. Sie mal
+                facta malo modo defendit conscientiasque in errorem inducit. Nun ita agit minister
+                Christi?</p>
+            <note type="foliation">36</note>
+            <pb n="8"/>
+            <p>Adversus id genus violentias deceptionesque litteris adieram Eminentiam Vestram
+                petens ut nobis auxilio veniret. Et de his litteris abbas Ildefonsus indignatus est.
+                Cum ego ei opposuissem, multas communitates perverse egisse imo et a fide defecisse,
+                defendit modum agendi abbatis nostri aperte vota dare nos cogentis. Ego eum
+                proditorem suorum subditorem vocavi, ille autem recte eum fecisse dixit ut monachi
+                viderent se non posse negativa vota dare. Deinde respondi eius mentem inedequaque
+                repugnare iis quae Summus Pontifex in sua encyclica contra Bolschevismum docuerat,
+                ille. Summus Pontifex nequiter <add place="above">aliter</add> atque ego
+                sentire?</p>
+            <p>Admiratus quaesivi, Ad quid iam visitationes. Cur codex permittet causam agere contra
+                abbatem aut communitatem. Ille semper institit, me individualiter, ergo non ut
+                Benedictinum egisse, contra bonum etiam temporale abbatiae meae invectum esse. Quid
+                ad hoc dicendum? Nonne illud, quod falso jesuitis imponitur "finem sanctificare
+                media" hic applicatur. Ego existimo me se recta conscientia utar, melius providere
+                bono domus. Et si Deus secus decreverit, potius exempla Eleazari Maccabaeorumque
+                sequenda esse multiorumque aliorum.</p>
+            <p>Equidem nunc quaero: Quo ille sentiendi modus, sequendam esse conscientiam
+                communitatis necesse est ducat? Videamus varias societates quarum prima est familia.
+                Infantes iam</p>
+        </body>
+    </text>
+</TEI>

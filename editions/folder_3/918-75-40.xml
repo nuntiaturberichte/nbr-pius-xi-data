@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><!-- Titel --></title>
+                <author>
+                    <persName><!-- Autor und DNB-Link --></persName>
+                </author>
+                <respStmt>
+                    <resp>TEI tempalte prepared by</resp>
+                    <persName ref="#martin.kroissenbrunner">Martin Kroissenbrunner</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>edited by</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>kollationieren</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <!-- msDesc@status -->
+                    <msIdentifier>
+                        <repository>AAEESS, Periodo IV, Austria Ungheria</repository>
+                        <idno type="archive">Pos. 918, Fasc. 75, Fol. 40r+v - 41r</idno>
+                        <idno type="institutional" subtype="internal"><!-- interne ID --></idno>
+                        <idno type="institutional" subtype="external"><!-- externe ID --></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <note type="keyword" resp="#bernhard.kronegger"
+                                ><!-- Schlagwort --></note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <layoutDesc>
+                                <ab>beidseitig beschrieben</ab>
+                            </layoutDesc>
+                        </objectDesc>
+                        <scriptDesc>
+                            <ab>maschinenschriftlich</ab>
+                        </scriptDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote>
+                    <p><!-- Autorenhand --></p>
+                </handNote>
+            </handNotes>
+            <abstract>
+                <p><!-- Regest --></p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspContext/>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <ab type="archive-nr">918-75-40</ab>
+            <note type="later-nr">3940/...</note>
+            <opener><lb/>Nunziatura Apostolica di Ungheria.</opener>
+            <opener><lb/>Allegato al N. 1661/38 <lb/>Rapporto del 10 Ottobre 1938.</opener>
+            <p>Sua Eminenza il Cardinale INNITZER fece pervenire a me il seguente rapporto
+                telefonico:</p>
+            <p>La sera de<edit>l</edit> giorno 7 Ottobre nella cattedrale di S. Stefano di Vienna in
+                Austria ebbe luogo una radunanza della gioventù cattolica. Tra gli altri parlò anche
+                il Cardinale e con parole vi- branti incoraggiò la gioventù a star saldi nella fede.
+                Quando questi giovani uscirono dalla chiesa (erano 6000 incirca), fe- cero una
+                dimostrazione in pro del Cardinale e cantarono l'Inno dell'Associazione del S. Cuore
+                di Gesù. Tale dimostrazione spon- tanea venne disturbata con fischi e cori
+                declamatori dalla Hitler Jugend e da distaccamenti S. H.: "La nostra fede è la
+                Germania! Abbasso Innitzer!" La Gioventù cattolica già da un pezzo si era ritirata
+                dalla piazza, quando i membri dei distaccamenti S. H. cominciarono a battere al
+                portone del palazzo del Cardinale e chiesero che il Cardinale Innitzer venisse
+                trasportato al campo di concentramento. In quel giorno (venerdì) dietro preghiera
+                del Se- gretariato Arcivescovile la polizia difese il palazzo, e verso le 11 di
+                notte i dimostranti con delle minaccie si allontanarono dalla piazza.</p>
+            <p style="includesPb">Il giorno seguente alle ore 8¼ di sera gli abitanti del palazzo
+                sentirono degli strilli e cori clamorosi dalla direzione della piazza. Poi su
+                ambedue le fronti del palazzo furono con dei sasi rotte tutte le finestre del
+                medesimo. Il Cardinale diede ordine al suo Segretario di chiedere subito
+                l’intervento della polizia. Tale richiesta fu fatta ripetutamente, perchè si temeva
+                che dalla parte della piazza di S. Stefano fosse sfondato e la folla invade- <note
+                    type="later-nr">3940/38</note>
+                <note type="foliation">40</note>
+                <pb n="2"/> rebbe il palazzo. Al portone si bussava continuamente. Nel frattempo
+                alcuni diversi centri della polizia chiamati dal Segretario arcivescovile,
+                telefonicamente l’assicurarono che le misure necessarie sarebbero state prese.
+                Passato un quarto d'ora, il pesante portone fu rotto e la folla strillante penetrò
+                nel palazzo. Innanzi tutto distrussero e ruppero tutto ciò che si trovava nel
+                cortile; di poi salirono sui gradini con pali pesanti e distrussero tutto. I due
+                segretari anzitutto condussero il Cardinale in luogo sicuro, poi cercarono di
+                difendere e salvare la cappella domestica dalla furia della folla e sopratutto
+                vollero impedire qualunque profanazione del SSmo Sacramento. Durante questa azione
+                di difesa un segretario ricevette un colpo fortissimo e cadde subito sul pavimento.
+                Allora la folla gettò per terra una statua che si spezzò nella cappella e continuò
+                la sua opera distruggitrice. Tutto il mobilio del palazzo fu distrutto. Lo studio
+                del Cardinale è in piena devastazione. I cassetti della scrivania aperti e rotti, il
+                Crocifisso spezzato. Dappertutto cornici rotte, finestre e mobilio devastati. La
+                berretta, la croce pettorale e l’anello del Cardinale caddero in preda degli
+                invasori. Intanto un Segretario riuscì a consumare subito il Santissimo Sacramento.
+                Il Ceremoniere andando in cerca del Cardinale fu battuto con <add place="above">ad
+                    una finestra</add> un candeliere. Il I. Segretario dalla cappella fu
+                tracsinato/e, se non intervenivano degli uomini meno crudeli, sarebbe stato buttato
+                giù nella piazzi. Il medesimo poi ritornò nella cappella per proteggerla. Un
+                giovinastro gli gridò: "E che! sotto il Cancelliere Schuschnigg stavate meglio?" Poi
+                da tutte le parti si sentivano degli strilli: "Dietro! La polizia si avvicina! I
+                dimostranti non furono molestati dalla polizia. Soltanto una persona fu arrestata.
+                Nel salone del Cardinale un orologio che a cagione delle battute si fermo <pb n="3"
+                /> segnava le ore 21 e 5 minuti. Da ciò si può determinare che dal momento in cui fu
+                per la prima volta chiamata la poli<edit>z</edit>ia fino all'arrivo della medesima
+                passarono ben 40 minuti. La persona del Cardinale (perché condotto in luogo sicuro)
+                non subì alcun maltrattamento. La casa parrocchiale della Cattedrale venne demolita;
+                il cappellano Kravarik fu buttato giù dalla finestra ed ebbe gravissime ferite. La
+                folla rubò le vesti di porpora del Cardinale e le bruciò sulla piazza S. Stefano. Al
+                Cardinale non fu lasciato nemmeno un cappello. Quando la folla si ritirò dal
+                palazzo, si cantò l’inno "Deutschland über alles”, e dagli abitanti del palazzo si
+                domandò una dichiarazione scritta che a nessuno racconterebbero l'accaduto. Sui
+                giornali nemmeno una parola venne pubblicata a questo riguardo.</p>
+            <p>?</p>
+            <note type="foliation">41</note>
+        </body>
+    </text>
+</TEI>

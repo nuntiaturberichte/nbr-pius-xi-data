@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><!-- Titel --></title>
+                <author>
+                    <persName><!-- Autor und DNB-Link --></persName>
+                </author>
+                <respStmt>
+                    <resp>TEI tempalte prepared by</resp>
+                    <persName ref="#martin.kroissenbrunner">Martin Kroissenbrunner</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>edited by</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>kollationieren</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <!-- msDesc@status -->
+                    <msIdentifier>
+                        <repository>AAEESS, Periodo IV, Austria Ungheria</repository>
+                        <idno type="archive">Pos. 900, Fasc. 61, Fol. 64r - 66r</idno>
+                        <idno type="institutional" subtype="internal"><!-- interne ID --></idno>
+                        <idno type="institutional" subtype="external"><!-- externe ID --></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <note type="keyword" resp="#bernhard.kronegger"
+                                ><!-- Schlagwort --></note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <layoutDesc>
+                                <ab>einseitig beschrieben</ab>
+                            </layoutDesc>
+                        </objectDesc>
+                        <scriptDesc>
+                            <ab>maschinenschriftlich</ab>
+                        </scriptDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote>
+                    <p><!-- Autorenhand --></p>
+                </handNote>
+            </handNotes>
+            <abstract>
+                <p><!-- Regest --></p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspContext/>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <ab type="archive-nr">900-61-64</ab>
+            <opener><dateline><lb/>DAL VATICANO, <del rend="strikethrough">#</del> <add
+                        place="above">11</add> Febbraio <lb/>1937</dateline></opener>
+            <opener><lb/>A Sua Eccellenza Rev.ma <lb/>MONSIGNOR GAETANO CICOGNANI <lb/>Nunzio
+                Apostolico <lb/>VIENNA</opener>
+            <note type="original-nr">No. 452/37 DA CITARSI NELLA RISPOSTA</note>
+            <opener><salute><lb/>Eccellenza Reverendissima,</salute></opener>
+            <p>Con i relativi Allegati mi è regolarmente pervenuto l'importante Rapporto di Vostra
+                Eccellenza Rev.ma N. 163/13 in data del 28 Gennaio u.s. riguardante alcune notizie
+                politiche dell 'Austria.</p>
+            <p><add place="above">vedi altro foglio</add> Nel ringraziare Vostra Eccellenza Rev.ma
+                della diligenza con la quale mi tiene informato, profitto volentieri dell'incontro
+                per raffermarmi con sensi di distinta e sincera stima</p>
+            <closer><salute><lb/>di Vostra Eccellenza Rev.ma <lb/>Servitore</salute></closer>
+            <note type="later-nr"><edit>452</edit>/37</note>
+            <note type="foliation">64</note>
+            <pb n="2"/>
+            <p>Data la gravità della situazione prospettata anche <add place="above">nel
+                    Rapporto</add> d<edit>a</edit> Vostra Eccellenza<edit>,</edit>
+                <add place="above">e</add> confermata da<del rend="strikethrough">lle</del> notizie
+                    <del rend="strikethrough">che</del> giun<edit>t</edit>e <del
+                    rend="strikethrough">gono</del> alla Santa Sede da buon<edit>e</edit>
+                    font<edit>e</edit>, a riguardo della non piena comprensione che si ha in Austria
+                del pericolo della <edit>d</edit>iffusione delle idee
+                nazionalsocialis<edit>t</edit>i, il Santo Padre desidera <del rend="strikethrough"
+                    >vivamente</del> che Vostra Eccellenza richiami su tale pericolo l'attenzione di
+                chi di dovere <add place="above">ed Ella stessa</add>
+                <del rend="strikethrough">e</del> vigili attentamente <del rend="strikethrough"
+                    >questa propaganda</del> affine di non trovarsi di fronte a dolorose <del
+                    rend="strikethrough">e irreparabili</del> sorprese.</p>
+            <add place="margin-left">Cifra</add>
+            <note type="foliation">65</note>
+            <pb n="3"/>
+            <note type="original-nr">452/37</note>
+            <opener><lb/>A S. E. R. <lb/>Mons. Gaetano Cicognani <lb/>Nurizio Apostolico
+                <lb/>Vienna.</opener>
+            <p>Con, relativi Allegati me è regolar- mente pervenuto l’importante Rapprorto.</p>
+            <p>di V. E. R. N. 163/13 in data del 28 Gennaio u. s. riguardante <del
+                    rend="strikethrough">alcune</del>
+                <add place="above">alcune</add> notizie politiche dell’ Austria.</p>
+            <p>Nel ringraziare V. E. R. della diligenza con la quale mi tiene informato profitt.</p>
+            <note type="later-nr"><del rend="strikethrough">452</del> 499/37</note>
+            <note type="foliation">66</note>
+        </body>
+    </text>
+</TEI>

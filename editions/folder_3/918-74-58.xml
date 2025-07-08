@@ -1,0 +1,274 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><!-- Titel --></title>
+                <author>
+                    <persName><!-- Autor und DNB-Link --></persName>
+                </author>
+                <respStmt>
+                    <resp>TEI tempalte prepared by</resp>
+                    <persName ref="#martin.kroissenbrunner">Martin Kroissenbrunner</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>edited by</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>kollationieren</resp>
+                    <persName ref="#bernhard.kronegger">Bernhard Kronegger</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2025">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                        <p>Sie dürfen: Teilen – das Material in jedwedem Format oder Medium
+                            vervielfältigen und weiterverbreiten Bearbeiten – das Material remixen,
+                            verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                            kommerziell.</p>
+                        <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                        <p>Namensnennung – Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
+                            wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+                            werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+                            unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
+                            Einschränkungen – Sie dürfen keine zusätzlichen Klauseln oder technische
+                            Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
+                            die Lizenz erlaubt.</p>
+                        <p>Hinweise:</p>
+                        <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
+                            durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
+                            keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                            verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                            jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                            Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
+                            Nutzung des Materials entsprechend beschränken.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <!-- msDesc@status -->
+                    <msIdentifier>
+                        <repository>AAEESS, Periodo IV, Austria Ungheria</repository>
+                        <idno type="archive">Pos. 918, Fasc. 74, Fol. 58r - 63r</idno>
+                        <idno type="institutional" subtype="internal"><!-- interne ID --></idno>
+                        <idno type="institutional" subtype="external"><!-- externe ID --></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <note type="keyword" resp="#bernhard.kronegger"
+                                ><!-- Schlagwort --></note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <layoutDesc>
+                                <ab>einseitig beschrieben</ab>
+                            </layoutDesc>
+                        </objectDesc>
+                        <scriptDesc>
+                            <ab>maschinenschriftlich</ab>
+                        </scriptDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote>
+                    <p><!-- Autorenhand --></p>
+                </handNote>
+            </handNotes>
+            <abstract>
+                <p><!-- Regest --></p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName><!-- Name + @ref --></persName>
+                    <date><!-- Datum + @when --></date>
+                    <placeName><!-- Ort --></placeName>
+                </correspAction>
+                <correspContext/>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <ab type="archive-nr">918-74-58</ab>
+            <ab type="text@type">BERICHT</ab>
+            <add place="margin-top">Sulla situazione religiosa in Austria</add>
+            <opener><dateline><lb/>September 1938</dateline></opener>
+            <p>Die Stellung der N.S. zu den religiösen Verhältnissen in Oesterreich wird immer
+                klarer und eindeutiger. Charakteristisch für ihr Vorgehen in Oesterreich ist eine
+                unverkennbare Raschheit und Radikalität. In Oesterreich haben sie in 6 Monaten viel
+                mehr durchgeführt als im Altreich seit der Machtübernahme</p>
+            <p>Einflussreiche Persönlichkeiten der Bewegung sagen es auch offen, dass sie ihre
+                Grundsätze in Oesterreich voll und ganz durchzuführen versuchen; und dies wird
+                gelingen, weil es in Oesterreich keinen Widerstand gibt. Ein hoher Beamter im Wiener
+                Landesschulrat hat ausdrücklich gesagt in Oesterreich wolle man das Ideal der
+                nationalsozialistischen Erziehung verwirklichen und von hier aus auf das Altreich
+                übertragen. Wie weit dies schon gelungen ist, sollen die folgenden Ausführungen
+                zeigen. Nach allem wird man bereits heute sagen können, dass wohl in ½ Jahr die
+                Kirche Oesterreichs so gut wie erledigt sein wird; es sickert auch immer wieder
+                durch, dass man gerade das <edit>d</edit>em Führer <add place="above">als
+                    Geschenk</add> zu seinem 50. Geburtstag darbieten will. Die Taktik des Vorgehens
+                ist die, dass die Partei versucht die Bischöfe hinzuhalten und eventuell auf gewisse
+                Scheinvereinbarungen hin zu täuschen und unterdessen die Orden zu vernichten; sind
+                diese vernichtet, dann wird es ihnen leichter fallen auch die Bischöfe entscheidend
+                zu schlagen.</p>
+            <p>Im Einzelnen:</p>
+            <head><hi rend="underline">1.) Die Mittel- und niedere<edit>n</edit>
+                Schulen.</hi></head>
+            <p style="includesPb">Um den 20. Juli herum wurde allen geistlichen Schulen Oesterreichs
+                das Oeffentlichkeitsrecht entzogen, auch den Knabenseminarien; ausserdem wurde auch
+                noch das Verbot Aufnahmen in die 1. Klasse zu vollziehen, herausgegeben. Erzbischof
+                Waitz gegenüber wurde von den Behörden gesagt das sei nur eine Folge der notwendigen
+                Angleichung an die Schulverhältnisse des Altreiches; <note type="later-nr"
+                    >3677/38</note>
+                <note type="foliation">58</note>
+                <pb n="2"/> in Wirklichkeit war das eine Täuschung, weil im Altreich ma<add
+                    place="above">n</add>che geistliche Anstalten noch das Oeffentlichkeitsrecht
+                besitzen; ausserdem wurde den Bischöfen gesagt, sie könnten für ihre
+                Knabenseminarien um die Oeffentlichkeit wieder ersuchen und diese Gesuche würden
+                wohlwollend behandelt. Tatsächlich wurden diese Gesuche aber abgeschlagen. Das
+                Knabenseminar des Bischofs von Linz ist zur Gänze vom Militär beschlagnahmt; das
+                Knabenseminar des Erzbischofs von Salzburg ist von Amtsbe<sic>n</sic>örden zum
+                grösseren Teil besetzt. Dass die N.S. hier nur einen Versuch machen, beweist der
+                Umstand, dass sie den Erlass erst ein Monat später in den Zeitungen veröffentlichen
+                liessen. Die geistlichen Schulen wollten nun versuchen als Privatschulen weiter zu
+                arbeiten; aber auch das wurde ihnen wenigstens zum Teil erschwert. Von Kalksburg
+                (Gymnasium der Gesellschaft Jesu) wurden die Adressen der Eltern der Zöglinge
+                verlangt und an diese von der Schulbehörde ein Rundschreiben gerichtet, in dem sie
+                aufgefordert werden, ihrer Pflicht als Deutsche nachzukommen und ihre Kinder in die
+                Staatsschulen zu schicken; Staatsbeamten und Parteileuten wurde verboten ihre Kinder
+                in geistliche Schulen zu schicken. Aber das genügte <add place="above">den
+                    N.S.</add> nicht; scheinbar fürchteten sie doch noch die Macht der geistlichen
+                Schulen. Am Freitag den 2. September wurde in den Zeitungen ein Entscheid
+                veröffentlicht, durch den die privaten Schulen überhaupt verboten worden sind. Auch
+                die geistlichen Konvikte müssen in der Zukunft verschwinden. In den Zeitungen
+                    (Beila<edit>g</edit>e 1) werden die Eltern aufgefordert, die Kinder, die in
+                Schülerheimen und <sic>Kovikten</sic> untergebracht waren, bei den N.S.
+                Erziehungsstellen zu melden; auch solche Eltern, die ihre Kinder bereits für das
+                Schuljahr 1938-39 für geistliche Heime angemeldet haben, sind verpflichtet diese bei
+                den Erziehungsstellen zu melden. In diesem Aufruf wird bekannt gegeben, dass
+                Schülerheime von den Parteistellen in ausreichendem Masse überall vorhanden sein
+                werden. Wie verlautet, sind auch schon geistliche Konvikte beschlagnahmt worden.</p>
+            <note type="foliation">59</note>
+            <pb n="3"/>
+            <head>2.) <hi rend="underline">Die theologische Fakultät von Innsbruck</hi>.</head>
+            <p>Mit Erlass vom 20. Juli wurde die theologische Fakultät am 22. Juli aufgelöst.
+                Erzbischof Waitz verhandelte mit der Partei um eine Wiedererrichtung zu erwirken; es
+                wurden ihm vo<edit>m</edit> Gauleiter Bürkl gewisse Zugeständnisse in Aussicht
+                gestellt; während dieser Verhandlungen hat jedoch der Staatskommi<edit>ss</edit>är
+                für Unterricht, Plattner, an das Provinzialat der Gesellschaft Jesu die Mitteilung
+                der endgültigen Auflösung bekannt geben <sic>lassn</sic>. (Beilage 2). Der Pater
+                Provinzial der oesterreichischen Provinz, Josef Miller, ersuchte daraufhin den
+                Erzbischof, den Plan einer Wiedererrichtung der theologischen Fakultät in Innsbruck
+                aufzugeben, und begründete dies eingehend. (Beilage 3) Nach gemeinsamen Beratungen
+                entschied man sich dafür, dass Erzbischof Waitz das Priesterseminar der
+                Apostolischen Administratur Innsbruck-Feldkirch, von dem bisher 3 Jahrgänge in
+                Brixen studierten, zur Gänze in Innsbruck zu führen und mangels eines eigenen
+                Gebäudes ins Canisianum zu verlegen. Ausserdem sollte infolge der Auflösung der
+                Fakultät dieses Priesterseminar durch eine philosophisch<del rend="strikethrough"
+                    >p</del>theologische Lehranstalt er<sic>z</sic>änzt werden, für die
+                    <edit>xxxxxxxxxx</edit> Erzbischof Waitz die Professoren der ehemaligen Fakultät
+                Innsbruck ber<edit>ei</edit>f. Die Errichtung dieser Anstalt sollte durch Erzbischof
+                Waitz im Ministerium bekannt gegeben werden. Am 19. August verhandelten die
+                oesterreichischen Bischöfe wegen einer Erklärung, die sie auf Wunsch der Gauleitung
+                unterfertigen sollten. Bei dieser Konferenz brachen die Bischöfe die Verhandlungen
+                mit der Regierung ab und entschlossen sich einen scharfen Hirtenbrief herauszugeben.
+                Erzbischof Waitz sagte <edit>n</edit>ach dieser Konferenz: laque<edit>n</edit>s
+                contritus est et nos liberati sumus[.] Bischof Gföllner sagte, er sei noch nie so
+                glücklich von einer Bischofskonferenz zurückgekehrt wie an diesem Tage.</p>
+            <p style="includesPb">Kurz nach der letzten Konferenz erschien schon wieder der
+                unrühmlich bekannte Bevollmächtigte Bürk<add place="above">e</add>ls, Dr.
+                Himmelreich, bei Erzbischof Waitz und verhandelte wieder 2 Stunden mit ihm; auch
+                nach Bad <note type="foliation">60</note>
+                <pb n="4"/> Gastein fuhr er ihm nach. Als Gauleiter Bürk<add place="above">e</add>l
+                von dem bevorstehenden Hirtenbrief erfuhr, setzte er alles in Bewegung um diesen auf
+                    de<edit>n</edit> Weg von Verhandlungen zu verhindern. Tatsächlich erwirkte er
+                eine Milderung des Hirtenbriefes, indem er neue Verhandlungen über 3 Dinge in
+                Aussicht stellte: a) Einstellung der antikirchlichen und antipäpstlichen Propaganda;
+                b) Zurückgabe der Knabenseminarien an die Bischöfe; c) Errichtung einer
+                theologischen Fakultät in Innsbruck<del rend="strikethrough">.</del> (Mit
+                Weltpriestern). Ueber diese 3 Punkte verhand<edit>e</edit>lt jetzt Erzbischof Waitz;
+                Kardinal Innitzer hat die Leitung der Verhandlungen zurückgelegt und dieselbe hat
+                Erzbischof Waitz übernommen. Bei der Bischofskonferenz selber wurde der Antrag
+                gemacht, die Verhandlungen durch den Bischof von Klagenfurt, Dr. Hefter, durchführen
+                zu lassen, man entschied sich jedoch für den Erzbischof Waitz. Von Kreisen, die den
+                Erzbischof gut kennen, wird es als ein Unglück bezeichnet, dass der alte,
+                vergessliche und leichtgläubige Erzbischof die Verhandlungen leitet und man
+                befürchtet gerade aus diesem Umstand das grösste Unheil für die katholische Kirche
+                Oesterreichs.</p>
+            <head>3. <hi rend="underline">Krankenhäusser</hi></head>
+            <p style="includesPb">Im Juli erschien ein Erlass des Ministeriums für kulturelle
+                Angelegenheiten, in dem die Krankenseelsorge sowohl für die öffentlichen wie für die
+                privaten Krankenhäusser geregelt wird; in diesem Erlass, der im Altreich noch nicht
+                ergangen ist, wird die Seelsorge der Kranken auf empfindlichste<del
+                    rend="strikethrough">r</del> Weise eingeschränkt. (Beilage 4) Am 4. August
+                erliess dasselbe Ministerium einen Entscheid, demzufolge die Krankenanstalten von
+                einer der 3 Gattung<edit>e</edit>n<edit>|</edit>der weltlichen Schwestern, (freie
+                Schwesternhaft, Rote-Kreuz-Schwesternschaft und N.S.-Schwesternschaft) besetzt
+                werden sollten. Für den Gau Oberdonau wurde z. B. bestimmt, dass die beiden im
+                Privatbesitz von Klosterfrauen befi<edit>n</edit>dlichen Krankenhäusser von der
+                N.S.-Schwesternschaft besetzt würden; (Landeskrankenhaus der Kreuzschwestern in Wels
+                und das Krankenhaus der Barmherzigen S<sic>s</sic>chwestern in Linz) die
+                    <sic>andern</sic> nicht in den Händen von Schwestern befindlichen Spitäler
+                wurden den beiden <sic>andern</sic> Schwestern- <note type="foliation">61</note>
+                <pb n="5"/> schaften zugewiesen.</p>
+            <head>4) <hi rend="underline">Seelsorge.</hi></head>
+            <p>Die Redeverbote für Ord<edit>e</edit>nspriester, besonders Volksmissionäre, werden
+                immer zahlreicher. Die Zeitschrift "Katholische Mi<edit>s</edit>sionen" muss
+                demnächst ihr Erscheinen einstellen. Im Augsburger Bistumsblatt erschien ein Bericht
+                des vor einigen Wochen in Altötting gewirkten Wunders; der Schriftleiter erhielt
+                daraufhin vom Presseamt Berlin die Mahnung, solche Wunderberichte nicht mehr zu
+                bringen, weil diese eine bewusste Irreführung des Volkes darstellten. Für die
+                nächste Zeit erwartet man ein Gesetz, durch das die Wanderseelsorge (Missionen und
+                Exerzitien) verboten werden sollen. Man empfindet es als einen grossen Schaden, dass
+                die oesterreichischen Bischöfe nicht mit den deutschen Bischöfen zusammen
+                arbeiteten; als ebenso grosser <edit>M</edit>angel wird die Unklarheit betreffs des
+                Oesterreichischen Konkordates be <edit>zei</edit>chnet. Die erste Sorge der
+                oesterreichischen Bisch<sic>o</sic>fe wäre es gewesen über diesen Punkt mit der
+                Regierung zu verhandeln und darüber Klarheit zu bekommen; so ist theoretisch und
+                praktisch Oesterreich das Land ohne jedes Konkordat; das alte wird nicht mehr
+                anerkannt; das des Altreichs wird nicht angewendet.</p>
+            <note type="foliation">62</note>
+            <pb n="6"/>
+            <ab type="unknown">(Beilage 1)</ab>
+            <ab type="text@type"><hi rend="underline">Abschrift</hi></ab>
+            <p>Seite 10, "Innsbrucker Nachrichten“, Samstag, den 3. September 1938</p>
+            <head><hi rend="underline">ELTERN, ACHTUNG!</hi></head>
+            <p>Zöglinge der Schülerheime (Internate) in Hall und Innsbruck bekanntgeben!</p>
+            <p>NSG. Jene auf dem Lande wohnenden Eltern, die im kommenden Schuljahre 1938/39 ihre
+                Kinder in ein Schülerheim (Internat, Konvikt) in Hall oder Innsbruck geben wollen,
+                damit sie dort eine höhere Schule besuchen können, müssen dies rasche<del
+                    rend="strikethrough">n</del>stens bis 1<edit>2</edit>. September dem Gauamt für
+                Erzieher, Innsbruck, Wurnigstrasse 7, bekanntgeben.</p>
+            <p><sic>In</sic> Falle, dass eine Anmeldung in <sic>irgend einem</sic> Heime bereits
+                erfolgt ist, muss<edit>|</edit>trotzdem noch einmal der Name des Zöglings (mit
+                genauer Anschrift) und das betreffende Schülerheim bekanntgegeben werden.</p>
+            <p>Das Gau_amt für Erzieher hat vorgesorgt, dass solche Schülerheime (Internate,
+                Konvikte) in Innsbruck und Hall <edit continued="true">in ausreichendem</edit>
+                <edit continued="true">Masse</edit> zur Verfügung stehen werden.</p>
+            <note type="foliation">63</note>
+        </body>
+    </text>
+</TEI>
