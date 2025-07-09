@@ -3,9 +3,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title><!-- Titel --></title>
+                <title>Gaetano Cicognani an Eugenio Pacelli, Wien 24.03.1937</title>
                 <author>
-                    <persName><!-- Autor und DNB-Link --></persName>
+                    <persName ref="https://d-nb.info/gnd/118930257">Gaetano Cicognani</persName>
                 </author>
                 <respStmt>
                     <resp>TEI tempalte prepared by</resp>
@@ -91,14 +91,14 @@
             </abstract>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName><!-- Name + @ref --></persName>
-                    <date><!-- Datum + @when --></date>
-                    <placeName><!-- Ort --></placeName>
+                    <persName ref="https://d-nb.info/gnd/118930257">Gaetano Cicognani</persName>
+                    <date when="1937-03-24">24.03.1937</date>
+                    <placeName>Wien</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName><!-- Name + @ref --></persName>
-                    <date><!-- Datum + @when --></date>
-                    <placeName><!-- Ort --></placeName>
+                    <persName ref="https://d-nb.info/gnd/118594753">Eugenio Pacelli</persName>
+                    <date when="1937-04-11">11.04.1937</date>
+                    <placeName>Vatikanstadt</placeName>
                 </correspAction>
                 <correspContext/>
             </correspDesc>
@@ -112,14 +112,11 @@
     <text>
         <body>
             <pb n="1"/>
-            <ab type="archive-nr">899-60-32</ab>
-            <note type="original-nr">N. 336/38</note>
-            <opener><dateline><lb/>VIENNA 24 marzo 1937</dateline></opener>
-            <seg type="subjectLine">Viaggio di Mons. Vescovo di Linz.</seg>
-            <add place="margin-right">1 Ap. 37</add>
-            <opener><lb/>A Sua Eminenza Rev.ma <lb/>II Sig. Card. EUGENIO PACELLLI <lb/>Segretario
-                di Stato di S. S. <lb/>CITTA' DEL VATICANO</opener>
-            <opener><salute><lb/>Eminenza Reverendissima,</salute></opener>
+            <!-- <note type="original-nr">N. 336/38</note> = internal ID?-->
+            <opener>
+                <seg type="subjectLine">Viaggio di Mons. Vescovo di Linz.</seg>
+                <salute>Eminenza Reverendissima,</salute>
+            </opener>
             <p>Ieri mattina venne a visitarmi S. E. Mons. Vescovo di Linz, di ritorno dal suo
                 viaggio in Belgio. Egli era assai contento della visita fatta ad Otto di Absburgo, e
                 ritiene che sia stata di grande utilità, poiché, in tale circostanza, egli ha potuto
@@ -130,8 +127,8 @@
                 fondati e di un criterio equilibrato. Naturalmente l'ardore degli anni giovanili e
                 l’amore all'Austria, osservava Mons. Gföllner, lo spingono alle volte a propositi un
                 pò affrettati; ma sa ascoltare er riflettere.</p>
-            <note type="later-nr">1116/37</note>
-            <note type="foliation">32</note>
+            <!-- <note type="later-nr">1116/37</note> = external ID? -->
+            <note type="foliation" rend="typewritten">32</note>
             <pb n="2"/>
             <p>La visita ebbe luogo a Steenockerzeel, sabato scorso, e non domenica, come si era
                 stabilito; Mons. Vescovo ebbe un lungo colloquio il mattino sulle undici; fu
@@ -153,11 +150,12 @@
                 naturalmente lo preoccupa maggiormente, poiché se é sicuro dei voti e delle simpatie
                 della maggiorenza del popolo austriaco, sa delle difficoltà che gli vengono dalle
                 Potenze straniere; tuttavia anche le condizioni della politica estera vanno
-                avviandosi verso una migliore intesa<edit>.</edit> La Nazione apertamente contraria
-                alla causa monarchica é la Germania per il suo programma di unione di tutti i
-                tedeschi in un solo Reich; e, con la Germania, la piccola Intesa e l'Ungheria. Però
-                la Germania, dinanzi ad un fatto compiuto, non inizierebbe certamente una guerra,
-                poiché sa di avere subito di fronte la Francia e, sopratutto, l’Inghilterra.</p>
+                avviandosi verso una migliore intesa<unclear>.</unclear> La Nazione apertamente
+                contraria alla causa monarchica é la Germania per il suo programma di unione di
+                tutti i tedeschi in un solo Reich; e, con la Germania, la piccola Intesa e
+                l'Ungheria. Però la Germania, dinanzi ad un fatto compiuto, non inizierebbe
+                certamente una guerra, poiché sa di avere subito di fronte la Francia e, sopratutto,
+                l’Inghilterra.</p>
             <p>Qui domandai a Mons. Vescovo se il Principe Otto, nel fare questa affermazione, aveva
                 motivi plansibili che assicurino l’appoggio di queste due Potenze; e Mons. Gföllner
                 mi rispose che non ha al riguardo nessuna promessa formale, ma ritiene di potare
@@ -165,8 +163,8 @@
                 logico intervento se la Germania scatenasse una guerra.</p>
             <p style="includesPb">Quanto alle Potenze della Piccola Intesa, Otto di Absburgo pensa
                 che vi siano già notevoli cambiamenti nelle loro rela- <note type="foliation"
-                    >33</note>
-                <pb n="4"/> zioni con l'Austria. La Cecoslovacchia, infatti, cerca adesso di
+                    rend="typewritten">33</note>
+                <pb n="4"/>zioni con l'Austria. La Cecoslovacchia, infatti, cerca adesso di
                 avvicinarsi all’Austria, per difendersi appunto dalle pretese della Germania, che
                 vorrebbe incorporare al Reich alcune regioni nelle quali la popolazione é
                 prevalentemente tedesca; la Rumania, dopo la uscita di Titulescu dalla vita
@@ -199,7 +197,7 @@
                 Reggente, che potrebbe essere uno degli Areiduchi residenti a Vienna o lo stesso
                 Presidente Federale Miklas. Su questo punto la discussione si fece più ampia e
                 questa proposta parve accettabile al Vescovo di Linz. Aggiunse peraltro Mons. <note
-                    type="foliation">34</note>
+                    type="foliation" rend="typewritten">34</note>
                 <pb n="6"/> Gföllner che era opportuno intensificare la propaganda dell’idea
                 monarchica, farla penetrare nelle masse, magari tra gli stessi socialisti, poiché i
                 lavoratori e contadini dell'Austria rimangono sempre, in fondo, devoti alla
@@ -237,9 +235,9 @@
                 prestigio e di quella autorità che specialmente in questi mo- <note type="foliation"
                     >35</note>
                 <pb n="8"/> menti sarebbe quì tanto necessaria; e, parlando delle associazioni
-                giovanili, non mostrò alcuna simpatia per la nota e tanto discussa associaz<hi
-                    rend="underline">ione "Neuland"</hi></p>
-            <add place="margin-left">Scheda</add>
+                giovanili, non mostrò alcuna simpatia per la nota <add place="margin-left"
+                    >Scheda<!-- edit --></add> e tanto discussa associaz<hi rend="underline">ione
+                    "Neuland".</hi></p>
             <p>E' noto che Mons. Vescovo di Linz é decisamente contrario al „Neuland“; con un
                 decreto pubblicato nel Bollettino ufficiale dell'Azione Cattolica ha proibito che
                 venga istituita nella sua Diocesi; quindi non nascose la sua compiacenza nel notare
@@ -264,18 +262,16 @@
                 non tedesca. Ciò fu dichiarato dal Barone von Neurath nella sua recente visita a
                 Vienna. Lo Schuschnigg allora gli domandò se vi fossero state difficoltà per la
                 chiamata di un'altra Casa, e citò, come esempio, quella dei <hi rend="underline"
-                    >Wittels¬</hi>
-                <hi rend="underline">bach</hi>. Il Ministro degli Esteri Germanico avrebbe lasciato
-                intendere che, in tale caso, la cosa si sarebbe potuta prendere in considerazione.
-                (*)</p>
-            <add place="margin-left">Schede</add>
+                    >Wittelsbach</hi>. Il Ministro degli Esteri Germanico avrebbe lasciato <add
+                    place="margin-left">Schede<!-- edit --></add> intendere che, in tale caso, la
+                cosa si sarebbe potuta prendere in considerazione.(*)<add place="margin-bottom">(*)
+                    Secondo il Vescovo di Linz, invece, il Ministro v. Neurath ha detto testualmente
+                    che una chiamata dei Wittelsbach „incontrerebbe molte difficoltà; perché
+                    costituirebbe per il Reich Germanico un grave pericolo di perdere la Germania
+                    meridionale (Cippico)</add></p>
             <p style="includesPb">Inoltre S.E. Schuschnigg, nello stesso colloquio con Mons. Vescovo
                 di Linz, gli manifestò che credeva vi fosse fra la Germania e la Iugoslavia, più che
-                una intesa, un patto bellico <add place="margin-bottom">(*) Secondo il Vescovo di
-                    Linz, invece, il Ministro v. Neurath ha detto testualmente che una chiamata dei
-                    Wittelsbach „incontrerebbe molte difficoltà; perché costituirebbe per il Reich
-                    Germanico un grave pericolo di perdere la Germania meridionale (Cippico)</add>
-                <note type="foliation">36</note>
+                una intesa, un patto bellico <note type="foliation" rend="typewritten">36</note>
                 <pb n="10"/> diretto appunto ad impedire il ritorno degli Absburgo. Questo era un
                 semplice sospetto che il Cancelliere aveva, non una notizia sicura che dava.</p>
             <p>Egli quindi deve procedere con molta cautela, e una modificazione di governo, quale
@@ -298,10 +294,10 @@
                 Vostra con benevolenza somma.</p>
             <p>Prostrato al bacio della Sacra Porpora, ho l'onore di confermarmi coi sensi della più
                 profonda venerazione</p>
-            <closer><salute><lb/>di Vostra Eminenza Rev.ma</salute></closer>
-            <closer><signed><lb/>dev.mo obbl.mo ed umil.mo servo <lb/>+ Gaetano Cicognani
-                    <lb/>Nunzio Apostolico</signed></closer>
-            <note type="foliation">37</note>
+            <closer><salute><lb/>di Vostra Eminenza Rev.ma</salute>
+                <signed rend="handwritten"><lb/>dev.mo obbl.mo ed umil.mo servo <lb/>+ Gaetano
+                    Cicognani <lb/>Nunzio Apostolico</signed></closer>
+            <note type="foliation" rend="typewritten">37</note>
         </body>
     </text>
 </TEI>

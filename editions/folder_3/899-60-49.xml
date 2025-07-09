@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title><!-- Titel --></title>
+                <title><!-- Absender --> an Johannes Maria Gföllner, April 1937</title>
                 <author>
                     <persName><!-- Autor und DNB-Link --></persName>
                 </author>
@@ -96,9 +96,8 @@
                     <placeName><!-- Ort --></placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName><!-- Name + @ref --></persName>
-                    <date><!-- Datum + @when --></date>
-                    <placeName><!-- Ort --></placeName>
+                    <persName ref="https://d-nb.info/gnd/129176222">Johannes Gföllner</persName>
+                    <placeName>Linz</placeName>
                 </correspAction>
                 <correspContext/>
             </correspDesc>
@@ -112,28 +111,23 @@
     <text>
         <body>
             <pb n="1"/>
-            <ab type="archive-nr">899-60-49</ab>
-            <opener><lb/>Seiner Exzellenz <lb/>Hochwürdigstem Herrn <lb/>Dr. Johann Gföllner,
-                <lb/>Bischof von Linz</opener>
-            <opener><dateline><lb/>April 1937</dateline></opener>
-            <ab type="unknown">Tradurre in latino</ab>
             <opener><salute><lb/>
                     <sic>Euere</sic> Exzellenz,</salute></opener>
             <p>Ihr geschätztes Schreiben, worin <add place="above">mir</add> Eure
                     <sic>Exzillenz</sic>
-                <sic>uber</sic> Ihre Reise nach <sic continued="true">Steenocker¬</sic>
-                <sic continued="true">zeel</sic> berichtet habe Ich richtig erhalten.</p>
+                <sic>uber</sic> Ihre Reise nach <sic>Steenockerzeel</sic> berichtet habe Ich richtig
+                erhalten.</p>
             <p>Ich bin Ihnen sehr zu Dank verpflichtet wegen der wichtigen und genauen
                 Informationen, die Eure Exzellenz mir zukommen lassen wollte, und welche ich
-                gebührend einzuschätzen <sic>weiss</sic>.</p>
-            <p>Sie wissen jedoch andererseits, dass der Heilige Stuhl, in seinem Bestreben stets das
-                Wohl der Völker zu fördern, völlig absieht von der jeweiligen Staatsform
-                derselben</p>
-            <add place="margin-left">va bene?</add>
+                gebührend <add place="margin-left">Tradurre in latino</add> einzuschätzen
+                    <sic>weiss</sic>.</p>
+            <p><add place="margin-left">va bene?</add> Sie wissen jedoch andererseits, dass der
+                Heilige Stuhl, in seinem Bestreben stets das Wohl der Völker zu fördern, völlig
+                absieht von der jeweiligen Staatsform derselben</p>
             <closer><salute><lb/>Mit dem Ausdruck ausgezeichneter <lb/>Wertschätzung verbleibe ich <lb/>
                     <sic>Euerer</sic> Exzellenz <lb/>ergebenster</salute></closer>
-            <note type="later-nr">1122/37</note>
-            <note type="foliation">49</note>
+            <!-- <note type="later-nr">1122/37</note> = external ID? -->
+            <note type="foliation" rend="typewritten">49</note>
         </body>
     </text>
 </TEI>

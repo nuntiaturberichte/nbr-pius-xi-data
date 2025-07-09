@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title><!-- Titel --></title>
+                <title><!-- Absender --> an Gaetano Cicognani, Vatikanstadt 11.02.1937</title>
                 <author>
                     <persName><!-- Autor und DNB-Link --></persName>
                 </author>
@@ -96,9 +96,8 @@
                     <placeName><!-- Ort --></placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName><!-- Name + @ref --></persName>
-                    <date><!-- Datum + @when --></date>
-                    <placeName><!-- Ort --></placeName>
+                    <persName ref="https://d-nb.info/gnd/118930257">Gaetano Cicognani</persName>
+                    <placeName>Wien</placeName>
                 </correspAction>
                 <correspContext/>
             </correspDesc>
@@ -112,49 +111,60 @@
     <text>
         <body>
             <pb n="1"/>
-            <ab type="archive-nr">900-61-64</ab>
-            <opener><dateline><lb/>DAL VATICANO, <del rend="strikethrough">#</del> <add
-                        place="above">11</add> Febbraio <lb/>1937</dateline></opener>
-            <opener><lb/>A Sua Eccellenza Rev.ma <lb/>MONSIGNOR GAETANO CICOGNANI <lb/>Nunzio
-                Apostolico <lb/>VIENNA</opener>
-            <note type="original-nr">No. 452/37 DA CITARSI NELLA RISPOSTA</note>
-            <opener><salute><lb/>Eccellenza Reverendissima,</salute></opener>
+            <!-- <note type="original-nr">No. 452/37 DA CITARSI NELLA RISPOSTA</note> = internal ID? -->
+            <opener><salute>Eccellenza Reverendissima,</salute></opener>
             <p>Con i relativi Allegati mi è regolarmente pervenuto l'importante Rapporto di Vostra
                 Eccellenza Rev.ma N. 163/13 in data del 28 Gennaio u.s. riguardante alcune notizie
                 politiche dell 'Austria.</p>
-            <p><add place="above">vedi altro foglio</add> Nel ringraziare Vostra Eccellenza Rev.ma
-                della diligenza con la quale mi tiene informato, profitto volentieri dell'incontro
-                per raffermarmi con sensi di distinta e sincera stima</p>
+            <p><add place="margin-left">vedi altro foglio</add></p>
+            <p>Nel ringraziare Vostra Eccellenza Rev.ma della diligenza con la quale mi tiene
+                informato, profitto volentieri dell'incontro per raffermarmi con sensi di distinta e
+                sincera stima</p>
             <closer><salute><lb/>di Vostra Eccellenza Rev.ma <lb/>Servitore</salute></closer>
-            <note type="later-nr"><edit>452</edit>/37</note>
+            <!-- <note type="later-nr">499/37</note> = external ID? -->
             <note type="foliation">64</note>
             <pb n="2"/>
+            <!-- folgender Absatz wurde zwischen die vorangegangenen beiden Absätze eingeschoben -->
             <p>Data la gravità della situazione prospettata anche <add place="above">nel
-                    Rapporto</add> d<edit>a</edit> Vostra Eccellenza<edit>,</edit>
-                <add place="above">e</add> confermata da<del rend="strikethrough">lle</del> notizie
-                    <del rend="strikethrough">che</del> giun<edit>t</edit>e <del
-                    rend="strikethrough">gono</del> alla Santa Sede da buon<edit>e</edit>
-                    font<edit>e</edit>, a riguardo della non piena comprensione che si ha in Austria
-                del pericolo della <edit>d</edit>iffusione delle idee
-                nazionalsocialis<edit>t</edit>i, il Santo Padre desidera <del rend="strikethrough"
-                    >vivamente</del> che Vostra Eccellenza richiami su tale pericolo l'attenzione di
-                chi di dovere <add place="above">ed Ella stessa</add>
+                    Rapporto</add> d<subst>
+                    <del><gap reason="overwritten" unit="char" quantity="1"/></del>
+                    <add rend="overwritten">a</add>
+                </subst>Vostra Eccellenza,<add place="above">e</add> confermata da<del
+                    rend="strikethrough">lle</del> notizie <del rend="strikethrough">che</del>
+                    giun<add rend="handwritten">te<!-- edit --></add>
+                <del rend="strikethrough">gono</del> alla Santa Sede da buon<subst>
+                    <del><gap reason="overwritten" unit="char" quantity="1"/></del>
+                    <add rend="overwritten">e</add>
+                </subst> font<subst>
+                    <del><gap reason="overwritten" unit="char" quantity="1"/></del>
+                    <add rend="overwritten">i</add>
+                </subst>, a riguardo della non piena comprensione che si ha in Austria del pericolo
+                    <add place="margin-left">Cifra</add> della <subst>
+                    <del>f</del>
+                    <add rend="overwritten">d</add>
+                </subst>iffusione delle idee nazionalsocialis<subst>
+                    <del>e</del>
+                    <add rend="overwritten">ti</add>
+                </subst>, il Santo Padre desidera <del rend="strikethrough">vivamente</del> che
+                Vostra Eccellenza richiami su tale pericolo l'attenzione di chi di dovere <add
+                    place="above">ed Ella stessa</add>
                 <del rend="strikethrough">e</del> vigili attentamente <del rend="strikethrough"
                     >questa propaganda</del> affine di non trovarsi di fronte a dolorose <del
                     rend="strikethrough">e irreparabili</del> sorprese.</p>
-            <add place="margin-left">Cifra</add>
             <note type="foliation">65</note>
+            <!-- stellt folgendes ein eigenes Dokument dar? -->
             <pb n="3"/>
-            <note type="original-nr">452/37</note>
+            <!-- <note type="original-nr">452/37</note> = internal ID? -->
             <opener><lb/>A S. E. R. <lb/>Mons. Gaetano Cicognani <lb/>Nurizio Apostolico
                 <lb/>Vienna.</opener>
-            <p>Con, relativi Allegati me è regolar- mente pervenuto l’importante Rapprorto.</p>
-            <p>di V. E. R. N. 163/13 in data del 28 Gennaio u. s. riguardante <del
-                    rend="strikethrough">alcune</del>
+            <p>Con, relativi Allegati me è regolar- mente pervenuto l’importante Rapprorto di V. E.
+                R. N. 163/13 in data del 28 Gennaio u. s. riguardante <del rend="strikethrough"
+                    >alcune</del>
                 <add place="above">alcune</add> notizie politiche dell’ Austria.</p>
-            <p>Nel ringraziare V. E. R. della diligenza con la quale mi tiene informato profitt.</p>
-            <note type="later-nr"><del rend="strikethrough">452</del> 499/37</note>
-            <note type="foliation">66</note>
+            <p>Nel ringraziare V. E. R. della diligenza con la quale <add place="above">mi</add>
+                tiene informato profitt.</p>
+            <!-- <note type="later-nr"><del rend="strikethrough">452</del> 499/37</note> = external ID? -->
+            <note type="foliation" rend="typewritten">66</note>
         </body>
     </text>
 </TEI>
