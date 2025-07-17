@@ -83,7 +83,7 @@
         <profileDesc>
             <handNotes>
                 <handNote>
-                    <p><!-- Autorenhand --></p>
+                    <p><!-- identifizierte Handschrift --></p>
                 </handNote>
             </handNotes>
             <abstract>
@@ -104,12 +104,13 @@
             </correspDesc>
             <particDesc>
                 <listPerson>
-                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                    <person><!-- persName@ref für Person, die im Dokument erwähnt wird und von der es eine Kurzbiographie gibt --></person>
                 </listPerson>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+        <!-- text@type -->
         <body>
             <pb n="1"/>
             <ab type="archive-nr">918-75-45</ab>
@@ -129,7 +130,7 @@
                 Cattedrale, emettendo grida ostili alla religione, poi riuscirono a sfondare, dopo
                 venti minuti di faticoso lavoro, la porta laterale dell'Episcopio. Vi entrarono come
                 forsennati <note type="later-nr">3933/38</note>
-                <note type="foliation">45</note>
+                <note type="foliation" rend="typewritten">45</note>
                 <pb n="2"/> a ... fino alla cappella ed alla stanza dell'Em.mo fracassando vetri,
                 porte, statue artistiche, oggetti di..., orologi; quadri di valore artistico e
                 asportarono una croce pettorale con catena, due anelli nonchè calotte berretti e
@@ -161,7 +162,7 @@
                     affino<edit>g</edit>è lo spedisse a Ro<edit>m</edit>a.</p>
             <closer><lb/>Io lasciai Vienna la #te##a sera.</closer>
             <closer><signed><lb/>Orsenigo.</signed></closer>
-            <note type="foliation">47</note>
+            <note type="foliation" rend="typewritten">47</note>
         </body>
     </text>
 </TEI>

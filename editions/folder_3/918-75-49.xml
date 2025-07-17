@@ -83,7 +83,7 @@
         <profileDesc>
             <handNotes>
                 <handNote>
-                    <p><!-- Autorenhand --></p>
+                    <p><!-- identifizierte Handschrift --></p>
                 </handNote>
             </handNotes>
             <abstract>
@@ -104,12 +104,13 @@
             </correspDesc>
             <particDesc>
                 <listPerson>
-                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                    <person><!-- persName@ref für Person, die im Dokument erwähnt wird und von der es eine Kurzbiographie gibt --></person>
                 </listPerson>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+        <!-- text@type -->
         <body>
             <pb n="1"/>
             <ab type="archive-nr">918-75-49</ab>
@@ -127,7 +128,7 @@
                 scene vandaliche, che devastarono il Palazzo dell'Eminentissimo Signor Cardinale
                 Innitzer, fu affatto casuale. La mia andata aveva per iscopo solo di parlare circa
                 un eventuale aiuto da prestarsi dall'Emi- <note type="later-nr">3941/38</note>
-                <note type="foliation">49</note>
+                <note type="foliation" rend="typewritten">49</note>
                 <pb n="2"/> nentissimo Ordinario di Vienna nella cura d'anime nelle parrocchie
                 sudete confinanti<edit>e</edit> mom<edit>e</edit>ntanea<edit>m</edit>ente sprovviste
                 di sacerdoti.</p>
@@ -160,7 +161,7 @@
                 questa disapprovazione."</p>
             <p>Finora non ho avuto da Vienna nessuna altra ulteriore notizia.</p>
             <p style="includesPb">Mi valgo frattanto ben volontieri dell'occasione, per presentare i
-                sensi del mio profondissimo <note type="foliation">50</note>
+                sensi del mio profondissimo <note type="foliation" rend="typewritten">50</note>
                 <pb n="4"/> ossequio, mentre, chino al bacio della Sacra Porpora, ho l’alto onore di
                 professarmi</p>
             <closer><lb/>di Vostra Eminenza Rev<edit>e</edit>rendissima <lb/>devmo - umilmo - obbmo

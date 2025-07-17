@@ -83,7 +83,7 @@
         <profileDesc>
             <handNotes>
                 <handNote>
-                    <p><!-- Autorenhand --></p>
+                    <p><!-- identifizierte Handschrift --></p>
                 </handNote>
             </handNotes>
             <abstract>
@@ -104,18 +104,19 @@
             </correspDesc>
             <particDesc>
                 <listPerson>
-                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                    <person><!-- persName@ref für Person, die im Dokument erwähnt wird und von der es eine Kurzbiographie gibt --></person>
                 </listPerson>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+        <!-- text@type -->
         <body>
             <pb n="1"/>
             <ab type="archive-nr">918-74-3</ab>
             <head>Austria 1938 Situazione religiosa dopo l'Anschluss</head>
             <note type="later-nr">Austria 918</note>
-            <note type="foliation">3</note>
+            <note type="foliation" rend="typewritten">3</note>
         </body>
     </text>
 </TEI>

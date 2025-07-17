@@ -3,9 +3,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title><!-- Titel --></title>
+                <title>Alois Hudal an <!-- Empfänger -->, Rom 30.11.1936</title>
                 <author>
-                    <persName><!-- Autor und DNB-Link --></persName>
+                    <persName ref="https://d-nb.info/gnd/118554239">Alois Hudal</persName>
                 </author>
                 <respStmt>
                     <resp>TEI tempalte prepared by</resp>
@@ -83,7 +83,7 @@
         <profileDesc>
             <handNotes>
                 <handNote>
-                    <p><!-- Autorenhand --></p>
+                    <p><!-- identifizierte Handschrift --></p>
                 </handNote>
             </handNotes>
             <abstract>
@@ -91,9 +91,9 @@
             </abstract>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName><!-- Name + @ref --></persName>
-                    <date><!-- Datum + @when --></date>
-                    <placeName><!-- Ort --></placeName>
+                    <persName ref="https://d-nb.info/gnd/118554239">Alois Hudal</persName>
+                    <date when="1936-11-30">30.11.1936</date>
+                    <placeName>Rom</placeName>
                 </correspAction>
                 <correspAction type="received">
                     <persName><!-- Name + @ref --></persName>
@@ -104,27 +104,27 @@
             </correspDesc>
             <particDesc>
                 <listPerson>
-                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                    <person><!-- persName@ref für Person, die im Dokument erwähnt wird und von der es eine Kurzbiographie gibt --></person>
                 </listPerson>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+        <!-- text@type -->
         <body>
             <pb n="1"/>
-            <ab type="archive-nr">903-64-60</ab>
-            <opener><dateline><lb/>Roma, il 30 Novembre 1936</dateline></opener>
-            <opener><salute><lb/>Eminenza Reverendissima,</salute></opener>
+            <opener><dateline>Roma, il 30 Novembre 1936</dateline><salute>Eminenza
+                    Reverendissima,</salute></opener>
             <p>mi permetto di consegnare le seguenti informazioni forse utili con 3 documenti
                 allegati come copìe</p>
             <p>I.) Mentre gli emigranti del Reich, ebrei, massoni (conf. l'organo massonico di Praga
                 del Presidente Benesch = Prager Presse =) e i cattolici cosidetti = integrali =
                 vedono nel mio libro sui fondamenti del Nazismo un grave pericolo per la Chiesa
                 meritevole di una condanna formale specialmente i giornali = cattolici =
-                ["]Deutscher Weg", "Christlicher Ständestaat", "Luzerner Briefe" scrivano in una
-                maniera infame come mai prima i socialisti hanno scritto sui Vescovi - i CAPI
-                RESPONSABILI DEL PARTITO NAZZISTA (conf. allegato I, lettera del mio editore sulla
-                discussione avuta da lui a Berlino con uno dei più alti gerarchi!) <hi
+                    <edit>"</edit>Deutscher Weg", "Christlicher Ständestaat", "Luzerner Briefe"
+                scrivano in una maniera infame come mai prima i socialisti hanno scritto sui Vescovi
+                - i CAPI RESPONSABILI DEL PARTITO NAZZISTA (conf. allegato I, lettera del mio
+                editore sulla discussione avuta da lui a Berlino con uno dei più alti gerarchi!) <hi
                     rend="underline">dicono, che la mia pubblica<add place="above">zione</add> è
                     pericolosa per il Nazis</hi>
                 <hi rend="underline">mo</hi> volendo dividerlo in due parti con la teoria di un
@@ -150,27 +150,27 @@
                 <hi rend="underline">imbarazzo</hi> specialmente dopo che Hitler ha dato una
                 risposta per me favorevole</p>
             <note type="later-nr">142/37</note>
-            <note type="foliation">60</note>
+            <note type="foliation" rend="typewritten">60</note>
             <pb n="2"/>
-            <p>II.) Che <hi rend="underline">il moviment<edit>o</edit> razzista</hi> cerca con una
-                    <hi rend="underline">tattica silenziosa</hi> entrare <edit>anche</edit> nel
-                FASCIO ITALIANO, <hi rend="underline">mostra un progetto</hi> (conf. allegato III)
-                elaborato da un certo Gasteiner, ingegnere di Bolzano, giovane un può romantico e
-                sotto l’influsso delle idee di Rosenberg e Guenther (capo del Razzismo germanico).
-                Questo Gasteiner vive a Roma; un gerarco del Nazzismo (cattolico) mi ha procurato
-                una copia del progetto razzista elaborato da Gasteiner per il <hi rend="underline"
-                    >Ministero di educazione nazionale di Roma</hi> con il quale lui ha relazioni se
-                anche gli ufficiali lo neg<edit>a</edit>ranno. Nel progetto è specialmente di valore
-                l’articolo 36 - senza dubbio ispirato contro la mano morta in Italia -
-                originariamente l’articolo parlò già di una confiscazione del patrimonio
-                ecclesiastico in favore di famiglie di razza pura le quali dovrebbero essere
-                colonizzate su questo territorio confiscato. Fatto è che questo progetto, se anche
-                forse non sarà m<edit>a</edit>i completamente realizzato, poteva essere consegnato a
-                persone ufficiali ed importanti del Ministero - una prova che la relazione intima
-                politica fra Italia e il Reich è una buona occasione per importare certe tendenze
-                pericolose del Razzismo e dall'altra parte che un miglioramento fra il Nazzismo e la
-                religione è anche nell'eminente <hi rend="underline">interesse del¬</hi>
-                <hi rend="underline">l'Italia cattolica.</hi></p>
+            <p>II.) Che <hi rend="underline">il moviment<add rend="handwritten">o</add>
+                    razzista</hi> cerca con una <hi rend="underline">tattica silenziosa</hi> entrare
+                    <add rend="handwritten">anche</add> nel FASCIO ITALIANO, <hi rend="underline"
+                    >mostra un progetto</hi> (conf. allegato III) elaborato da un certo Gasteiner,
+                ingegnere di Bolzano, giovane un può romantico e sotto l’influsso delle idee di
+                Rosenberg e Guenther (capo del Razzismo germanico). Questo Gasteiner vive a Roma; un
+                gerarco del Nazzismo (cattolico) mi ha procurato una copia del progetto razzista
+                elaborato da Gasteiner per il <hi rend="underline">Ministero di educazione nazionale
+                    di Roma</hi> con il quale lui ha relazioni se anche gli ufficiali lo
+                    neg<edit>a</edit>ranno. Nel progetto è specialmente di valore l’articolo 36 -
+                senza dubbio ispirato contro la mano morta in Italia - originariamente l’articolo
+                parlò già di una confiscazione del patrimonio ecclesiastico in favore di famiglie di
+                razza pura le quali dovrebbero essere colonizzate su questo territorio confiscato.
+                Fatto è che questo progetto, se anche forse non sarà m<edit>a</edit>i completamente
+                realizzato, poteva essere consegnato a persone ufficiali ed importanti del Ministero
+                - una prova che la relazione intima politica fra Italia e il Reich è una buona
+                occasione per importare certe tendenze pericolose del Razzismo e dall'altra parte
+                che un miglioramento fra il Nazzismo e la religione è anche nell'eminente <hi
+                    rend="underline">interesse dell'Italia cattolica.</hi></p>
             <p>III.) Nel bollettino segreto del movimento <hi rend="underline">nazzista
                     illegale</hi> in Austria fu nei primi giorni di Novembre dato un ordine di <hi
                     rend="underline">risuscitare un</hi>
@@ -180,12 +180,11 @@
                 denuncie, ve<edit>r</edit>azioni della polizia, impossibilità di carriera ecc. Io
                 non posso verificare se questi lamenti hanno un fondamento, solamento un fatto è,
                 che questo ordine <hi rend="underline">antiromano</hi> è <hi rend="underline"
-                    >significativo per la situazio¬</hi>
-                <hi rend="underline">ne</hi>!</p>
+                    >significativo per la situazione</hi>!</p>
             <closer><salute><lb/>Nel bacio della Sacra Porpora mi rassegno di <lb/>Vostra Eminenza
                     <lb/>devotissimo servo <lb/>+ Hudal <lb/>Rettore di S. Maria dell'
                     Anima</salute></closer>
-            <note type="foliation">61</note>
+            <note type="foliation" rend="typewritten">61</note>
         </body>
     </text>
 </TEI>

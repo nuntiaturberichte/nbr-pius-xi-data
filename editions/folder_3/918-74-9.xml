@@ -83,7 +83,7 @@
         <profileDesc>
             <handNotes>
                 <handNote>
-                    <p><!-- Autorenhand --></p>
+                    <p><!-- identifizierte Handschrift --></p>
                 </handNote>
             </handNotes>
             <abstract>
@@ -104,12 +104,13 @@
             </correspDesc>
             <particDesc>
                 <listPerson>
-                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                    <person><!-- persName@ref für Person, die im Dokument erwähnt wird und von der es eine Kurzbiographie gibt --></person>
                 </listPerson>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+        <!-- text@type -->
         <body>
             <pb n="1"/>
             <ab type="archive-nr">918-74-9</ab>
@@ -159,7 +160,7 @@
                 nella Azione Cattolica, poi si iscrisse al «Neuland», però nello stesso tempo egli
                 era già iscritto al partito nazional-socialista; quale impiegato del Ministero della
                 P. I. teneva al corrente il Governo germanico di quanto avveniva in Austria, e in
-                premio di que- <note type="foliation">10</note>
+                premio di que- <note type="foliation" rend="typewritten">10</note>
                 <pb n="3"/> sta sua opera fu appunto nominato Ministro. Egli fu fra coloro che la
                 notte stessa di quel venerdì (11 marzo) consigliarono alla gioventù del «Neuland» di
                 passare subito a fare parte della gioventù hitleriana; egli collaborò per preparare
@@ -189,7 +190,7 @@
                 riportava il comunicato; e alle ore nove del suddetto Monsignore mi manifestò che il
                 Cardinale Arcivescovo aveva preso in considerazione quanto gli avevo fatto sapere,
                 ma che, dopo maturo esame, aveva creduto opportuno pubblicare il comunicato anche
-                per so- <note type="foliation">11</note>
+                per so- <note type="foliation" rend="typewritten">11</note>
                 <pb n="4"/> stenere il giornale; e che, del resto, egli assumeva di ciò piena
                 responsabilità.</p>
             <p>Certamente quel comunicato non conteneva nulla di grave, ma indicava già la tendenza
@@ -317,7 +318,7 @@
                         mutua fiducia e di comune gradimento, incaricata di trattare.</p>
                     <p>Si è grati al Maresciallo Göring per il suo interessamento in questa materia
                         e si ricorda con piacere la sua visita in Vaticano».</p></note></p>
-            <note type="foliation">13</note>
+            <note type="foliation" rend="typewritten">13</note>
             <pb n="6"/>
             <p style="includesPb">Gli fu detto inoltre, ed egli stesso lo ha ripetuto piò volte a
                 sua difesa, che le condizioni dell'Austria erano del tutto speciali, diverse da
@@ -355,7 +356,7 @@
                 per la Germania. Sua Eminenza fu subito ricevuto dal Cancelliere Hitler, il quale
                 disse a voce alta che voleva parlare da solo con il Cardinale: però non furono
                 completamente soli, come il Cardinale mi disse e come io riferii; alla conversazione
-                stava presente, sia pure <note type="foliation">15</note>
+                stava presente, sia pure <note type="foliation" rend="typewritten">15</note>
                 <pb n="8"/> in un angolo della camera, il confessore di von Papen, il sacerdote
                 Jauner. In un telegramma cifrato ho avuto già l’onore di riferire sul contenuto di
                 quella conversazione, come mi venne dettato dallo stesso Cardinale. Questi rimase
@@ -449,7 +450,7 @@
                 preoccupò nè punto nè poco di farmi conoscere quanto era successo; e le notizie le
                 ebbi in una visita che espressamente feci nel pomeriggio di quel giorno a Mons.
                 Pawlikowski. Questi mi disse in succinto quanto era passato nella riunione e mi fece
-                leggere il testo <note type="foliation">18</note>
+                leggere il testo <note type="foliation" rend="typewritten">18</note>
                 <pb n="11"/> della dichiarazione. Non so dire l’impressione provata; alla serie di
                 osservazioni che in tono alquanto concitato feci al suddetto Monsignore, questi mi
                 rispondeva : «Non vi era nulla a fare, siamo dei vinti, coacti fuimus». Corsi subito
@@ -480,7 +481,7 @@
                 Vescovi e la recente, firmata dal Cardinale e dall’ Arcivescovo di Salisburgo —
                 fossero mandate senza ritardo a tutti i parroci di Austria.</p>
             <p>L'Eminenza Vostra ha potuto rilevare dal memoriale scritto</p>
-            <note type="foliation">19</note>
+            <note type="foliation" rend="typewritten">19</note>
             <pb n="12"/>
             <p>Padre Provinciale; e per San Pölten (diocesi poco distante da Vienna) feci chiamare
                 il Cancelliere della Curia.</p>
@@ -514,7 +515,7 @@
             <p>Il testo di tale lettera, indirizzata il 31 marzo 1938 dall'Em̃o Sig. Cardinale
                 lnnitzer al Gauleiter Brückel e pubblicata dai giornali tedeschi ed austriaci il
                 #</p>
-            <note type="foliation">21</note>
+            <note type="foliation" rend="typewritten">21</note>
         </body>
     </text>
 </TEI>

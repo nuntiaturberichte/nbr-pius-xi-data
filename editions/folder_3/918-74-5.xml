@@ -84,7 +84,7 @@
         <profileDesc>
             <handNotes>
                 <handNote>
-                    <p><!-- Autorenhand --></p>
+                    <p><!-- identifizierte Handschrift --></p>
                 </handNote>
             </handNotes>
             <abstract>
@@ -105,12 +105,13 @@
             </correspDesc>
             <particDesc>
                 <listPerson>
-                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                    <person><!-- persName@ref für Person, die im Dokument erwähnt wird und von der es eine Kurzbiographie gibt --></person>
                 </listPerson>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+        <!-- text@type -->
         <body>
             <pb n="1"/>
             <ab type="archive-nr">918-74-5</ab>
@@ -128,12 +129,12 @@
                 katholischen Positionen in Oesterreich in vollen Gange ist.</p>
             <p style="includesPb">Wie mir berichtet wird, ist ﻿die Stimmung dort derartig dass man
                 keines Rates und <note type="later-nr">1922/38</note>
-                <note type="foliation">5</note>
+                <note type="foliation" rend="typewritten">5</note>
                 <pb n="2"/> 1/ gestatte ich mir, anliegend eine Anregung betr. die künftige
                 Zusammenarbeit des deutschen Episkopats der Fuldaer Konferenz zu unterbreiten mit
                 der ergebensten Bitte, die Gedanken prüfen zu wollen.</p>
             <closer><signed><lb/>+ Konrad <lb/>Bischof von Berlin.</signed></closer>
-            <note type="foliation">6</note>
+            <note type="foliation" rend="typewritten">6</note>
         </body>
     </text>
 </TEI>

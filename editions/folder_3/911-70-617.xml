@@ -83,7 +83,7 @@
         <profileDesc>
             <handNotes>
                 <handNote>
-                    <p><!-- Autorenhand --></p>
+                    <p><!-- identifizierte Handschrift --></p>
                 </handNote>
             </handNotes>
             <abstract>
@@ -104,24 +104,23 @@
             </correspDesc>
             <particDesc>
                 <listPerson>
-                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                    <person><!-- persName@ref für Person, die im Dokument erwähnt wird und von der es eine Kurzbiographie gibt --></person>
                 </listPerson>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+        <!-- text@type -->
         <body>
             <pb n="1"/>
-            <ab type="archive-nr">911-70-617</ab>
             <opener><dateline><lb/>6-4-38</dateline></opener>
             <p>Sua Santità mi dice che ha trovato il Card. Innitzer di un <hi rend="underline"
-                    >ottimismo incon¬</hi>
-                <hi rend="underline">sapevole</hi>. È vero che non ha fatto la triste esperienza che
+                    >ottimismo inconsapevole</hi>. È vero che non ha fatto la triste esperienza che
                 noi abbiamo dovuto fare. Ma anche lui vive nel mondo sublimare. "Ho paura" mi dice
                 "che abbiamo fetto un buco nell'acqua" chiamandolo a Roma. Gli osservo: Ma con la
                 dichiarazione che l'O.R. pubblicherà questa sera c'è almeno quello punto fermo. Mi
                 risponde "Si ci sono dei punti fermi, ma è lui che si muove: Poi aggiunge:</p>
-            <note type="foliation">617</note>
+            <note type="foliation" rend="typewritten">617</note>
         </body>
     </text>
 </TEI>

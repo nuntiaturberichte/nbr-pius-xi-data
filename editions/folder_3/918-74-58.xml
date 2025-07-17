@@ -83,7 +83,7 @@
         <profileDesc>
             <handNotes>
                 <handNote>
-                    <p><!-- Autorenhand --></p>
+                    <p><!-- identifizierte Handschrift --></p>
                 </handNote>
             </handNotes>
             <abstract>
@@ -104,12 +104,13 @@
             </correspDesc>
             <particDesc>
                 <listPerson>
-                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                    <person><!-- persName@ref für Person, die im Dokument erwähnt wird und von der es eine Kurzbiographie gibt --></person>
                 </listPerson>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+        <!-- text@type -->
         <body>
             <pb n="1"/>
             <ab type="archive-nr">918-74-58</ab>
@@ -143,7 +144,7 @@
                 Waitz gegenüber wurde von den Behörden gesagt das sei nur eine Folge der notwendigen
                 Angleichung an die Schulverhältnisse des Altreiches; <note type="later-nr"
                     >3677/38</note>
-                <note type="foliation">58</note>
+                <note type="foliation" rend="typewritten">58</note>
                 <pb n="2"/> in Wirklichkeit war das eine Täuschung, weil im Altreich ma<add
                     place="above">n</add>che geistliche Anstalten noch das Oeffentlichkeitsrecht
                 besitzen; ausserdem wurde den Bischöfen gesagt, sie könnten für ihre
@@ -171,7 +172,7 @@
                 den Erziehungsstellen zu melden. In diesem Aufruf wird bekannt gegeben, dass
                 Schülerheime von den Parteistellen in ausreichendem Masse überall vorhanden sein
                 werden. Wie verlautet, sind auch schon geistliche Konvikte beschlagnahmt worden.</p>
-            <note type="foliation">59</note>
+            <note type="foliation" rend="typewritten">59</note>
             <pb n="3"/>
             <head>2.) <hi rend="underline">Die theologische Fakultät von Innsbruck</hi>.</head>
             <p>Mit Erlass vom 20. Juli wurde die theologische Fakultät am 22. Juli aufgelöst.
@@ -196,12 +197,12 @@
                 unterfertigen sollten. Bei dieser Konferenz brachen die Bischöfe die Verhandlungen
                 mit der Regierung ab und entschlossen sich einen scharfen Hirtenbrief herauszugeben.
                 Erzbischof Waitz sagte <edit>n</edit>ach dieser Konferenz: laque<edit>n</edit>s
-                contritus est et nos liberati sumus[.] Bischof Gföllner sagte, er sei noch nie so
+                contritus est et nos liberati sumus<edit>.</edit> Bischof Gföllner sagte, er sei noch nie so
                 glücklich von einer Bischofskonferenz zurückgekehrt wie an diesem Tage.</p>
             <p style="includesPb">Kurz nach der letzten Konferenz erschien schon wieder der
                 unrühmlich bekannte Bevollmächtigte Bürk<add place="above">e</add>ls, Dr.
                 Himmelreich, bei Erzbischof Waitz und verhandelte wieder 2 Stunden mit ihm; auch
-                nach Bad <note type="foliation">60</note>
+                nach Bad <note type="foliation" rend="typewritten">60</note>
                 <pb n="4"/> Gastein fuhr er ihm nach. Als Gauleiter Bürk<add place="above">e</add>l
                 von dem bevorstehenden Hirtenbrief erfuhr, setzte er alles in Bewegung um diesen auf
                     de<edit>n</edit> Weg von Verhandlungen zu verhindern. Tatsächlich erwirkte er
@@ -232,7 +233,7 @@
                 N.S.-Schwesternschaft besetzt würden; (Landeskrankenhaus der Kreuzschwestern in Wels
                 und das Krankenhaus der Barmherzigen S<sic>s</sic>chwestern in Linz) die
                     <sic>andern</sic> nicht in den Händen von Schwestern befindlichen Spitäler
-                wurden den beiden <sic>andern</sic> Schwestern- <note type="foliation">61</note>
+                wurden den beiden <sic>andern</sic> Schwestern- <note type="foliation" rend="typewritten">61</note>
                 <pb n="5"/> schaften zugewiesen.</p>
             <head>4) <hi rend="underline">Seelsorge.</hi></head>
             <p>Die Redeverbote für Ord<edit>e</edit>nspriester, besonders Volksmissionäre, werden
@@ -250,7 +251,7 @@
                 Regierung zu verhandeln und darüber Klarheit zu bekommen; so ist theoretisch und
                 praktisch Oesterreich das Land ohne jedes Konkordat; das alte wird nicht mehr
                 anerkannt; das des Altreichs wird nicht angewendet.</p>
-            <note type="foliation">62</note>
+            <note type="foliation" rend="typewritten">62</note>
             <pb n="6"/>
             <ab type="unknown">(Beilage 1)</ab>
             <ab type="text@type"><hi rend="underline">Abschrift</hi></ab>
@@ -268,7 +269,7 @@
             <p>Das Gau_amt für Erzieher hat vorgesorgt, dass solche Schülerheime (Internate,
                 Konvikte) in Innsbruck und Hall <edit continued="true">in ausreichendem</edit>
                 <edit continued="true">Masse</edit> zur Verfügung stehen werden.</p>
-            <note type="foliation">63</note>
+            <note type="foliation" rend="typewritten">63</note>
         </body>
     </text>
 </TEI>

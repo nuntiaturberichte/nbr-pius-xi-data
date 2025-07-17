@@ -83,7 +83,7 @@
         <profileDesc>
             <handNotes>
                 <handNote>
-                    <p><!-- Autorenhand --></p>
+                    <p><!-- identifizierte Handschrift --></p>
                 </handNote>
             </handNotes>
             <abstract>
@@ -103,12 +103,13 @@
             </correspDesc>
             <particDesc>
                 <listPerson>
-                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                    <person><!-- persName@ref für Person, die im Dokument erwähnt wird und von der es eine Kurzbiographie gibt --></person>
                 </listPerson>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+        <!-- text@type -->
         <body>
             <pb n="1"/>
             <!-- <note type="original-nr">No. 452/37 DA CITARSI NELLA RISPOSTA</note> = internal ID? -->
@@ -122,7 +123,7 @@
                 sincera stima</p>
             <closer><salute><lb/>di Vostra Eccellenza Rev.ma <lb/>Servitore</salute></closer>
             <!-- <note type="later-nr">499/37</note> = external ID? -->
-            <note type="foliation">64</note>
+            <note type="foliation" rend="typewritten">64</note>
             <pb n="2"/>
             <!-- folgender Absatz wurde zwischen die vorangegangenen beiden Absätze eingeschoben -->
             <p>Data la gravità della situazione prospettata anche <add place="above">nel
@@ -151,7 +152,7 @@
                 <del rend="strikethrough">e</del> vigili attentamente <del rend="strikethrough"
                     >questa propaganda</del> affine di non trovarsi di fronte a dolorose <del
                     rend="strikethrough">e irreparabili</del> sorprese.</p>
-            <note type="foliation">65</note>
+            <note type="foliation" rend="typewritten">65</note>
             <!-- stellt folgendes ein eigenes Dokument dar? -->
             <pb n="3"/>
             <!-- <note type="original-nr">452/37</note> = internal ID? -->

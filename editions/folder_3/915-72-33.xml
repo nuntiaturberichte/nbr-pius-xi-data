@@ -83,7 +83,7 @@
         <profileDesc>
             <handNotes>
                 <handNote>
-                    <p><!-- Autorenhand --></p>
+                    <p><!-- identifizierte Handschrift --></p>
                 </handNote>
             </handNotes>
             <abstract>
@@ -104,12 +104,13 @@
             </correspDesc>
             <particDesc>
                 <listPerson>
-                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                    <person><!-- persName@ref für Person, die im Dokument erwähnt wird und von der es eine Kurzbiographie gibt --></person>
                 </listPerson>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+        <!-- text@type -->
         <body>
             <pb n="1"/>
             <ab type="archive-nr">915-72-33</ab>
@@ -133,7 +134,7 @@
                 Quaedam accusationes non erant bene fundatae, ex levitate animi prodierunt. Postea
                 s. Tideles estote abbati. vestro, magnum in eo habetis exemplar?</p>
             <note type="later-nr">1827/38</note>
-            <note type="foliation">33</note>
+            <note type="foliation" rend="typewritten">33</note>
             <pb n="2"/>
             <p>Haec verba post tot graves incriminationes fundatas dicta non sunt nisi falsa
                 erroremque generant in iis qui foris sunt Ideo rogamus Eminentiam Vestra ut sibi
@@ -172,7 +173,7 @@
                 cum eum nec R. P. prior neque alli qui rem viderant adomerent. Omnes qui easres
                 audierunt vehementer scandalizati sunt, cum multi alii sacerdotes parati essent
                 missam cantatam celebrare. En tropissimus liturgismus, missa pontificalis praevalet
-                legi <note type="foliation">34</note>
+                legi <note type="foliation" rend="typewritten">34</note>
                 <pb n="4"/> ecclesiasticae. Aperte peccatur contra can. 858 c. et 2475, atque poena
                 contrahitur can. 2321. Ignorantia in hac re non excusat, nosse debent et sententias
                 theologiae moralis in ea materia v. gr. Arrequi. Quis vero audeat eiusmodi
@@ -207,7 +208,7 @@
                 autem superiores nostri nolunt nos appellare ad auctoritates maiores. Est monachus
                 noster quidam, qui litteras habet et prioris et abbatis nostri quibus eum prohibent
                 adire aut praesidem aut Summum Ponti fixem. Fugiuntne lucem? Et ab hominibus
-                eiusmodi <note type="foliation">35</note>
+                eiusmodi <note type="foliation" rend="typewritten">35</note>
                 <pb n="6"/> Die 31 Maii 1938 Nunniatur et transmittantur ad Roman Visitatoremn Ap.
                 Winctzer regulam debeo sumere conscientiae? Quod Deus bene vertat. Quaelibet fiducia
                 in tales superiores opus est cesset. Talis abbas nobis est "magnum exemplar". Omnia
@@ -248,7 +249,7 @@
                 appellavit, cui abbas respondit esse encyclicas quae continent haeresias. Sie mal
                 facta malo modo defendit conscientiasque in errorem inducit. Nun ita agit minister
                 Christi?</p>
-            <note type="foliation">36</note>
+            <note type="foliation" rend="typewritten">36</note>
             <pb n="8"/>
             <p>Adversus id genus violentias deceptionesque litteris adieram Eminentiam Vestram
                 petens ut nobis auxilio veniret. Et de his litteris abbas Ildefonsus indignatus est.

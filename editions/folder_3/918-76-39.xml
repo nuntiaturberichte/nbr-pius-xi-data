@@ -83,7 +83,7 @@
         <profileDesc>
             <handNotes>
                 <handNote>
-                    <p><!-- Autorenhand --></p>
+                    <p><!-- identifizierte Handschrift --></p>
                 </handNote>
             </handNotes>
             <abstract>
@@ -104,12 +104,13 @@
             </correspDesc>
             <particDesc>
                 <listPerson>
-                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                    <person><!-- persName@ref für Person, die im Dokument erwähnt wird und von der es eine Kurzbiographie gibt --></person>
                 </listPerson>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+        <!-- text@type -->
         <body>
             <pb n="1"/>
             <ab type="archive-nr">918-76-39</ab>
@@ -151,7 +152,7 @@
                 Konzentrationslagern der Gestapo in bestialischer Weise zu Tode gemartert werden.
                 Nicht vielleicht die Ehre, wohl aber das Leben all der Hun- <note type="later-nr"
                     >4246/38</note>
-                <note type="foliation">39</note>
+                <note type="foliation" rend="typewritten">39</note>
                 <pb n="2"/> derte und Tausende edler, ja heiligmäßiger katholischer Männer, die
                 heute in dem geschändeten Österreich dem langsamen Vergiftungstod ausgesetzt sind,
                 muß vom Hl. Stuhl mindestens ebenso als eine die ganze <add place="above"
@@ -229,7 +230,7 @@
                 Kirche an ihr irre werden, weil sie sich sagen: "Qui tacet, consentire videtur!"</p>
             <p style="includesPb">Ew. Eminenz werden bei Lektüre dieses Schreibens, das ich im
                 Gehorsam gegenüber der immer eindringlicher sich vernehmbar machenden Stimme meines
-                Gewissens verfaßt habe, sich gewiß <note type="foliation">40</note>
+                Gewissens verfaßt habe, sich gewiß <note type="foliation" rend="typewritten">40</note>
                 <pb n="4"/> sagen, es sei leicht, solche Forderungen an den Hl.Stuhl zu stellen,
                 aber schwer, ihnen zu entsprechen. Darüber bin ich mir vollkommen im Klaren. Und
                 deshalb möchte ich nicht versäumen, einige Andeutungen zu machen, in welcher Weise
@@ -306,7 +307,7 @@
                 "Schutzhaft" genommen wurde<edit>n</edit>. z. Ich weiß, was "normale Schutzhaft"
                 bedeutet, und kann mir daher sehr gut vorstellen, welch bestialischen
                 <edit>W</edit>orturen die Schutzhäftlinge und Konzentrationslager-Insassen
-                besonderen Grades, d. h[.]<edit>:</edit> also die prominenten katholischen
+                besonderen Grades, d. h<edit>.</edit><edit>:</edit> also die prominenten katholischen
                 Führerpersönlichkeiten des seinerzeitigen Österreich, unterworfen sind. Aus
                 12jähriger Tätigkeit als katholischer Publizist in Wien - ich war seit 1925
                 Redakteur der katholischen Wochenschrift "Schönere Zu- <pb n="6"/> kunft" - kenne

@@ -83,7 +83,7 @@
         <profileDesc>
             <handNotes>
                 <handNote>
-                    <p><!-- Autorenhand --></p>
+                    <p><!-- identifizierte Handschrift --></p>
                 </handNote>
             </handNotes>
             <abstract>
@@ -104,12 +104,13 @@
             </correspDesc>
             <particDesc>
                 <listPerson>
-                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                    <person><!-- persName@ref für Person, die im Dokument erwähnt wird und von der es eine Kurzbiographie gibt --></person>
                 </listPerson>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+        <!-- text@type -->
         <body>
             <pb n="1"/>
             <ab type="archive-nr">918-75-40</ab>
@@ -138,7 +139,7 @@
                 l’intervento della polizia. Tale richiesta fu fatta ripetutamente, perchè si temeva
                 che dalla parte della piazza di S. Stefano fosse sfondato e la folla invade- <note
                     type="later-nr">3940/38</note>
-                <note type="foliation">40</note>
+                <note type="foliation" rend="typewritten">40</note>
                 <pb n="2"/> rebbe il palazzo. Al portone si bussava continuamente. Nel frattempo
                 alcuni diversi centri della polizia chiamati dal Segretario arcivescovile,
                 telefonicamente l’assicurarono che le misure necessarie sarebbero state prese.
@@ -174,7 +175,7 @@
                 domandò una dichiarazione scritta che a nessuno racconterebbero l'accaduto. Sui
                 giornali nemmeno una parola venne pubblicata a questo riguardo.</p>
             <p>?</p>
-            <note type="foliation">41</note>
+            <note type="foliation" rend="typewritten">41</note>
         </body>
     </text>
 </TEI>

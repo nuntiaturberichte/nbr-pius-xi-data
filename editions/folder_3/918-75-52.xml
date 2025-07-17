@@ -83,7 +83,7 @@
         <profileDesc>
             <handNotes>
                 <handNote>
-                    <p><!-- Autorenhand --></p>
+                    <p><!-- identifizierte Handschrift --></p>
                 </handNote>
             </handNotes>
             <abstract>
@@ -104,12 +104,13 @@
             </correspDesc>
             <particDesc>
                 <listPerson>
-                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                    <person><!-- persName@ref für Person, die im Dokument erwähnt wird und von der es eine Kurzbiographie gibt --></person>
                 </listPerson>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+        <!-- text@type -->
         <body>
             <pb n="1"/>
             <ab type="archive-nr">918-75-52</ab>
@@ -135,7 +136,7 @@
             <p style="includesPb">1° - Nel discorso tenuto nella Cattedrale di Santo Stefano venerdì
                 sera, giorno 7 corrente, ai 6000 giovani l'Eminentissimo Signor Cardinale Innitzer,
                 dopo aver elencato quanto era <note type="later-nr">3961/38</note>
-                <note type="foliation">52</note>
+                <note type="foliation" rend="typewritten">52</note>
                 <pb n="2"/> stato tolto alla Gioventù Cattolica (organizzazione, bandiere, insegne,
                 ecc.), aveva anche enumerato quanto di buono ancora restava e, sottolineando il dono
                 della fede, aveva detto: "Cristo è il nostro duce!" - Il senso puramente religioso
@@ -180,10 +181,10 @@
                 speculazione! Si sperava, fors'anche si pregava, perchè la Germania avesse
                 difficoltà di politica estera".</p>
             <p style="includesPb">Poi l’oratore fa la cronaca dei luttuosi avvenimenti, chiama le
-                canzoni religiose cantate in Duomo: "<hi rend="underline">Schuschniggs¬</hi>
-                <hi rend="underline">lieder</hi>" ed accusa il Signor Cardinale di aver detto:
-                "Cristo è la nostra guida (Führer)", accusando anche il Cardinale di aver mancato di
-                riverenza al nome di Cristo. E topo aver de- <note type="foliation">53</note>
+                canzoni religiose cantate in Duomo: "<hi rend="underline">Schuschniggslieder</hi>"
+                ed accusa il Signor Cardinale di aver detto: "Cristo è la nostra guida (Führer)",
+                accusando anche il Cardinale di aver mancato di riverenza al nome di Cristo. E topo
+                aver de- <note type="foliation" rend="typewritten">53</note>
                 <pb n="4"/> fin<edit>i</edit>to la devastazione del palazzo una ben insignificante
                 cosa, allorquando il popolo intero si alza come un sol uomo per reagire contro le
                 gravi colpe dell'Azione Cattolica politica e del cattolicesimo politico, aggiunse:
@@ -211,11 +212,12 @@
                 del giorno 15 corrente mese.</p>
             <pb n="5"/>
             <p>Mi valgo dell'occasione per presentare i sensi del mio profondissimo ossequio, coi
-                quali, chino al bacio della Sacra Porpora, ho l'alto onore di professarmi[.]</p>
+                quali, chino al bacio della Sacra Porpora, ho l'alto onore di
+                    professarmi<edit>.</edit></p>
             <closer><salute><lb/>di Vostra Eminenza Reverendissima</salute></closer>
             <closer><signed><lb/>devmo - umilmo - obbmo servo <lb/>+ Cesare Orsenigo
                     <lb/>Arcivescovo di Tolemaide di L. <lb/>Nunzio Apostolico</signed></closer>
-            <note type="foliation">54</note>
+            <note type="foliation" rend="typewritten">54</note>
         </body>
     </text>
 </TEI>

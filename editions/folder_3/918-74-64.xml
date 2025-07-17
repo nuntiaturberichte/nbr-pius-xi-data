@@ -83,7 +83,7 @@
         <profileDesc>
             <handNotes>
                 <handNote>
-                    <p><!-- Autorenhand --></p>
+                    <p><!-- identifizierte Handschrift --></p>
                 </handNote>
             </handNotes>
             <abstract>
@@ -104,12 +104,13 @@
             </correspDesc>
             <particDesc>
                 <listPerson>
-                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                    <person><!-- persName@ref für Person, die im Dokument erwähnt wird und von der es eine Kurzbiographie gibt --></person>
                 </listPerson>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+        <!-- text@type -->
         <body>
             <pb n="1"/>
             <ab type="archive-nr">918-74-64</ab>
@@ -165,7 +166,7 @@
             <p>2) Finanziell ist alles in den Händen des Bischof<edit>e</edit>s und die Theologen
                 brauchen nicht die übergrossen Gebühren zu zahlen.</p>
             <p style="includesPb">3<edit>)</edit> Die vom deutschen Konkordat für die Ausübung der
-                    <note type="foliation">64</note>
+                    <note type="foliation" rend="typewritten">64</note>
                 <pb n="2"/> Seelsorge verlangten Bedingungen (dass man 6 Semester an einer vom
                 Staate anerkannten Lehranstalt gehört hat) sind erfüllt.</p>
             <p>4) Damit ist auch die Militärfreiheit verbunden.</p>

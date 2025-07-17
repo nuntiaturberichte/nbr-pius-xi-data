@@ -83,7 +83,7 @@
         <profileDesc>
             <handNotes>
                 <handNote>
-                    <p><!-- Autorenhand --></p>
+                    <p><!-- identifizierte Handschrift --></p>
                 </handNote>
             </handNotes>
             <abstract>
@@ -104,12 +104,13 @@
             </correspDesc>
             <particDesc>
                 <listPerson>
-                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                    <person><!-- persName@ref für Person, die im Dokument erwähnt wird und von der es eine Kurzbiographie gibt --></person>
                 </listPerson>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+        <!-- text@type -->
         <body>
             <pb n="1"/>
             <ab type="archive-nr">918-75-39</ab>
@@ -137,7 +138,7 @@
                 ........</salute></closer>
             <closer><signed><lb/>F° SAC. UMBERTO KALDEWEY</signed></closer>
             <note type="later-nr">1940/35</note>
-            <note type="foliation">39</note>
+            <note type="foliation" rend="typewritten">39</note>
         </body>
     </text>
 </TEI>

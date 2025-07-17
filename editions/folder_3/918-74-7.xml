@@ -83,7 +83,7 @@
         <profileDesc>
             <handNotes>
                 <handNote>
-                    <p><!-- Autorenhand --></p>
+                    <p><!-- identifizierte Handschrift --></p>
                 </handNote>
             </handNotes>
             <abstract>
@@ -104,18 +104,18 @@
             </correspDesc>
             <particDesc>
                 <listPerson>
-                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                    <person><!-- persName@ref für Person, die im Dokument erwähnt wird und von der es eine Kurzbiographie gibt --></person>
                 </listPerson>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+        <!-- text@type -->
         <body>
             <pb n="1"/>
             <ab type="archive-nr">918-74-7</ab>
             <seg type="subjectLine"><hi rend="underline">Vorschlag für die künftige Zusammenarbeit
-                    des deutschen Epis¬</hi>
-                <hi rend="underline">kopats der Fuldaer Konferenz.</hi></seg>
+                    des deutschen Episkopats der Fuldaer Konferenz.</hi></seg>
             <p>Die Ereignisse der letzten Monate haben ersehen lassen, daß der Apparat der Fuldaer
                 Konferenz für eine schnelle Verständigung der hochwürdigsten Herren und für eine
                 Ausrichtung auf gemeinschaftliches Handeln zu schwerfällig ist. Dazu kommt, daß die
@@ -137,7 +137,7 @@
                 wäre.</p>
             <p>Dieser Vertreterausschuß würde zweckmäßig <hi rend="underline">nicht</hi> in Fulda
                 zusammentreten aus folgenden zwei Gründen:</p>
-            <note type="foliation">7</note>
+            <note type="foliation" rend="typewritten">7</note>
             <pb n="2"/>
             <p>1. Bei der heutigen Zeitlage erscheint es nicht möglich, daß dringend notwendige
                 Verständigungen der Bischöfe von den Alumnatsferien in Fulda abhängen.</p>
@@ -156,7 +156,7 @@
                 >Plenar</hi>konferenz in Fulda, von der man in weiten Kreisen jedesmal
                     <sic>ein</sic> richtunggebende Kundmachung erwartet, die aus mancherlei Gründen
                 nicht jedesmal erfolgen kann.</p>
-            <note type="foliation">8</note>
+            <note type="foliation" rend="typewritten">8</note>
         </body>
     </text>
 </TEI>

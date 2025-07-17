@@ -3,9 +3,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title><!-- Titel --></title>
+                <title>Alois Hudal an <!-- Empfänger -->, Rom 11.11.1936</title>
                 <author>
-                    <persName><!-- Autor und DNB-Link --></persName>
+                    <persName ref="https://d-nb.info/gnd/118554239">Alois Hudal</persName>
                 </author>
                 <respStmt>
                     <resp>TEI tempalte prepared by</resp>
@@ -83,7 +83,7 @@
         <profileDesc>
             <handNotes>
                 <handNote>
-                    <p><!-- Autorenhand --></p>
+                    <p><!-- identifizierte Handschrift --></p>
                 </handNote>
             </handNotes>
             <abstract>
@@ -91,9 +91,9 @@
             </abstract>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName><!-- Name + @ref --></persName>
-                    <date><!-- Datum + @when --></date>
-                    <placeName><!-- Ort --></placeName>
+                    <persName ref="https://d-nb.info/gnd/118554239">Alois Hudal</persName>
+                    <date when="1936-11-11">11.11.1936</date>
+                    <placeName>Rom</placeName>
                 </correspAction>
                 <correspAction type="received">
                     <persName><!-- Name + @ref --></persName>
@@ -104,22 +104,23 @@
             </correspDesc>
             <particDesc>
                 <listPerson>
-                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                    <person><!-- persName@ref für Person, die im Dokument erwähnt wird und von der es eine Kurzbiographie gibt --></person>
                 </listPerson>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+        <!-- text@type -->
         <body>
             <pb n="1"/>
-            <ab type="archive-nr">903-64-51</ab>
-            <add place="margin-left">Spiega il contenuto e le finalità del suo libro</add>
-            <opener><dateline><lb/>Rom, am 11. November 1936.</dateline></opener>
-            <opener><salute><lb/>Euere Exzellenz,</salute></opener>
+            <opener><add place="margin-left">Spiega il contenuto e le finalità del suo
+                    libro</add><dateline>Rom, am 11. November 1936.</dateline><salute>Euere
+                    Exzellenz,</salute></opener>
             <p>in ehrfurchtsvollster Ergebung überreiche ich mein neuestes Buch "Die Grundlagen des
-                Nationalsozialismus" un<edit>d</edit> bitte, wenn es Euere Exzellenz für geeignet
-                befinden, auch ein Exemplar im Originaleinband Seiner Heiligkeit als Zeichen meiner
-                bedingungslosen treuen Ergebung gnädigst überreichen zu wollen.</p>
+                Nationalsozialismus" un<add rend="handwritten">d</add> bitte, wenn es Euere
+                Exzellenz für geeignet befinden, auch ein Exemplar im Originaleinband Seiner
+                Heiligkeit als Zeichen meiner bedingungslosen treuen Ergebung gnädigst überreichen
+                zu wollen.</p>
             <p style="includesPb">Dieses Buch ist die Frucht einer Arbeit von 4 Jahren, 3 Theologen
                 und der Pressereferent Ministerialrat Dr. Frieberger der Österreichischen
                 Gesandtschaft in Rom haben es vor der Drucklegung überprüft, um jeder Möglichkeit
@@ -130,8 +131,8 @@
                 Tatsache, dass ich seit meiner Studentenzeit diese Bewegung, die nichts
                 Reichsdeutsches darstellt sondern auf dem Boden der alten Habsburger Monarchie
                 entstanden ist, bis in die Einzelheiten kennen gelernt habe in ihrer Gefährlichkeit
-                und propagandistischen Zugkraft. Dazu kamen <note type="later-nr">131/37</note>
-                <note type="foliation">51</note>
+                und propagandistischen Zugkraft. Dazu kamen <!-- <note type="later-nr">131/37</note> = external ID?-->
+                <note type="foliation" rend="typewritten">51</note>
                 <pb n="2"/> für mich aus neuester Zeit Feststellungen, dass die Bewegung auch im
                 Ausland an Terrain gewinnt, in Italien (Gründung eines deutsch - italienischen <hi
                     rend="underline">Jugendführerinstitutes</hi> in Rom und Berlin), in Spanien
@@ -152,10 +153,11 @@
                 reserviert. In diesem Sinne müssten allerdings auch die Staatsmänner Italiens und
                 Österreichs</p>
             <!-- Laut Dokumentenauflistung in der Mappe endet hier 903-64-51, die Fortsetzung (903-64-52) wäre ein eigenes Dokument. Ich habe es nachfolgend eingefügt -->
-            <p type="continued">für eine kluge Einflussnahme bei Hitler gewonnen werden. Für diese
-                meine Auffassung sind ernste Kreise im deutschen Militär und auch innerhalb der
-                Partei zu haben, wie ich aus den Äusserungen alter Freunde weiss, so sehr der Kreis
-                um Rosenberg es ablehnt.</p>
+            <!-- ggf. <pb n="3"> einfügen -->
+            <p>für eine kluge Einflussnahme bei Hitler gewonnen werden. Für diese meine Auffassung
+                sind ernste Kreise im deutschen Militär und auch innerhalb der Partei zu haben, wie
+                ich aus den Äusserungen alter Freunde weiss, so sehr der Kreis um Rosenberg es
+                ablehnt.</p>
             <p>Mein Buch wollte nichts als schlichter Wegbereiter sein für eine <hi rend="underline"
                     >solche</hi> Lösung, von deren Verwirklichung das Schicksal der Kirche im
                 deutschen Lebensraum besonders unter der heranwachsenden Jugend abhängt.</p>
@@ -167,16 +169,17 @@
                 heiligen Werk, weil von ihm, wenn die NS Partei nicht im kommenden Krieg versinkt,
                 der weitere christliche Charakter Mitteleuropas abhängt.</p>
             <p style="includesPb">In dieser Gesinnung überreiche ich dieses Werk mit der Bitte, ein
-                gütiger Kritiker sein zu wollen. Von den Kreisen <note type="foliation">52</note>
-                <pb n="2"/> der reichsdeutschen Emignanten, die von Wien, Holland und der Schweiz
-                aus in ihrer Presse zum Schaden der Gesamtkirche eine rein negative Haltung mit
-                einer Politik =des ressentiments= führen, kann das Heil nicht kommen. Von dieser
-                Seite habe auch ich für mein Werk, das mit den sogenannten =Brückenbauern= gar nicht
-                zu tuen hat, auch nichts zu erwarten als Verleumdung und Intrigen.</p>
+                gütiger Kritiker sein zu wollen. Von den Kreisen <note type="foliation" rend="typewritten">52</note>
+                <pb n="2"/><!-- ggf. n="4" --> der reichsdeutschen Emignanten, die von Wien, Holland
+                und der Schweiz aus in ihrer Presse zum Schaden der Gesamtkirche eine rein negative
+                Haltung mit einer Politik =des ressentiments= führen, kann das Heil nicht kommen.
+                Von dieser Seite habe auch ich für mein Werk, das mit den sogenannten
+                =Brückenbauern= gar nicht zu tuen hat, auch nichts zu erwarten als Verleumdung und
+                Intrigen.</p>
             <closer><salute><lb/>Im Kusse des Heiligen Ringes verbleibe ich als <lb/>
                     <sic>Euerer</sic> Exzellenz <lb/>stets ergebener <lb/>+ Hudal <lb/>Rektor der
                     Anima.</salute></closer>
-            <note type="later-nr">Austria 904</note>
+            <!-- <note type="later-nr">Austria 904</note> = external ID? -->
         </body>
     </text>
 </TEI>

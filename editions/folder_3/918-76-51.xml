@@ -83,7 +83,7 @@
         <profileDesc>
             <handNotes>
                 <handNote>
-                    <p><!-- Autorenhand --></p>
+                    <p><!-- identifizierte Handschrift --></p>
                 </handNote>
             </handNotes>
             <abstract>
@@ -104,12 +104,13 @@
             </correspDesc>
             <particDesc>
                 <listPerson>
-                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                    <person><!-- persName@ref für Person, die im Dokument erwähnt wird und von der es eine Kurzbiographie gibt --></person>
                 </listPerson>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+        <!-- text@type -->
         <body>
             <pb n="1"/>
             <ab type="archive-nr">918-76-51</ab>
@@ -144,7 +145,7 @@
                 il vero carattere tedesco, specialmente la sua concezione della solidarietà di
                 razza, della fedeltà e dell'eroismo.</p>
             <note type="later-nr">4925/38</note>
-            <note type="foliation">51</note>
+            <note type="foliation" rend="typewritten">51</note>
             <pb n="2"/>
             <p>Si assicura che per le vie di Vienna i preti sono spesso esposti ad ogni genere
                 d'insulto. La scorsa settimana in molte scuole elementari i maestri hanno insegnato
@@ -177,7 +178,7 @@
             <p style="includesPb">Circa la situazione religiosa nel territorio dei Sudeti,
                 recentemente annesso, pare che il Commissario speciale Henlein abbia ottenuto dagli
                 organi responsabili di poter procedere con molta prudenza e di realizzare la piena
-                equi- <note type="foliation">52</note>
+                equi- <note type="foliation" rend="typewritten">52</note>
                 <pb n="3"/> parazione delle condizioni, sia legali che scolastiche, con quelle del
                     <hi rend="underline">Reich</hi> in tappe successive, per non sollevare la
                 reazione del Clero e della popolazione cattolica. Lo scioglimento volontario delle
@@ -196,7 +197,7 @@
                 ed in Baviera. Per il momento non si vuol compromettere il risultato della elezione
                 plebiscitaria dei deputati sudetici al <hi rend="underline">Reichstag</hi>, che avrà
                 luogo il 4 Dicembre p.v.</p>
-            <note type="foliation">53</note>
+            <note type="foliation" rend="typewritten">53</note>
         </body>
     </text>
 </TEI>

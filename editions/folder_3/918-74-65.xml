@@ -83,7 +83,7 @@
         <profileDesc>
             <handNotes>
                 <handNote>
-                    <p><!-- Autorenhand --></p>
+                    <p><!-- identifizierte Handschrift --></p>
                 </handNote>
             </handNotes>
             <abstract>
@@ -104,12 +104,13 @@
             </correspDesc>
             <particDesc>
                 <listPerson>
-                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                    <person><!-- persName@ref für Person, die im Dokument erwähnt wird und von der es eine Kurzbiographie gibt --></person>
                 </listPerson>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+        <!-- text@type -->
         <body>
             <pb n="1"/>
             <ab type="archive-nr">918-74-65</ab>
@@ -154,7 +155,7 @@
             <closer><signed><lb/>Dr. Reinhardt.</signed></closer>
             <closer><lb/>Für die Richtigkeit <lb/>der Ausferti<edit>g</edit>ung: <lb/>Dr.
                 Anhauer</closer>
-            <note type="foliation">65</note>
+            <note type="foliation" rend="typewritten">65</note>
         </body>
     </text>
 </TEI>

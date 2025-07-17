@@ -83,7 +83,7 @@
         <profileDesc>
             <handNotes>
                 <handNote>
-                    <p><!-- Autorenhand --></p>
+                    <p><!-- identifizierte Handschrift --></p>
                 </handNote>
             </handNotes>
             <abstract>
@@ -104,12 +104,13 @@
             </correspDesc>
             <particDesc>
                 <listPerson>
-                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                    <person><!-- persName@ref für Person, die im Dokument erwähnt wird und von der es eine Kurzbiographie gibt --></person>
                 </listPerson>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+        <!-- text@type -->
         <body>
             <pb n="1"/>
             <ab type="archive-nr">918-75-56</ab>
@@ -131,7 +132,7 @@
             <p style="includesPb">Mi risulta che simili funzioni, con invito a tutta la gioventù
                 nella Cattedrale, non sono nuove in Vienna; già l’anno antecedente aveva avuto
                 luogo, non di sera <note type="later-nr">4386/38</note>
-                <note type="foliation">56</note>
+                <note type="foliation" rend="typewritten">56</note>
                 <pb n="2"/> ma, di giorno, e dopo la funzione i giovani avevano anche potuto
                 marciare indisturbati lungo il Ring.</p>
             <p>Ho avuto, da parte di Sacerdoti molto attendibili, serie informazioni circa il
@@ -160,7 +161,7 @@
             <closer><salute><lb/>di Vostra Eminenza Reverendissima</salute></closer>
             <closer><signed><lb/>devmo - umilmo - obbmo servo <lb/>+ Cesare Orsenigo
                     <lb/>Arcivescovo di Tolemaide <lb/>Nunzio Apostolico</signed></closer>
-            <note type="foliation">57</note>
+            <note type="foliation" rend="typewritten">57</note>
         </body>
     </text>
 </TEI>

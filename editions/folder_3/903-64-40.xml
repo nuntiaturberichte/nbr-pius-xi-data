@@ -83,7 +83,7 @@
         <profileDesc>
             <handNotes>
                 <handNote>
-                    <p><!-- Autorenhand --></p>
+                    <p><!-- identifizierte Handschrift --></p>
                 </handNote>
             </handNotes>
             <abstract>
@@ -104,265 +104,384 @@
             </correspDesc>
             <particDesc>
                 <listPerson>
-                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                    <person><!-- persName@ref für Person, die im Dokument erwähnt wird und von der es eine Kurzbiographie gibt --></person>
                 </listPerson>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+        <!-- text@type -->
         <body>
-            <pb n="1"/>
-            <ab type="archive-nr">903-64-40</ab>
-            <opener><dateline><lb/>Rom, 9. November 1936.</dateline></opener>
-            <seg type="subjectLine"><hi rend="underline">Kurzer Ueberblick ueber weitere Gedanken
-                    aus</hi>
-                <hi rend="underline">"Die Grundlagen des Nationalsozialismus" von Bischof
-                    Hudal.</hi></seg>
-            <p>Nach einer Uebersicht ueber den grundlegenden Anteil, den das im nationalen
-                Grenzkampf geschulte Oesterreichertum von allem Anfang an an der Bewegung hatte,
-                bespricht Dr. Hudal die Wegbereiter des National-sozialismus in seiner heutigen
-                Gestalt, die liberalen Deutschnationalen in Oesterreich, die Systeme von
-                    Sch<edit>o</edit>penhauer, Nietzsche, Chamberlain, ferner die kleindeutsche
-                Geschichtskonstruktion und jene Dichter und Seher, die wohl gegen den
-                kleinbuergerlichen Menschen fuer den heroischen aber auch <edit>xxxxxx</edit>
-                <add place="above">gegen</add>. den christlichen Menschen fuer den heidnischen
-                eintraten. Eine Ausnahme bildet allerdings der Rembrandtdeutsche, der sich immermehr
-                der katholischen Kirche naeherte und schliesslich in sie eintrat. Aber auch er
-                gehoerte zu den Wegbereitern.</p>
-            <p style="includesPb">Dazu kommen soziale Forderungen, die im Laufe des 19. Jahrhunderts
-                laut wurden; was der Nationalsozialismus in der Verwirklichung erreicht hat, erkennt
-                der Verfasser restlos an<edit>.</edit> und stellt mit Befriedigung fest, dass diese
-                    <edit>M</edit>eistungen mit den sozialen Enzykliken der Paepste
-                uebereinstimmen[.] Er prueft sodann den Begriff der Weltanschauung, insbesondere der
-                religioesen Weltanschauung und billigt den Begriff einer politischen Weltansicht,
-                lehnt es aber ab, den Nationalsozialismus als eine Weltanschauung im umfassenden
-                Sinne gelten zu lassen, weil er dann dem Christentum ueberhaupt keinen Raum
-                gewaehren koennte. Den Begriff des positiven Christentums <edit>xxxxx</edit> bejaht
-                er in dem Sinne der geschichtlich gegebenen Religion, wobei er mit dem Fuehrer
-                vollkommen uebereinstimmt, aber nicht in dem Sinne einer bloss dem irdischen Leben
-                zugewandten heldischen Gesinnung. Im Mittelpunkt der politischen Weltanschauung
-                steht der Begriff der Rasse. Der Verfasser anerkennt den Wert der Rasse, ihre
-                Bedeutung fuer die Geschichte und die menschliche Kultur; es sei nicht zu leugnen,
-                dass auch kulturelle Unterschiede rassisch bedingt seien. Aber die Rasse ist nicht
-                alles; sie ist nicht <note type="later-nr">131/37</note>
-                <note type="foliation">40</note>
-                <pb n="2"/> der einzige Wertmasstab. Kultur ist auch ein metaphysisches Phaenomen,
-                das nicht nur vom Blute, sondern auch von geistigen Voraussetzungen abhaengt. Mit
-                dem Rassenproblem haengt die Judenfrage zusammen, die besonders in Mitteleuropa
-                grosse Bedeutung hat. Schon Thomas von Aquin hat das wirtschaftliche Uebergewicht
-                der Juden bekaempft; die christlichsoziale Bewegung in Oesterreich wandte sich auch
-                gegen das Uebermass des juedischen Einflusses auf geistigen Gebieten. Die Abwehr
-                billigt der Verfasser durchaus, betrachtet aber die Judenfrage mit Ruecksicht auf
-                die Blutzusammensetzung<edit>xxxxxx</edit> des Judentums nicht nur als eine rein
-                biologische, sondern auch als eine kulturelle Angelegenheit. Es war ein Fehler des
-                liberalen Individualismus, dass er dieses Problem nicht sah. Gegen den von
-                leidenschaftlichen Nationalsozialisten erhobenen Vorwurf, dass das Christentum dem
-                deutschen Volke rassenfremd sei, wendet sich der Verfasser mit der Bemerkung, dass
-                es kein grosses Volk von reiner Rasse gebe und keine grosse Erscheinung der Welt von
-                einer einzigen Rasse geschaffen worden sei<sic>.;</sic> es ist kein Vorwurf am
-                Christentum, dass verschiedene Voelker und Rassen an ihm gearbeitet haben. Die
-                christliche Religion verdankt dem Judentum den strengen Monotheismus, den
-                    <edit>G</edit>riechen die philosophische Durchbildung der Lehre, den Roemern die
-                klare Organisation, den Germanen die Entschlossenheit zur bestaendigen Pruefung. Aus
-                dem Rassengedanken ergibt sich die Notwendigkeit einer eugenischen Politik; im
-                Zusammenhang damit steht die Sterilisierung von Entarteten, die fuer den Nachwuchs
-                gefaehrlich sind. Das ist das einzige Kapitel, wo die nationalsozialistische und die
-                katholische Auffassung einstweilen noch im strengen Widerspruch gegeneinander
-                stehen. Aber man erfaehrt aus diesem Abschnitt, dass es Sterilisierungsgesetze nicht
-                nur in Deutschland gibt, sondern in <edit>2</edit>2 Staaten der Union, im Kanton
-                Waadt, in Finnland, Norwegen, Schweden, Daenemark und Estland, und dass
-                Gesetzesentwuerfte solcher Art in mehreren anderen Staaten bereits vorliegen.
-                Vielleicht ist es moeglich, auch in Deutschland zu einem praktischen Modus vivendi
-                zu kommen. Der Ver- <note type="foliation">41</note>
-                <pb n="3"/> fasser deutet einen solchen an, steht aber natuerlich auf dem
-                katholischen Standpunkt, wie er in den Enzyklika Casti Conubii festgelegt ist. Die
-                Abschnitte ueber Volkstum, Staat, Fuehrerschaft zeigen deutlich, dass es
-                prinzipielle Gegensaetze in diesen Beziehungen nicht gibt. Weder die biologische
-                Deutung des Volkstums, noch die Idee der nationalen Einheit bieten an sich Anlass zu
-                religioesem Widerspruch[.] Anfechtbar sind nur die Uebertreibungen, so die Meinung,
-                dass das Volkstum nichts anderes als Blutgemeinschaft sei und die Lehre, dass der
-                totale Staat alle Bezirke des menschlichen Seelenlebens beherrschen muesse. Von
-                besonderem Interesse sind die Abschnitte, ueber Religion und Politik, insbesondere
-                ueber den politischen Katholizismus, und ueber das Verhaeltnis zwischen romanischem
-                und deutschen Wesen. Der Verfasser steht auf dem Standpunkt, dass die Zeit des
-                politischen Katholizismus vorueber sei und dass der Nationalsozialismus den
-                heroischen Kampf gegen Moskau und Versailles zu fuehren die geschichtliche Aufgabe
-                habe. Aber gerade deshalb haelt er es fuer richtig, den alten, katholischen Parteien
-                geschichtliche Gerechtigkeit widerfahren zu lassen. Seine Betrachtungen ueber die
-                verschiedene Entwicklung der konfessionellen Parteien im <edit>D</edit>eutschen
-                Reich und in Oesterreich sind auch fuer den aufschlussreich, der das alles
-                mitgemacht hat. Im letzten Abschnitt widerlegt der Verfasser die Meinung, als ob das
-                roemische Christentum diesseitsfluechtig und innerlich zerbrochen sei, die
-                germanische Froemmigkeit hingegen nur dem Diesseits zugewandt und heroisch. Auch
-                    <edit>C</edit> christliche Selbstueber<edit>w</edit>indung und christlicher
-                Opfersinn sind heldenhaft. Der Wesensunterschied liegt anderswo: die germanische
-                Seele neigt zur Verinnerlichung, zum Problematischen und zur seelischen Unruhe, die
-                romanische Froemmigkeit zur strengen Form und zur objectiven Ordnung. Jede dieser
-                Anlagen hat ih<edit>r</edit>e besonderen Vorzuege und Schwaechen; deshalb sind beide
-                zur gegenseitigen Ergaenzung bestimmt.</p>
-            <note type="foliation">42</note>
-            <pb n="4"/>
-            <date>Rom, 9. November 1936.</date>
-            <head>"<hi rend="underline">Die Grundlagen des Nationalsozialismus</hi>" von <hi
-                    rend="underline">Bischof Dr.</hi>
-                <hi rend="underline">A. Hu<edit>d</edit>al</hi>, Johannes Guenther Verlag, Leipzig
-                und Wien 1936; 253 Seiten Text, 40 Seiten Anmerkungen und
-                Literaturverzeichnis.</head>
-            <p>Das neue Werk von Bischof Dr. Hudal, das sich in seinem Untertitel "Eine
-                ideengeschichtliche Untersuchung" mit vollem Recht nennt, ist in Oesterreich
-                gedruckt worden<edit>,</edit> aber in einem Verlagshause erschienen, das sowohl in
-                Leipzig wie in Wien Niederlassungen besitzt. Wenige Tage nach Erscheinen des sehr
-                bedeutenden Buches sind bereits 5000 Exemplare davon verkauft worden, davon die
-                Mehrzahl in Deutschland. Bisher haben fuenf kommandierende Gener<sic>a</sic>le das
-                Buch bei dem Verleger in Leipzig telegraphisch bestellt, ein untrueglicher Beweis
-                dafuer, dass gerade bei der hohen Generalitaet im Reiche ein lebhaftes Interesse
-                dafuer besteht. Die Reichsschrifttumskammer hat der Verbreitung des Werkes
-                    <edit>i</edit>n Deutschland kein Hindernis bereitet, was um so Aufsehen
-                erregender ist, als diese ideengeschichtliche Untersuchung auch nicht in einem
-                einzigen Punkte, soweit sie religioese und ethische Fragen behandelt, von der
-                kirchlichen Doktrin abweicht, im Gegenteil, dieselbe in lichtvoller und
-                ansprechender Form in der Kontroverse in Evidenz setzt.</p>
-            <p style="includesPb">Es besteht bei der delikaten. pressepolitischen Situation
-                allerdings noch die Moeglichkeit, dass das Buch infolge scharfer Gegnerschaft etwa
-                von Herrn Rosenberg Rueckschlaege in der Verbreitung im Reich erleidet. Ein Verbot
-                desselben erscheint aber fast ausgeschlossen. Man steht also vor der <hi
-                    rend="underline">ausserordentlichen Tatsache</hi>, dass im Reiche eine kritische
-                Auseinandersetzung ausgesprochen wissenschaftlicher Art mit den Grundlagen des
-                Nationalsozialismus aus der Feder eines Bischofs verbreitet wird, <edit>d</edit>ie
-                sich in erster Linie an <hi rend="underline">Reichsdeutsche</hi> wendet, da- <note
-                    type="foliation">43</note>
-                <pb n="5"/> neben aber auch allgemein an das europaeische Publikum, das bei dem
-                immer mehr sich zuspitzenden Gegensatz zwischen dem Bolschewismus und den
-                autoritaeren Staatsformen (Deutschland und Italien) dem Buche sicherlich das
-                verdiente Interesse entgegenbringen wird.</p>
-            <p>Es ist nicht nur der Titel des Buches, der das ganz ungewoehnliche Interesse
-                hochstehender deutscher Kreise auf dasselbe konzentriert, sondern auch die bisherige
-                Wirksamkeit von Bischof Dr. Hudal als eines ueber den Bereich der Theologie und
-                Philosophie hinausgreifenden, durch zahlreiche Werke bestbekannten, tiefgruendigen
-                und formgewandten Schriftstellers. Die Predigten und Ansprachen von Bischof
-                    Hud<edit>a</edit>l haben in Rom weit ueber die Kreise des deutschen
-                    K<edit>a</edit>tholizismus hinaus auch bei Protestanten und Unglaeubigen haeufig
-                einen unerwartet nachhaltigen Ein <edit>d</edit>ruck gemacht und ihm den Ruf eines
-                Gelehrten und Seelsorgers im modernsten und besten Sinne eingetragen.</p>
-            <head><hi rend="underline">Das neue Werk.</hi></head>
-            <p>"Die Grundlagen des Nationalsozialismus" erweisen die an de<edit>n</edit> Autor
-                laengst bekannten und de<edit>n</edit> Einfluss seiner Literatur besonders
-                begruendenden und ausdehnenden Eigenschaften: Eine erstaunliche, geradezu
-                lueckenlose Belesenheit und <hi rend="underline">geistige Bewaeltigung</hi> der
-                gesamten richtunggebenden politischen, ethischen und geschichtsphilosophischen
-                Erscheinungen des Nationalsozialismus, <edit>d</edit>abei pupillarische Sicherheit
-                fuer das <edit>W</edit>esentliche und die Zielpunkte. <hi rend="underline"
-                    >Charakteristisch</hi> sind schon fuer das Ziel des Autors die beiden, dem Buche
-                vorangesetzten Zitate: Hitlers Warnung, die politische Bewegung ja nicht als eine
-                religioese Reformation aufzufassen und Molotows programmatische Erklaerung, dass
-                fuer den Sieg des Kommunismus in Europa der andauernde Zwist zwischen Kirche und
-                nationaler Bewegung in Deutschland notwendig sei.</p>
-            <p style="includesPb">Angesichts der allgemein bedrohlichen Lage gibt es nach der
-                Meinung des Verfassers nur einen Entschluss: "<hi rend="underline">Die
-                    Zusammenarbeit</hi>". Aus diesem <note type="foliation">44</note>
-                <pb n="6"/> Entschluss folgt aber auch eine besondere, vom Autor mit weitblickender
-                Weisheit innegehaltene Methode, naemlich jedes Problem so zu behandeln, dass eine
-                Stelle der Uebereinstimmung gefunden wird. Diese von der Scholastik mit
-                Meisterschaft geuebte Methode erweist sich nicht nur als politisch und paedagogisch
-                fruchtbar, sondern auch als sachlich richtig. Indem der Verfasser mit der Absicht,
-                zu einem<hi rend="underline">charaktervollen Frieden</hi> zwischen dem Reiche und
-                der katholischen Kirche zu gelangen, an die einzelnen Teile des
-                nationalsozialistischen Programms herantritt, zeigt es sich, dass er nirgends den
-                Grundsaetzen des Fuehrers und Reichskanzlers zu widersprechen Anlass hat, denselben
-                vielmehr in den meisten auschlaggebenden Punkten zustimmt. Die Ablehnung richtet
-                sich nur gegen die Theorien vieler Ausleger des Parteiprogramms, deren Einfluss
-                allerdings nicht unterschaetzt wird. Der Verfasser zeigt auch darin die bekannte,
-                von jedem Ueberschwang freie Nuechternheit seines erfahrenen, allseitig orientierten
-                Urteils.</p>
-            <p style="includesPb">Allgemein sei hervorgehoben, dass Bischof Hudal vor allem in dem
-                    hochbe<del rend="strikethrough">de</del>deutenden Kapitel „Der Totalitaetsstaat.
-                Einheitskultur und -erziehung“ nicht etwa allein im Episkopat dasteht, sondern in
-                diesem Kapitel grundliegende <hi rend="underline">Gedanken und Sorgen</hi> ueber das
-                Verhaeltnis der <hi rend="underline"><edit>t</edit>otalitaeren Staaten</hi> zur <hi
-                    rend="underline">katholischen Kir<add place="above">ch</add>e</hi> ausspricht,
-                die schon einem Kirchenfuersten vom geistigen Rang des <hi rend="underline"
-                    >Kardinals Ehrle</hi> viel beschaeftigt haben. Als Ganzes betrachtet, verfolgt
-                zweifellos das Buch "<edit>D</edit>ie Grundlagen des Nationalsozialismus" auch das
-                grossgeschaute Ziel, von dessen Erreichung der <hi rend="underline">Bischof von</hi>
-                <hi rend="underline">Muenster Graf Galen</hi> eine Wendung in dem bisher so
-                ausserordentlich schwie<del rend="strikethrough">r</del>rigen Verhaeltnis der
-                katholischen Kirche in Deutschland erhofft, naemlich die Unentbehrlichkeit und
-                Segenskraft der christlichen Religion auf das Leben des deutschen Volkes und der
-                Nation, den fuehrenden Schichten im Nationalsozialismus einmal ganz klar zu legen.
-                In dieser Hinsicht fuellt das Buch zweifellos eine Luecke im ganzen bisherigen
-                Schrifttum Deutsch- <note type="foliation">45</note>
-                <pb n="7"/> lands aus. Es duerfte auch in der nationalsozialistischen Literatur kein
-                Buch geben, das in einem aehnlichen Umfange die literarischen Erscheinungen der
-                Bewegung erfasste und begrifflich bewaeltigte. Die dem Buche
-                zugrun<edit>d</edit>deliegende Gesinnung wird in weitesten Kreisen des
-                reichsdeutschen Leserpub<edit>l</edit>likums Billigung finden. Breiteste Schichten
-                der deutschen Intelligenz erkennen ebenso wie das hohe Militaer die grossen Gefahren
-                einer Fortsetzung der religioes-weltanschaulichen Kaempfe, die der inneren Einigung
-                des deutschen Volkes und seiner Zufriedenheit sowohl bei ueberzeugten
-                    Pr<edit>o</edit>testanten wie bei den Katholiken Abbruch tuen und die innere
-                Geschlossenheit gegen die bolsch<edit>ew</edit>istische Weltgefahr schwaechen. Auch
-                das nichtkatholische Leserpublikum im Reich kann unmoeglich die aus dem Werke
-                Bischof Hudals sprechende Liebe zur Nation und den redlichen Willen verkennen,<del
-                    rend="strikethrough">;</del> mit dem der Autor zur Zusammenarbeit mit einer
-                politischen Bewegung zu gelangen trachtet, die durch Bekaempfung des Bolschewismus,
-                Wiederherstellung der <edit>d</edit>eutschen Macht und den Abbau der verhassten und
-                drueckenden Friedensvertraege, sowie durch eine grosse soziale Taetigkeit bereits
-                weltgeschichtlich Bedeutendes geleistet hat.</p>
-            <p style="includesPb">Es waere geradezu naiv, einem so erfahrenen Geistesmanne und
-                Seelsorger etwa den Vorwurf machen zu wollen, dass in seinem Buche nicht genuegend
-                zum Ausdruck komme, dass sich gegenwaertig im Reich "ein Kampf um die Substanz der
-                Kirche“ und des Christentums abspielt. Selbstverstaendlich weiss der Verfasser dies
-                alles, aber er konnte unmoeglich ohne den Rahmen einer ideengeschichtlichen
-                Untersuchung zu sprengen nun etwa konkrete Vorschlaege zur friedlichen Regelung
-                dringlicher schwebender Probleme wie der Schulfrage machen. Der Sinn seines Buches
-                geht offenbar dahin, das <hi rend="underline">Terrain vorbereiten</hi> fuer einen
-                Modus vivendi, da die jetzige Spannung zwischen der katholischen Kirche und dem
-                Reich bei laengerer Dauer eine Verstaendigung immer schwieriger gestaltet. In der
-                    <edit>S</edit>S-Bewegung werden <note type="foliation">46</note>
-                <pb n="8"/> in verhaengnisvoller Reaktion gerade die radikalen Kraefte leicht noch
-                groesser, die einen Bruch zwischen Katholi<edit>z</edit>ismus und der Partei
-                anstreben. Daher die innere<edit>,</edit> aber nicht genannte These des Autors, die
-                selbstverstaendlich auch aus patriotischen Beweggruenden sich herleitet, 1)
-                    <edit>A</edit>nerkennen, was in der Bewegung gesund und von Dauer ist, nicht
-                bloss negative Abwehr und Kritik; 2) das
-                    <edit>P</edit>olitisch-<edit>s</edit>ozial<edit>e</edit> vom Religioesen
-                wenigstens praktisch trennen, indem die Begriffe "Totalitaet, Weltanschauung"
-                endlich einmal klar umschrieben und begrenzt werden. Ueber den Begriff der
-                Weltanschauung in seinen zulaessigen und in seinen hoechst gefaehrlichen
-                Ausdeutungen herrscht vor allem in Deutsch<edit>l</edit>and aber auch anderwaerts
-                viel Unklarheit und Widerspruchsvolles. Bischof Hudal hat sich durch eine
-                    <sic>w</sic>eise, dem katholischen Standpunkt gerecht werdende Definition mit
-                klarer Abgrenzung gegen Zeitirrtuemer sicherlich ein Verdienst erworben. Es ist
-                jedenfalls nicht klug, wenn man den Katholiken im Reich die Moeglichkeit zu einer
-                Mitarbeit in der NS-Partei dadurch definitiv abschneidet, dass man im Gegensatz zu
-                Italien, wo es einen faschistischen Totalitaetsanspruch ebenfalls gibt, in die
-                "Weltanschauung" auch areligioese oder irreligioese Elemente unbedingt
-                miteinbeziehen will. Dass einflussreiche Kreise der NS-Partei diesen Zustand
-                erstreben, ist unbestreitbar. Dass der Begriff der Weltanschauung nicht von
-                katholischer Seite einseitig festgelegt, vielmehr sorgfaeltig moeglichst von
-                Irrtuemern gereinigt werden muss, hat aehnlich wie Bischof Hudal schon Prof. Dr.
-                Paul Simon (Paderborn) als angesehener katholischer Theologe dargetan.</p>
-            <p><hi rend="underline">Innere ablesbare Forderungen aus dem Werke Dr. Hudals.</hi> a)
-                Die <hi rend="underline">NS-Pa<edit>r</edit>tei</hi> muss die unchristliche
-                Propaganda in Presse und Bewegung beendigen. b) Die Partei muss den Prozess der <hi
-                    rend="underline">Entkonfessionalisierung</hi> des gesamten Lebens als ein
-                Unglueck des Volkes beenden oder wenigstens auf <hi rend="underline">bestimmte</hi>
-                Gebiete begrenzen.</p>
-            <note type="foliation">47</note>
-            <pb n="9"/>
-            <p><hi rend="underline">Die Kirche</hi> muss a) den fruchtlosen, rein negativen Kampf
-                der <hi rend="underline">Emigranten</hi> im Ausland als eine Schaedigung der eigenen
-                Interessen ablehnen, oder wenigstens diese Leute zur <hi rend="underline"
-                    >positiven</hi> Auseinandersetzung anhalten. Selbst die in wissenschaftlichem
-                Gewande einherschreitende Emigrantenliteratur begeht nachweislich aus zu grosser
-                Entfernung vom Objekt und den Personen schwere sachliche Fehler in der
-                Urteilsbildung und greift bisweilen ohne irgendwelche tiefere Kenntnis auch deutsche
-                Bischoefe an. b) <hi rend="underline">Die Kirche</hi> muss versuchen, auf
-                verschiedenen Gebieten durch <hi rend="underline">persoenliche</hi> Fuehlungnahme
-                einen haltbaren <del rend="strikethrough">"</del>
-                <hi rend="underline">Modus vivendi mit dem Reich</hi> mit der Moeglichkeit eines
-                Maximal- und Minimalprogramms vorzubereiten[.]</p>
-            <note type="foliation">48</note>
+            <div>
+                <pb n="1"/>
+                <opener><dateline>Rom, 9. November 1936.</dateline><seg type="subjectLine"><hi
+                            rend="underline">Kurzer Ueberblick ueber weitere Gedanken aus</hi>
+                        <hi rend="underline">"Die Grundlagen des Nationalsozialismus" von Bischof
+                            Hudal.</hi></seg></opener>
+                <p>Nach einer Uebersicht ueber den grundlegenden Anteil, den das im nationalen
+                    Grenzkampf geschulte Oesterreichertum von allem Anfang an an der Bewegung hatte,
+                    bespricht Dr. Hudal die Wegbereiter des <sic>National-sozialismus</sic> in
+                    seiner heutigen Gestalt, die liberalen Deutschnationalen in Oesterreich, die
+                    Systeme von Sch<subst>
+                        <del rend="overwritten">i</del>
+                        <add rend="overwritten">o</add>
+                    </subst>penhauer, Nietzsche, Chamberlain, ferner die kleindeutsche
+                    Geschichtskonstruktion und jene Dichter und Seher, die wohl gegen den
+                    kleinbuergerlichen Menschen fuer den heroischen aber auch <subst>
+                        <del rend="overwritten">fuer</del>
+                        <add rend="overwritten">xxxxxx</add>
+                    </subst>
+                    <add place="above">gegen</add> den christlichen Menschen fuer den heidnischen
+                    eintraten. Eine Ausnahme bildet allerdings der Rembrandtdeutsche, der sich
+                    immermehr der katholischen Kirche naeherte und schliesslich in sie eintrat. Aber
+                    auch er gehoerte zu den Wegbereitern.</p>
+                <p style="includesPb">Dazu kommen soziale Forderungen, die im Laufe des 19.
+                    Jahrhunderts laut wurden; was der Nationalsozialismus in der Verwirklichung
+                    erreicht hat, erkennt der Verfasser restlos an<del rend="strikethrough">.</del>
+                    und stellt mit Befriedigung fest, dass diese <subst>
+                        <del rend="overwritten">M</del>
+                        <add rend="overwritten">L</add>
+                    </subst>eistungen mit den sozialen Enzykliken der Paepste
+                        uebereinstimmen<edit>.</edit> Er prueft sodann den Begriff der
+                    Weltanschauung, insbesondere der religioesen Weltanschauung und billigt den
+                    Begriff einer politischen Weltansicht, lehnt es aber ab, den Nationalsozialismus
+                    als eine Weltanschauung im umfassenden Sinne gelten zu lassen, weil er dann dem
+                    Christentum ueberhaupt keinen Raum gewaehren koennte. Den Begriff des positiven
+                    Christentums <subst>
+                        <del rend="overwritten">bejaht</del>
+                        <add rend="overwritten">xxxxxx</add>
+                    </subst> bejaht er in dem Sinne der geschichtlich gegebenen Religion, wobei er
+                    mit <subst>
+                        <del rend="overwritten">de</del>
+                        <add rend="overwritten">xx</add>
+                    </subst> dem Fuehrer vollkommen uebereinstimmt, aber nicht in dem Sinne einer
+                    bloss dem irdischen Leben zugewandten heldischen Gesinnung. Im Mittelpunkt der
+                    politischen Weltanschauung steht der Begriff der Rasse. Der Verfasser anerkennt
+                    den Wert der Rasse, ihre Bedeutung fuer die Geschichte und die menschliche
+                    Kultur; es sei nicht zu leugnen, dass auch kulturelle Unterschiede rassisch
+                    bedingt seien. Aber die Rasse ist nicht alles; sie ist nicht <!-- <note type="later-nr">131/37</note> = external ID? -->
+                    <note type="foliation" rend="typewritten">40</note>
+                    <pb n="2"/> der einzige Wertmasstab. Kultur ist auch ein metaphysisches
+                    Phaenomen, <subst>
+                        <del rend="overwritten">s</del>
+                        <add rend="overwritten">d</add>
+                    </subst>as nicht nur vom Blute, sondern auch von geistigen Voraussetzungen
+                    abhaengt. <subst>
+                        <del rend="overwritten"><gap reason="overwritten" unit="char" quantity="1"
+                            /></del>
+                        <add rend="overwritten">M</add>
+                    </subst>it dem Rassenproblem haengt die Judenfrage zusammen, die besonders in
+                    Mitteleuropa grosse Bedeutung hat. Schon Thomas von Aquin hat das
+                    wirtschaftliche Uebergewicht der Juden bekaempft; die christlichsoziale Bewegung
+                    in Oesterreich wandte sich auch gegen das Uebermass des juedischen Einflusses
+                    auf geistigen Gebieten. Die Abwehr billigt der Verfasser durchaus, betrachtet
+                    aber die Judenfrage mit Ruecksicht auf die Blutzusammensetzung<subst>
+                        <del rend="overwritten">en Jud</del>
+                        <add rend="overwritten">xxxxxx</add>
+                    </subst> des Judentums nicht nur als eine rein biologische, sondern auch als
+                    eine kulturelle Angelegenheit. Es war ein Fehler des liberalen Individualismus,
+                    dass er dieses Problem nicht sah. Gegen den von leidenschaftlichen
+                    Nationalsozialisten erhobenen Vorwurf, dass das Christentum dem deutschen Volke
+                    rassenfremd sei, wendet sich der Verfasser mit der Bemerkung, dass es kein
+                    grosses Volk von reiner Rasse gebe und keine grosse Erscheinung der Welt von
+                    einer einzigen Rasse geschaffen worden sei<sic>.;</sic> es ist kein Vorwurf am
+                    Christentum, dass verschiedene Voelker und Rassen an ihm gearbeitet haben. Die
+                    christliche Religion verdankt dem Judentum den strengen Monotheismus, den <subst>
+                        <del rend="overwritten">g</del>
+                        <add rend="overwritten">G</add>
+                    </subst>riechen die philosophische Durchbildung der Lehre, den Roemern die klare
+                    Organisation, den Germanen die Entschlossenheit zur bestaendigen Pruefung. Aus
+                    dem Rassengedanken ergibt sich die Notwendigkeit einer eugenischen Politik; im
+                    Zusammenhang damit steht die Sterilisierung von Entarteten, die fuer den
+                    Nachwuchs gefaehrlich sind. Das ist das einzige Kapitel, wo die
+                    nationalsozialistische und die katholische Auffassung einstweilen noch im
+                    strengen Widerspruch gegeneinander stehen. Aber man erfaehrt aus diesem
+                    Abschnitt, dass es Sterilisierungsgesetze nicht nur in Deutschland gibt, sondern
+                    in <subst>
+                        <del rend="overwritten">3</del>
+                        <add rend="overwritten">2</add>
+                    </subst>2 Staaten der Union, im Kanton Waadt, in Finnland, Norwegen, Schweden,
+                    Daenemark und Estland, und dass Gesetzesentwuerfte solcher Art in mehreren
+                    anderen Staaten bereits vorliegen. Vielleicht ist es moeglich, auch in
+                    Deutschland zu einem praktischen Modus vivendi zu kommen. Der Ver- <note
+                        type="foliation">41</note>
+                    <pb n="3"/> fasser deutet einen solchen an, steht aber natuerlich auf dem
+                    katholischen Standpunkt, wie er in de<subst>
+                        <del rend="overwritten">n</del>
+                        <add rend="overwritten">r</add>
+                    </subst> Enzyklika Casti Conubii festgelegt ist. Die Abschnitte ueber Volkstum,
+                    Staat, Fuehrerschaft zeigen deutlich, dass es prinzipielle Gegensaetze in diesen
+                    Beziehungen nicht gibt. Weder die biologische Deutung des Volkstums, noch die
+                    Idee der nationalen Einheit bieten an sich Anlass zu religioesem
+                        Widerspruch<edit>.</edit> Anfechtbar sind nur die Uebertreibungen, so die
+                    Meinung, dass das Volkstum nichts anderes als Blutgemeinschaft sei und die
+                    Lehre, dass der totale Staat alle Bezirke des menschlichen Seelenlebens
+                    beherrschen muesse. Von besonderem Interesse sind die Abschnitte, ueber Religion
+                    und Politik, insbesondere ueber den politischen Katholizismus, und ueber das
+                    Verhaeltnis zwischen romanischem und deutschen Wesen. Der Verfasser steht auf
+                    dem Standpunkt, dass die Zeit des politischen Katholizismus vorueber sei und
+                    dass der Nationalsozialismus den heroischen Kampf gegen Moskau und Versailles zu
+                    fuehren die geschichtliche Aufgabe habe. Aber gerade deshalb haelt er es fuer
+                    richtig, den alten, katholischen Parteien geschichtliche Gerechtigkeit
+                    widerfahren zu lassen. Seine Betrachtungen ueber die verschiedene Entwicklung
+                    der konfessionellen Parteien im <subst>
+                        <del rend="overwritten">d</del>
+                        <add rend="overwritten">D</add>
+                    </subst>eutschen Reich und in Oesterreich sind auch fuer den aufschlussreich,
+                    der das alles mitgemacht hat. Im letzten Abschnitt widerlegt der Verfasser die
+                    Meinung, als ob das roemische Christentum diesseitsfluechtig und innerlich
+                    zerbrochen sei, die germanische Froemmigkeit hingegen nur dem Diesseits
+                    zugewandt und heroisch. Auch <del rend="strikethrough">C</del> christliche Selbstueber<subst>
+                        <del rend="overwritten">i</del>
+                        <add rend="overwritten">w</add>
+                    </subst>indung und christlicher Opfersinn sind heldenhaft. Der Wesensunterschied
+                    liegt anderswo: die germanische Seele neigt zur Verinnerlichung, zum
+                    Problematischen und zur seelischen Unruhe, die romanische Froemmigkeit zur
+                    strengen Form und zur objectiven Ordnung. Jede dieser Anlagen hat ih<subst>
+                        <del rend="overwritten">i</del>
+                        <add rend="overwritten">r</add>
+                    </subst>e besonderen Vorzuege und Schwaechen; deshalb sind beide zur
+                    gegenseitigen Ergaenzung bestimmt.</p>
+                <note type="foliation" rend="typewritten">42</note>
+            </div>
+            <div>
+                <pb n="4"/>
+                <dateline>Rom, 9. November 1936.</dateline>
+                <head>"<hi rend="underline">Die Grundlagen des Nationalsozialismus</hi>" von <hi
+                        rend="underline">Bischof Dr.</hi>
+                    <hi rend="underline">A. Hu<subst>
+                            <del rend="overwritten">s</del>
+                            <add rend="overwritten">d</add>
+                        </subst>al</hi>, Johannes Guenther Verlag, Leipzig und Wien 1936; 253 Seiten
+                    Text, 40 Seiten Anmerkungen und Literaturverzeichnis.</head>
+                <p>Das neue Werk von Bischof Dr. Hudal, das sich in seinem Untertitel "Eine
+                    ideengeschichtliche Untersuchung" mit vollem Recht nennt, ist in Oesterreich
+                    gedruckt worden<add rend="handwritten">,</add> aber in einem Verlagshause
+                    erschienen, das sowohl in Leipzig wie in Wien Niederlassungen besitzt. Wenige
+                    Tage nach Erscheinen des sehr bedeutenden Buches sind bereits 5000 Exemplare
+                    davon verkauft worden, davon die Mehrzahl in Deutschland. Bisher haben fuenf
+                    kommandierende Gener<sic>a</sic>le das Buch bei dem Verleger in Leipzig
+                    telegraphisch bestellt, ein untrueglicher Beweis dafuer, dass gerade bei der
+                    hohen Generalitaet im Reiche ein lebhaftes Interesse dafuer besteht. Die
+                    Reichsschrifttumskammer hat der Verbreitung des Werkes <subst>
+                        <del rend="overwritten">n</del>
+                        <add rend="overwritten">i</add>
+                    </subst>n Deutschland kein Hindernis bereitet, was um so Aufsehen erregender
+                    ist, als diese ideengeschichtliche Untersuchung auch nicht in einem einzigen
+                    Punkte, soweit sie religioese und ethische Fragen behandelt, von der kirchlichen
+                    Doktrin abweicht, im Gegenteil, dieselbe in lichtvoller und ansprechender Form
+                    in der Kontroverse in Evidenz setzt.</p>
+                <p style="includesPb">Es besteht bei der delikaten<del rend="strikethrough">,</del>
+                    pressepolitischen Situation allerdings noch die Moeglichkeit, dass das Buch
+                    infolge scharfer Gegnerschaft etwa von Herrn Rosenberg Rueckschlaege in der
+                    Verbreitung im Reich erleidet. Ein Verbot desselben erscheint aber fast
+                    ausgeschlossen. Man steht also vor der <hi rend="underline">ausserordentlichen
+                        Tatsache</hi>, dass im Reiche eine kritische Auseinandersetzung
+                    ausgesprochen wissenschaftlicher Art mit den Grundlagen des Nationalsozialismus
+                    aus der Feder eines Bischofs verbreitet wird, <subst>
+                        <del rend="overwritten">s</del>
+                        <add rend="overwritten">d</add>
+                    </subst>ie sich in erster Linie an <hi rend="underline">Reichsdeutsche</hi>
+                    wendet, da- <note type="foliation" rend="typewritten">43</note>
+                    <pb n="5"/> neben aber auch allgemein an das europaeische Publikum, das bei dem
+                    immer mehr sich zuspitzenden Gegensatz zwischen dem Bolschewismus und den
+                    autoritaeren Staatsformen (Deutschland und Italien) dem Buche sicherlich das
+                    verdiente Interesse entgegenbringen wird.</p>
+                <p>Es ist nicht nur der Titel des Buches, der das ganz ungewoehnliche Interesse
+                    hochstehender deutscher Kreise auf dasselbe konzentriert, sondern auch die
+                    bisherige Wirksamkeit von Bischof Dr. Hudal als eines ueber den Bereich der
+                    Theologie und Philosophie hinausgreifenden, durch zahlreiche Werke
+                    bestbekannten, tiefgruendigen und formgewandten Schriftstellers. Die Predigten
+                    und Ansprachen von Bischof Hud<subst>
+                        <del rend="overwritten">q</del>
+                        <add rend="overwritten">a</add>
+                    </subst>l haben in Rom weit ueber die Kreise des deutschen K<subst>
+                        <del rend="overwritten">w</del>
+                        <add rend="overwritten">a</add>
+                    </subst>tholizismus hinaus auch bei Protestanten und Unglaeubigen haeufig einen
+                    unerwartet nachhaltigen Ein<subst>
+                        <del rend="overwritten">D</del>
+                        <add rend="overwritten">d</add>
+                    </subst>ruck gemacht und ihm den Ruf eines Gelehrten und Seelsorgers im
+                    modernsten und besten Sinne eingetragen.</p>
+                <div>
+                    <head><hi rend="underline">Das neue Werk.</hi></head>
+                    <p>"Die Grundlagen des Nationalsozialismus" erweisen die an de<edit>n</edit>
+                        Autor laengst bekannten und de<edit>n</edit> Einfluss seiner Literatur
+                        besonders begruendenden und ausdehnenden Eigenschaften: Eine erstaunliche,
+                        geradezu lueckenlose Belesenheit und <hi rend="underline">geistige
+                            Bewaeltigung</hi> der gesamten richtunggebenden politischen, ethischen
+                        und geschichtsphilosophischen Erscheinungen des Nationalsozialismus, <subst>
+                            <del rend="overwritten">D</del>
+                            <add rend="overwritten">d</add>
+                        </subst>abei pupillarische Sicherheit fuer das <subst>
+                            <del rend="overwritten">w</del>
+                            <add rend="overwritten">W</add>
+                        </subst>esentliche und die Zielpunkte. <hi rend="underline"
+                            >Charakteristisch</hi> sind schon fuer das Ziel des Autors die beiden,
+                        dem Buche vorangesetzten Zitate: Hitlers Warnung, die politische Bewegung ja
+                        nicht als eine religioese Reformation aufzufassen und Molotows
+                        programmatische Erklaerung, dass fuer den Sieg des Kommunismus in Europa der
+                        andauernde Zwist zwischen Kirche und nationaler Bewegung in Deutschland
+                        notwendig sei.</p>
+                    <p style="includesPb">Angesichts der allgemein bedrohlichen Lage gibt es nach
+                        der Meinung des Verfassers nur einen Entschluss: "<hi rend="underline">Die
+                            Zusammenarbeit</hi>". Aus diesem <note type="foliation" rend="typewritten">44</note>
+                        <pb n="6"/> Entschluss folgt aber auch eine besondere, vom Autor mit
+                        weitblickender Weisheit innegehaltene Methode, naemlich jedes Problem so zu
+                        behandeln, dass eine Stelle der Uebereinstimmung gefunden wird. Diese von
+                        der Scholastik mit Meisterschaft geuebte Methode erweist sich nicht nur als
+                        politisch und paedagogisch fruchtbar, sondern auch als sachlich richtig.
+                        Indem der Verfasser mit der Absicht, zu einem<hi rend="underline"
+                            >charaktervollen Frieden</hi> zwischen dem Reiche und der katholischen
+                        Kirche zu gelangen, an die einzelnen Teile des nationalsozialistischen
+                        Programms herantritt, zeigt es sich, dass er nirgends den Grundsaetzen des
+                        Fuehrers und Reichskanzlers zu widersprechen Anlass hat, denselben vielmehr
+                        in den meisten auschlaggebenden Punkten zustimmt. Die Ablehnung richtet sich
+                        nur gegen die Theorien vieler Ausleger des Parteiprogramms, deren Einfluss
+                        allerdings nicht unterschaetzt wird. Der Verfasser zeigt auch darin die
+                        bekannte, vo<subst>
+                            <del rend="overwritten">r</del>
+                            <add rend="overwritten">n</add>
+                        </subst> jedem Ueberschwang freie Nuechternheit seines erfahrenen, allseitig
+                        orientierten Urteils.</p>
+                    <p style="includesPb">Allgemein sei hervorgehoben, dass Bischof Hudal vor allem
+                        in dem hochbe<edit>de</edit>deutenden Kapitel „Der Totalitaetsstaat.
+                        Einheitskultur und -erziehung“ nicht etwa allein im Episkopat dasteht,
+                        sondern in diesem Kapitel grundliegende <hi rend="underline">Gedanken und
+                            Sorgen</hi> ueber das Verhaeltnis der <hi rend="underline"><subst>
+                                <del rend="overwritten">e</del>
+                                <add rend="overwritten">t</add>
+                            </subst>otalitaeren Staaten</hi> zur <hi rend="underline">katholischen
+                                Kir<add place="above">ch</add>e</hi> ausspricht, die schon eine<subst>
+                            <del rend="overwritten">m</del>
+                            <add rend="overwritten">n</add>
+                        </subst> Kirchenfuersten vom geistigen Rang des <hi rend="underline"
+                            >Kardinals Ehrle</hi> viel beschaeftigt haben. Als Ganzes betrachtet,
+                        verfolgt zweifellos das Buch "<subst>
+                            <del rend="overwritten">d</del>
+                            <add rend="overwritten">D</add>
+                        </subst>ie Grundlagen des Nationalsozialismus" auch das grossgeschaute Ziel,
+                        von dessen Erreichung der <hi rend="underline">Bischof von</hi>
+                        <hi rend="underline">Muenster Graf Galen</hi> eine Wendung in dem bisher so
+                        ausserordentlich schwie<edit>r</edit>rigen Verhaeltnis der katholischen
+                        Kirche in Deutschland erhofft, naemlich die Unentbehrlichkeit und
+                        Segenskraft der christlichen Religion auf das Leben des deutschen Volkes und
+                        der Nation, den fuehrenden Schichten im Nationalsozialismus einmal ganz klar
+                        zu legen. In dieser Hinsicht fuellt das Buch zweifellos eine Luecke im
+                        ganzen bisherigen Schrifttum Deutsch- <note type="foliation" rend="typewritten">45</note>
+                        <pb n="7"/> lands aus. Es duerfte auch in der nationalsozialistischen
+                        Literatur kein Buch geben, das in einem aehnlichen Umfange die literarischen
+                        Erscheinungen der Bewegung erfasste und begrifflich bewaeltigte. Die dem
+                        Buche zugrun<edit>d</edit>deliegende Gesinnung wird in weitesten Kreisen des
+                        reichsdeutschen Leserpub<edit>l</edit>likums Billigung finden. Breiteste
+                        Schichten der deutschen Intelligenz erkennen ebenso wie das hohe Militaer
+                        die grossen Gefahren einer Fortsetzung der religioes-weltanschaulichen
+                        Kaempfe, die der inneren Einigung des deutschen Volkes und seiner
+                        Zufriedenheit sowohl bei ueberzeugten Pr<subst>
+                            <del rend="overwritten">i</del>
+                            <add rend="overwritten">o</add>
+                        </subst>testanten wie bei den Katholiken Abbruch tuen und die innere
+                        Geschlossenheit gegen die bolsch<subst>
+                            <del rend="overwritten"><gap reason="overwritten" unit="char"
+                                    quantity="2"/></del>
+                            <add rend="overwritten">ew</add>
+                        </subst>istische Weltgefahr schwaechen. Auch das nichtkatholische
+                        Leserpublikum im Reich kann unmoeglich die aus dem Werke Bischof Hudals
+                        sprechende Liebe zur Nation und den redlichen Willen verkennen,<del
+                            rend="strikethrough">;</del> mit dem der Autor zur Zusammenarbeit mit
+                        einer politischen Bewegung zu gelangen trachtet, die durch Bekaempfung des
+                        Bolschewismus, <subst>
+                            <del rend="overwritten">w</del>
+                            <add rend="overwritten">W</add>
+                        </subst>iederherstellung der <subst>
+                            <del rend="overwritten">s</del>
+                            <add rend="overwritten">d</add>
+                        </subst>eutschen Macht und den Abbau der verhassten und drueckenden
+                        Friedensvertraege, sowie durch eine grosse soziale Taetigkeit bereits
+                        weltgeschichtlich Bedeutendes geleistet hat.</p>
+                    <p style="includesPb">Es waere geradezu naiv, einem so erfahrenen Geistesmanne
+                        und Seelsorger etwa den Vorwurf machen zu wollen, dass in seinem Buche nicht
+                        genuegend zum Ausdruck komme, dass sich gegenwaertig im Reich "ein Kampf um
+                        die Substanz der Kirche“ und des Christentums abspielt. Selbstverstaendlich
+                        weiss der Verfasser dies alles, aber er konnte unmoeglich ohne den Rahmen
+                        einer ideengeschichtlichen Untersuchung zu sprengen nun etwa konkrete
+                        Vorschlaege zur friedlichen Regelung dringlicher schwebender Probleme wie
+                        der Schulfrage machen. Der Sinn seines Buches geht offenbar dahin, das <hi
+                            rend="underline">Terrain vorbereiten</hi> fuer einen Modus vivendi, da
+                        die jetzige Spannung zwischen der katholischen Kirche und dem Reich bei
+                        laengerer Dauer eine Verstaendigung immer schwieriger gestaltet. In der <subst>
+                            <del rend="overwritten">S</del>
+                            <add rend="overwritten">N</add>
+                        </subst>S-Bewegung werden <note type="foliation" rend="typewritten">46</note>
+                        <pb n="8"/> in verhaengnisvoller Reaktion gerade die radikalen Kraefte
+                        leicht noch groesser, die einen Bruch zwischen Katholi<subst>
+                            <del rend="overwritten">s</del>
+                            <add rend="overwritten">z</add>
+                        </subst>ismus und der Partei anstreben. Daher die innere<add
+                            rend="handwritten">,</add> aber nicht genannte These des Autors, die
+                        selbstverstaendlich auch aus patriotischen Beweggruenden sich herleitet, 1) <subst>
+                            <del rend="overwritten">a</del>
+                            <add rend="overwritten">A</add>
+                        </subst>nerkennen, was in der Bewegung gesund und von Dauer ist, nicht bloss
+                        negative Abwehr und Kritik; 2) das <subst>
+                            <del rend="overwritten">p</del>
+                            <add rend="overwritten">P</add>
+                        </subst>olitisch-<subst>
+                            <del rend="overwritten">s</del>
+                            <add rend="overwritten">S</add>
+                        </subst>ozial<subst>
+                            <del rend="overwritten">i</del>
+                            <add rend="overwritten">e</add>
+                        </subst> vom Religioesen wenigstens praktisch trennen, indem die Begriffe
+                        "Totalitaet, Weltanschauung" endlich einmal klar umschrieben und begrenzt
+                        werden. Ueber den Begriff der Weltanschauung in seinen zulaessigen und in
+                        seinen hoechst gefaehrlichen Ausdeutungen herrscht vor allem in Deutsch<subst>
+                            <del rend="overwritten">m</del>
+                            <add rend="overwritten">l</add>
+                        </subst>and aber auch anderwaerts viel Unklarheit und Widerspruchsvolles.
+                        Bischof Hudal hat sich durch eine <sic>w</sic>eise, dem katholischen
+                        Standpunkt gerecht werdende Definition mit klarer Abgrenzung gegen
+                        Zeitirrtuemer sicherlich ein Verdienst erworben. Es ist jedenfalls nicht
+                        klug, wenn man den Katholiken im Reich die Moeglichkeit zu einer Mitarbeit
+                        in der NS-Partei dadurch definitiv abschneidet, dass man im Gegensatz zu
+                        Italien, wo es einen faschistischen Totalitaetsanspruch ebenfalls gibt, in
+                        die "Weltanschauung" auch areligioese oder irreligioese Elemente unbedingt
+                        miteinbeziehen will. Dass einflussreiche Kreise der NS-Partei diesen Zustand
+                        erstreben, ist unbestreitbar. Dass der Begriff der Weltanschauung nicht von
+                        katholischer Seite einseitig festgelegt, vielmehr sorgfaeltig moeglichst von
+                        Irrtuemern gereinigt werden muss, hat aehnlich wie Bischof Hudal schon Prof.
+                        Dr. Paul Simon (Paderborn) als angesehener katholischer Theologe
+                        dargetan.</p>
+                    <p><hi rend="underline">Innere ablesbare Forderungen aus dem Werke Dr.
+                            Hudals.</hi> a) Die <hi rend="underline">NS-Pa<subst>
+                                <del rend="overwritten">e</del>
+                                <add rend="overwritten">r</add>
+                            </subst>tei</hi> muss die unchristliche Propaganda in Presse und
+                        Bewegung beendigen. b) Die Partei muss den Prozess der <hi rend="underline"
+                            >Entkonfessionalisierung</hi> des gesamten Lebens als ein Unglueck des
+                        Volkes beenden oder wenigstens auf <hi rend="underline">bes<subst>
+                                <del rend="overwritten">y</del>
+                                <add rend="overwritten">t</add>
+                            </subst>immte</hi> Gebiete begrenzen.</p>
+                    <note type="foliation" rend="typewritten">47</note>
+                    <pb n="9"/>
+                    <p><hi rend="underline">Die Kirche</hi> muss a) den fruchtlosen, rein negativen
+                        Kampf der <hi rend="underline">Emigranten</hi> im Ausland als eine
+                        Schaedigung der eigenen Interessen ablehnen, oder wenigstens diese Leute zur
+                            <hi rend="underline">positiven</hi> Auseinandersetzung anhalten. Selbst
+                        die in wissenschaftlichem Gewande einherschreitende Emigrantenliteratur
+                        begeht nachweislich aus zu grosser Entfernung vom Objekt und den Personen
+                        schwere sachliche Fehler in der Urteilsbildung und greift bisweilen ohne
+                        irgendwelche tiefere Kenntnis auch deutsche Bischoefe an. b) <hi
+                            rend="underline">Die Kirche</hi> muss versuchen, auf verschiedenen
+                        Gebieten durch <hi rend="underline">persoenliche</hi> Fuehlungnahme einen
+                        haltbaren <del rend="strikethrough">"</del>
+                        <hi rend="underline">Modus vivendi mit dem Reich</hi> mit der Moeglichkeit
+                        eines Maximal- und Minimalprogramms vorzubereiten<edit>.</edit></p>
+                    <note type="foliation" rend="typewritten">48</note>
+                </div>
+            </div>
         </body>
     </text>
 </TEI>

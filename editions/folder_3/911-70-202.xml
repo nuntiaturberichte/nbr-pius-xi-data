@@ -3,9 +3,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title><!-- Titel --></title>
+                <title>Cesare Orsenigo an <!-- Empfänger -->, Wien 05.04.1938</title>
                 <author>
-                    <persName><!-- Autor und DNB-Link --></persName>
+                    <persName ref="https://d-nb.info/gnd/118590294">Cesare Orsenigo</persName>
                 </author>
                 <respStmt>
                     <resp>TEI tempalte prepared by</resp>
@@ -83,7 +83,7 @@
         <profileDesc>
             <handNotes>
                 <handNote>
-                    <p><!-- Autorenhand --></p>
+                    <p><!-- identifizierte Handschrift --></p>
                 </handNote>
             </handNotes>
             <abstract>
@@ -91,46 +91,48 @@
             </abstract>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName><!-- Name + @ref --></persName>
-                    <date><!-- Datum + @when --></date>
-                    <placeName><!-- Ort --></placeName>
+                    <persName ref="https://d-nb.info/gnd/118590294">Cesare Orsenigo</persName>
+                    <date when="1938-04-05">05.04.1938</date>
+                    <placeName>Wien</placeName>
                 </correspAction>
                 <correspAction type="received">
                     <persName><!-- Name + @ref --></persName>
-                    <date><!-- Datum + @when --></date>
+                    <date when="1938-04-05">05.04.1938</date>
                     <placeName><!-- Ort --></placeName>
                 </correspAction>
                 <correspContext/>
             </correspDesc>
             <particDesc>
                 <listPerson>
-                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                    <person><!-- persName@ref für Person, die im Dokument erwähnt wird und von der es eine Kurzbiographie gibt --></person>
                 </listPerson>
             </particDesc>
         </profileDesc>
     </teiHeader>
-    <text>
+    <text type="Telegramm">
         <body>
             <pb n="1"/>
-            <ab type="archive-nr">911-70-202</ab>
-            <note type="later-nr">103</note>
-            <opener><dateline><lb/>Telegramma <edit>xxx</edit> da Vienna 5 ore 12.30 <lb/>Ricevuto
-                    il 5 Aprile 1938</dateline></opener>
-            <note type="original-nr">N° 45</note>
-            <p>Prevengo V. E. R. che Cardinale Vienna è sempre <edit>xxx</edit> eccessivamente
-                preoccupato pacificazione religiosa della grande Germania; quindi è inclinato a
-                deferenze anche meno dignitose verso autorità statali; per amore al govermo
-                insisteva differire venuta costi alimentando così pericolo di una scissione in un
-                clero già troppo aulico et per educazione poco romano.</p>
+            <!-- <note type="later-nr">103</note> = external ID? -->
+            <!-- <note type="original-nr">N° 45</note> = internal ID? -->
+            <p>Prevengo V. E. R. che Cardinale Vienna è sempre <subst>
+                    <del rend="overwritten"><gap reason="overwritten" unit="char" quantity="3"
+                        /></del>
+                    <add rend="overwritten">xxx</add>
+                </subst> eccessivamente preoccupato pacificazione religiosa della grande Germania;
+                quindi è inclinato a deferenze anche meno dignitose verso autorità statali; per
+                amore al govermo insisteva differire venuta costi alimentando così pericolo di una
+                scissione in un clero già troppo aulico et per educazione poco romano.</p>
             <p>Occorre limitare alla Sua Eminenza poteri contrattuali valorizzando invece poteri
                 Nunziatura, sempre, penso, solo ad "referendum".</p>
-            <p>Tendenza ormai palese del Governo è attenuare attrave<hi rend="underline">r</hi> so
-                debolezza Vescovi attaccamento alla Santa Sede.</p>
-            <p>Ultime promesse del Governo al Cardinale non sono da disp<edit>r</edit>ezzare
-                apertamente, sebbene le ritenga manovre ele<hi rend="underline">t</hi> torali.</p>
+            <p>Tendenza ormai palese del Governo è attenuare attraverso debolezza Vescovi
+                attaccamento alla Santa Sede.</p>
+            <p>Ultime promesse del Governo al Cardinale non sono da disp<subst>
+                    <del rend="overwritten">e</del>
+                    <add rend="overwritten">r</add>
+                </subst>ezzare apertamente, sebbene le ritenga manovre elettorali.</p>
             <closer><signed><lb/>ORSENIGO</signed></closer>
-            <note type="foliation">202</note>
-            <note type="later-nr">1584/38</note>
+            <note type="foliation" rend="typewritten">202</note>
+            <!-- <note type="later-nr">1584/38</note> = external ID?  -->
         </body>
     </text>
 </TEI>

@@ -83,7 +83,7 @@
         <profileDesc>
             <handNotes>
                 <handNote>
-                    <p><!-- Autorenhand --></p>
+                    <p><!-- identifizierte Handschrift --></p>
                 </handNote>
             </handNotes>
             <abstract>
@@ -104,12 +104,13 @@
             </correspDesc>
             <particDesc>
                 <listPerson>
-                    <person><!-- erwähnte Person mit Kurzbiographie --></person>
+                    <person><!-- persName@ref für Person, die im Dokument erwähnt wird und von der es eine Kurzbiographie gibt --></person>
                 </listPerson>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+        <!-- text@type -->
         <body>
             <pb n="1"/>
             <ab type="archive-nr">915-72-31</ab>
@@ -128,9 +129,9 @@
             <p>Du sagst Ja damit die Jugend von den Fesseln des Christentums befreit, sich der
                 Freiheit des Mythos erfreuen kann.</p>
             <p>Du sagst Ja trotzdem dir die Worte Christi bekannt sind: "Trauet nicht den Worten -
-                an den Früchten werdet ihr sie erkennen<sic>["],</sic></p>
+                an den Früchten werdet ihr sie erkennen<sic><edit>"</edit>,</sic></p>
             <note type="later-nr">1567/38</note>
-            <note type="foliation">31</note>
+            <note type="foliation" rend="typewritten">31</note>
             <pb n="2"/>
             <p>Du sagst Ja trotzdem ... wer Eltern-Hab- und Gut- mehr liebt als mich, meiner nicht
                 wert ist<sic>,</sic></p>
@@ -147,7 +148,7 @@
                 kannst, - aber wo?</p>
             <p>Du sagst Ja <sic>den</sic> dir ist die Stimme des Blutes wertvoller, als die Stimme
                 des unsterblichen Gewissens, der Stimme Gottes!</p>
-            <note type="foliation">32</note>
+            <note type="foliation" rend="typewritten">32</note>
             <pb n="3"/>
             <p>Du sagst Ja weil du dies Alles dem deutschen Blute schuldig bist!!</p>
             <p>Also ist - Ja - selbstverständliche Pflicht!?</p>
